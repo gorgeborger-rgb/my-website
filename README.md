@@ -1,49 +1,184 @@
-# Cosmo Support — Staff Portal
+# Cosmo Support Portal
 
-A complete internal support website for Cosmo staff with:
-- **Support Guide** — All 28 products with requirements, fixes, and keyboard navigation
-- **Live Status** — Auto-refreshes every 30s from cosmotickets.com/status
-- **Bot Commands** — All Discord bot commands with one-click copy
+Internal staff portal with login, role-based admin panel, support guide, live status, and command center.
 
-## Quick Start
+## Features
 
-### Option A: With Node.js (Full version with Status Proxy)
+- Login-only home page (no public registration)
+- Role-based access:
+  - `support`
+  - `trail support`
+  - `head support`
+  - `Owner`
+  - `msd` (full admin privileges)
+- Admin panel (Owner/msd only):
+  - Create user
+  - Remove user
+  - Change user password
+  - Change user role
+- Live status dashboard with freshness indicators:
+  - Last updated timestamp
+  - Data age
+  - Backend health status
+- Cosmic animated background (stars + falling stars)
+
+## Local Run
+
+### 1) Install dependencies
+
 ```bash
 npm install
+```
+
+### 2) Run web app
+
+```bash
 node server.js
 ```
-Then open: http://localhost:5000
 
-### Option B: Static Only (no proxy)
-Open `public/index.html` directly in your browser, or serve with any static server:
+### 3) Run scraper service (separate terminal)
+
 ```bash
-npx serve public
+python scraper.py
 ```
 
-## Pages
-- `/` → Home
-- `/guide.html` → Support Guide (28 products, keyboard navigable)
-- `/status.html` → Live Status (auto-refreshes)
-- `/commands.html` → Bot Commands
+### 4) Open
 
-## Status Page
-The status page tries to authenticate with cosmotickets.com using password `support`.
-If authentication fails (due to server-side IP restrictions), a direct link to the live page is shown.
+- Login: `http://localhost:5000/`
+- Default seed users:
+  - `owner / owner123!`
+  - `msd / msd123!`
 
-## Keyboard Shortcuts
-- `← →` Arrow keys: Navigate products in the Support Guide
-- `Ctrl/Cmd + K`: Focus search bar
+Change both passwords immediately after first login.
 
-## File Structure
+## Health Endpoint
+
+`GET /api/health`
+
+Returns:
+
+- web uptime
+- session count
+- scraper reachability + latency
+- status cache age/staleness
+
+## PM2 Production Setup
+
+This project includes `ecosystem.config.js` for running both services.
+
+### Install PM2 globally
+
+```bash
+npm i -g pm2
 ```
-public/
-  index.html         - Home page
-  guide.html         - Support Guide
-  status.html        - Live Status
-  commands.html      - Bot Commands
-  css/main.css       - All styles
-  data/products.js   - All 28 product data
-  data/commands-data.js - Bot commands data
-server.js            - Express server with status proxy
-package.json         - Dependencies
+
+### Start both services
+
+```bash
+npm run pm2:start
 ```
+
+### Useful commands
+
+```bash
+npm run pm2:logs
+npm run pm2:restart
+npm run pm2:stop
+npm run pm2:delete
+```
+
+### Persist across reboot
+
+```bash
+pm2 save
+pm2 startup
+```
+
+## GitHub Pages + Cloudflare Tunnel (Hybrid)
+
+Use this when frontend is static on GitHub Pages and backend stays on your machine/server through a Cloudflare tunnel.
+
+### 1) Frontend on GitHub Pages
+
+- Push repository to GitHub
+- Ensure `.github/workflows/deploy.yml` is enabled
+- GitHub Pages serves files from `public/`
+
+### 2) Backend via Cloudflare tunnel
+
+Run backend services locally/server:
+
+```bash
+npm run pm2:start
+```
+
+Expose backend `http://localhost:5000` through Cloudflare tunnel and note the tunnel URL.
+
+### 3) Configure frontend API base
+
+In browser console on your GitHub Pages site, set:
+
+```js
+localStorage.setItem('COSMO_API_BASE', 'https://YOUR-TUNNEL-URL.trycloudflare.com')
+location.reload()
+```
+
+### 4) Required backend env for cross-origin auth
+
+Set these environment variables before starting server:
+
+```bash
+COOKIE_SECURE=1
+CORS_ORIGINS=https://YOUR-USERNAME.github.io
+```
+
+If your Pages URL is project-based, use that exact origin.
+
+### 5) Verify
+
+- Login works from GitHub Pages domain
+- `/api/health` reports scraper reachable
+- Status updates show fresh data age
+
+## Cloudflare Cutover Checklist
+
+Use this checklist before pointing production domain.
+
+### A) Server Readiness
+
+- [ ] VPS/server has Node, Python, PM2 installed
+- [ ] `npm install` completed
+- [ ] `python scraper.py` works locally on server
+- [ ] `npm run pm2:start` running both apps
+- [ ] `pm2 save` executed
+- [ ] `/api/health` returns `success: true`
+
+### B) Security Basics
+
+- [ ] Change default `owner` and `msd` passwords
+- [ ] Ensure `data/users.json` is not public
+- [ ] Firewall allows only required ports (80/443)
+- [ ] Backend runs behind reverse proxy (Nginx recommended)
+
+### C) Domain + Cloudflare
+
+- [ ] Add DNS record (`A` or `CNAME`) to server
+- [ ] Enable Cloudflare proxy (orange cloud)
+- [ ] SSL/TLS mode: **Full (strict)**
+- [ ] Enable Always Use HTTPS
+- [ ] Add WAF rules / rate limit for `/api/auth/login`
+
+### D) Validation Before Go-Live
+
+- [ ] Login works for support role
+- [ ] Admin panel visible only for Owner/msd
+- [ ] Status page shows updating/testing data
+- [ ] Status page freshness indicators are updating
+- [ ] Logout works and protected pages redirect to login
+- [ ] Mobile responsive check passed
+
+### E) Post-Cutover
+
+- [ ] Monitor `pm2 logs`
+- [ ] Confirm Cloudflare analytics shows normal traffic
+- [ ] Test `/api/health` every few minutes first hour

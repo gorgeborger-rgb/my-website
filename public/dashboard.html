@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cosmo Support - Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+    .sidebar-page { display: flex; }
+    .sidebar-page .main { margin-left: var(--sidebar-peek); flex: 1; transition: margin-left 0.3s cubic-bezier(0.4,0,0.2,1); }
+    .sidebar:hover ~ .main { margin-left: var(--sidebar-w); }
+    .stats-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 40px; animation: fadeIn 0.6s ease 1s both; }
+    .stat-card { flex: 1; min-width: 120px; background: var(--card2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 20px; text-align: center; box-shadow: var(--glow); }
+    .stat-num { font-size: 28px; font-weight: 900; background: linear-gradient(135deg, #c4b5fd, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .stat-label { font-size: 11px; color: var(--text3); letter-spacing: 0.8px; text-transform: uppercase; margin-top: 4px; }
+  </style>
+</head>
+<body>
+<div class="bg-anim"></div>
+<div class="grid-bg"></div>
+<div class="cursor-glow" id="cursorGlow"></div>
+
+<div class="sidebar-page">
+  <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-logo">
+      <div class="logo-text">Cosmo Support</div>
+      <div class="logo-sub">Internal Staff Portal</div>
+    </div>
+    <div class="sidebar-nav">
+      <div class="nav-section-label">Navigation</div>
+      <a class="nav-item active" href="dashboard.html"><span class="nav-icon">•</span> Home</a>
+      <a class="nav-item" href="guide.html"><span class="nav-icon">•</span> Support Guide</a>
+      <a class="nav-item" href="status.html"><span class="nav-icon">•</span> Live Status</a>
+      <a class="nav-item" href="commands.html"><span class="nav-icon">•</span> Bot Commands</a>
+      <a class="nav-item admin-only" href="admin.html" style="display:none;"><span class="nav-icon">•</span> Admin Panel</a>
+      <div class="nav-section-label" style="margin-top:24px;">Quick Links</div>
+      <a class="nav-item" href="https://support.cosmotickets.com/" target="_blank"><span class="nav-icon">•</span> Support Site</a>
+      <a class="nav-item" href="https://support.cosmotickets.com/status/" target="_blank"><span class="nav-icon">•</span> Status Page</a>
+    </div>
+    <div class="sidebar-footer">
+      <a href="#" data-logout><span>Sign out</span></a>
+    </div>
+  </nav>
+
+  <main class="main">
+    <div class="hero" style="min-height:100vh; padding-bottom:24px;">
+      <div class="hero-eyebrow"><span>●</span> Cosmo Internal Support</div>
+      <h1><div class="grad">Staff Support</div>Command Center</h1>
+      <p>Everything you need to help customers fast - product guides, live status, and bot commands in one place.</p>
+
+      <div class="stats-row">
+        <div class="stat-card"><div class="stat-num">28</div><div class="stat-label">Products</div></div>
+        <div class="stat-card"><div class="stat-num">100+</div><div class="stat-label">Error Fixes</div></div>
+        <div class="stat-card"><div class="stat-num">9</div><div class="stat-label">Bot Commands</div></div>
+        <div class="stat-card"><div class="stat-num">Live</div><div class="stat-label">Status Feed</div></div>
+      </div>
+
+      <div class="hero-cards">
+        <a class="hero-card" href="guide.html"><span class="hero-card-icon">G</span><h3>Support Guide</h3><p>Full product requirements, Windows versions, and step-by-step error fixes for all products.</p><span class="arrow">→</span></a>
+        <a class="hero-card" href="status.html"><span class="hero-card-icon">S</span><h3>Live Status</h3><p>Real-time status of active products from cosmotickets.com with fast refresh.</p><span class="arrow">→</span></a>
+        <a class="hero-card" href="commands.html"><span class="hero-card-icon">C</span><h3>Bot Commands</h3><p>All Discord bot commands with descriptions, usage tips, and one-click copy.</p><span class="arrow">→</span></a>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script src="js/cosmic-bg.js"></script>
+<script src="js/runtime-config.js"></script>
+<script src="js/auth-ui.js"></script>
+<script>
+const glow = document.getElementById('cursorGlow');
+document.addEventListener('mousemove', (e) => { glow.style.left = e.clientX + 'px'; glow.style.top = e.clientY + 'px'; });
+function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
+document.addEventListener('click', (e) => {
+  const sidebar = document.getElementById('sidebar');
+  const toggle = document.querySelector('.sidebar-toggle');
+  if (window.innerWidth <= 768 && sidebar.classList.contains('open') && !sidebar.contains(e.target) && !toggle.contains(e.target)) {
+    sidebar.classList.remove('open');
+  }
+});
+</script>
+</body>
+</html>

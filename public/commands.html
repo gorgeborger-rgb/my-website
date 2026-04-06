@@ -9,8 +9,8 @@
   <link rel="stylesheet" href="css/main.css">
   <style>
     .cmd-intro {
-      background: linear-gradient(135deg, rgba(6,182,212,0.08), rgba(59,130,246,0.06));
-      border: 1px solid rgba(6,182,212,0.2);
+      background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(139,92,246,0.04));
+      border: 1px solid rgba(139,92,246,0.2);
       border-radius: var(--radius);
       padding: 20px 24px;
       margin-bottom: 32px;
@@ -18,7 +18,19 @@
       align-items: flex-start;
       gap: 16px;
     }
-    .cmd-intro-icon { font-size: 32px; flex-shrink: 0; }
+    .cmd-intro-icon {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      color: #d8ccff;
+      border: 1px solid rgba(167,139,250,0.35);
+      background: rgba(139,92,246,0.08);
+      border-radius: 999px;
+      padding: 5px 10px;
+      flex-shrink: 0;
+      line-height: 1;
+    }
     .cmd-intro-text h3 { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
     .cmd-intro-text p { font-size: 13px; color: var(--text2); line-height: 1.6; }
     .all-commands-btn {
@@ -26,17 +38,17 @@
       align-items: center;
       gap: 8px;
       padding: 10px 20px;
-      background: rgba(6,182,212,0.1);
-      border: 1px solid rgba(6,182,212,0.25);
+      background: rgba(139,92,246,0.1);
+      border: 1px solid rgba(139,92,246,0.25);
       border-radius: var(--radius2);
-      color: var(--cyan);
+      color: var(--purple2);
       text-decoration: none;
       font-size: 13px;
       font-weight: 600;
       transition: var(--trans);
       margin-bottom: 32px;
     }
-    .all-commands-btn:hover { background: rgba(6,182,212,0.2); transform: translateY(-2px); }
+    .all-commands-btn:hover { background: rgba(139,92,246,0.16); transform: translateY(-1px); }
     .quick-copy-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
@@ -55,9 +67,9 @@
       cursor: pointer;
       transition: var(--trans);
     }
-    .quick-copy-item:hover { border-color: var(--cyan); background: rgba(6,182,212,0.06); }
+    .quick-copy-item:hover { border-color: var(--purple2); background: rgba(139,92,246,0.08); }
     .quick-copy-item:active { transform: scale(0.97); }
-    .qci-name { font-family: monospace; font-size: 14px; font-weight: 700; color: var(--cyan); }
+    .qci-name { font-family: monospace; font-size: 14px; font-weight: 700; color: var(--purple2); }
     .qci-copy { font-size: 12px; color: var(--text3); }
     .quick-copy-item.copied .qci-name { color: #34d399; }
     .quick-copy-item.copied .qci-copy { color: #34d399; }
@@ -75,21 +87,23 @@
   <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
   <nav class="sidebar" id="sidebar">
     <div class="sidebar-logo">
-      <div class="logo-text">⚡ Cosmo Support</div>
+      <div class="logo-text">Cosmo Support</div>
       <div class="logo-sub">Internal Staff Portal</div>
     </div>
     <div class="sidebar-nav">
       <div class="nav-section-label">Navigation</div>
-      <a class="nav-item" href="index.html"><span class="nav-icon">🏠</span> Home</a>
-      <a class="nav-item" href="guide.html"><span class="nav-icon">📖</span> Support Guide</a>
-      <a class="nav-item" href="status.html"><span class="nav-icon">📡</span> Live Status</a>
-      <a class="nav-item active" href="commands.html"><span class="nav-icon">⚡</span> Bot Commands</a>
+      <a class="nav-item" href="dashboard.html"><span class="nav-icon">•</span> Home</a>
+      <a class="nav-item" href="guide.html"><span class="nav-icon">•</span> Support Guide</a>
+      <a class="nav-item" href="status.html"><span class="nav-icon">•</span> Live Status</a>
+      <a class="nav-item active" href="commands.html"><span class="nav-icon">•</span> Bot Commands</a>
+      <a class="nav-item admin-only" href="admin.html" style="display:none;"><span class="nav-icon">•</span> Admin Panel</a>
       <div class="nav-section-label" style="margin-top:24px;">Quick Links</div>
-      <a class="nav-item" href="https://support.cosmotickets.com/" target="_blank"><span class="nav-icon">🌐</span> Support Site</a>
-      <a class="nav-item" href="https://support.cosmotickets.com/status/" target="_blank"><span class="nav-icon">🔴</span> Status Page</a>
+      <a class="nav-item" href="https://support.cosmotickets.com/" target="_blank"><span class="nav-icon">•</span> Support Site</a>
+      <a class="nav-item" href="https://support.cosmotickets.com/status/" target="_blank"><span class="nav-icon">•</span> Status Page</a>
     </div>
     <div class="sidebar-footer">
-      <a href="https://support.cosmotickets.com/" target="_blank"><span>🔗</span> support.cosmotickets.com</a>
+      <a href="https://support.cosmotickets.com/" target="_blank"><span>Site</span> support.cosmotickets.com</a>
+      <a href="#" data-logout><span>Sign out</span></a>
     </div>
   </nav>
 
@@ -97,7 +111,7 @@
   <main class="main">
     <!-- Topbar -->
     <div class="topbar">
-      <div class="page-title">⚡ Bot Commands</div>
+      <div class="page-title">Bot Commands</div>
       <div class="topbar-actions">
         <div class="keyboard-hint"><span class="kbd">⌘K</span> Focus search</div>
       </div>
@@ -110,7 +124,7 @@
 
       <!-- Intro -->
       <div class="cmd-intro">
-        <div class="cmd-intro-icon">💬</div>
+        <div class="cmd-intro-icon">Info</div>
         <div class="cmd-intro-text">
           <h3>How to use commands</h3>
           <p>These commands are used in Discord support tickets. Type the command in the ticket channel to send the relevant fix, file, or information to the customer. Click any command below to copy it to your clipboard.</p>
@@ -119,7 +133,7 @@
 
       <!-- Search -->
       <div class="commands-search">
-        <span class="commands-search-icon">🔍</span>
+        <span class="commands-search-icon">⌕</span>
         <input type="text" id="cmdSearch" placeholder="Search commands, products, or descriptions..." autocomplete="off">
       </div>
 
@@ -133,6 +147,9 @@
   </main>
 </div>
 
+<script src="js/cosmic-bg.js"></script>
+<script src="js/runtime-config.js"></script>
+<script src="js/auth-ui.js"></script>
 <script src="data/commands-data.js"></script>
 <script>
 // ===== CURSOR GLOW =====
@@ -143,7 +160,7 @@ function toggleSidebar() { document.getElementById('sidebar').classList.toggle('
 // ===== COPY =====
 function copyText(text, el) {
   navigator.clipboard.writeText(text).then(() => {
-    showToast('✅ Copied: ' + text);
+    showToast('Copied: ' + text);
     if (el) {
       el.classList.add('copied');
       setTimeout(() => el.classList.remove('copied'), 1800);
@@ -171,7 +188,7 @@ function renderQuickCopy(query) {
     const el = document.createElement('div');
     el.className = 'quick-copy-item';
     el.title = 'Click to copy ' + cmd.command;
-    el.innerHTML = `<span class="qci-name">${cmd.command}</span><span class="qci-copy">📋 copy</span>`;
+    el.innerHTML = `<span class="qci-name">${cmd.command}</span><span class="qci-copy">Copy</span>`;
     el.addEventListener('click', () => copyText(cmd.command, el));
     grid.appendChild(el);
   });
@@ -226,7 +243,7 @@ function renderCommands(query) {
 
   if (totalVisible === 0) {
     list.innerHTML = `<div class="no-results-cmds">
-      <div style="font-size:40px;margin-bottom:12px;">🔍</div>
+      <div style="font-size:14px;margin-bottom:12px;color:var(--purple2);letter-spacing:0.8px;text-transform:uppercase;">Search</div>
       <div style="font-size:16px;font-weight:600;margin-bottom:8px;">No commands found</div>
       <div style="font-size:13px;">Try a different search term</div>
     </div>`;
@@ -236,9 +253,9 @@ function renderCommands(query) {
 function copyCmd(cmd, btn) {
   navigator.clipboard.writeText(cmd).then(() => {
     const orig = btn.innerHTML;
-    btn.innerHTML = '<span>✅</span> Copied!';
+    btn.innerHTML = '<span>Done</span>';
     btn.classList.add('copied');
-    showToast('✅ Copied: ' + cmd);
+    showToast('Copied: ' + cmd);
     setTimeout(() => { btn.innerHTML = orig; btn.classList.remove('copied'); }, 2000);
   });
 }

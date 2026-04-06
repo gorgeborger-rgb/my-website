@@ -3,151 +3,335 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Live Status — Cosmo</title>
+  <title>Live Status — Cosmo Support</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
   <style>
+    :root {
+      --updating: #b894ff;
+      --testing: #8ea6ff;
+      --online: #10b981;
+      --offline: #ef4444;
+      --maintenance: #8b5cf6;
+      --bg-dark: #0b0c12;
+      --bg-card: rgba(20, 22, 32, 0.92);
+      --border: rgba(196, 178, 255, 0.18);
+      --text: #eceef9;
+      --text-muted: #8f96ae;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg-dark);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
     .status-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 16px;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 14px;
     }
+
     .brand-card {
-      background: var(--card2);
+      background: var(--bg-card);
       border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 20px;
+      border-radius: 14px;
+      padding: 18px 18px 16px;
       cursor: pointer;
-      transition: var(--trans);
+      transition: all 0.45s cubic-bezier(0.22, 1, 0.36, 1);
       position: relative;
       overflow: hidden;
+      isolation: isolate;
     }
+
     .brand-card::before {
       content: '';
       position: absolute;
-      top: 0; left: 0; right: 0; height: 4px;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--text-muted);
+      transition: background 0.2s ease;
+      z-index: 2;
     }
-    .brand-card.updating::before { background: linear-gradient(90deg, #f59e0b, #fbbf24); }
-    .brand-card.testing::before { background: linear-gradient(90deg, #3b82f6, #60a5fa); }
-    .brand-card.online::before { background: linear-gradient(90deg, #10b981, #34d399); }
-    .brand-card.offline::before { background: linear-gradient(90deg, #ef4444, #f87171); }
-    .brand-card.maintenance::before { background: linear-gradient(90deg, #8b5cf6, #a78bfa); }
-    .brand-card.error::before { background: linear-gradient(90deg, #64748b, #94a3b8); }
-    .brand-card:hover { border-color: var(--border2); transform: translateY(-2px); }
+
+    .brand-card::after {
+      content: '';
+      position: absolute;
+      inset: 1px;
+      border-radius: 11px;
+      background: linear-gradient(160deg, rgba(255,255,255,0.10), rgba(255,255,255,0) 46%);
+      opacity: 0.42;
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    .brand-card.updating::before { background: linear-gradient(90deg, #9b7cff, #c5a8ff, #9b7cff); }
+    .brand-card.testing::before { background: linear-gradient(90deg, #7f96ff, #adc1ff, #7f96ff); }
+    .brand-card.online::before { background: var(--online); }
+    .brand-card.offline::before { background: var(--offline); }
+    .brand-card.maintenance::before { background: var(--maintenance); }
+
+    .brand-card:hover {
+      border-color: rgba(196,178,255,0.32);
+      transform: translateY(-3px);
+      box-shadow: 0 12px 24px rgba(0,0,0,0.28);
+    }
+
+    .brand-card.updating,
+    .brand-card.testing {
+      animation: activeCardGlow 2.4s ease-in-out infinite;
+    }
+
+    .brand-card.updating .status-dot,
+    .brand-card.testing .status-dot {
+      animation: pulseStrong 1.2s ease-in-out infinite;
+      box-shadow: 0 0 10px currentColor;
+    }
+
+    .brand-card.updating::before,
+    .brand-card.testing::before {
+      background-size: 200% 100%;
+      animation: sweepLine 1.8s linear infinite;
+    }
+
     .brand-header {
       display: flex;
       justify-content: space-between;
-      align-items: center;
-      margin-bottom: 12px;
+      align-items: flex-start;
+      margin-bottom: 10px;
+      gap: 10px;
     }
+
     .brand-name {
-      font-size: 18px;
-      font-weight: 700;
+      font-size: 15px;
+      font-weight: 600;
       color: var(--text);
+      letter-spacing: -0.15px;
     }
-    .brand-status-badge {
+
+    .status-badge {
       display: flex;
       align-items: center;
       gap: 6px;
-      padding: 4px 12px;
-      border-radius: 20px;
-      font-size: 12px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 10px;
       font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.45px;
+      border: 1px solid transparent;
+      cursor: pointer;
     }
-    .brand-status-badge.updating { background: rgba(245,158,11,0.15); color: #fbbf24; }
-    .brand-status-badge.testing { background: rgba(59,130,246,0.15); color: #60a5fa; }
-    .brand-status-badge.online { background: rgba(16,185,129,0.15); color: #34d399; }
-    .brand-status-badge.offline { background: rgba(239,68,68,0.15); color: #f87171; }
-    .brand-status-badge.maintenance { background: rgba(139,92,246,0.15); color: #a78bfa; }
-    .brand-status-badge.error { background: rgba(100,116,139,0.15); color: #94a3b8; }
+
+    .status-badge.updating { background: rgba(184,148,255,0.16); color: var(--updating); border-color: rgba(184,148,255,0.28); }
+    .status-badge.testing { background: rgba(142,166,255,0.16); color: var(--testing); border-color: rgba(142,166,255,0.28); }
+    .status-badge.online { background: rgba(16,185,129,0.15); color: var(--online); }
+    .status-badge.offline { background: rgba(239,68,68,0.15); color: var(--offline); }
+    .status-badge.maintenance { background: rgba(139,92,246,0.15); color: var(--maintenance); }
+    .status-badge.unknown { background: rgba(113,113,122,0.15); color: var(--text-muted); }
+
+    .status-badges {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .mini-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 3px 8px;
+      border-radius: 999px;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.45px;
+      text-transform: uppercase;
+      border: 1px solid transparent;
+      opacity: 0.94;
+      cursor: pointer;
+    }
+
+    .mini-badge.testing {
+      color: var(--testing);
+      background: rgba(142,166,255,0.12);
+      border-color: rgba(142,166,255,0.24);
+    }
+
     .status-dot {
-      width: 8px; height: 8px;
+      width: 6px;
+      height: 6px;
       border-radius: 50%;
       background: currentColor;
       animation: pulse 2s infinite;
     }
+
     .product-count {
-      font-size: 13px;
-      color: var(--text3);
-      margin-top: 8px;
-    }
-    .products-drawer {
-      position: fixed;
-      top: 0; right: -500px;
-      width: 450px; height: 100vh;
-      background: var(--bg2);
-      border-left: 1px solid var(--border);
-      z-index: 200;
-      transition: right 0.3s ease;
-      overflow-y: auto;
-      padding: 24px;
-    }
-    .products-drawer.open { right: 0; }
-    .drawer-overlay {
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,0.5);
-      z-index: 199;
-      opacity: 0;
-      visibility: hidden;
-      transition: var(--trans);
-    }
-    .drawer-overlay.show { opacity: 1; visibility: visible; }
-    .drawer-close {
-      position: absolute;
-      top: 20px; right: 20px;
-      background: none;
-      border: none;
-      color: var(--text3);
-      font-size: 24px;
-      cursor: pointer;
-    }
-    .drawer-title {
-      font-size: 20px;
-      font-weight: 700;
-      margin-bottom: 20px;
-      padding-right: 40px;
-    }
-    .product-item {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: var(--radius2);
-      padding: 12px 16px;
-      margin-bottom: 8px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    .product-item-name { font-size: 14px; font-weight: 500; }
-    .product-item-status {
       font-size: 12px;
-      font-weight: 600;
-      padding: 3px 10px;
-      border-radius: 12px;
+      color: var(--text-muted);
+      letter-spacing: 0.12px;
     }
-    .product-item-status.updating { background: rgba(245,158,11,0.15); color: #fbbf24; }
-    .product-item-status.testing { background: rgba(59,130,246,0.15); color: #60a5fa; }
-    .product-item-status.online { background: rgba(16,185,129,0.15); color: #34d399; }
-    .product-item-status.offline { background: rgba(239,68,68,0.15); color: #f87171; }
-    .product-item-status.maintenance { background: rgba(139,92,246,0.15); color: #a78bfa; }
+
     .summary-bar {
       display: flex;
-      gap: 16px;
-      margin-bottom: 24px;
+      gap: 10px;
+      margin-bottom: 22px;
       flex-wrap: wrap;
     }
+
     .summary-item {
       display: flex;
       align-items: center;
-      gap: 8px;
-      padding: 8px 16px;
-      background: var(--card2);
-      border-radius: var(--radius2);
+      gap: 10px;
+      padding: 10px 14px;
+      background: var(--bg-card);
       border: 1px solid var(--border);
+      border-radius: 12px;
     }
-    .summary-count { font-size: 20px; font-weight: 700; }
-    .summary-label { font-size: 12px; color: var(--text3); }
+
+    .summary-count {
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    .summary-label {
+      font-size: 12px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.45px;
+    }
+
+    .drawer {
+      position: fixed;
+      top: 0;
+      right: -480px;
+      width: 460px;
+      height: 100vh;
+      background: var(--bg-dark);
+      border-left: 1px solid var(--border);
+      z-index: 200;
+      transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      overflow-y: auto;
+    }
+
+    .drawer.open { right: 0; }
+
+    .drawer-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.6);
+      z-index: 199;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.3s ease;
+    }
+
+    .drawer-overlay.show { opacity: 1; visibility: visible; }
+
+    .drawer-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 18px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .drawer-title {
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    .drawer-close {
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-size: 20px;
+      cursor: pointer;
+      border-radius: 8px;
+      transition: all 0.2s ease;
+    }
+
+    .drawer-close:hover {
+      background: var(--bg-card);
+      color: var(--text);
+    }
+
+    .products-list {
+      padding: 24px;
+    }
+
+    .product-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 14px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      margin-bottom: 7px;
+    }
+
+    .product-item-name {
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    .product-item-status {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 4px 9px;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 0.45px;
+      cursor: pointer;
+    }
+
+    .status-badge:hover,
+    .mini-badge:hover,
+    .product-item-status:hover {
+      filter: brightness(1.06);
+      transform: translateY(-1px);
+    }
+
+    .copied-flash {
+      box-shadow: 0 0 0 1px rgba(184,148,255,0.4), 0 0 0 6px rgba(184,148,255,0.12);
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    @keyframes pulseStrong {
+      0%, 100% { transform: scale(1); opacity: 0.95; }
+      50% { transform: scale(1.38); opacity: 0.55; }
+    }
+
+    @keyframes activeCardGlow {
+      0%, 100% { box-shadow: 0 0 0 rgba(0,0,0,0); }
+      50% { box-shadow: 0 0 0 1px rgba(167,139,250,0.32), 0 16px 30px rgba(0,0,0,0.34); }
+    }
+
+    @keyframes sweepLine {
+      0% { background-position: 0% 50%; }
+      100% { background-position: 200% 50%; }
+    }
+
+    @media (max-width: 768px) {
+      .drawer { width: 100%; right: -100%; }
+    }
   </style>
 </head>
 <body>
@@ -159,32 +343,34 @@
   <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
   <nav class="sidebar" id="sidebar">
     <div class="sidebar-logo">
-      <div class="logo-text">⚡ Cosmo Support</div>
+      <div class="logo-text">Cosmo Support</div>
       <div class="logo-sub">Internal Staff Portal</div>
     </div>
     <div class="sidebar-nav">
       <div class="nav-section-label">Navigation</div>
-      <a class="nav-item" href="index.html"><span class="nav-icon">🏠</span> Home</a>
-      <a class="nav-item" href="guide.html"><span class="nav-icon">📖</span> Support Guide</a>
-      <a class="nav-item active" href="status.html"><span class="nav-icon">📡</span> Live Status</a>
-      <a class="nav-item" href="commands.html"><span class="nav-icon">⚡</span> Bot Commands</a>
+      <a class="nav-item" href="dashboard.html"><span class="nav-icon">•</span> Home</a>
+      <a class="nav-item" href="guide.html"><span class="nav-icon">•</span> Support Guide</a>
+      <a class="nav-item active" href="status.html"><span class="nav-icon">•</span> Live Status</a>
+      <a class="nav-item" href="commands.html"><span class="nav-icon">•</span> Bot Commands</a>
+      <a class="nav-item admin-only" href="admin.html" style="display:none;"><span class="nav-icon">•</span> Admin Panel</a>
       <div class="nav-section-label" style="margin-top:24px;">Quick Links</div>
-      <a class="nav-item" href="https://support.cosmotickets.com/" target="_blank"><span class="nav-icon">🌐</span> Support Site</a>
+      <a class="nav-item" href="https://support.cosmotickets.com/" target="_blank"><span class="nav-icon">•</span> Support Site</a>
     </div>
     <div class="sidebar-footer">
-      <a href="https://support.cosmotickets.com/" target="_blank"><span>🔗</span> support.cosmotickets.com</a>
+      <a href="https://support.cosmotickets.com/" target="_blank"><span>Site</span> support.cosmotickets.com</a>
+      <a href="#" data-logout><span>Sign out</span></a>
     </div>
   </nav>
 
   <main class="main">
     <div class="topbar">
-      <div class="page-title">📡 Live Status</div>
+      <div class="page-title">Live Status</div>
       <div class="topbar-actions">
         <div class="refresh-info">
           <div class="refresh-dot"></div>
-          <span>Auto-refresh in <span id="countdownDisplay" style="color:var(--purple2);font-weight:600;">30s</span></span>
+          <span>Auto-refresh in <span id="countdownDisplay" style="color:var(--purple2);font-weight:600;">60s</span></span>
         </div>
-        <button class="btn btn-ghost" onclick="fetchStatus()" style="padding:6px 14px;font-size:12px;">⟳ Refresh Now</button>
+        <button class="btn btn-ghost" onclick="fetchAllStatuses()" style="padding:6px 14px;font-size:12px;">Refresh</button>
       </div>
     </div>
 
@@ -192,16 +378,19 @@
       <div class="source-info">
         <div>
           <div style="font-weight:600;margin-bottom:4px;">Live data source</div>
-          <div class="source-url">https://support.cosmotickets.com/status/</div>
+          <div class="source-url">support.cosmotickets.com/status/</div>
         </div>
         <div style="text-align:right;">
           <div style="font-size:12px;color:var(--text3);">Last updated</div>
           <div id="lastUpdated" style="font-size:13px;font-weight:600;color:var(--text2);">—</div>
+          <div style="font-size:12px;color:var(--text3);margin-top:6px;">Data age</div>
+          <div id="dataAge" style="font-size:12px;font-weight:600;color:var(--purple2);">—</div>
+          <div style="font-size:12px;color:var(--text3);margin-top:6px;">Backend</div>
+          <div id="backendHealth" style="font-size:12px;font-weight:600;color:var(--text2);">Checking...</div>
         </div>
       </div>
 
       <div class="summary-bar" id="summaryBar"></div>
-
       <div class="status-grid" id="statusGrid">
         <div class="status-loading">
           <div class="countdown-ring"></div>
@@ -213,20 +402,31 @@
 </div>
 
 <div class="drawer-overlay" id="drawerOverlay" onclick="closeDrawer()"></div>
-<div class="products-drawer" id="productsDrawer">
-  <button class="drawer-close" onclick="closeDrawer()">×</button>
-  <div class="drawer-title" id="drawerTitle">Brand Products</div>
-  <div id="productsList"></div>
+<div class="drawer" id="productDrawer">
+  <div class="drawer-header">
+    <div class="drawer-title" id="drawerTitle">Products</div>
+    <button class="drawer-close" onclick="closeDrawer()">×</button>
+  </div>
+  <div class="products-list" id="productsList"></div>
 </div>
 
+<script src="js/cosmic-bg.js"></script>
+<script src="js/runtime-config.js"></script>
+<script src="js/auth-ui.js"></script>
 <script>
 const glow = document.getElementById('cursorGlow');
 document.addEventListener('mousemove', e => { glow.style.left=e.clientX+'px'; glow.style.top=e.clientY+'px'; });
 function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
 
-let countdown = 30;
+let countdown = 60;
 let countdownTimer;
-let allBrands = [];
+let drawerCloseTimer = null;
+let activeDrawerBrand = '';
+let drawerPinned = false;
+let lastDataUpdatedAt = null;
+let freshnessTimer = null;
+const hoverDrawerEnabled = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+const API_ENDPOINTS = [cosmoApiUrl('/api/status')];
 
 function getStatusClass(status) {
   const s = status.toLowerCase();
@@ -235,7 +435,7 @@ function getStatusClass(status) {
   if (s.includes('offline') || s.includes('down')) return 'offline';
   if (s.includes('maintenance')) return 'maintenance';
   if (s.includes('online') || s.includes('operational')) return 'online';
-  return 'error';
+  return 'unknown';
 }
 
 function getStatusLabel(status) {
@@ -245,11 +445,154 @@ function getStatusLabel(status) {
   if (s.includes('offline') || s.includes('down')) return 'Offline';
   if (s.includes('maintenance')) return 'Maintenance';
   if (s.includes('online') || s.includes('operational')) return 'Online';
-  if (s.includes('error')) return 'Error';
-  return 'Unknown';
+  return status;
 }
 
-async function fetchStatus() {
+async function copyText(text) {
+  try {
+    await navigator.clipboard.writeText(String(text || '').trim());
+    showCopyToast(`Copied: ${text}`);
+  } catch (_) {
+    showCopyToast('Copy failed');
+  }
+}
+
+async function copyStateText(text, el) {
+  const original = el ? el.textContent : '';
+  try {
+    await navigator.clipboard.writeText(String(text || '').trim());
+    if (el) {
+      el.classList.add('copied-flash');
+      el.textContent = 'Copied';
+      setTimeout(() => {
+        el.textContent = original;
+        el.classList.remove('copied-flash');
+      }, 900);
+    }
+    showCopyToast('Copied');
+  } catch (_) {
+    showCopyToast('Copy failed');
+  }
+}
+
+function showCopyToast(message) {
+  const toast = document.createElement('div');
+  toast.textContent = message;
+  toast.style.position = 'fixed';
+  toast.style.right = '20px';
+  toast.style.bottom = '20px';
+  toast.style.padding = '10px 14px';
+  toast.style.borderRadius = '10px';
+  toast.style.background = 'rgba(18,22,32,0.96)';
+  toast.style.border = '1px solid rgba(184,148,255,0.28)';
+  toast.style.color = '#d8d1ff';
+  toast.style.fontSize = '12px';
+  toast.style.fontWeight = '600';
+  toast.style.letterSpacing = '0.2px';
+  toast.style.zIndex = '1000';
+  toast.style.backdropFilter = 'blur(16px)';
+  document.body.appendChild(toast);
+  setTimeout(() => toast.remove(), 1200);
+}
+
+function isActiveStatus(status) {
+  const s = (status || '').toLowerCase();
+  return s.includes('updat') || s.includes('test');
+}
+
+function filterToActiveStates(results) {
+  return (results || [])
+    .map(brand => {
+      const filteredProducts = (brand.products || []).filter(p => isActiveStatus(p.status));
+      const updatingCount = filteredProducts.filter(p => p.status.toLowerCase().includes('updat')).length;
+      const testingCount = filteredProducts.filter(p => p.status.toLowerCase().includes('test')).length;
+      let state = 'Unknown';
+      if (updatingCount > 0 && testingCount > 0) state = 'Updating + Testing';
+      else if (updatingCount > 0) state = 'Updating';
+      else if (testingCount > 0) state = 'Testing';
+      return {
+        ...brand,
+        status: state,
+        products: filteredProducts,
+        updatingCount,
+        testingCount
+      };
+    })
+    .filter(brand => brand.products.length > 0)
+    .sort((a, b) => {
+      const aBoth = a.updatingCount > 0 && a.testingCount > 0 ? 1 : 0;
+      const bBoth = b.updatingCount > 0 && b.testingCount > 0 ? 1 : 0;
+      if (bBoth !== aBoth) return bBoth - aBoth;
+      if (b.updatingCount !== a.updatingCount) return b.updatingCount - a.updatingCount;
+      if (b.testingCount !== a.testingCount) return b.testingCount - a.testingCount;
+      return a.brand.localeCompare(b.brand);
+    });
+}
+
+async function fetchStatusData() {
+  let lastError = null;
+  for (const endpoint of API_ENDPOINTS) {
+    try {
+      const resp = await cosmoFetch(endpoint, { signal: AbortSignal.timeout(30000) });
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const data = await resp.json();
+      if (data && data.success && Array.isArray(data.brands)) return data;
+      throw new Error('Invalid response payload');
+    } catch (err) {
+      lastError = err;
+    }
+  }
+  throw lastError || new Error('No status endpoint available');
+}
+
+function formatAge(ms) {
+  if (ms == null || Number.isNaN(ms)) return '—';
+  const sec = Math.max(0, Math.floor(ms / 1000));
+  if (sec < 60) return `${sec}s`;
+  const min = Math.floor(sec / 60);
+  const rem = sec % 60;
+  return `${min}m ${rem}s`;
+}
+
+function updateFreshnessUI() {
+  const ageEl = document.getElementById('dataAge');
+  if (!lastDataUpdatedAt) {
+    ageEl.textContent = '—';
+    ageEl.style.color = 'var(--text2)';
+    return;
+  }
+  const ageMs = Date.now() - lastDataUpdatedAt;
+  ageEl.textContent = formatAge(ageMs);
+  if (ageMs < 90000) ageEl.style.color = '#b894ff';
+  else if (ageMs < 180000) ageEl.style.color = '#8ea6ff';
+  else ageEl.style.color = '#fda4af';
+}
+
+async function refreshHealth() {
+  const healthEl = document.getElementById('backendHealth');
+  try {
+    const r = await cosmoFetch('/api/health', { signal: AbortSignal.timeout(6000) });
+    const h = await r.json();
+    if (!r.ok || !h.success) throw new Error('health-failed');
+    const scraper = h.scraper && h.scraper.reachable;
+    const stale = h.statusCache && h.statusCache.stale;
+    if (scraper && !stale) {
+      healthEl.textContent = 'Healthy';
+      healthEl.style.color = '#86efac';
+    } else if (scraper) {
+      healthEl.textContent = 'Degraded';
+      healthEl.style.color = '#fde68a';
+    } else {
+      healthEl.textContent = 'Scraper Offline';
+      healthEl.style.color = '#fda4af';
+    }
+  } catch (_) {
+    healthEl.textContent = 'Unknown';
+    healthEl.style.color = 'var(--text2)';
+  }
+}
+
+async function fetchAllStatuses() {
   document.getElementById('statusGrid').innerHTML = `
     <div class="status-loading">
       <div class="countdown-ring"></div>
@@ -257,83 +600,149 @@ async function fetchStatus() {
     </div>`;
 
   try {
-    const resp = await fetch('/api/status', { signal: AbortSignal.timeout(15000) });
-    const data = await resp.json();
+    const data = await fetchStatusData();
+    const results = filterToActiveStates(data.brands || []);
+    const hasAnyData = results.length > 0;
 
-    if (data.success) {
-      allBrands = data.brands || [];
-      renderBrands();
-      renderSummary();
+    if (!hasAnyData) {
+      showLoginRequired(12);
     } else {
-      showError(data.error || 'Failed to fetch status');
+      renderBrands(results);
+      renderSummary(results);
     }
+    const stamp = data.lastUpdated ? new Date(data.lastUpdated) : new Date();
+    lastDataUpdatedAt = stamp.getTime();
+    document.getElementById('lastUpdated').textContent = stamp.toLocaleTimeString();
+    updateFreshnessUI();
+    refreshHealth();
   } catch(e) {
-    showError(e.message);
+    showLoginRequired(12);
+    lastDataUpdatedAt = null;
+    updateFreshnessUI();
+    refreshHealth();
+    document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
   }
-
-  document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
   resetCountdown();
 }
 
-function renderSummary() {
-  const counts = { updating: 0, testing: 0, online: 0, offline: 0, maintenance: 0 };
-  allBrands.forEach(b => {
-    const s = b.status.toLowerCase();
-    if (s.includes('updat')) counts.updating++;
-    else if (s.includes('test')) counts.testing++;
-    else if (s.includes('offline') || s.includes('down')) counts.offline++;
-    else if (s.includes('maintenance')) counts.maintenance++;
-    else if (s.includes('online') || s.includes('operational')) counts.online++;
+function showLoginRequired(count) {
+  document.getElementById('statusGrid').innerHTML = `
+    <div class="status-empty" style="grid-column:1/-1;padding:60px;text-align:center;">
+      <div style="font-size:12px;margin-bottom:20px;color:var(--purple2);letter-spacing:0.8px;text-transform:uppercase;">Status</div>
+      <div style="font-size:20px;font-weight:700;margin-bottom:12px;">No Updating or Testing Products</div>
+      <div style="font-size:14px;color:var(--text3);margin-bottom:16px;max-width:400px;margin-left:auto;margin-right:auto;">
+        Either the scraper is not connected or all products are currently not in Updating/Testing state.
+      </div>
+      <div style="font-size:14px;margin-bottom:24px;">
+        <span style="color:#a78bfa;">Status endpoint: /api/status</span>
+      </div>
+      <div style="font-size:12px;color:var(--text3);">Expected password: <strong>support</strong></div>
+    </div>`;
+  
+  document.getElementById('summaryBar').innerHTML = `
+    <div class="summary-item" style="border-color: rgba(139,92,246,0.3);">
+      <span class="summary-count" style="color:#a78bfa;">12</span>
+      <span class="summary-label">Brands</span>
+    </div>`;
+}
+
+function renderSummary(results) {
+  const counts = { updating: 0, testing: 0 };
+  results.forEach(b => {
+    (b.products || []).forEach(p => {
+      const s = p.status.toLowerCase();
+      if (s.includes('updat')) counts.updating++;
+      else if (s.includes('test')) counts.testing++;
+    });
   });
 
   document.getElementById('summaryBar').innerHTML = `
-    <div class="summary-item" style="border-color: rgba(245,158,11,0.3);">
-      <span class="summary-count" style="color:#fbbf24;">${counts.updating}</span>
-      <span class="summary-label">Updating</span>
+    <div class="summary-item" style="border-color: rgba(184,148,255,0.3); background: rgba(184,148,255,0.08);">
+      <span class="summary-count" style="color:#b894ff;">${counts.updating}</span>
+      <span class="summary-label">Updating Products</span>
     </div>
-    <div class="summary-item" style="border-color: rgba(59,130,246,0.3);">
-      <span class="summary-count" style="color:#60a5fa;">${counts.testing}</span>
-      <span class="summary-label">Testing</span>
-    </div>
-    <div class="summary-item" style="border-color: rgba(16,185,129,0.3);">
-      <span class="summary-count" style="color:#34d399;">${counts.online}</span>
-      <span class="summary-label">Online</span>
-    </div>
-    <div class="summary-item" style="border-color: rgba(239,68,68,0.3);">
-      <span class="summary-count" style="color:#f87171;">${counts.offline}</span>
-      <span class="summary-label">Offline</span>
-    </div>
-  `;
+    <div class="summary-item" style="border-color: rgba(142,166,255,0.3); background: rgba(142,166,255,0.08);">
+      <span class="summary-count" style="color:#8ea6ff;">${counts.testing}</span>
+      <span class="summary-label">Testing Products</span>
+    </div>`;
 }
 
-function renderBrands() {
+function renderBrands(results) {
   const grid = document.getElementById('statusGrid');
   grid.innerHTML = '';
 
-  allBrands.forEach((brand, i) => {
-    const statusClass = getStatusClass(brand.status);
-    const statusLabel = getStatusLabel(brand.status);
+  results.forEach((brand, i) => {
+    const statusClass = brand.updatingCount > 0 ? 'updating' : 'testing';
+    const statusLabel = brand.updatingCount > 0 ? 'Updating' : 'Testing';
     const productCount = brand.products ? brand.products.length : 0;
+    const showTestingBadge = (brand.updatingCount > 0 && brand.testingCount > 0);
 
     const card = document.createElement('div');
     card.className = `brand-card ${statusClass} fade-in`;
-    card.style.animationDelay = `${i * 0.05}s`;
-    card.onclick = () => openDrawer(brand);
+    card.style.animationDelay = `${i * 0.03}s`;
+    if (hoverDrawerEnabled) {
+      card.addEventListener('mouseenter', () => {
+        if (drawerPinned) return;
+        clearTimeout(drawerCloseTimer);
+        openDrawer(brand, 'hover');
+      });
+      card.addEventListener('mouseleave', () => {
+        if (drawerPinned) return;
+        scheduleDrawerClose();
+      });
+    }
+    card.onclick = () => {
+      if (drawerPinned && activeDrawerBrand === brand.brand) {
+        closeDrawer(true);
+      } else {
+        openDrawer(brand, 'pinned');
+      }
+    };
     card.innerHTML = `
       <div class="brand-header">
         <span class="brand-name">${brand.brand}</span>
-        <div class="brand-status-badge ${statusClass}">
-          <div class="status-dot"></div>
-          ${statusLabel}
+        <div class="status-badges">
+          <div class="status-badge ${statusClass}">
+            <div class="status-dot"></div>
+            ${statusLabel}
+          </div>
+          ${showTestingBadge ? `<div class="mini-badge testing" data-copy-text="${brand.brand}: Testing (${brand.testingCount})">+ Testing (${brand.testingCount})</div>` : ''}
         </div>
       </div>
       <div class="product-count">${productCount} product${productCount !== 1 ? 's' : ''}</div>
     `;
+    const mainBadge = card.querySelector('.status-badge');
+    mainBadge.addEventListener('click', (e) => {
+      e.stopPropagation();
+      copyStateText(`${brand.brand}: ${statusLabel}`, mainBadge);
+    });
+
+    const testingBadge = card.querySelector('.mini-badge.testing');
+    if (testingBadge) {
+      testingBadge.addEventListener('click', (e) => {
+        e.stopPropagation();
+        copyStateText(`${brand.brand}: Testing (${brand.testingCount})`, testingBadge);
+      });
+    }
     grid.appendChild(card);
   });
 }
 
-function openDrawer(brand) {
+function setOverlayVisible(visible) {
+  const overlay = document.getElementById('drawerOverlay');
+  if (visible) overlay.classList.add('show');
+  else overlay.classList.remove('show');
+}
+
+function openDrawer(brand, mode = 'hover') {
+  clearTimeout(drawerCloseTimer);
+  drawerPinned = mode === 'pinned';
+  if (activeDrawerBrand === brand.brand && document.getElementById('productDrawer').classList.contains('open')) {
+    setOverlayVisible(drawerPinned);
+    return;
+  }
+
+  activeDrawerBrand = brand.brand;
   document.getElementById('drawerTitle').textContent = brand.brand + ' Products';
   const list = document.getElementById('productsList');
   list.innerHTML = '';
@@ -348,44 +757,77 @@ function openDrawer(brand) {
         <span class="product-item-name">${p.name}</span>
         <span class="product-item-status ${statusClass}">${statusLabel}</span>
       `;
+      const statusEl = item.querySelector('.product-item-status');
+      statusEl.addEventListener('click', (e) => {
+        e.stopPropagation();
+        copyStateText(`${brand.brand} / ${p.name}: ${statusLabel}`, statusEl);
+      });
       list.appendChild(item);
     });
   } else {
-    list.innerHTML = '<div style="color:var(--text3);text-align:center;padding:40px;">No products found</div>';
+    list.innerHTML = '<div style="color:var(--text3);text-align:center;padding:40px;">No products available</div>';
   }
 
-  document.getElementById('drawerOverlay').classList.add('show');
-  document.getElementById('productsDrawer').classList.add('open');
+  setOverlayVisible(drawerPinned);
+  document.getElementById('productDrawer').classList.add('open');
 }
 
-function closeDrawer() {
-  document.getElementById('drawerOverlay').classList.remove('show');
-  document.getElementById('productsDrawer').classList.remove('open');
+function closeDrawer(unpin = true) {
+  clearTimeout(drawerCloseTimer);
+  if (unpin) drawerPinned = false;
+  activeDrawerBrand = '';
+  setOverlayVisible(false);
+  document.getElementById('productDrawer').classList.remove('open');
 }
 
-function showError(msg) {
-  document.getElementById('statusGrid').innerHTML = `
-    <div class="status-empty" style="grid-column:1/-1;">
-      <div style="font-size:48px;margin-bottom:16px;">⚠️</div>
-      <div style="font-size:18px;font-weight:700;">Failed to load status</div>
-      <div style="font-size:13px;margin-top:8px;color:var(--text3);">${msg}</div>
-    </div>`;
+function scheduleDrawerClose() {
+  if (!hoverDrawerEnabled || drawerPinned) return;
+  clearTimeout(drawerCloseTimer);
+  drawerCloseTimer = setTimeout(() => {
+    const drawerHovered = document.getElementById('productDrawer').matches(':hover');
+    const cardHovered = !!document.querySelector('.brand-card:hover');
+    if (!drawerHovered && !cardHovered) {
+      closeDrawer(false);
+    }
+  }, 300);
 }
+
+document.getElementById('productDrawer').addEventListener('mouseenter', () => {
+  clearTimeout(drawerCloseTimer);
+});
+
+document.getElementById('productDrawer').addEventListener('mouseleave', () => {
+  scheduleDrawerClose();
+});
+
+document.addEventListener('click', (e) => {
+  if (!drawerPinned) return;
+  const drawer = document.getElementById('productDrawer');
+  const isCard = !!e.target.closest('.brand-card');
+  const isInsideDrawer = drawer.contains(e.target);
+  if (!isCard && !isInsideDrawer) {
+    closeDrawer(true);
+  }
+}, true);
 
 function resetCountdown() {
-  countdown = 30;
+  countdown = 60;
   clearInterval(countdownTimer);
   countdownTimer = setInterval(() => {
     countdown--;
     document.getElementById('countdownDisplay').textContent = countdown + 's';
     if (countdown <= 0) {
       clearInterval(countdownTimer);
-      fetchStatus();
+      fetchAllStatuses();
     }
   }, 1000);
 }
 
-fetchStatus();
+// Start
+fetchAllStatuses();
+if (freshnessTimer) clearInterval(freshnessTimer);
+freshnessTimer = setInterval(updateFreshnessUI, 1000);
+setInterval(refreshHealth, 15000);
 </script>
 </body>
 </html>

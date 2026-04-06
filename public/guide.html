@@ -19,21 +19,23 @@
   <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
   <nav class="sidebar" id="sidebar">
     <div class="sidebar-logo">
-      <div class="logo-text">⚡ Cosmo Support</div>
+      <div class="logo-text">Cosmo Support</div>
       <div class="logo-sub">Internal Staff Portal</div>
     </div>
     <div class="sidebar-nav">
       <div class="nav-section-label">Navigation</div>
-      <a class="nav-item" href="index.html"><span class="nav-icon">🏠</span> Home</a>
-      <a class="nav-item active" href="guide.html"><span class="nav-icon">📖</span> Support Guide</a>
-      <a class="nav-item" href="status.html"><span class="nav-icon">📡</span> Live Status</a>
-      <a class="nav-item" href="commands.html"><span class="nav-icon">⚡</span> Bot Commands</a>
+      <a class="nav-item" href="dashboard.html"><span class="nav-icon">•</span> Home</a>
+      <a class="nav-item active" href="guide.html"><span class="nav-icon">•</span> Support Guide</a>
+      <a class="nav-item" href="status.html"><span class="nav-icon">•</span> Live Status</a>
+      <a class="nav-item" href="commands.html"><span class="nav-icon">•</span> Bot Commands</a>
+      <a class="nav-item admin-only" href="admin.html" style="display:none;"><span class="nav-icon">•</span> Admin Panel</a>
       <div class="nav-section-label" style="margin-top:24px;">Quick Links</div>
-      <a class="nav-item" href="https://support.cosmotickets.com/" target="_blank"><span class="nav-icon">🌐</span> Support Site</a>
-      <a class="nav-item" href="https://support.cosmotickets.com/status/" target="_blank"><span class="nav-icon">🔴</span> Status Page</a>
+      <a class="nav-item" href="https://support.cosmotickets.com/" target="_blank"><span class="nav-icon">•</span> Support Site</a>
+      <a class="nav-item" href="https://support.cosmotickets.com/status/" target="_blank"><span class="nav-icon">•</span> Status Page</a>
     </div>
     <div class="sidebar-footer">
-      <a href="https://support.cosmotickets.com/" target="_blank"><span>🔗</span> support.cosmotickets.com</a>
+      <a href="https://support.cosmotickets.com/" target="_blank"><span>Site</span> support.cosmotickets.com</a>
+      <a href="#" data-logout><span>Sign out</span></a>
     </div>
   </nav>
 
@@ -41,7 +43,7 @@
   <main class="main" style="display:flex; flex-direction:column;">
     <!-- Topbar -->
     <div class="topbar">
-      <div class="page-title">📖 Support Guide</div>
+      <div class="page-title">Support Guide</div>
       <div class="topbar-actions">
         <div class="keyboard-hint">
           <span class="kbd">←</span><span class="kbd">→</span> Navigate products
@@ -57,7 +59,7 @@
       <div class="guide-sidebar">
         <div class="guide-sidebar-header">
           <div class="guide-search">
-            <span class="guide-search-icon">🔍</span>
+            <span class="guide-search-icon">⌕</span>
             <input type="text" id="productSearch" placeholder="Search products or errors..." autocomplete="off">
           </div>
           <div class="filter-row" id="filterRow">
@@ -74,16 +76,20 @@
       <!-- Product Detail -->
       <div class="guide-content" id="guideContent">
         <div class="guide-empty" id="guideEmpty">
-          <div class="guide-empty-icon">📖</div>
+          <div class="guide-empty-icon">Guide</div>
           <div style="font-size:18px;font-weight:700;color:var(--text2)">Select a product</div>
           <div style="font-size:13px;">Click a product from the list or use ← → arrow keys</div>
         </div>
         <div id="productDetail" style="display:none;"></div>
       </div>
     </div>
+
   </main>
 </div>
 
+<script src="js/cosmic-bg.js"></script>
+<script src="js/runtime-config.js"></script>
+<script src="js/auth-ui.js"></script>
 <script src="data/products.js"></script>
 <script>
 // ===== STATE =====
@@ -92,9 +98,9 @@ let filteredProducts = [...PRODUCTS];
 let activeFilter = 'all';
 const CAT_COLORS = {
   'Cheat': '#8b5cf6',
-  'Spoofer': '#06b6d4',
-  'Extra Fixes': '#f59e0b',
-  'Policy': '#10b981'
+  'Spoofer': '#a78bfa',
+  'Extra Fixes': '#7c73ff',
+  'Policy': '#c4b5fd'
 };
 
 // ===== CURSOR GLOW =====
@@ -120,7 +126,7 @@ function renderList() {
     list.appendChild(item);
   });
   if (filteredProducts.length === 0) {
-    list.innerHTML = '<div class="no-results"><div class="no-results-icon">🔍</div><div>No products found</div></div>';
+    list.innerHTML = '<div class="no-results"><div class="no-results-icon">⌕</div><div>No products found</div></div>';
   }
 }
 
@@ -160,11 +166,12 @@ function getReqStatus(key, val) {
   return 'na';
 }
 function getReqIcon(status) {
-  return { enabled:'🔴', disabled:'✅', na:'➖', default:'🟡' }[status] || '➖';
+  return { enabled:'Required', disabled:'Optional', na:'N/A', default:'Default' }[status] || 'N/A';
 }
 
 function buildProductHTML(p, idx) {
   const hasReqs = Object.keys(p.requirements).length > 0;
+  const allDetailsText = buildProductDetailsText(p);
   let html = `
     <div class="product-header">
       <div>
@@ -174,16 +181,22 @@ function buildProductHTML(p, idx) {
         </div>
         <div class="product-title"><span>${p.name}</span></div>
       </div>
-      <div class="keyboard-hint">
-        <span class="kbd">←</span><span class="kbd">→</span> to navigate
-        &nbsp;&nbsp;
-        <span style="font-size:11px;">${idx+1} / ${filteredProducts.length}</span>
+      <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end;">
+        <button class="btn-copy" onclick="copyText(${JSON.stringify(allDetailsText).replace(/"/g,'&quot;')})">Copy Product</button>
+        <div class="keyboard-hint">
+          <span class="kbd">←</span><span class="kbd">→</span> to navigate
+          &nbsp;&nbsp;
+          <span style="font-size:11px;">${idx+1} / ${filteredProducts.length}</span>
+        </div>
       </div>
     </div>`;
 
   // Requirements table
   if (hasReqs) {
-    html += `<div class="section-label">System Requirements</div>
+    html += `<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:12px;">
+      <div class="section-label" style="margin-bottom:0;">System Requirements</div>
+      <button class="btn-copy" onclick="copyText(${JSON.stringify(buildRequirementsText(p)).replace(/"/g,'&quot;')})">Copy</button>
+    </div>
     <div class="req-table-wrap" style="margin-bottom:24px;">
       <table class="req-table">
         <thead><tr><th>Setting</th><th>Required State</th></tr></thead>
@@ -200,13 +213,19 @@ function buildProductHTML(p, idx) {
 
   // Windows
   if (p.supportedWindows) {
-    html += `<div class="section-label">Supported Windows Versions</div>
-    <div class="windows-card">🪟  ${p.supportedWindows}</div>`;
+    html += `<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:12px;">
+      <div class="section-label" style="margin-bottom:0;">Supported Windows Versions</div>
+      <button class="btn-copy" onclick="copyText(${JSON.stringify(buildWindowsText(p)).replace(/"/g,'&quot;')})">Copy</button>
+    </div>
+    <div class="windows-card">${p.supportedWindows}</div>`;
   }
 
   // Other requirements
   if (p.otherRequirements && p.otherRequirements.length > 0) {
-    html += `<div class="section-label">Other Requirements</div>
+    html += `<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:12px;">
+      <div class="section-label" style="margin-bottom:0;">Other Requirements</div>
+      <button class="btn-copy" onclick="copyText(${JSON.stringify(buildOtherRequirementsText(p)).replace(/"/g,'&quot;')})">Copy</button>
+    </div>
     <div class="other-reqs" style="margin-bottom:28px;">
       ${p.otherRequirements.map(r=>`<span class="req-tag">${r}</span>`).join('')}
     </div>`;
@@ -214,7 +233,10 @@ function buildProductHTML(p, idx) {
 
   // Fixes
   if (p.fixes && p.fixes.length > 0) {
-    html += `<div class="section-label">Fixable Errors</div>`;
+    html += `<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:12px;">
+      <div class="section-label" style="margin-bottom:0;">Fixable Errors</div>
+      <button class="btn-copy" onclick="copyText(${JSON.stringify(buildAllFixesText(p)).replace(/"/g,'&quot;')})">Copy All Fixes</button>
+    </div>`;
     p.fixes.forEach((fix, fi) => {
       html += `<div class="fix-card fade-in" style="animation-delay:${fi*0.05}s;">
         <div class="fix-header">
@@ -224,7 +246,7 @@ function buildProductHTML(p, idx) {
         <div class="fix-body">${highlight(fix.content || '')}</div>`;
 
       if (fix.commands && fix.commands.length) {
-        html += `<div class="fix-commands">${fix.commands.map(c=>`<span class="cmd-pill" onclick="copyText('${c}')" data-tip="Copy command">💬 ${c}</span>`).join('')}</div>`;
+        html += `<div class="fix-commands">${fix.commands.map(c=>`<span class="cmd-pill" onclick="copyText('${c}')" data-tip="Copy command">${c}</span>`).join('')}</div>`;
       }
       if (fix.codeBlocks && fix.codeBlocks.length) {
         fix.codeBlocks.forEach((cb, ci) => {
@@ -257,6 +279,42 @@ function buildFixText(fix) {
   return text.trim();
 }
 
+function buildRequirementsText(p) {
+  if (!p.requirements || Object.keys(p.requirements).length === 0) return 'No system requirements listed.';
+  return Object.entries(p.requirements)
+    .map(([k, v]) => `${k}: ${v}`)
+    .join('\n');
+}
+
+function buildWindowsText(p) {
+  return p.supportedWindows ? `Supported Windows Versions:\n${p.supportedWindows}` : 'No Windows version details listed.';
+}
+
+function buildOtherRequirementsText(p) {
+  if (!p.otherRequirements || p.otherRequirements.length === 0) return 'No additional requirements listed.';
+  return `Other Requirements:\n- ${p.otherRequirements.join('\n- ')}`;
+}
+
+function buildAllFixesText(p) {
+  if (!p.fixes || p.fixes.length === 0) return 'No fixable errors listed.';
+  return p.fixes
+    .map((fix, i) => `#${i + 1} ${buildFixText(fix)}`)
+    .join('\n\n');
+}
+
+function buildProductDetailsText(p) {
+  const sections = [
+    `Product: ${p.name}`,
+    `Category: ${p.category}`,
+    p.tags && p.tags.length ? `Tags: ${p.tags.join(', ')}` : '',
+    buildRequirementsText(p),
+    buildWindowsText(p),
+    buildOtherRequirementsText(p),
+    buildAllFixesText(p)
+  ].filter(Boolean);
+  return sections.join('\n\n');
+}
+
 function escHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
@@ -269,13 +327,13 @@ function goRelative(dir) {
 
 // ===== COPY =====
 function copyText(text) {
-  navigator.clipboard.writeText(text).then(() => showToast('✅ Copied to clipboard!'));
+  navigator.clipboard.writeText(text).then(() => showToast('Copied to clipboard'));
 }
 function copyFix(btn, text) {
   navigator.clipboard.writeText(text).then(() => {
     btn.textContent = '✓ Copied';
     btn.classList.add('copied');
-    showToast('✅ Fix copied!');
+    showToast('Fix copied');
     setTimeout(() => { btn.textContent = 'Copy'; btn.classList.remove('copied'); }, 2000);
   });
 }
