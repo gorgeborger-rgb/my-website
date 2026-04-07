@@ -8,23 +8,22 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
   <style>
-    .devtools-blocker {
+    .devtools-popup {
       display: none;
       position: fixed;
-      inset: 0;
-      background: #0b0c12;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #ef4444;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 8px;
       z-index: 999999;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      padding: 40px;
+      font-family: Inter, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
     }
-    .devtools-blocker.show { display: flex; }
-    .devtools-blocker h1 { color: #ef4444; font-size: 32px; margin-bottom: 20px; }
-    .devtools-blocker p { color: #8f96ae; font-size: 16px; max-width: 400px; line-height: 1.6; }
-    .devtools-blocker .icon { font-size: 64px; margin-bottom: 20px; }
     
     .login-wrap {
       min-height: 100vh;
@@ -79,12 +78,6 @@
   </style>
 </head>
 <body>
-<div class="devtools-blocker" id="devtoolsBlocker">
-  <div class="icon">🚫</div>
-  <h1>Access Denied</h1>
-  <p>Developer tools are not allowed on this system. This is a restricted internal portal.</p>
-</div>
-
 <div class="bg-anim"></div>
 <div class="cursor-glow" id="cursorGlow"></div>
 
@@ -115,23 +108,6 @@
 <script src="js/cosmic-bg.js"></script>
 <script src="js/runtime-config.js"></script>
 <script>
-(function() {
-  var blocker = document.getElementById('devtoolsBlocker');
-  var show = function() { blocker.classList.add('show'); };
-  setInterval(function() {
-    var w = window.outerWidth - window.innerWidth;
-    var h = window.outerHeight - window.innerHeight;
-    if (w > 100 || h > 100) show();
-  }, 500);
-  document.addEventListener('keydown', function(e) {
-    if ((e.key === 'F12') || ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'I') || ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'J') || ((e.ctrlKey || e.metaKey) && e.key === 'u')) {
-      e.preventDefault();
-      show();
-    }
-  });
-  document.addEventListener('contextmenu', function(e) { e.preventDefault(); show(); });
-})();
-
 const glow = document.getElementById('cursorGlow');
 document.addEventListener('mousemove', (e) => { glow.style.left = e.clientX + 'px'; glow.style.top = e.clientY + 'px'; });
 

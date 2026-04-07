@@ -1,12 +1,15 @@
-// DevTools Blocker
+// DevTools Blocker - Small popup only
 (function() {
   var blocker = document.createElement('div');
   blocker.id = 'devtoolsBlocker';
-  blocker.style.cssText = 'display:none;position:fixed;inset:0;background:#0b0c12;z-index:999999;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px;';
-  blocker.innerHTML = '<div style="font-size:64px;margin-bottom:20px;">🚫</div><h1 style="color:#ef4444;font-size:32px;margin-bottom:20px;">Access Denied</h1><p style="color:#8f96ae;font-size:16px;max-width:400px;line-height:1.6;">Developer tools are not allowed on this system. This is a restricted internal portal.</p>';
+  blocker.style.cssText = 'display:none;position:fixed;top:20px;left:50%;transform:translateX(-50%);background:#ef4444;color:white;padding:12px 24px;border-radius:8px;z-index:999999;font-family:Inter,sans-serif;font-size:14px;font-weight:600;box-shadow:0 4px 12px rgba(0,0,0,0.3);';
+  blocker.textContent = '🚫 Access Denied - Developer tools not allowed';
   document.body.appendChild(blocker);
   
-  var show = function() { blocker.style.display = 'flex'; };
+  var show = function() { 
+    blocker.style.display = 'block';
+    setTimeout(function() { blocker.style.display = 'none'; }, 3000);
+  };
   
   setInterval(function() {
     var w = window.outerWidth - window.innerWidth;
