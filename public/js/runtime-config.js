@@ -6,7 +6,7 @@
 
   var defaultHostedApiBase = '';
   if (window.location.hostname === 'gorgeborger2-byte.github.io') {
-    defaultHostedApiBase = 'https://quebec-alex-pumps-corner.trycloudflare.com';
+    defaultHostedApiBase = 'https://aluminium-tract-orbit-ruth.trycloudflare.com';
   }
 
   var apiBase = window.COSMO_API_BASE || storedBase || defaultHostedApiBase || '';
