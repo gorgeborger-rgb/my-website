@@ -4,12 +4,7 @@
     storedBase = localStorage.getItem('COSMO_API_BASE') || '';
   } catch (_) {}
 
-  var defaultHostedApiBase = '';
-  if (window.location.hostname === 'gorgeborger2-byte.github.io') {
-    defaultHostedApiBase = 'https://aluminium-tract-orbit-ruth.trycloudflare.com';
-  }
-
-  var apiBase = window.COSMO_API_BASE || storedBase || defaultHostedApiBase || '';
+  var apiBase = window.COSMO_API_BASE || storedBase || '';
   var host = window.location.hostname;
 
   if (!apiBase && (host === 'localhost' || host === '127.0.0.1')) {
