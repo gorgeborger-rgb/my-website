@@ -1127,6 +1127,7 @@ body {
   .sidebar {
     transform: translateX(-100%);
     width: 260px;
+    z-index: 1000;
   }
   .sidebar.open { transform: translateX(0); }
   .sidebar-toggle { display: flex; }
@@ -1136,18 +1137,186 @@ body {
     height: auto;
     max-height: 300px;
   }
-  .topbar { padding: 12px 16px 12px 64px; }
-  .status-page-wrap, .commands-wrap { padding: 16px; }
+  .topbar { 
+    padding: 12px 16px 12px 60px; 
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .page-title { font-size: 18px; }
+  .status-page-wrap, .commands-wrap { padding: 12px; }
   .search-input { width: 100%; }
   .search-input:focus { width: 100%; }
-  .hero { padding: 20px; }
+  .hero { padding: 16px; }
   .cosmic-shooting-stars { display: none; }
+  
+  /* Dashboard mobile */
+  .dashboard-grid { grid-template-columns: 1fr; gap: 12px; }
+  .stat-card { padding: 14px; }
+  .stat-value { font-size: 24px; }
+  .stat-label { font-size: 11px; }
+  
+  /* Status page mobile */
+  .status-grid { grid-template-columns: 1fr; gap: 10px; }
+  .brand-card { padding: 14px; }
+  .brand-name { font-size: 14px; }
+  .status-badge { padding: 3px 8px; font-size: 9px; }
+  .product-count { font-size: 11px; }
+  .summary-bar { 
+    flex-direction: column; 
+    gap: 8px;
+  }
+  .summary-item { 
+    justify-content: space-between;
+    padding: 10px 12px;
+  }
+  .summary-count { font-size: 18px; }
+  .summary-label { font-size: 11px; }
+  .source-info {
+    flex-direction: column;
+    gap: 12px;
+    text-align: left;
+  }
+  .source-info > div { width: 100%; text-align: left !important; }
+  
+  /* Commands page mobile */
+  .commands-layout { display: block; }
+  .category-card { margin-bottom: 12px; }
+  .category-header { 
+    padding: 12px; 
+    font-size: 14px;
+  }
+  .command-item { 
+    padding: 10px 12px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  .command-name { font-size: 13px; }
+  .command-desc { font-size: 11px; }
+  .command-copy-btn { 
+    padding: 6px 10px; 
+    font-size: 10px;
+  }
+  
+  /* Admin page mobile */
+  .admin-grid { 
+    grid-template-columns: 1fr; 
+    gap: 12px;
+  }
+  .panel { padding: 12px; }
+  .panel-title { font-size: 12px; }
+  .field input, .field select { padding: 8px 10px; font-size: 13px; }
+  .btn-admin { 
+    padding: 8px 10px; 
+    font-size: 11px;
+    width: 100%;
+  }
+  table { font-size: 12px; }
+  th, td { padding: 8px 6px; }
+  
+  /* Guide page mobile */
+  .guide-content { padding: 16px; }
+  .slide-card { padding: 16px; }
+  .slide-title { font-size: 16px; }
+  .slide-content { font-size: 13px; }
+  .slide-nav { 
+    flex-wrap: wrap; 
+    gap: 6px;
+  }
+  .slide-nav-btn { 
+    padding: 8px 12px; 
+    font-size: 12px;
+  }
+  
+  /* Login page mobile */
+  .login-wrap { padding: 16px; }
+  .login-card { 
+    padding: 20px; 
+    border-radius: 12px;
+  }
+  .login-title { font-size: 22px; }
+  .field input { padding: 10px 12px; font-size: 14px; }
+  .login-btn { 
+    padding: 12px; 
+    font-size: 14px;
+  }
+  
+  /* Drawer mobile */
+  .drawer { 
+    width: 100%; 
+    right: -100%;
+  }
+  .drawer.open { right: 0; }
+  .products-list { padding: 16px; }
+  .product-item { 
+    padding: 10px; 
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  
+  /* Sidebar mobile */
+  .sidebar-logo { padding: 16px; }
+  .logo-text { font-size: 16px; }
+  .logo-sub { font-size: 10px; }
+  .nav-item { 
+    padding: 12px 16px; 
+    font-size: 13px;
+  }
+  .nav-section-label { 
+    padding: 12px 16px 8px; 
+    font-size: 10px;
+  }
+  .sidebar-footer { 
+    padding: 12px; 
+    font-size: 12px;
+  }
+  
+  /* Buttons mobile */
+  .btn { 
+    padding: 10px 16px; 
+    font-size: 13px;
+  }
+  .btn-ghost { 
+    padding: 8px 12px; 
+    font-size: 12px;
+  }
+  
+  /* Common mobile fixes */
+  .topbar-actions { 
+    width: 100%; 
+    justify-content: flex-end;
+  }
 }
+
 @media (max-width: 480px) {
   .guide-layout { display: block; }
   .guide-sidebar { height: auto; }
-  .guide-content { padding: 16px; }
+  .guide-content { padding: 12px; }
   .product-header { flex-direction: column; }
+  
+  /* Extra small screens */
+  .page-title { font-size: 16px; }
+  .stat-value { font-size: 20px; }
+  .brand-card { padding: 12px; }
+  .status-page-wrap, .commands-wrap { padding: 10px; }
+  .login-card { padding: 16px; }
+  .login-title { font-size: 20px; }
+}
+
+/* Touch-friendly adjustments */
+@media (hover: none) and (pointer: coarse) {
+  .btn, .btn-admin, .command-copy-btn, .nav-item {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  .sidebar-toggle {
+    width: 44px;
+    height: 44px;
+  }
+  input, select {
+    min-height: 44px;
+  }
 }
 
 /* ===== TOOLTIP ===== */
