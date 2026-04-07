@@ -505,6 +505,7 @@ function isActiveStatus(status) {
 
 function filterToActiveStates(results) {
   const filtered = (results || [])
+    .filter(b => b.brand !== 'All Brands') // Remove All Brands tab
     .map(brand => {
       const filteredProducts = (brand.products || []).filter(p => isActiveStatus(p.status));
       const updatingCount = filteredProducts.filter(p => p.status.toLowerCase().includes('updat')).length;
