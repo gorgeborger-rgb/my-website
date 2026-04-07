@@ -426,7 +426,10 @@ let drawerPinned = false;
 let lastDataUpdatedAt = null;
 let freshnessTimer = null;
 const hoverDrawerEnabled = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-const API_ENDPOINTS = [cosmoApiUrl('/api/status')];
+const API_ENDPOINTS = [
+  { kind: 'api', url: cosmoApiUrl('/api/status') },
+  { kind: 'static', url: 'data/status.json' }
+];
 
 function getStatusClass(status) {
   const s = status.toLowerCase();
@@ -533,10 +536,12 @@ async function fetchStatusData() {
   let lastError = null;
   for (const endpoint of API_ENDPOINTS) {
     try {
-      const resp = await cosmoFetch(endpoint, { signal: AbortSignal.timeout(30000) });
+      const resp = endpoint.kind === 'api'
+        ? await cosmoFetch(endpoint.url, { signal: AbortSignal.timeout(30000) })
+        : await fetch(endpoint.url, { cache: 'no-store', signal: AbortSignal.timeout(30000) });
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       const data = await resp.json();
-      if (data && data.success && Array.isArray(data.brands)) return data;
+      if (data && Array.isArray(data.brands)) return data;
       throw new Error('Invalid response payload');
     } catch (err) {
       lastError = err;
@@ -634,7 +639,7 @@ function showLoginRequired(count) {
         Either the scraper is not connected or all products are currently not in Updating/Testing state.
       </div>
       <div style="font-size:14px;margin-bottom:24px;">
-        <span style="color:#a78bfa;">Status endpoint: ${escapeHtml(cosmoApiUrl('/api/status'))}</span>
+        <span style="color:#a78bfa;">Status endpoints: ${escapeHtml(cosmoApiUrl('/api/status'))} | ${escapeHtml('data/status.json')}</span>
       </div>
       <div style="font-size:12px;color:var(--text3);">Expected password: <strong>support</strong></div>
     </div>`;

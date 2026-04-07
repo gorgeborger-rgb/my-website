@@ -135,6 +135,7 @@ class StatusScraper:
             "lastUpdated": None,
             "error": "not-initialized",
         }
+        self.last_good_cache = None
 
     def run_once(self):
         with sync_playwright() as p:
@@ -177,12 +178,48 @@ class StatusScraper:
 
             browser.close()
 
+        total_products = 0
+        updating_count = 0
+        testing_count = 0
+        login_required_brands = 0
+        for brand in results:
+            if brand.get("status") == "Login Required":
+                login_required_brands += 1
+            for product in brand.get("products", []):
+                total_products += 1
+                st = str(product.get("status", "")).lower()
+                if "updat" in st:
+                    updating_count += 1
+                elif "test" in st:
+                    testing_count += 1
+
         payload = {
             "success": True,
             "brands": results,
             "lastUpdated": datetime.now(timezone.utc).isoformat(),
             "loggedIn": logged,
+            "stats": {
+                "totalProducts": total_products,
+                "updating": updating_count,
+                "testing": testing_count,
+                "loginRequiredBrands": login_required_brands,
+            },
         }
+
+        if total_products == 0 and self.last_good_cache:
+            fallback = dict(self.last_good_cache)
+            fallback["lastUpdated"] = datetime.now(timezone.utc).isoformat()
+            fallback["staleFallback"] = True
+            fallback["staleReason"] = "zero-products-scraped"
+            fallback["lastScrapeStats"] = payload["stats"]
+            with self.lock:
+                self.cache = fallback
+            return fallback
+
+        if total_products > 0:
+            payload["staleFallback"] = False
+            self.last_good_cache = payload
+
         with self.lock:
             self.cache = payload
         return payload

@@ -140,6 +140,25 @@ If your Pages URL is project-based, use that exact origin.
 - `/api/health` reports scraper reachable
 - Status updates show fresh data age
 
+## GitHub-Only Live Status Snapshot (No Local Backend Required)
+
+This repo now includes a scheduled GitHub Action that scrapes status pages and updates `public/data/status.json`.
+
+- Workflow: `.github/workflows/update-status.yml`
+- Script: `scripts/fetch_status.py`
+- Output: `public/data/status.json`
+- Schedule: every 5 minutes (`*/5 * * * *`)
+
+Required setup:
+
+1. Add GitHub repo secret `STATUS_PASSWORD` with your status-page password.
+2. Keep workflow enabled in Actions.
+
+Notes:
+
+- GitHub Actions schedule frequency is effectively 5-minute minimum.
+- `public/status.html` now falls back to `public/data/status.json` if API is unavailable.
+
 ## Cloudflare Cutover Checklist
 
 Use this checklist before pointing production domain.

@@ -1,0 +1,44 @@
+name: Update Live Status Data
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright beautifulsoup4
+          python -m playwright install --with-deps chromium
+
+      - name: Fetch status
+        env:
+          STATUS_PASSWORD: ${{ secrets.STATUS_PASSWORD }}
+        run: python scripts/fetch_status.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/status.json
+          if git diff --cached --quiet; then
+            echo "No status changes to commit"
+          else
+            git commit -m "Update live status snapshot"
+            git push
+          fi
