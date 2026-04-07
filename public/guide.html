@@ -183,8 +183,8 @@ function getReqStatus(key, val) {
   if (v.includes('DEFAULT')) return 'default';
   return 'na';
 }
-function getReqIcon(status) {
-  return { enabled:'Required', disabled:'Optional', na:'N/A', default:'Default' }[status] || 'N/A';
+function getReqIcon(status, value) {
+  return value;
 }
 
 function buildProductHTML(p, idx) {
@@ -223,7 +223,7 @@ function buildProductHTML(p, idx) {
       const st = getReqStatus(key, val);
       html += `<tr>
         <td style="font-weight:600;color:var(--text);">${key}</td>
-        <td><span class="req-status ${st}">${getReqIcon(st)} ${val}</span></td>
+        <td><span class="req-status ${st}">${getReqIcon(st, val)}</span></td>
       </tr>`;
     }
     html += `</tbody></table></div>`;
