@@ -1,6 +1,8 @@
 name: Update Live Status Data
 
 on:
+  schedule:
+    - cron: "*/2 * * * *"
   workflow_dispatch:
 
 permissions:
