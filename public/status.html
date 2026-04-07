@@ -377,9 +377,7 @@
           <div class="source-url">support.cosmotickets.com/status/</div>
         </div>
         <div style="text-align:right;">
-          <div style="font-size:12px;color:var(--text3);">Last updated</div>
-          <div id="lastUpdated" style="font-size:13px;font-weight:600;color:var(--text2);">—</div>
-          <div style="font-size:12px;color:var(--text3);margin-top:6px;">Mode</div>
+          <div style="font-size:12px;color:var(--text3);">Mode</div>
           <div id="backendHealth" style="font-size:12px;font-weight:600;color:#86efac;">Checking...</div>
         </div>
       </div>
@@ -581,15 +579,12 @@ async function fetchAllStatuses() {
       renderBrands(results);
       renderSummary(results);
     }
-    const stamp = data.lastUpdated ? new Date(data.lastUpdated) : new Date();
-    lastDataUpdatedAt = stamp.getTime();
-    document.getElementById('lastUpdated').textContent = stamp.toISOString().replace('T', ' ').substring(0, 19) + ' UTC';
+    lastDataUpdatedAt = data.lastUpdated ? new Date(data.lastUpdated).getTime() : Date.now();
   } catch(e) {
     showLoginRequired(12);
     const healthEl = document.getElementById('backendHealth');
     healthEl.textContent = 'Unavailable';
     healthEl.style.color = '#fda4af';
-    document.getElementById('lastUpdated').textContent = new Date().toISOString().replace('T', ' ').substring(0, 19) + ' UTC';
   }
 }
 
@@ -731,11 +726,10 @@ function openDrawer(brand, mode = 'hover') {
     brand.products.forEach(p => {
       const statusClass = getStatusClass(p.status);
       const statusLabel = getStatusLabel(p.status);
-      const productBrand = p.brand;
-      // For All Brands tab: show "Game - ExactBrand" for every product
-      // For other tabs: show just game name (unless product has different brand)
-      const displayName = (brand.brand === 'All Brands' && productBrand && productBrand !== 'All Brands')
-        ? `${p.name} - ${productBrand}`
+      const productBrand = p.brand || brand.brand;
+      // Always show "Game - Brand - State" format
+      const displayName = (productBrand && productBrand !== 'All Brands') 
+        ? `${p.name} - ${productBrand}` 
         : p.name;
       const item = document.createElement('div');
       item.className = 'product-item';
