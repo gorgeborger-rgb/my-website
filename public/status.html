@@ -379,8 +379,6 @@
         <div style="text-align:right;">
           <div style="font-size:12px;color:var(--text3);">Last updated</div>
           <div id="lastUpdated" style="font-size:13px;font-weight:600;color:var(--text2);">—</div>
-          <div style="font-size:12px;color:var(--text3);margin-top:6px;">Data age</div>
-          <div id="dataAge" style="font-size:12px;font-weight:600;color:var(--purple2);">—</div>
           <div style="font-size:12px;color:var(--text3);margin-top:6px;">Mode</div>
           <div id="backendHealth" style="font-size:12px;font-weight:600;color:#86efac;">Checking...</div>
         </div>
@@ -427,7 +425,7 @@ async function fetchStatusData() {
   const res = await fetch('data/status.json', { cache: 'no-store' });
   if (!res.ok) throw new Error('Failed to load status');
   const data = await res.json();
-  document.getElementById('backendHealth').textContent = 'GitHub Auto';
+  document.getElementById('backendHealth').textContent = 'Live';
   document.getElementById('backendHealth').style.color = '#86efac';
   return data;
 }
@@ -575,8 +573,8 @@ async function fetchAllStatuses() {
 
     // Update mode display
     const healthEl = document.getElementById('backendHealth');
-    healthEl.textContent = 'GitHub Snapshot';
-    healthEl.style.color = '#fde68a';
+    healthEl.textContent = 'Live';
+    healthEl.style.color = '#86efac';
 
     if (!hasAnyData) {
       showLoginRequired(12);
