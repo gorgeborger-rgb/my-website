@@ -1132,11 +1132,122 @@ body {
   .sidebar.open { transform: translateX(0); }
   .sidebar-toggle { display: flex; }
   .main { margin-left: 0; }
-  .guide-layout { grid-template-columns: 1fr; }
+  /* Guide mobile - Enhanced */
+  .guide-layout { 
+    grid-template-columns: 1fr; 
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    min-height: calc(100vh - 60px);
+    overflow: visible;
+  }
   .guide-sidebar {
     height: auto;
-    max-height: 300px;
+    max-height: none;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    flex: none;
+    background: var(--bg);
   }
+  .guide-sidebar-header {
+    padding: 12px;
+  }
+  .guide-search {
+    margin-bottom: 8px;
+  }
+  .guide-search input {
+    width: 100%;
+    padding: 14px 14px 14px 40px;
+    font-size: 15px;
+    border-radius: 10px;
+    background: var(--bg2);
+  }
+  .guide-search-icon {
+    top: 14px;
+    left: 14px;
+    font-size: 14px;
+  }
+  .guide-items {
+    max-height: 200px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 4px;
+  }
+  .guide-item {
+    padding: 14px 12px;
+    font-size: 14px;
+    border-radius: 8px;
+    margin-bottom: 4px;
+  }
+  .guide-item:hover, .guide-item.active {
+    background: rgba(139,92,246,0.15);
+  }
+  .guide-content {
+    flex: 1;
+    padding: 16px;
+    min-height: 50vh;
+    background: var(--bg);
+  }
+  .slide-card {
+    padding: 20px;
+    border-radius: 12px;
+    background: var(--bg2);
+    border: 1px solid var(--border);
+  }
+  .slide-title {
+    font-size: 20px;
+    margin-bottom: 16px;
+    color: var(--purple2);
+  }
+  .slide-content {
+    font-size: 15px;
+    line-height: 1.8;
+    color: var(--text2);
+  }
+  .slide-content p {
+    margin-bottom: 14px;
+  }
+  .slide-content strong {
+    color: var(--text);
+  }
+  .slide-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: var(--bg2);
+    border-top: 1px solid var(--border);
+    padding: 14px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    z-index: 100;
+    box-shadow: 0 -4px 20px rgba(0,0,0,0.3);
+  }
+  .slide-nav-btn {
+    flex: 1;
+    padding: 14px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 10px;
+    text-align: center;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    color: var(--text);
+  }
+  .slide-nav-btn:hover {
+    background: rgba(139,92,246,0.15);
+    border-color: var(--purple);
+  }
+  .guide-content {
+    padding: 16px;
+    padding-bottom: 90px;
+  }
+  
+  /* Hide keyboard hints on mobile */
+  .keyboard-hint { display: none !important; }
+  
+  /* Topbar mobile */
   .topbar { 
     padding: 12px 16px 12px 60px; 
     flex-wrap: wrap;
