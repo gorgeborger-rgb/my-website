@@ -6,23 +6,23 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
 
-BASE = "https://support.cosmotickets.com/status/"
+BASE = "https://support.cosmotickets.com/status/status.php"
 STATUS_PASSWORD = os.environ.get("STATUS_PASSWORD", "support")
 OUT_FILE = os.path.join("public", "data", "status.json")
 
 BRANDS = [
-    {"id": "all", "name": "All Brands", "url": f"{BASE}status.php?brand=all"},
-    {"id": "AstroZoom", "name": "AstroZoom", "url": f"{BASE}status.php?brand=AstroZoom"},
-    {"id": "Athena", "name": "Athena", "url": f"{BASE}status.php?brand=Athena"},
-    {"id": "Atlas", "name": "Atlas", "url": f"{BASE}status.php?brand=Atlas"},
-    {"id": "Forge", "name": "Forge", "url": f"{BASE}status.php?brand=Forge"},
-    {"id": "Hero", "name": "Hero", "url": f"{BASE}status.php?brand=Hero"},
-    {"id": "Kane", "name": "Kane", "url": f"{BASE}status.php?brand=Kane"},
-    {"id": "Liquid", "name": "Liquid", "url": f"{BASE}status.php?brand=Liquid"},
-    {"id": "Pulse", "name": "Pulse", "url": f"{BASE}status.php?brand=Pulse"},
-    {"id": "Vex", "name": "Vex", "url": f"{BASE}status.php?brand=Vex"},
-    {"id": "Viper", "name": "Viper", "url": f"{BASE}status.php?brand=Viper"},
-    {"id": "Volt", "name": "Volt", "url": f"{BASE}status.php?brand=Volt"},
+    {"id": "all", "name": "All Brands", "url": f"{BASE}?brand=all"},
+    {"id": "AstroZoom", "name": "AstroZoom", "url": f"{BASE}?brand=AstroZoom"},
+    {"id": "Athena", "name": "Athena", "url": f"{BASE}?brand=Athena"},
+    {"id": "Atlas", "name": "Atlas", "url": f"{BASE}?brand=Atlas"},
+    {"id": "Forge", "name": "Forge", "url": f"{BASE}?brand=Forge"},
+    {"id": "Hero", "name": "Hero", "url": f"{BASE}?brand=Hero"},
+    {"id": "Kane", "name": "Kane", "url": f"{BASE}?brand=Kane"},
+    {"id": "Liquid", "name": "Liquid", "url": f"{BASE}?brand=Liquid"},
+    {"id": "Pulse", "name": "Pulse", "url": f"{BASE}?brand=Pulse"},
+    {"id": "Vex", "name": "Vex", "url": f"{BASE}?brand=Vex"},
+    {"id": "Viper", "name": "Viper", "url": f"{BASE}?brand=Viper"},
+    {"id": "Volt", "name": "Volt", "url": f"{BASE}?brand=Volt"},
 ]
 
 
