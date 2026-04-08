@@ -113,7 +113,7 @@
         {
           "name": "Arc Raiders",
           "brand": "Athena",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Naraka",
@@ -570,7 +570,7 @@
         {
           "name": "DayZ",
           "brand": "Athena",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "EFT",
@@ -610,12 +610,12 @@
         {
           "name": "Gray Zone Warfare",
           "brand": "Athena",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Arc Raiders",
           "brand": "Athena",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Naraka",
@@ -803,7 +803,7 @@
         {
           "name": "Rust",
           "brand": "Hero",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Rainbow Six Siege: Full",
@@ -1086,7 +1086,7 @@
         {
           "name": "DayZ",
           "brand": "Pulse",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "EFT",
@@ -1258,7 +1258,7 @@
         {
           "name": "DayZ",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Dead By Daylight",
@@ -1283,7 +1283,7 @@
         {
           "name": "Gray Zone Warfare",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Hunt Showdown",
@@ -1293,7 +1293,7 @@
         {
           "name": "Marvel Rivals",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Off The Grid",
@@ -1308,7 +1308,7 @@
         {
           "name": "Rust",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "SMITE 2",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-08T15:58:14.788889+00:00",
+  "lastUpdated": "2026-04-08T17:17:17.889733+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
