@@ -78,7 +78,7 @@
         {
           "name": "Apex Legends",
           "brand": "Hero",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "EFT",
@@ -773,12 +773,12 @@
         {
           "name": "Delta Force",
           "brand": "Hero",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Apex Legends",
           "brand": "Hero",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Valorant",
@@ -788,7 +788,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Hero",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Fortnite",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-08T23:02:42.858784+00:00",
+  "lastUpdated": "2026-04-08T23:51:33.765298+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
