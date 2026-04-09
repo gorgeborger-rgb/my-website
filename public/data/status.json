@@ -692,7 +692,7 @@
         {
           "name": "DayZ",
           "brand": "Forge",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "DeadByDaylight",
@@ -919,7 +919,7 @@
         {
           "name": "PUBG",
           "brand": "Kane",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Rust",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-09T07:53:46.851543+00:00",
+  "lastUpdated": "2026-04-09T09:08:17.076854+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
