@@ -63,7 +63,7 @@
         {
           "name": "FragPunk",
           "brand": "AstroZoom",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Squad",
@@ -544,7 +544,7 @@
         {
           "name": "FragPunk",
           "brand": "AstroZoom",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Squad",
@@ -1293,7 +1293,7 @@
         {
           "name": "Marvel Rivals",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Off The Grid",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-09T20:37:45.621515+00:00",
+  "lastUpdated": "2026-04-09T21:32:33.116926+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
