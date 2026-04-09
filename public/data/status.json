@@ -1071,7 +1071,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Pulse",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Arma Reforger",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-09T21:32:33.116926+00:00",
+  "lastUpdated": "2026-04-09T22:23:35.305570+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
