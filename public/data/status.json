@@ -151,71 +151,6 @@
           "status": "Undetected"
         },
         {
-          "name": "BF6",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "Chess",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "DeadByDaylight",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "HellLL",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "Hunt",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "MarvelRivals",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "Apex-Full",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "Apex-Lite",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "ARKSA",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "ARKSE",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "EFT-Full",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "EFT-Lite",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "Fortnite",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
           "name": "EFT Full",
           "brand": "Hero",
           "status": "Updating"
@@ -732,89 +667,8 @@
     },
     {
       "brand": "Forge",
-      "status": "Updating",
-      "products": [
-        {
-          "name": "BF6",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "Chess",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "DayZ",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "DeadByDaylight",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "HellLL",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "Hunt",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "MarvelRivals",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "Spoofer",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "Apex-Full",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "Apex-Lite",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "ARKSA",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "ARKSE",
-          "brand": "Forge",
-          "status": "Undetected"
-        },
-        {
-          "name": "EFT-Full",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "EFT-Lite",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "Fortnite",
-          "brand": "Forge",
-          "status": "Updating"
-        },
-        {
-          "name": "Rust",
-          "brand": "Forge",
-          "status": "Updating"
-        }
-      ]
+      "status": "Unknown",
+      "products": []
     },
     {
       "brand": "Hero",
@@ -1414,7 +1268,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-10T20:05:23.873001+00:00",
+  "lastUpdated": "2026-04-10T20:57:17.876042+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
