@@ -724,23 +724,19 @@ function openDrawer(brand, mode = 'hover') {
 
   if (brand.products && brand.products.length > 0) {
     brand.products.forEach(p => {
-      const statusClass = getStatusClass(p.status);
       const statusLabel = getStatusLabel(p.status);
       const productBrand = p.brand || brand.brand;
-      // Always show "Game - Brand - State" format
       const displayName = (productBrand && productBrand !== 'All Brands') 
-        ? `${p.name} - ${productBrand}` 
+        ? `${p.name} - ${productBrand} - ${statusLabel}` 
         : p.name;
       const item = document.createElement('div');
       item.className = 'product-item';
       item.innerHTML = `
         <span class="product-item-name">${displayName}</span>
-        <span class="product-item-status ${statusClass}">${statusLabel}</span>
       `;
-      const statusEl = item.querySelector('.product-item-status');
-      statusEl.addEventListener('click', (e) => {
+      item.addEventListener('click', (e) => {
         e.stopPropagation();
-        copyStateText(`${brand.brand} / ${displayName}: ${statusLabel}`, statusEl);
+        copyStateText(displayName, item);
       });
       list.appendChild(item);
     });

@@ -116,7 +116,7 @@ def do_login(page):
 
 def main():
     results = []
-    all_brand_products = {}  # name -> brand mapping
+    all_brand_products = []
     total_products = 0
     logged_in = False
     
@@ -145,9 +145,11 @@ def main():
                 brand_products[brand["name"]] = products
                 total_products += len(products)
                 
-                # Store for All Brands
+                # Store for All Brands (keep per-provider entries)
                 for p in products:
-                    all_brand_products[p["name"]] = brand["name"]
+                    all_brand_products.append(
+                        {"name": p["name"], "brand": brand["name"], "status": p["status"]}
+                    )
                 
                 results.append(
                     {"brand": brand["name"], "status": overall_status(products), "products": products}
@@ -157,19 +159,8 @@ def main():
                     {"brand": brand["name"], "status": "Error", "products": [], "error": str(exc)}
                 )
 
-        # Build All Brands with correct brand attribution
-        all_brands_products = []
-        for name, actual_brand in all_brand_products.items():
-            # Find this product's status from any brand that has it
-            status = "Undetected"
-            for bname, prods in brand_products.items():
-                for p in prods:
-                    if p["name"] == name:
-                        status = p["status"]
-                        break
-                if status != "Undetected":
-                    break
-            all_brands_products.append({"name": name, "brand": actual_brand, "status": status})
+        # Build All Brands with per-provider entries (e.g. COD-Kane, COD-Viper)
+        all_brands_products = dedupe_products(all_brand_products)
         
         # Add All Brands at the beginning
         results.insert(0, {
