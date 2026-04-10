@@ -131,6 +131,11 @@
           "status": "Undetected"
         },
         {
+          "name": "Call of Duty",
+          "brand": "Atlas",
+          "status": "Undetected"
+        },
+        {
           "name": "PUBG",
           "brand": "Atlas",
           "status": "Undetected"
@@ -518,7 +523,7 @@
         {
           "name": "The Isle Evrima",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Marathon",
@@ -691,7 +696,7 @@
     },
     {
       "brand": "Atlas",
-      "status": "Updating",
+      "status": "Undetected",
       "products": [
         {
           "name": "Apex Legends",
@@ -701,7 +706,7 @@
         {
           "name": "Call of Duty",
           "brand": "Atlas",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "PUBG",
@@ -1368,7 +1373,7 @@
         {
           "name": "The Isle Evrima",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Marathon",
@@ -1409,7 +1414,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-10T11:58:04.164135+00:00",
+  "lastUpdated": "2026-04-10T13:43:10.246066+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
