@@ -526,6 +526,11 @@
           "status": "Updating"
         },
         {
+          "name": "Arc Raiders Epic Games",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
           "name": "Rust Lite",
           "brand": "Volt",
           "status": "Undetected"
@@ -1374,6 +1379,11 @@
           "name": "Marathon",
           "brand": "Viper",
           "status": "Updating"
+        },
+        {
+          "name": "Arc Raiders Epic Games",
+          "brand": "Viper",
+          "status": "Undetected"
         }
       ]
     },
@@ -1409,7 +1419,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-11T17:55:34.650716+00:00",
+  "lastUpdated": "2026-04-11T18:52:40.459268+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
