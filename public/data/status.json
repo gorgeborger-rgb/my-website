@@ -528,7 +528,7 @@
         {
           "name": "Rust Lite",
           "brand": "Volt",
-          "status": "Updating"
+          "status": "Undetected"
         }
       ]
     },
@@ -1384,17 +1384,17 @@
     },
     {
       "brand": "Volt",
-      "status": "Updating",
+      "status": "Undetected",
       "products": [
         {
           "name": "Rust",
           "brand": "Volt",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Rust Lite",
           "brand": "Volt",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "DayZ",
@@ -1414,7 +1414,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-13T15:59:37.628223+00:00",
+  "lastUpdated": "2026-04-13T17:16:34.649174+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
