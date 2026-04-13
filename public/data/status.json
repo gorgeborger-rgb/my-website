@@ -448,12 +448,12 @@
         {
           "name": "Arc Raiders Steam",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Testing"
         },
         {
           "name": "Arc Raiders XBOX / MS Store",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Testing"
         },
         {
           "name": "Arc Raiders XP Bot",
@@ -528,7 +528,7 @@
         {
           "name": "Arc Raiders Epic Games",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Testing"
         },
         {
           "name": "Rust Lite",
@@ -1268,12 +1268,12 @@
         {
           "name": "Arc Raiders Steam",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Testing"
         },
         {
           "name": "Arc Raiders XBOX / MS Store",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Testing"
         },
         {
           "name": "Arc Raiders XP Bot",
@@ -1383,7 +1383,7 @@
         {
           "name": "Arc Raiders Epic Games",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Testing"
         }
       ]
     },
@@ -1419,7 +1419,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-13T08:35:48.890876+00:00",
+  "lastUpdated": "2026-04-13T10:14:34.826248+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
