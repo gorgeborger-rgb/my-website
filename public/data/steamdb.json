@@ -1,0 +1,846 @@
+{
+  "success": true,
+  "source": "steam-news-api+steamdb-links",
+  "generatedAt": "2026-04-14T15:07:32.250807+00:00",
+  "totalGames": 93,
+  "mappedGames": 23,
+  "games": [
+    {
+      "game": "ARC Raiders",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "ARK Survival Ascended",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "ARK Survival Evolved",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "ARKSA",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "ARKSE",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Active Matter",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Albion Online",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Apex",
+      "appId": 1172470,
+      "steamDbUrl": "https://steamdb.info/app/1172470/",
+      "latestPatchTitle": "Apex Legends: Latest Update 4/10/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821311125",
+      "latestPatchPublishedAt": "2026-04-10T19:47:42+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Apex Legends",
+      "appId": 1172470,
+      "steamDbUrl": "https://steamdb.info/app/1172470/",
+      "latestPatchTitle": "Apex Legends: Latest Update 4/10/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821311125",
+      "latestPatchPublishedAt": "2026-04-10T19:47:42+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Apex-Full",
+      "appId": 1172470,
+      "steamDbUrl": "https://steamdb.info/app/1172470/",
+      "latestPatchTitle": "Apex Legends: Latest Update 4/10/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821311125",
+      "latestPatchPublishedAt": "2026-04-10T19:47:42+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Apex-Lite",
+      "appId": 1172470,
+      "steamDbUrl": "https://steamdb.info/app/1172470/",
+      "latestPatchTitle": "Apex Legends: Latest Update 4/10/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821311125",
+      "latestPatchPublishedAt": "2026-04-10T19:47:42+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Arc Raiders",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Arc Raiders Epic Games",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Arc Raiders Steam",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Arc Raiders XBOX / MS Store",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Arc Raiders XP Bot",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Arena Breakout",
+      "appId": 2073620,
+      "steamDbUrl": "https://steamdb.info/app/2073620/",
+      "latestPatchTitle": "Protectors of Peace—Thank You to Every Inspector Keeping the Game Fair",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821306103",
+      "latestPatchPublishedAt": "2026-04-09T09:47:55+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Arena Breakout Infinite",
+      "appId": 2073620,
+      "steamDbUrl": "https://steamdb.info/app/2073620/",
+      "latestPatchTitle": "Protectors of Peace—Thank You to Every Inspector Keeping the Game Fair",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821306103",
+      "latestPatchPublishedAt": "2026-04-09T09:47:55+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Ark SA",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Ark: Ascended",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Arma 3",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Arma Reforger",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "BF6",
+      "appId": 671860,
+      "steamDbUrl": "https://steamdb.info/app/671860/",
+      "latestPatchTitle": "Operation Overhaul Dev Blog #2: Gameplay changes, weapons, vehicles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105116",
+      "latestPatchPublishedAt": "2026-03-27T17:00:14+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "BattlEye Spoofer",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Battlebit",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Battlefield 6",
+      "appId": 671860,
+      "steamDbUrl": "https://steamdb.info/app/671860/",
+      "latestPatchTitle": "Operation Overhaul Dev Blog #2: Gameplay changes, weapons, vehicles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105116",
+      "latestPatchPublishedAt": "2026-03-27T17:00:14+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Battlefield™ 6",
+      "appId": 671860,
+      "steamDbUrl": "https://steamdb.info/app/671860/",
+      "latestPatchTitle": "Operation Overhaul Dev Blog #2: Gameplay changes, weapons, vehicles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105116",
+      "latestPatchPublishedAt": "2026-03-27T17:00:14+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Beasts of Bermuda",
+      "appId": 719890,
+      "steamDbUrl": "https://steamdb.info/app/719890/",
+      "latestPatchTitle": "PvP Fest!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506336",
+      "latestPatchPublishedAt": "2026-02-09T18:29:45+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "CS2",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Call of Duty",
+      "appId": 1938090,
+      "steamDbUrl": "https://steamdb.info/app/1938090/",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 31 Mar — 7 April 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1828894815567371",
+      "latestPatchPublishedAt": "2026-04-07T09:00:00+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Chess",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "CoD Warzone",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Cod Black Ops 7",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Conan Exiles",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Counter-Strike 2",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Dark and Darker",
+      "appId": 2016590,
+      "steamDbUrl": "https://steamdb.info/app/2016590/",
+      "latestPatchTitle": "Early Access Hotfix #112-1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821305733",
+      "latestPatchPublishedAt": "2026-04-09T05:36:10+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "DayZ",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "DayZ Full",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "DayZ Lite",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Dead by Daylight",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "DeadByDaylight",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Deadside",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Delta Force",
+      "appId": 2507950,
+      "steamDbUrl": "https://steamdb.info/app/2507950/",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821314951",
+      "latestPatchPublishedAt": "2026-04-13T09:17:12+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Dune Awakening",
+      "appId": 1172710,
+      "steamDbUrl": "https://steamdb.info/app/1172710/",
+      "latestPatchTitle": "Public Test Client: Patch 1.3.20.0 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317923",
+      "latestPatchPublishedAt": "2026-04-14T14:12:16+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Dune: Awakening",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "EAC Spoofer",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "EFT",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "EFT Chams",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "EFT Full",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "EFT Lite",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "EFT-Full",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "EFT-Lite",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Escape From Tarkov",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Farlight 84",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Farlight84",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Fortnite",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "FragPunk",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Gray Zone Warfare",
+      "appId": 2479810,
+      "steamDbUrl": "https://steamdb.info/app/2479810/",
+      "latestPatchTitle": "Hotfix 0.4.0.3 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821306297",
+      "latestPatchPublishedAt": "2026-04-09T11:01:11+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "HLL",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Hell Let Loose",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "HellLL",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Hunt",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Hunt Showdown",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Hunt: Showdown",
+      "appId": 594650,
+      "steamDbUrl": "https://steamdb.info/app/594650/",
+      "latestPatchTitle": "Developer Insight - Fair Play Task Force Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318020",
+      "latestPatchPublishedAt": "2026-04-14T14:48:48+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "MW3",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Marathon",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Marvel Rivals",
+      "appId": 2767030,
+      "steamDbUrl": "https://steamdb.info/app/2767030/",
+      "latestPatchTitle": "Marvel Rivals creative director says it's going to become 'a comprehensive Marvel \"moving anime\" experience' and no, I don't know what that means either",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1829528821313271",
+      "latestPatchPublishedAt": "2026-04-12T05:17:43+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "MarvelRivals",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Naraka",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Off The Grid",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Overwatch2",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "PIONER",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "PUBG",
+      "appId": 578080,
+      "steamDbUrl": "https://steamdb.info/app/578080/",
+      "latestPatchTitle": "PGS 3: Virtus.pro Caps Off the First Circuit",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821306190",
+      "latestPatchPublishedAt": "2026-04-09T10:13:39+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Palworld",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "R6 Siege X",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Rainbow Six Siege: Full",
+      "appId": 359550,
+      "steamDbUrl": "https://steamdb.info/app/359550/",
+      "latestPatchTitle": "Y11S1.2 PATCH NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317689",
+      "latestPatchPublishedAt": "2026-04-14T12:30:58+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Rainbow Six Siege: Lite",
+      "appId": 359550,
+      "steamDbUrl": "https://steamdb.info/app/359550/",
+      "latestPatchTitle": "Y11S1.2 PATCH NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317689",
+      "latestPatchPublishedAt": "2026-04-14T12:30:58+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Rust",
+      "appId": 252490,
+      "steamDbUrl": "https://steamdb.info/app/252490/",
+      "latestPatchTitle": "Rust 2 isn't in development, Facepunch boss confirms after suspicious Steam page sparks speculation",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1829528821309919",
+      "latestPatchPublishedAt": "2026-04-10T11:40:42+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Rust Lite",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "SCUM",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "SMITE 2",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Sea of Thieves",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Spoofer",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Squad",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Stalcraft",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "The Divison2",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "The Finals",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "The Isle Evrima",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Unturned",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "Valorant",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "War Thunder",
+      "appId": null,
+      "steamDbUrl": null,
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "unmapped"
+    },
+    {
+      "game": "WarThunder",
+      "appId": 236390,
+      "steamDbUrl": "https://steamdb.info/app/236390/",
+      "latestPatchTitle": "Update 2.55.1.56",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317354",
+      "latestPatchPublishedAt": "2026-04-14T09:51:43+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "WarThunder FULL",
+      "appId": 236390,
+      "steamDbUrl": "https://steamdb.info/app/236390/",
+      "latestPatchTitle": "Update 2.55.1.56",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317354",
+      "latestPatchPublishedAt": "2026-04-14T09:51:43+00:00",
+      "status": "ok"
+    }
+  ]
+}
