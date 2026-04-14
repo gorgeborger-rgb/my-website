@@ -111,6 +111,11 @@
           "status": "Undetected"
         },
         {
+          "name": "Arc Raiders",
+          "brand": "Athena",
+          "status": "Undetected"
+        },
+        {
           "name": "Naraka",
           "brand": "Athena",
           "status": "Undetected"
@@ -147,11 +152,6 @@
         },
         {
           "name": "Spoofer",
-          "brand": "Atlas",
-          "status": "Undetected"
-        },
-        {
-          "name": "ARC Raiders",
           "brand": "Atlas",
           "status": "Undetected"
         },
@@ -680,7 +680,7 @@
         {
           "name": "Arc Raiders",
           "brand": "Athena",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Naraka",
@@ -1429,7 +1429,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-14T12:10:04.876680+00:00",
+  "lastUpdated": "2026-04-14T14:14:29.998667+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
