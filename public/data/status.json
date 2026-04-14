@@ -103,7 +103,7 @@
         {
           "name": "Overwatch2",
           "brand": "Athena",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Gray Zone Warfare",
@@ -293,7 +293,7 @@
         {
           "name": "Hunt: Showdown",
           "brand": "Kane",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Off The Grid",
@@ -366,11 +366,6 @@
           "status": "Undetected"
         },
         {
-          "name": "Hunt: Showdown",
-          "brand": "Liquid",
-          "status": "Updating"
-        },
-        {
           "name": "Marvel Rivals",
           "brand": "Liquid",
           "status": "Updating"
@@ -397,6 +392,11 @@
         },
         {
           "name": "Ark SA",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "Hunt: Showdown",
           "brand": "Vex",
           "status": "Undetected"
         },
@@ -670,7 +670,7 @@
         {
           "name": "Overwatch2",
           "brand": "Athena",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Gray Zone Warfare",
@@ -964,7 +964,7 @@
         {
           "name": "Hunt: Showdown",
           "brand": "Kane",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Marvel Rivals",
@@ -1429,7 +1429,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-14T17:57:54.160545+00:00",
+  "lastUpdated": "2026-04-14T19:37:54.563287+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
