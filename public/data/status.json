@@ -131,6 +131,11 @@
           "status": "Undetected"
         },
         {
+          "name": "Call of Duty",
+          "brand": "Atlas",
+          "status": "Updating"
+        },
+        {
           "name": "PUBG",
           "brand": "Atlas",
           "status": "Undetected"
@@ -691,7 +696,7 @@
     },
     {
       "brand": "Atlas",
-      "status": "Undetected",
+      "status": "Updating",
       "products": [
         {
           "name": "Apex Legends",
@@ -701,7 +706,7 @@
         {
           "name": "Call of Duty",
           "brand": "Atlas",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "PUBG",
@@ -1414,7 +1419,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-13T23:52:28.967942+00:00",
+  "lastUpdated": "2026-04-14T02:05:23.076586+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
