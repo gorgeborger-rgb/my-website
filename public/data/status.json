@@ -78,7 +78,7 @@
         {
           "name": "Apex Legends",
           "brand": "Athena",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "EFT",
@@ -128,6 +128,11 @@
         {
           "name": "Counter-Strike 2",
           "brand": "Athena",
+          "status": "Undetected"
+        },
+        {
+          "name": "Apex Legends",
+          "brand": "Atlas",
           "status": "Undetected"
         },
         {
@@ -232,6 +237,11 @@
         },
         {
           "name": "Active Matter",
+          "brand": "Kane",
+          "status": "Updating"
+        },
+        {
+          "name": "Apex",
           "brand": "Kane",
           "status": "Updating"
         },
@@ -620,7 +630,7 @@
         {
           "name": "Apex Legends",
           "brand": "Athena",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "DayZ",
@@ -889,7 +899,7 @@
         {
           "name": "Apex",
           "brand": "Kane",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Ark: Ascended",
@@ -1121,7 +1131,7 @@
         {
           "name": "Apex",
           "brand": "Pulse",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "ARC Raiders",
@@ -1419,7 +1429,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-14T16:49:57.529132+00:00",
+  "lastUpdated": "2026-04-14T17:57:54.160545+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
