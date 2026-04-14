@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-14T16:19:17.501308+00:00",
+  "generatedAt": "2026-04-14T17:36:51.281472+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 4/10/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821311125",
-      "latestPatchPublishedAt": "2026-04-10T19:47:42+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 4/14/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318497",
+      "latestPatchPublishedAt": "2026-04-14T17:10:13+00:00",
       "status": "ok"
     },
     {
@@ -279,8 +279,8 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Introducing C.A.R.R.I. - CyberAcme’s New Protocol",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317890",
+      "latestPatchTitle": "Marathon Update 1.0.6",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317891",
       "latestPatchPublishedAt": "2026-04-14T14:00:48+00:00",
       "status": "ok"
     },
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Hotfix [10.04.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821311112",
-      "latestPatchPublishedAt": "2026-04-10T19:37:39+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318441",
+      "latestPatchPublishedAt": "2026-04-14T17:00:51+00:00",
       "status": "ok"
     },
     {
