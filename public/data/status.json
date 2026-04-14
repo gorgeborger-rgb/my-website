@@ -43,7 +43,7 @@
         {
           "name": "ARC Raiders",
           "brand": "AstroZoom",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Fortnite",
@@ -147,6 +147,11 @@
         },
         {
           "name": "Spoofer",
+          "brand": "Atlas",
+          "status": "Undetected"
+        },
+        {
+          "name": "ARC Raiders",
           "brand": "Atlas",
           "status": "Undetected"
         },
@@ -333,11 +338,6 @@
         {
           "name": "WarThunder",
           "brand": "Kane",
-          "status": "Updating"
-        },
-        {
-          "name": "ARC Raiders",
-          "brand": "Liquid",
           "status": "Updating"
         },
         {
@@ -589,7 +589,7 @@
         {
           "name": "ARC Raiders",
           "brand": "AstroZoom",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Fortnite",
@@ -680,7 +680,7 @@
         {
           "name": "Arc Raiders",
           "brand": "Athena",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Naraka",
@@ -1429,7 +1429,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-14T09:56:45.150571+00:00",
+  "lastUpdated": "2026-04-14T12:10:04.876680+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
