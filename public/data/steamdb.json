@@ -1,54 +1,54 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-14T15:08:40.185655+00:00",
+  "generatedAt": "2026-04-14T15:28:13.902578+00:00",
   "totalGames": 93,
-  "mappedGames": 23,
+  "mappedGames": 29,
   "games": [
     {
       "game": "ARC Raiders",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 1808500,
+      "steamDbUrl": "https://steamdb.info/app/1808500/",
+      "latestPatchTitle": "Patch Notes 1.24.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317273",
+      "latestPatchPublishedAt": "2026-04-14T09:02:17+00:00",
+      "status": "ok"
     },
     {
       "game": "ARK Survival Ascended",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 2399830,
+      "steamDbUrl": "https://steamdb.info/app/2399830/",
+      "latestPatchTitle": "Community Crunch 502: Claim the High Ground",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821311604",
+      "latestPatchPublishedAt": "2026-04-11T03:00:34+00:00",
+      "status": "ok"
     },
     {
       "game": "ARK Survival Evolved",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 346110,
+      "steamDbUrl": "https://steamdb.info/app/346110/",
+      "latestPatchTitle": "ARK: Aquatica Official servers update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921817276",
+      "latestPatchPublishedAt": "2026-01-16T23:28:55+00:00",
+      "status": "ok"
     },
     {
       "game": "ARKSA",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 2399830,
+      "steamDbUrl": "https://steamdb.info/app/2399830/",
+      "latestPatchTitle": "Community Crunch 502: Claim the High Ground",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821311604",
+      "latestPatchPublishedAt": "2026-04-11T03:00:34+00:00",
+      "status": "ok"
     },
     {
       "game": "ARKSE",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 346110,
+      "steamDbUrl": "https://steamdb.info/app/346110/",
+      "latestPatchTitle": "ARK: Aquatica Official servers update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921817276",
+      "latestPatchPublishedAt": "2026-01-16T23:28:55+00:00",
+      "status": "ok"
     },
     {
       "game": "Active Matter",
@@ -61,12 +61,12 @@
     },
     {
       "game": "Albion Online",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 761890,
+      "steamDbUrl": "https://steamdb.info/app/761890/",
+      "latestPatchTitle": "Radiant Wilds is Live!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821315166",
+      "latestPatchPublishedAt": "2026-04-13T11:04:18+00:00",
+      "status": "ok"
     },
     {
       "game": "Apex",
