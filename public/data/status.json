@@ -336,6 +336,11 @@
           "status": "Updating"
         },
         {
+          "name": "ARC Raiders",
+          "brand": "Liquid",
+          "status": "Updating"
+        },
+        {
           "name": "Albion Online",
           "brand": "Liquid",
           "status": "Undetected"
@@ -1035,7 +1040,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Liquid",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Albion Online",
@@ -1121,7 +1126,7 @@
     },
     {
       "brand": "Pulse",
-      "status": "Undetected",
+      "status": "Updating",
       "products": [
         {
           "name": "Apex",
@@ -1131,7 +1136,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Pulse",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Arma Reforger",
@@ -1424,7 +1429,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-14T08:25:30.713235+00:00",
+  "lastUpdated": "2026-04-14T09:56:45.150571+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
