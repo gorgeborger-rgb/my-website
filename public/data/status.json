@@ -43,7 +43,7 @@
         {
           "name": "ARC Raiders",
           "brand": "AstroZoom",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Fortnite",
@@ -131,6 +131,11 @@
           "status": "Undetected"
         },
         {
+          "name": "Call of Duty",
+          "brand": "Atlas",
+          "status": "Updating"
+        },
+        {
           "name": "PUBG",
           "brand": "Atlas",
           "status": "Undetected"
@@ -142,6 +147,11 @@
         },
         {
           "name": "Spoofer",
+          "brand": "Atlas",
+          "status": "Undetected"
+        },
+        {
+          "name": "ARC Raiders",
           "brand": "Atlas",
           "status": "Undetected"
         },
@@ -228,7 +238,7 @@
         {
           "name": "Rainbow Six Siege: Lite",
           "brand": "Hero",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Active Matter",
@@ -239,6 +249,11 @@
           "name": "Ark: Ascended",
           "brand": "Kane",
           "status": "Undetected"
+        },
+        {
+          "name": "Battlefield 6",
+          "brand": "Kane",
+          "status": "Updating"
         },
         {
           "name": "CS2",
@@ -528,7 +543,7 @@
         {
           "name": "Rust Lite",
           "brand": "Volt",
-          "status": "Updating"
+          "status": "Undetected"
         }
       ]
     },
@@ -574,7 +589,7 @@
         {
           "name": "ARC Raiders",
           "brand": "AstroZoom",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Fortnite",
@@ -665,7 +680,7 @@
         {
           "name": "Arc Raiders",
           "brand": "Athena",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Naraka",
@@ -691,7 +706,7 @@
     },
     {
       "brand": "Atlas",
-      "status": "Undetected",
+      "status": "Updating",
       "products": [
         {
           "name": "Apex Legends",
@@ -701,7 +716,7 @@
         {
           "name": "Call of Duty",
           "brand": "Atlas",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "PUBG",
@@ -863,7 +878,7 @@
         {
           "name": "Rainbow Six Siege: Lite",
           "brand": "Hero",
-          "status": "Updating"
+          "status": "Undetected"
         }
       ]
     },
@@ -894,7 +909,7 @@
         {
           "name": "Battlefield 6",
           "brand": "Kane",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "CS2",
@@ -1025,7 +1040,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Liquid",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Albion Online",
@@ -1111,7 +1126,7 @@
     },
     {
       "brand": "Pulse",
-      "status": "Undetected",
+      "status": "Updating",
       "products": [
         {
           "name": "Apex",
@@ -1121,7 +1136,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Pulse",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Arma Reforger",
@@ -1358,7 +1373,7 @@
         {
           "name": "Rust",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "SMITE 2",
@@ -1384,17 +1399,17 @@
     },
     {
       "brand": "Volt",
-      "status": "Updating",
+      "status": "Undetected",
       "products": [
         {
           "name": "Rust",
           "brand": "Volt",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Rust Lite",
           "brand": "Volt",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "DayZ",
@@ -1414,7 +1429,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-13T15:59:37.628223+00:00",
+  "lastUpdated": "2026-04-14T12:10:04.876680+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
