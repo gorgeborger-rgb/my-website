@@ -366,6 +366,7 @@
     <div class="topbar">
       <div class="page-title">Live Status</div>
       <div class="topbar-actions">
+        <input id="statusSearch" type="text" placeholder="Search game or provider..." style="height:32px;padding:0 12px;border-radius:10px;border:1px solid rgba(167,139,250,0.28);background:rgba(20,24,36,0.75);color:var(--text1);font-size:12px;min-width:220px;" />
         <button class="btn btn-ghost" onclick="fetchAllStatuses()" style="padding:6px 14px;font-size:12px;">Refresh</button>
       </div>
     </div>
@@ -417,6 +418,8 @@ let activeDrawerBrand = '';
 let drawerPinned = false;
 let lastDataUpdatedAt = null;
 let freshnessTimer = null;
+let latestResults = [];
+let currentSearch = '';
 const hoverDrawerEnabled = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 
 async function fetchStatusData() {
@@ -530,6 +533,25 @@ function filterToActiveStates(results) {
     });
 }
 
+function applySearchFilter(results, query) {
+  const q = (query || '').trim().toLowerCase();
+  if (!q) return results;
+
+  return (results || [])
+    .map(brand => {
+      const brandMatch = brand.brand.toLowerCase().includes(q);
+      const products = (brand.products || []).filter(p => {
+        const hay = `${p.name} ${p.brand || ''} ${p.status || ''}`.toLowerCase();
+        return hay.includes(q);
+      });
+      if (brandMatch) {
+        return { ...brand };
+      }
+      return { ...brand, products, updatingCount: products.filter(p => p.status.toLowerCase().includes('updat')).length, testingCount: products.filter(p => p.status.toLowerCase().includes('test')).length };
+    })
+    .filter(brand => (brand.products || []).length > 0);
+}
+
 
 
 function formatAge(ms) {
@@ -565,7 +587,8 @@ async function fetchAllStatuses() {
 
   try {
     const data = await fetchStatusData();
-    const results = filterToActiveStates(data.brands);
+    latestResults = filterToActiveStates(data.brands);
+    const results = applySearchFilter(latestResults, currentSearch);
     const hasAnyData = results.length > 0;
 
     // Update mode display
@@ -573,7 +596,9 @@ async function fetchAllStatuses() {
     healthEl.textContent = 'Live';
     healthEl.style.color = '#86efac';
 
-    if (!hasAnyData) {
+    if (!hasAnyData && currentSearch) {
+      showNoSearchResults();
+    } else if (!hasAnyData) {
       showLoginRequired(12);
     } else {
       renderBrands(results);
@@ -606,6 +631,15 @@ function showLoginRequired(count) {
     <div class="summary-item" style="border-color: rgba(139,92,246,0.3);">
       <span class="summary-count" style="color:#a78bfa;">12</span>
       <span class="summary-label">Brands</span>
+    </div>`;
+}
+
+function showNoSearchResults() {
+  document.getElementById('summaryBar').innerHTML = '';
+  document.getElementById('statusGrid').innerHTML = `
+    <div class="status-empty" style="grid-column:1/-1;padding:60px;text-align:center;">
+      <div style="font-size:20px;font-weight:700;margin-bottom:12px;">No matching products</div>
+      <div style="font-size:14px;color:var(--text3);">Try another game or provider name.</div>
     </div>`;
 }
 
@@ -785,6 +819,17 @@ document.addEventListener('click', (e) => {
     closeDrawer(true);
   }
 }, true);
+
+document.getElementById('statusSearch').addEventListener('input', (e) => {
+  currentSearch = e.target.value || '';
+  const filtered = applySearchFilter(latestResults, currentSearch);
+  if (!filtered.length) {
+    showNoSearchResults();
+    return;
+  }
+  renderBrands(filtered);
+  renderSummary(filtered);
+});
 
 function resetCountdown() {
   countdown = 60;
