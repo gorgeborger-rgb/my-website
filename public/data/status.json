@@ -43,7 +43,7 @@
         {
           "name": "ARC Raiders",
           "brand": "AstroZoom",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Fortnite",
@@ -111,11 +111,6 @@
           "status": "Undetected"
         },
         {
-          "name": "Arc Raiders",
-          "brand": "Athena",
-          "status": "Undetected"
-        },
-        {
           "name": "Naraka",
           "brand": "Athena",
           "status": "Undetected"
@@ -134,11 +129,6 @@
           "name": "Counter-Strike 2",
           "brand": "Athena",
           "status": "Undetected"
-        },
-        {
-          "name": "Call of Duty",
-          "brand": "Atlas",
-          "status": "Updating"
         },
         {
           "name": "PUBG",
@@ -343,7 +333,7 @@
         {
           "name": "Albion Online",
           "brand": "Liquid",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Apex",
@@ -383,7 +373,12 @@
         {
           "name": "R6 Siege X",
           "brand": "Liquid",
-          "status": "Undetected"
+          "status": "Updating"
+        },
+        {
+          "name": "ARC Raiders",
+          "brand": "Pulse",
+          "status": "Updating"
         },
         {
           "name": "Arma Reforger",
@@ -589,7 +584,7 @@
         {
           "name": "ARC Raiders",
           "brand": "AstroZoom",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Fortnite",
@@ -706,7 +701,7 @@
     },
     {
       "brand": "Atlas",
-      "status": "Updating",
+      "status": "Undetected",
       "products": [
         {
           "name": "Apex Legends",
@@ -716,7 +711,7 @@
         {
           "name": "Call of Duty",
           "brand": "Atlas",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "PUBG",
@@ -1040,12 +1035,12 @@
         {
           "name": "ARC Raiders",
           "brand": "Liquid",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Albion Online",
           "brand": "Liquid",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Apex",
@@ -1115,7 +1110,7 @@
         {
           "name": "R6 Siege X",
           "brand": "Liquid",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "EFT",
@@ -1429,7 +1424,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-14T14:14:29.998667+00:00",
+  "lastUpdated": "2026-04-14T15:44:40.978435+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
