@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-14T19:52:58.592518+00:00",
+  "generatedAt": "2026-04-15T16:41:18.954956+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Patch Notes 1.24.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317273",
-      "latestPatchPublishedAt": "2026-04-14T09:02:17+00:00",
+      "latestPatchTitle": "\"I wanted you to feel bad\": former Battlefield audio designer recalls punching himself to record more realistic gunshot screams",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1829528821318553",
+      "latestPatchPublishedAt": "2026-04-14T17:00:00+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Radiant Wilds is Live!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821315166",
-      "latestPatchPublishedAt": "2026-04-13T11:04:18+00:00",
+      "latestPatchTitle": "Season 32 Starts Saturday",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047254383",
+      "latestPatchPublishedAt": "2026-04-15T10:00:20+00:00",
       "status": "ok"
     },
     {
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Animgraph 2 Beta Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821308514",
-      "latestPatchPublishedAt": "2026-04-09T23:17:51+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047252212",
+      "latestPatchPublishedAt": "2026-04-14T22:07:40+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ | 1.29 Stable Update - Out Now & DayZ in 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821304244",
-      "latestPatchPublishedAt": "2026-04-08T12:55:08+00:00",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 63) | Wishlist now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255086",
+      "latestPatchPublishedAt": "2026-04-15T14:37:50+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "New clothing sets are now available!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821315523",
-      "latestPatchPublishedAt": "2026-04-13T13:59:17+00:00",
+      "latestPatchTitle": "Classic clothing sets are available on Steam",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255311",
+      "latestPatchPublishedAt": "2026-04-15T15:44:49+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk April 8th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821303765",
-      "latestPatchPublishedAt": "2026-04-08T10:10:38+00:00",
+      "latestPatchTitle": "FragPunk April 15th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047254458",
+      "latestPatchPublishedAt": "2026-04-15T10:17:25+00:00",
       "status": "ok"
     },
     {
@@ -270,36 +270,36 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Developer Insight - Fair Play Task Force Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318020",
-      "latestPatchPublishedAt": "2026-04-14T14:48:48+00:00",
+      "latestPatchTitle": "Inferno is Back",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047254326",
+      "latestPatchPublishedAt": "2026-04-15T09:41:14+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Introducing C.A.R.R.I. - CyberAcme’s New Protocol",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317890",
-      "latestPatchPublishedAt": "2026-04-14T14:00:48+00:00",
+      "latestPatchTitle": "Marathon's next experimental mode goes all in on sponsored kits, which sounds great for scaredy-cats like me",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1829528821318280",
+      "latestPatchPublishedAt": "2026-04-14T16:05:20+00:00",
       "status": "ok"
     },
     {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals creative director says it's going to become 'a comprehensive Marvel \"moving anime\" experience' and no, I don't know what that means either",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1829528821313271",
-      "latestPatchPublishedAt": "2026-04-12T05:17:43+00:00",
+      "latestPatchTitle": "Marvel Rivals: Season 7.5 Begins // Dev Vision Vol. 16",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047254556",
+      "latestPatchPublishedAt": "2026-04-15T10:52:54+00:00",
       "status": "ok"
     },
     {
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List April 7th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815567699",
-      "latestPatchPublishedAt": "2026-04-07T15:15:12+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update – April 16th, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047254968",
+      "latestPatchPublishedAt": "2026-04-15T14:00:02+00:00",
       "status": "ok"
     },
     {
@@ -315,18 +315,18 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "The technical issues have been resolved",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821312433",
-      "latestPatchPublishedAt": "2026-04-11T16:03:01+00:00",
+      "latestPatchTitle": "Presenting the roadmap of new content updates for PIONER for this year.",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255503",
+      "latestPatchPublishedAt": "2026-04-15T16:40:05+00:00",
       "status": "ok"
     },
     {
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 3: Virtus.pro Caps Off the First Circuit",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821306190",
-      "latestPatchPublishedAt": "2026-04-09T10:13:39+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/06~04/12)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047254047",
+      "latestPatchPublishedAt": "2026-04-15T07:00:10+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821318441",
-      "latestPatchPublishedAt": "2026-04-14T17:00:51+00:00",
+      "latestPatchTitle": "Rubik — to be or not to be?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255272",
+      "latestPatchPublishedAt": "2026-04-15T15:35:13+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.56",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317354",
-      "latestPatchPublishedAt": "2026-04-14T09:51:43+00:00",
+      "latestPatchTitle": "Meet the Winner of the WTCS Challenger League Major I Tournament: EnyoProxy!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255204",
+      "latestPatchPublishedAt": "2026-04-15T15:12:31+00:00",
       "status": "ok"
     }
   ]
