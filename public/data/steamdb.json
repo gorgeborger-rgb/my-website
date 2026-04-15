@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-15T19:59:07.136079+00:00",
+  "generatedAt": "2026-04-15T20:55:00.428657+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Inferno is Back",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047254326",
-      "latestPatchPublishedAt": "2026-04-15T09:41:14+00:00",
+      "latestPatchTitle": "The Heart of Lower DeSalle DLC Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255915",
+      "latestPatchPublishedAt": "2026-04-15T20:09:20+00:00",
       "status": "ok"
     },
     {
