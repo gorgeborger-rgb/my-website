@@ -46,33 +46,45 @@ body {
   line-height: 1.6;
 }
 
-/* ===== ANIMATED BG ===== */
+/* ===== NEBULA BACKGROUND ===== */
 .bg-anim {
   position: fixed; inset: 0; z-index: 0; pointer-events: none; overflow: hidden;
 }
 .bg-anim::before {
   content: '';
   position: absolute;
-  width: 560px; height: 560px;
-  background: radial-gradient(circle, rgba(155,140,255,0.06) 0%, transparent 76%);
-  top: -220px; left: -180px;
-  animation: floatBlob 34s ease-in-out infinite;
+  width: 1000px; height: 1000px;
+  background: radial-gradient(circle, rgba(130,80,255,0.11) 0%, rgba(160,100,255,0.06) 38%, transparent 72%);
+  top: -420px; left: -300px;
+  animation: nebulaFloat1 46s ease-in-out infinite;
+  filter: blur(50px);
 }
 .bg-anim::after {
   content: '';
   position: absolute;
-  width: 460px; height: 460px;
-  background: radial-gradient(circle, rgba(155,140,255,0.05) 0%, transparent 78%);
-  bottom: -140px; right: -140px;
-  animation: floatBlob2 40s ease-in-out infinite;
+  width: 860px; height: 860px;
+  background: radial-gradient(circle, rgba(190,80,255,0.09) 0%, rgba(100,60,230,0.05) 42%, transparent 70%);
+  bottom: -300px; right: -220px;
+  animation: nebulaFloat2 58s ease-in-out infinite;
+  filter: blur(60px);
 }
-@keyframes floatBlob {
+@keyframes nebulaFloat1 {
   0%,100% { transform: translate(0,0) scale(1); }
-  50% { transform: translate(80px,60px) scale(1.1); }
+  33%  { transform: translate(120px,80px) scale(1.14); }
+  66%  { transform: translate(50px,150px) scale(0.93); }
 }
-@keyframes floatBlob2 {
+@keyframes nebulaFloat2 {
   0%,100% { transform: translate(0,0) scale(1); }
-  50% { transform: translate(-60px,-80px) scale(1.15); }
+  33%  { transform: translate(-90px,-120px) scale(1.18); }
+  66%  { transform: translate(-150px,-50px) scale(0.88); }
+}
+
+/* JS-injected nebula blobs */
+.nebula-blob {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+  filter: blur(70px);
 }
 
 /* ===== GRID LINES ===== */
@@ -90,6 +102,20 @@ body {
   z-index: 0;
 }
 
+/* 3-tier star layers — populated by cosmic-bg.js */
+.cosmic-stars-tiny,
+.cosmic-stars-medium,
+.cosmic-stars-bright {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+.cosmic-stars-tiny   { animation: starsDriftSlow 120s linear infinite; }
+.cosmic-stars-medium { animation: starsDriftMed  90s  linear infinite; }
+.cosmic-stars-bright { animation: starsDriftFast 60s  linear infinite; }
+
+/* Fallback static stars (overridden by JS) */
 .cosmic-stars {
   background-image:
     radial-gradient(1px 1px at 9% 14%, rgba(255,255,255,0.35) 0, transparent 100%),
@@ -98,33 +124,37 @@ body {
     radial-gradient(1px 1px at 88% 78%, rgba(192,178,255,0.3) 0, transparent 100%),
     radial-gradient(1px 1px at 52% 39%, rgba(255,255,255,0.24) 0, transparent 100%);
   opacity: 0.55;
-  animation: starsDrift 80s linear infinite;
+  animation: starsDriftSlow 100s linear infinite;
 }
 
+/* ===== SHOOTING STARS ===== */
 .cosmic-shooting-stars .shooting-star {
   position: absolute;
-  width: 140px;
   height: 1.5px;
-  background: linear-gradient(90deg, rgba(196,178,255,0), rgba(196,178,255,0.85), rgba(196,178,255,0));
-  filter: drop-shadow(0 0 6px rgba(196,178,255,0.55));
-  transform: rotate(-24deg);
+  background: linear-gradient(90deg, transparent, rgba(220,205,255,0.92), rgba(255,255,255,0.7), transparent);
+  filter: drop-shadow(0 0 8px rgba(200,180,255,0.85)) drop-shadow(0 0 3px rgba(255,255,255,0.9));
   opacity: 0;
-  animation: shootingStar 4.8s ease-in-out infinite;
+  animation-name: shootingStar;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
 }
+.cosmic-shooting-stars .shooting-star:nth-child(1) { width: 160px; top: 11%; left: 76%; transform: rotate(-20deg); animation-duration: 4.2s; animation-delay: 0.3s; }
+.cosmic-shooting-stars .shooting-star:nth-child(2) { width: 95px;  top: 27%; left: 89%; transform: rotate(-36deg); animation-duration: 3.4s; animation-delay: 1.8s; }
+.cosmic-shooting-stars .shooting-star:nth-child(3) { width: 210px; top:  7%; left: 53%; transform: rotate(-14deg); animation-duration: 5.9s; animation-delay: 3.1s; }
+.cosmic-shooting-stars .shooting-star:nth-child(4) { width: 130px; top: 43%; left: 83%; transform: rotate(-28deg); animation-duration: 4.7s; animation-delay: 0.9s; }
+.cosmic-shooting-stars .shooting-star:nth-child(5) { width: 85px;  top: 61%; left: 71%; transform: rotate(-44deg); animation-duration: 3.1s; animation-delay: 3.6s; }
+.cosmic-shooting-stars .shooting-star:nth-child(6) { width: 185px; top: 17%; left: 40%; transform: rotate(-11deg); animation-duration: 6.2s; animation-delay: 5.4s; }
+.cosmic-shooting-stars .shooting-star:nth-child(7) { width: 115px; top: 74%; left: 91%; transform: rotate(-31deg); animation-duration: 4.4s; animation-delay: 4.2s; }
+.cosmic-shooting-stars .shooting-star:nth-child(8) { width: 75px;  top: 36%; left: 62%; transform: rotate(-52deg); animation-duration: 2.9s; animation-delay: 7.1s; }
 
-.cosmic-shooting-stars .shooting-star:nth-child(1) { top: 16%; left: 72%; animation-delay: 0.4s; }
-.cosmic-shooting-stars .shooting-star:nth-child(2) { top: 31%; left: 84%; animation-delay: 1.9s; }
-.cosmic-shooting-stars .shooting-star:nth-child(3) { top: 57%; left: 68%; animation-delay: 3.4s; }
-
-@keyframes starsDrift {
-  0% { transform: translateY(0); }
-  100% { transform: translateY(-16px); }
-}
+@keyframes starsDriftSlow { 0% { transform: translateY(0); }    100% { transform: translateY(-20px); } }
+@keyframes starsDriftMed  { 0% { transform: translateY(0); }    100% { transform: translateY(-30px); } }
+@keyframes starsDriftFast { 0% { transform: translateY(0); }    100% { transform: translateY(-50px); } }
 
 @keyframes shootingStar {
-  0%, 74% { opacity: 0; transform: translate3d(0,0,0) rotate(-24deg); }
-  78% { opacity: 0.85; }
-  100% { opacity: 0; transform: translate3d(-220px,180px,0) rotate(-24deg); }
+  0%,  70% { opacity: 0;    transform: translate3d(0,0,0); }
+  75%       { opacity: 0.95; }
+  100%      { opacity: 0;    transform: translate3d(-280px,210px,0); }
 }
 
 /* ===== LAYOUT ===== */
@@ -209,6 +239,12 @@ body {
   width: 3px; height: 18px;
   background: var(--purple);
   border-radius: 0 2px 2px 0;
+  box-shadow: 0 0 8px rgba(155,140,255,0.7), 0 0 16px rgba(155,140,255,0.4);
+  animation: navGlow 2.4s ease-in-out infinite;
+}
+@keyframes navGlow {
+  0%,100% { box-shadow: 0 0 6px rgba(155,140,255,0.6), 0 0 14px rgba(155,140,255,0.3); }
+  50%      { box-shadow: 0 0 12px rgba(185,170,255,0.95), 0 0 28px rgba(155,140,255,0.55); }
 }
 .nav-icon {
   width: 6px;
@@ -344,7 +380,10 @@ body {
   backdrop-filter: blur(10px);
   transition: var(--trans);
 }
-.card:hover { border-color: var(--border2); }
+.card:hover {
+  border-color: var(--border2);
+  box-shadow: 0 0 0 1px rgba(155,140,255,0.2), 0 0 28px rgba(139,92,246,0.14), 0 8px 24px rgba(0,0,0,0.3);
+}
 
 /* ===== BUTTONS ===== */
 .btn {
@@ -1528,14 +1567,37 @@ body {
 /* ===== CURSOR GLOW ===== */
 .cursor-glow {
   position: fixed;
-  width: 120px; height: 120px;
+  width: 380px; height: 380px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(155,140,255,0.024) 0%, transparent 74%);
+  background: radial-gradient(circle, rgba(155,140,255,0.07) 0%, rgba(120,80,255,0.04) 40%, transparent 70%);
   pointer-events: none;
   z-index: 0;
   transform: translate(-50%,-50%);
-  transition: all 0.12s linear;
+  transition: left 0.08s linear, top 0.08s linear;
 }
+
+/* ===== HERO MESH ===== */
+.hero-mesh {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(ellipse 70% 50% at 50% 0%, rgba(130,80,255,0.1) 0%, transparent 60%),
+    radial-gradient(ellipse 40% 30% at 80% 60%, rgba(180,100,255,0.07) 0%, transparent 55%),
+    radial-gradient(ellipse 30% 25% at 20% 70%, rgba(100,60,220,0.06) 0%, transparent 55%);
+  animation: meshPulse 12s ease-in-out infinite;
+}
+@keyframes meshPulse {
+  0%,100% { opacity: 1; }
+  50%      { opacity: 0.55; }
+}
+
+/* ===== STATUS CARD COLOR GLOWS ===== */
+.status-card.online:hover  { box-shadow: 0 0 0 1px rgba(16,185,129,0.4), 0 0 28px rgba(16,185,129,0.18), 0 8px 24px rgba(0,0,0,0.35); }
+.status-card.offline:hover { box-shadow: 0 0 0 1px rgba(239,68,68,0.4),  0 0 28px rgba(239,68,68,0.18),  0 8px 24px rgba(0,0,0,0.35); }
+.status-card.updating:hover{ box-shadow: 0 0 0 1px rgba(245,158,11,0.4), 0 0 28px rgba(245,158,11,0.18), 0 8px 24px rgba(0,0,0,0.35); }
+.status-card.testing:hover { box-shadow: 0 0 0 1px rgba(99,102,241,0.4), 0 0 28px rgba(99,102,241,0.18), 0 8px 24px rgba(0,0,0,0.35); }
 
 @media (max-width: 768px) {
   .cursor-glow { display: none; }
@@ -1611,11 +1673,17 @@ body {
 .command-card:hover,
 .fix-card:hover,
 .quick-copy-item:hover,
-.status-card:hover,
 .product-item:hover,
 .brand-card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 14px 30px rgba(0,0,0,0.34);
+  box-shadow:
+    0 0 0 1px rgba(185,170,255,0.28),
+    0 0 30px rgba(139,92,246,0.18),
+    0 0 60px rgba(120,80,255,0.1),
+    0 14px 30px rgba(0,0,0,0.38);
+}
+.status-card:hover {
+  transform: translateY(-3px);
 }
 
 .topbar {
