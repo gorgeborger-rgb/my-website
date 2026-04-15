@@ -102,7 +102,7 @@ body {
   z-index: 0;
 }
 
-/* 3-tier star layers — populated by cosmic-bg.js */
+/* 3-tier star layers — populated by cosmic-bg.js, NO drift, only twinkle */
 .cosmic-stars-tiny,
 .cosmic-stars-medium,
 .cosmic-stars-bright {
@@ -111,11 +111,8 @@ body {
   pointer-events: none;
   z-index: 0;
 }
-.cosmic-stars-tiny   { animation: starsDriftSlow 120s linear infinite; }
-.cosmic-stars-medium { animation: starsDriftMed  90s  linear infinite; }
-.cosmic-stars-bright { animation: starsDriftFast 60s  linear infinite; }
 
-/* Fallback static stars (overridden by JS) */
+/* Fallback static stars */
 .cosmic-stars {
   background-image:
     radial-gradient(1px 1px at 9% 14%, rgba(255,255,255,0.35) 0, transparent 100%),
@@ -124,37 +121,49 @@ body {
     radial-gradient(1px 1px at 88% 78%, rgba(192,178,255,0.3) 0, transparent 100%),
     radial-gradient(1px 1px at 52% 39%, rgba(255,255,255,0.24) 0, transparent 100%);
   opacity: 0.55;
-  animation: starsDriftSlow 100s linear infinite;
 }
 
-/* ===== SHOOTING STARS ===== */
-.cosmic-shooting-stars .shooting-star {
+/* ===== SHOOTING STARS — wrapper/inner pattern ===== */
+/* Wrapper: holds position + angle. Never animated. */
+.shooting-star-wrap {
   position: absolute;
-  height: 1.5px;
-  background: linear-gradient(90deg, transparent, rgba(220,205,255,0.92), rgba(255,255,255,0.7), transparent);
-  filter: drop-shadow(0 0 8px rgba(200,180,255,0.85)) drop-shadow(0 0 3px rgba(255,255,255,0.9));
+  pointer-events: none;
+}
+/* Inner: the visible streak. Only translateX animates — preserving parent rotation. */
+.shooting-star-inner {
+  height: 2px;
+  border-radius: 1px;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    rgba(192,178,255,0.2) 15%,
+    rgba(220,205,255,0.95) 50%,
+    rgba(255,255,255,1) 65%,
+    rgba(220,205,255,0.3) 85%,
+    transparent 100%
+  );
+  filter: drop-shadow(0 0 4px rgba(200,180,255,0.9)) drop-shadow(0 0 10px rgba(180,150,255,0.5));
   opacity: 0;
-  animation-name: shootingStar;
-  animation-timing-function: ease-in-out;
+  animation-name: shootTrail;
+  animation-timing-function: ease-in;
   animation-iteration-count: infinite;
 }
-.cosmic-shooting-stars .shooting-star:nth-child(1) { width: 160px; top: 11%; left: 76%; transform: rotate(-20deg); animation-duration: 4.2s; animation-delay: 0.3s; }
-.cosmic-shooting-stars .shooting-star:nth-child(2) { width: 95px;  top: 27%; left: 89%; transform: rotate(-36deg); animation-duration: 3.4s; animation-delay: 1.8s; }
-.cosmic-shooting-stars .shooting-star:nth-child(3) { width: 210px; top:  7%; left: 53%; transform: rotate(-14deg); animation-duration: 5.9s; animation-delay: 3.1s; }
-.cosmic-shooting-stars .shooting-star:nth-child(4) { width: 130px; top: 43%; left: 83%; transform: rotate(-28deg); animation-duration: 4.7s; animation-delay: 0.9s; }
-.cosmic-shooting-stars .shooting-star:nth-child(5) { width: 85px;  top: 61%; left: 71%; transform: rotate(-44deg); animation-duration: 3.1s; animation-delay: 3.6s; }
-.cosmic-shooting-stars .shooting-star:nth-child(6) { width: 185px; top: 17%; left: 40%; transform: rotate(-11deg); animation-duration: 6.2s; animation-delay: 5.4s; }
-.cosmic-shooting-stars .shooting-star:nth-child(7) { width: 115px; top: 74%; left: 91%; transform: rotate(-31deg); animation-duration: 4.4s; animation-delay: 4.2s; }
-.cosmic-shooting-stars .shooting-star:nth-child(8) { width: 75px;  top: 36%; left: 62%; transform: rotate(-52deg); animation-duration: 2.9s; animation-delay: 7.1s; }
+/* Tail glow dot at head of star */
+.shooting-star-inner::after {
+  content: '';
+  position: absolute;
+  right: 0; top: 50%;
+  transform: translateY(-50%);
+  width: 4px; height: 4px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.95);
+  box-shadow: 0 0 6px 2px rgba(200,180,255,0.9), 0 0 14px 4px rgba(180,150,255,0.5);
+}
 
-@keyframes starsDriftSlow { 0% { transform: translateY(0); }    100% { transform: translateY(-20px); } }
-@keyframes starsDriftMed  { 0% { transform: translateY(0); }    100% { transform: translateY(-30px); } }
-@keyframes starsDriftFast { 0% { transform: translateY(0); }    100% { transform: translateY(-50px); } }
-
-@keyframes shootingStar {
-  0%,  70% { opacity: 0;    transform: translate3d(0,0,0); }
-  75%       { opacity: 0.95; }
-  100%      { opacity: 0;    transform: translate3d(-280px,210px,0); }
+@keyframes shootTrail {
+  0%       { opacity: 0;   transform: translateX(0);    }
+  8%       { opacity: 0.95; }
+  85%      { opacity: 0.7; }
+  100%     { opacity: 0;   transform: translateX(520px); }
 }
 
 /* ===== LAYOUT ===== */
@@ -640,20 +649,29 @@ body {
   flex-wrap: wrap;
 }
 .filter-chip {
-  padding: 3px 10px;
-  border-radius: 12px;
+  padding: 4px 12px;
+  border-radius: 980px;
   font-size: 11px;
-  font-weight: 500;
+  font-weight: 600;
   cursor: pointer;
   border: 1px solid var(--border);
   color: var(--text3);
   background: transparent;
-  transition: var(--trans);
+  transition: all 0.2s cubic-bezier(0.4,0,0.2,1);
+  letter-spacing: 0.2px;
 }
-.filter-chip:hover, .filter-chip.active {
-  background: rgba(139,92,246,0.15);
-  border-color: rgba(139,92,246,0.4);
+.filter-chip:hover {
+  border-color: rgba(155,140,255,0.35);
   color: var(--purple2);
+  background: rgba(139,92,246,0.08);
+  transform: translateY(-1px);
+}
+.filter-chip.active {
+  background: linear-gradient(135deg, rgba(139,92,246,0.45), rgba(167,139,250,0.3));
+  border-color: rgba(185,170,255,0.45);
+  color: #fff;
+  box-shadow: 0 0 10px rgba(139,92,246,0.3), inset 0 1px 0 rgba(255,255,255,0.12);
+  transform: translateY(-1px);
 }
 .product-list {
   flex: 1;
@@ -973,23 +991,42 @@ body {
   gap: 8px;
   margin-bottom: 28px;
   flex-wrap: wrap;
+  padding: 4px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  width: fit-content;
 }
 .brand-tab {
-  padding: 8px 20px;
-  border-radius: 20px;
+  padding: 7px 20px;
+  border-radius: 10px;
   font-size: 13px;
   font-weight: 600;
   cursor: pointer;
-  border: 1px solid var(--border);
-  color: var(--text2);
+  border: 1px solid transparent;
+  color: var(--text3);
   background: transparent;
-  transition: var(--trans);
+  transition: all 0.22s cubic-bezier(0.4,0,0.2,1);
+  position: relative;
+  overflow: hidden;
 }
-.brand-tab:hover { border-color: var(--purple); color: var(--purple2); }
+.brand-tab::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(155,140,255,0.14), rgba(192,150,255,0.08));
+  opacity: 0;
+  transition: opacity 0.22s;
+  border-radius: inherit;
+}
+.brand-tab:hover { color: var(--purple2); border-color: rgba(155,140,255,0.2); }
+.brand-tab:hover::before { opacity: 1; }
 .brand-tab.active {
-  background: var(--purple);
-  border-color: var(--purple);
+  background: linear-gradient(135deg, rgba(139,92,246,0.5), rgba(167,139,250,0.35));
+  border-color: rgba(185,170,255,0.4);
   color: #fff;
+  box-shadow: 0 0 14px rgba(139,92,246,0.35), inset 0 1px 0 rgba(255,255,255,0.15);
+  text-shadow: 0 0 12px rgba(200,180,255,0.6);
 }
 .status-grid {
   display: grid;
@@ -1722,8 +1759,46 @@ body {
 }
 
 .sidebar {
-  box-shadow: 10px 0 30px rgba(0,0,0,0.28);
+  box-shadow: 10px 0 40px rgba(0,0,0,0.45), 2px 0 0 rgba(155,140,255,0.06);
 }
+
+/* ===== 3D CARD TILT ===== */
+/* JS sets inline perspective transforms; CSS defines base preserve-3d */
+.hero-card,
+.stat-card,
+.command-card,
+.status-card,
+.fix-card {
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+/* JS overrides transition speed on enter/leave for snappy tilt */
+.tilt-card-enter { transition: transform 0.08s ease !important; }
+.tilt-card-leave { transition: transform 0.55s cubic-bezier(0.4,0,0.2,1) !important; }
+
+/* ===== SIDEBAR POP ANIMATION ===== */
+.sidebar {
+  transition: transform 0.32s cubic-bezier(0.22,1,0.36,1);
+}
+.sidebar-nav .nav-item {
+  opacity: 0;
+  transform: translateX(-10px);
+  transition: opacity 0.3s ease, transform 0.3s ease, background 0.22s, color 0.22s, border 0.22s;
+}
+.sidebar:hover .nav-item { opacity: 1; transform: translateX(0); }
+.sidebar:hover .nav-item:nth-child(1)  { transition-delay: 0.02s; }
+.sidebar:hover .nav-item:nth-child(2)  { transition-delay: 0.05s; }
+.sidebar:hover .nav-item:nth-child(3)  { transition-delay: 0.08s; }
+.sidebar:hover .nav-item:nth-child(4)  { transition-delay: 0.11s; }
+.sidebar:hover .nav-item:nth-child(5)  { transition-delay: 0.14s; }
+.sidebar:hover .nav-item:nth-child(6)  { transition-delay: 0.17s; }
+.sidebar:hover .nav-item:nth-child(7)  { transition-delay: 0.20s; }
+.sidebar:hover .nav-item:nth-child(8)  { transition-delay: 0.23s; }
+.sidebar:hover .nav-item:nth-child(9)  { transition-delay: 0.26s; }
+.sidebar:hover .nav-item:nth-child(10) { transition-delay: 0.29s; }
+
+/* Open state (mobile) counts same as hover */
+.sidebar.open .nav-item { opacity: 1; transform: translateX(0); }
 
 .nav-item {
   transition: transform 0.35s var(--ease-apple), background 0.35s var(--ease-apple), border-color 0.35s var(--ease-apple), color 0.35s var(--ease-apple);
