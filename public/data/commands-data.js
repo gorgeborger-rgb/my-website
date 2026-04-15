@@ -89,7 +89,7 @@ const COMMANDS = [
 ];
 
 const BOT_LINKS = {
-  commandsPage: 'https://gorgeborger2-byte.github.io/cosmo-support/commands.html',
+  commandsPage: 'https://gorgeborger-rgb.github.io/my-website/commands.html',
   statusPage: 'https://support.cosmotickets.com/status/',
   supportSite: 'https://support.cosmotickets.com/'
 };
