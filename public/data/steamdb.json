@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-15T16:41:18.954956+00:00",
+  "generatedAt": "2026-04-15T17:49:13.982934+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,18 +279,18 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon's next experimental mode goes all in on sponsored kits, which sounds great for scaredy-cats like me",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1829528821318280",
-      "latestPatchPublishedAt": "2026-04-14T16:05:20+00:00",
+      "latestPatchTitle": "New Marathon update takes a leaf out of Arc Raiders' book and encourages you to play nice",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1830163047255565",
+      "latestPatchPublishedAt": "2026-04-15T16:42:08+00:00",
       "status": "ok"
     },
     {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals: Season 7.5 Begins // Dev Vision Vol. 16",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047254556",
-      "latestPatchPublishedAt": "2026-04-15T10:52:54+00:00",
+      "latestPatchTitle": "'Close enough. Welcome back Thanos': Marvel Rivals' power creep reaches new levels of busted with Black Cat",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1830163047255566",
+      "latestPatchPublishedAt": "2026-04-15T16:43:25+00:00",
       "status": "ok"
     },
     {
