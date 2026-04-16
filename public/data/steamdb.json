@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-16T18:46:46.767518+00:00",
+  "generatedAt": "2026-04-16T19:50:51.621989+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Dev Brief #216 | Conquest v2 Playtest",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821309441",
-      "latestPatchPublishedAt": "2026-04-10T08:30:59+00:00",
+      "latestPatchTitle": "Hell Let Loose: Vietnam | Beta Testing Sign Up",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047258409",
+      "latestPatchPublishedAt": "2026-04-16T19:31:14+00:00",
       "status": "ok"
     },
     {
