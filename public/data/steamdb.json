@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-16T09:00:24.125828+00:00",
+  "generatedAt": "2026-04-16T10:24:30.597074+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.4.0.3 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821306297",
-      "latestPatchPublishedAt": "2026-04-09T11:01:11+00:00",
+      "latestPatchTitle": "Patch 0.4.1.0 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047256894",
+      "latestPatchPublishedAt": "2026-04-16T09:27:56+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 10.2.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821306147",
-      "latestPatchPublishedAt": "2026-04-09T10:00:47+00:00",
+      "latestPatchTitle": "Update 10.3.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047256961",
+      "latestPatchPublishedAt": "2026-04-16T10:00:40+00:00",
       "status": "ok"
     },
     {
