@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-16T14:26:37.438600+00:00",
+  "generatedAt": "2026-04-16T16:03:27.484458+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Crucible II Begins",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257542",
-      "latestPatchPublishedAt": "2026-04-16T13:58:43+00:00",
+      "latestPatchTitle": "Dev Talk: Xbox Launch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257715",
+      "latestPatchPublishedAt": "2026-04-16T15:03:59+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "COMRAD #24",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365757987",
-      "latestPatchPublishedAt": "2026-03-20T15:06:58+00:00",
+      "latestPatchTitle": "COMRAD #25",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257760",
+      "latestPatchPublishedAt": "2026-04-16T15:14:16+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S1.2 PATCH NOTES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317689",
-      "latestPatchPublishedAt": "2026-04-14T12:30:58+00:00",
+      "latestPatchTitle": "COMMUNITY CHECKPOINT #2: Y11S1.2 UPDATES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257663",
+      "latestPatchPublishedAt": "2026-04-16T14:42:46+00:00",
       "status": "ok"
     },
     {
