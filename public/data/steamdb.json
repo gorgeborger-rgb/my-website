@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-17T12:41:06.310646+00:00",
+  "generatedAt": "2026-04-17T14:09:07.759367+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 1530300,
-      "steamDbUrl": "https://steamdb.info/app/1530300/",
-      "latestPatchTitle": "MAINTENANCE on 26th March",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365769374",
-      "latestPatchPublishedAt": "2026-03-26T01:17:49+00:00",
+      "appId": 1349230,
+      "steamDbUrl": "https://steamdb.info/app/1349230/",
+      "latestPatchTitle": "Tiny Bugfix Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
+      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "[Dev Letter] Anti-Cheat System Improvements",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259279",
-      "latestPatchPublishedAt": "2026-04-17T07:00:35+00:00",
+      "latestPatchTitle": "PUBG EMEA Championship: Spring - Playoffs Day 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260260",
+      "latestPatchPublishedAt": "2026-04-17T14:05:22+00:00",
       "status": "ok"
     },
     {
