@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-18T11:55:30.763626+00:00",
+  "generatedAt": "2026-04-18T12:46:04.617648+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "End of Season Sprint Event is now live, the Sharpshooter Bundle is now available",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257230",
-      "latestPatchPublishedAt": "2026-04-16T12:00:14+00:00",
+      "latestPatchTitle": "Version Update: New Season Echo Coming Soon!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047262256",
+      "latestPatchPublishedAt": "2026-04-18T12:00:47+00:00",
       "status": "ok"
     },
     {
