@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-18T06:59:02.500889+00:00",
+  "generatedAt": "2026-04-18T08:00:36.368294+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Melted cosmetics",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259729",
-      "latestPatchPublishedAt": "2026-04-17T10:57:06+00:00",
+      "latestPatchTitle": "Boosted Season Pass farming!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261971",
+      "latestPatchPublishedAt": "2026-04-18T07:59:16+00:00",
       "status": "ok"
     },
     {
