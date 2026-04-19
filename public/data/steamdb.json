@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-19T16:06:00.214718+00:00",
+  "generatedAt": "2026-04-19T16:55:52.464886+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -405,7 +405,7 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Hotfix 10.3,1",
+      "latestPatchTitle": "Hotfix 10.3.1",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260640",
       "latestPatchPublishedAt": "2026-04-17T15:51:27+00:00",
       "status": "ok"
