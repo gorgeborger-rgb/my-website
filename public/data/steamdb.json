@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-19T12:01:44.841440+00:00",
+  "generatedAt": "2026-04-19T13:23:01.258589+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Version Update: New Season Echo Coming Soon!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047262256",
-      "latestPatchPublishedAt": "2026-04-18T12:00:47+00:00",
+      "latestPatchTitle": "Version Update | New Season \"Echo\" Events & Rewards & Store Updates Overview",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047263942",
+      "latestPatchPublishedAt": "2026-04-19T12:00:58+00:00",
       "status": "ok"
     },
     {
