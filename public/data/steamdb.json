@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-20T14:30:10.447071+00:00",
+  "generatedAt": "2026-04-20T15:54:31.796106+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Get the Swampstrider in the Season 32 Bundles",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259632",
-      "latestPatchPublishedAt": "2026-04-17T10:14:49+00:00",
+      "latestPatchTitle": "Visual Overhaul at a Glance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047266184",
+      "latestPatchPublishedAt": "2026-04-20T14:30:47+00:00",
       "status": "ok"
     },
     {
