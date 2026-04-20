@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-20T21:51:38.362392+00:00",
+  "generatedAt": "2026-04-20T22:36:35.920426+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -369,9 +369,9 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "Ratatoskr Scampers Into SMITE 2 | The Ratatoskr Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815567295",
-      "latestPatchPublishedAt": "2026-04-07T13:00:30+00:00",
+      "latestPatchTitle": "Ishtar Ignites the Battleground | Love and War Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267227",
+      "latestPatchPublishedAt": "2026-04-20T21:51:55+00:00",
       "status": "ok"
     },
     {
