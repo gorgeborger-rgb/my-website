@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-20T11:43:55.287812+00:00",
+  "generatedAt": "2026-04-20T12:52:39.735884+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Classic clothing sets are available on Steam",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255311",
-      "latestPatchPublishedAt": "2026-04-15T15:44:49+00:00",
+      "latestPatchTitle": "Patch 1.0.4.5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047265808",
+      "latestPatchPublishedAt": "2026-04-20T12:04:54+00:00",
       "status": "ok"
     },
     {
