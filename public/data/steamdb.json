@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-20T17:57:52.605737+00:00",
+  "generatedAt": "2026-04-20T19:05:32.390596+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "\"I wanted you to feel bad\": former Battlefield audio designer recalls punching himself to record more realistic gunshot screams",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1829528821318553",
-      "latestPatchPublishedAt": "2026-04-14T17:00:00+00:00",
+      "latestPatchTitle": "The shake up to Arc Raiders Expeditions may turn the extraction shooter into a week-long bloodbath, but it could pair well with the \"significant changes\" planned for its skill tree",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1830163047266224",
+      "latestPatchPublishedAt": "2026-04-20T13:45:00+00:00",
       "status": "ok"
     },
     {
