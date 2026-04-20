@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-20T16:57:51.710074+00:00",
+  "generatedAt": "2026-04-20T17:57:52.605737+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Developer Q&A: April 13th 2026!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821315478",
-      "latestPatchPublishedAt": "2026-04-13T13:35:57+00:00",
+      "latestPatchTitle": "Dispatch From The Agency",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047266823",
+      "latestPatchPublishedAt": "2026-04-20T17:45:45+00:00",
       "status": "ok"
     },
     {
