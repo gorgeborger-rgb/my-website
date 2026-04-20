@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-20T15:54:31.796106+00:00",
+  "generatedAt": "2026-04-20T16:57:51.710074+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Boosted Season Pass farming!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261971",
-      "latestPatchPublishedAt": "2026-04-18T07:59:16+00:00",
+      "latestPatchTitle": "Rubik Returns",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047266665",
+      "latestPatchPublishedAt": "2026-04-20T16:57:09+00:00",
       "status": "ok"
     },
     {
