@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-21T12:47:52.307765+00:00",
+  "generatedAt": "2026-04-21T14:23:59.098593+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Visual Overhaul at a Glance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047266184",
-      "latestPatchPublishedAt": "2026-04-20T14:30:47+00:00",
+      "latestPatchTitle": "Albion Online: Now on Xbox!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268453",
+      "latestPatchPublishedAt": "2026-04-21T13:02:14+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "\"UPDATE: WTF WSTRs\" from Game Director, Joe Ziegler",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261550",
-      "latestPatchPublishedAt": "2026-04-17T23:02:01+00:00",
+      "latestPatchTitle": "Marathon Update 1.0.6.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268635",
+      "latestPatchPublishedAt": "2026-04-21T14:00:27+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Rust 2 isn't in development, Facepunch boss confirms after suspicious Steam page sparks speculation",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1829528821309919",
-      "latestPatchPublishedAt": "2026-04-10T11:40:42+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 14 Apr — 21 April 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1830163047268589",
+      "latestPatchPublishedAt": "2026-04-21T09:00:00+00:00",
       "status": "ok"
     },
     {
