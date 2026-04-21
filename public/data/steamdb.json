@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-21T07:24:53.363334+00:00",
+  "generatedAt": "2026-04-21T09:10:06.815403+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "The shake up to Arc Raiders Expeditions may turn the extraction shooter into a week-long bloodbath, but it could pair well with the \"significant changes\" planned for its skill tree",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1830163047266224",
-      "latestPatchPublishedAt": "2026-04-20T13:45:00+00:00",
+      "latestPatchTitle": "Hotfix 1.25.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267980",
+      "latestPatchPublishedAt": "2026-04-21T09:01:44+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Survive & Thrive Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260916",
-      "latestPatchPublishedAt": "2026-04-17T17:05:50+00:00",
+      "latestPatchTitle": "Walpurgis Night 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267859",
+      "latestPatchPublishedAt": "2026-04-21T08:00:09+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Battle Pass Season 23: Apollo’s Chariot and Its Warbond Shop!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047265673",
-      "latestPatchPublishedAt": "2026-04-20T11:02:08+00:00",
+      "latestPatchTitle": "Update 2.55.1.72",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267951",
+      "latestPatchPublishedAt": "2026-04-21T08:53:33+00:00",
       "status": "ok"
     }
   ]
