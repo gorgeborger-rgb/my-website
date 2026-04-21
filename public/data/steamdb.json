@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-21T11:46:27.092284+00:00",
+  "generatedAt": "2026-04-21T12:47:52.307765+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "April patch announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257382",
-      "latestPatchPublishedAt": "2026-04-16T13:01:09+00:00",
+      "latestPatchTitle": "SCUM - Community showcase",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268300",
+      "latestPatchPublishedAt": "2026-04-21T11:55:56+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Rubik Returns",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047266665",
-      "latestPatchPublishedAt": "2026-04-20T16:57:09+00:00",
+      "latestPatchTitle": "What is hidden in the signal?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268292",
+      "latestPatchPublishedAt": "2026-04-21T11:52:52+00:00",
       "status": "ok"
     },
     {
