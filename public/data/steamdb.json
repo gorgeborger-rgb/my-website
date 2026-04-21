@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-21T17:44:11.858910+00:00",
+  "generatedAt": "2026-04-21T18:46:28.130930+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 14 Apr — 21 April 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1830163047268589",
-      "latestPatchPublishedAt": "2026-04-21T09:00:00+00:00",
+      "latestPatchTitle": "Rust has a 'horse shield' meta problem, so one enterprising player has come up with a 'horse baiting' meta to fix it",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1830163047269268",
+      "latestPatchPublishedAt": "2026-04-21T18:18:09+00:00",
       "status": "ok"
     },
     {
