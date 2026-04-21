@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-21T18:46:28.130930+00:00",
+  "generatedAt": "2026-04-21T19:53:10.063998+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.0.6.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268635",
-      "latestPatchPublishedAt": "2026-04-21T14:00:27+00:00",
+      "latestPatchTitle": "New Marathon update bolsters free kit meds, and solo runs are all the better for it",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1830163047269298",
+      "latestPatchPublishedAt": "2026-04-21T18:37:27+00:00",
       "status": "ok"
     },
     {
