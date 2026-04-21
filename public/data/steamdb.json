@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-21T22:23:13.106453+00:00",
+  "generatedAt": "2026-04-21T23:04:15.396760+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267453",
-      "latestPatchPublishedAt": "2026-04-21T01:11:28+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229332",
+      "latestPatchPublishedAt": "2026-04-21T22:31:00+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "THE WRENCH - SPRING 2026 - PART 2: MAIN GAME AND FIRETEAM MODS",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815560881",
-      "latestPatchPublishedAt": "2026-04-03T17:00:55+00:00",
+      "latestPatchTitle": "Dev Blog: Reclaiming the IMF with Fuzzhead",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229333",
+      "latestPatchPublishedAt": "2026-04-21T22:31:45+00:00",
       "status": "ok"
     },
     {
