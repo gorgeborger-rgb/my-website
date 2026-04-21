@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-21T16:44:38.867721+00:00",
+  "generatedAt": "2026-04-21T17:44:11.858910+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "What is hidden in the signal?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268292",
-      "latestPatchPublishedAt": "2026-04-21T11:52:52+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047269141",
+      "latestPatchPublishedAt": "2026-04-21T17:06:26+00:00",
       "status": "ok"
     },
     {
