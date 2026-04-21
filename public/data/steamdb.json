@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-21T14:23:59.098593+00:00",
+  "generatedAt": "2026-04-21T15:50:16.178652+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update – April 16th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047254968",
-      "latestPatchPublishedAt": "2026-04-15T14:00:02+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List April 21st",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268722",
+      "latestPatchPublishedAt": "2026-04-21T14:31:43+00:00",
       "status": "ok"
     },
     {
