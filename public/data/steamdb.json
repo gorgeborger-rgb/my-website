@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-22T11:55:19.350999+00:00",
+  "generatedAt": "2026-04-22T13:11:12.134721+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Albion Online: Now on Xbox!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268453",
-      "latestPatchPublishedAt": "2026-04-21T13:02:14+00:00",
+      "latestPatchTitle": "Watch a Live Stream from the Studio!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230487",
+      "latestPatchPublishedAt": "2026-04-22T12:10:01+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230100",
-      "latestPatchPublishedAt": "2026-04-22T09:02:14+00:00",
+      "latestPatchTitle": "Rubik is already in the game!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230524",
+      "latestPatchPublishedAt": "2026-04-22T12:11:20+00:00",
       "status": "ok"
     },
     {
