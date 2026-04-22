@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-22T22:27:07.770186+00:00",
+  "generatedAt": "2026-04-22T23:13:57.495559+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229332",
-      "latestPatchPublishedAt": "2026-04-21T22:31:00+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770231786",
+      "latestPatchPublishedAt": "2026-04-22T22:40:51+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "The Grimoire - Ask your questions for an upcoming Q&A here!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261413",
-      "latestPatchPublishedAt": "2026-04-17T21:17:51+00:00",
+      "latestPatchTitle": "Behaviour Interactive lays off more people as 'demand for mobile and casual external development projects has declined'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1830797770231742",
+      "latestPatchPublishedAt": "2026-04-22T21:57:54+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "New Marathon update bolsters free kit meds, and solo runs are all the better for it",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1830163047269298",
-      "latestPatchPublishedAt": "2026-04-21T18:37:27+00:00",
+      "latestPatchTitle": "Experimental Queue: Sponsored Dire Marsh - Dev Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770231796",
+      "latestPatchPublishedAt": "2026-04-22T22:54:08+00:00",
       "status": "ok"
     },
     {
