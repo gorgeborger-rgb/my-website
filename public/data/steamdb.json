@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-22T06:12:19.825894+00:00",
+  "generatedAt": "2026-04-22T08:07:33.112055+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ARENA BREAKOUT: INFINITE 1ST ANNIVERSARY—FREE REWARDS FOR ALL",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259316",
-      "latestPatchPublishedAt": "2026-04-17T07:32:43+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - April 22nd",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229966",
+      "latestPatchPublishedAt": "2026-04-22T07:53:09+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ARENA BREAKOUT: INFINITE 1ST ANNIVERSARY—FREE REWARDS FOR ALL",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259316",
-      "latestPatchPublishedAt": "2026-04-17T07:32:43+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - April 22nd",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229966",
+      "latestPatchPublishedAt": "2026-04-22T07:53:09+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS Circuit 1: Meta & Statistics Deepdive",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047265672",
-      "latestPatchPublishedAt": "2026-04-20T11:01:43+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/13~04/19)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229950",
+      "latestPatchPublishedAt": "2026-04-22T07:38:11+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047269141",
-      "latestPatchPublishedAt": "2026-04-21T17:06:26+00:00",
+      "latestPatchTitle": "Patch Notes [22.04.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229972",
+      "latestPatchPublishedAt": "2026-04-22T07:56:29+00:00",
       "status": "ok"
     },
     {
