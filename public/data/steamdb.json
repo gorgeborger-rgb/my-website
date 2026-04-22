@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-22T13:11:12.134721+00:00",
+  "generatedAt": "2026-04-22T14:57:30.359181+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,9 +81,9 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Survive and Thrive Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260870",
-      "latestPatchPublishedAt": "2026-04-17T17:00:42+00:00",
+      "latestPatchTitle": "Community Radar #60",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230780",
+      "latestPatchPublishedAt": "2026-04-22T14:06:37+00:00",
       "status": "ok"
     },
     {
