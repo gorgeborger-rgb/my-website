@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-23T12:47:44.569655+00:00",
+  "generatedAt": "2026-04-23T15:00:13.825981+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "R15 Update is out – reintroducing Character Transfers ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317747",
-      "latestPatchPublishedAt": "2026-04-14T13:01:09+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced is a Massive FREE Upgrade Arriving May 5th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233231",
+      "latestPatchPublishedAt": "2026-04-23T14:01:52+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Behaviour Interactive lays off more people as 'demand for mobile and casual external development projects has declined'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1830797770231742",
-      "latestPatchPublishedAt": "2026-04-22T21:57:54+00:00",
+      "latestPatchTitle": "STATS | THE TRICKSTER",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233230",
+      "latestPatchPublishedAt": "2026-04-23T14:01:37+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM - Community showcase",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268300",
-      "latestPatchPublishedAt": "2026-04-21T11:55:56+00:00",
+      "latestPatchTitle": "April patch is officially live! (1.2.3.0.113582)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233227",
+      "latestPatchPublishedAt": "2026-04-23T14:00:57+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 10.4.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232686",
-      "latestPatchPublishedAt": "2026-04-23T10:00:18+00:00",
+      "latestPatchTitle": "Hotfix 10.4.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233335",
+      "latestPatchPublishedAt": "2026-04-23T14:33:30+00:00",
       "status": "ok"
     },
     {
