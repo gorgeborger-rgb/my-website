@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-23T21:59:30.222675+00:00",
+  "generatedAt": "2026-04-23T22:53:10.537060+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced is a Massive FREE Upgrade Arriving May 5th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233231",
-      "latestPatchPublishedAt": "2026-04-23T14:01:52+00:00",
+      "latestPatchTitle": "What is best in life? A free Conan Exiles update that completely revamps the game's graphics and more",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1830797770233870",
+      "latestPatchPublishedAt": "2026-04-23T16:12:26+00:00",
       "status": "ok"
     },
     {
