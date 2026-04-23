@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-23T16:46:33.600126+00:00",
-  "totalGames": 48,
-  "mappedGames": 48,
+  "generatedAt": "2026-04-23T17:59:39.120645+00:00",
+  "totalGames": 47,
+  "mappedGames": 47,
   "games": [
     {
       "game": "ARC Raiders",
@@ -219,15 +219,6 @@
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Escape From Tarkov",
-      "appId": 3932890,
-      "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.0.4.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047265808",
-      "latestPatchPublishedAt": "2026-04-20T12:04:54+00:00",
       "status": "ok"
     },
     {
