@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-23T10:48:56.255637+00:00",
+  "generatedAt": "2026-04-23T11:47:43.663782+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Get England’s Flag for St. George’s Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232737",
-      "latestPatchPublishedAt": "2026-04-23T10:25:40+00:00",
+      "latestPatchTitle": "Server Update 23.04.2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232913",
+      "latestPatchPublishedAt": "2026-04-23T11:47:15+00:00",
       "status": "ok"
     }
   ]
