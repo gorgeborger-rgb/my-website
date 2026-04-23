@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-23T00:04:10.607176+00:00",
+  "generatedAt": "2026-04-23T03:41:56.838222+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -234,9 +234,9 @@
       "game": "Farlight 84",
       "appId": 1928420,
       "steamDbUrl": "https://steamdb.info/app/1928420/",
-      "latestPatchTitle": "Farlight 84 No-Downtime Patch Notes (February 11)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466508212",
-      "latestPatchPublishedAt": "2026-02-10T12:00:25+00:00",
+      "latestPatchTitle": "Farlight 84 New Season Update: \"Shadow Academy\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232064",
+      "latestPatchPublishedAt": "2026-04-23T02:37:13+00:00",
       "status": "ok"
     },
     {
