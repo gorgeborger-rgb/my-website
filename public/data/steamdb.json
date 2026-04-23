@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-23T07:25:46.104675+00:00",
+  "generatedAt": "2026-04-23T09:10:43.141540+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Chain of Decay — the search begins",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230956",
-      "latestPatchPublishedAt": "2026-04-22T15:01:52+00:00",
+      "latestPatchTitle": "The lost report",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232560",
+      "latestPatchPublishedAt": "2026-04-23T08:59:11+00:00",
       "status": "ok"
     },
     {
