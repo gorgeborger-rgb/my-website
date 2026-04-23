@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-23T15:00:13.825981+00:00",
+  "generatedAt": "2026-04-23T16:46:33.600126+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Public Test Client: Patch 1.3.20.0 ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317923",
-      "latestPatchPublishedAt": "2026-04-14T14:12:16+00:00",
+      "latestPatchTitle": "Communinet Signal #15",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233622",
+      "latestPatchPublishedAt": "2026-04-23T16:16:59+00:00",
       "status": "ok"
     },
     {
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.2.0: Wild Harvest",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815557904",
-      "latestPatchPublishedAt": "2026-04-02T16:01:28+00:00",
+      "latestPatchTitle": "3.26.2.3 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233514",
+      "latestPatchPublishedAt": "2026-04-23T15:37:43+00:00",
       "status": "ok"
     },
     {
