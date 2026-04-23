@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-23T09:10:43.141540+00:00",
+  "generatedAt": "2026-04-23T10:48:56.255637+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Watch a Live Stream from the Studio!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230487",
-      "latestPatchPublishedAt": "2026-04-22T12:10:01+00:00",
+      "latestPatchTitle": "Join the Xbox AMA Today",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232683",
+      "latestPatchPublishedAt": "2026-04-23T10:00:12+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Hotfix 10.3.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260640",
-      "latestPatchPublishedAt": "2026-04-17T15:51:27+00:00",
+      "latestPatchTitle": "Update 10.4.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232686",
+      "latestPatchPublishedAt": "2026-04-23T10:00:18+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.72",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267951",
-      "latestPatchPublishedAt": "2026-04-21T08:53:33+00:00",
+      "latestPatchTitle": "Get England’s Flag for St. George’s Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232737",
+      "latestPatchPublishedAt": "2026-04-23T10:25:40+00:00",
       "status": "ok"
     }
   ]
