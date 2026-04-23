@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-23T11:47:43.663782+00:00",
+  "generatedAt": "2026-04-23T12:47:44.569655+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Zero Dam, Reshaped — A Dev Note for Operators Heading In",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230938",
-      "latestPatchPublishedAt": "2026-04-22T15:00:15+00:00",
+      "latestPatchTitle": "Update | Bug Fixes & Optimizations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232941",
+      "latestPatchPublishedAt": "2026-04-23T12:00:18+00:00",
       "status": "ok"
     },
     {
