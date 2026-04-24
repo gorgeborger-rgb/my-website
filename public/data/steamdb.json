@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-24T11:20:07.922517+00:00",
+  "generatedAt": "2026-04-24T12:09:59.572351+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.0.4.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047265808",
-      "latestPatchPublishedAt": "2026-04-20T12:04:54+00:00",
+      "latestPatchTitle": "New in-game survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235764",
+      "latestPatchPublishedAt": "2026-04-24T11:43:35+00:00",
       "status": "ok"
     },
     {
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Server maintenance April 16th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047256683",
-      "latestPatchPublishedAt": "2026-04-16T07:07:23+00:00",
+      "latestPatchTitle": "Server maintenance April 24th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235655",
+      "latestPatchPublishedAt": "2026-04-24T11:06:38+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Server Update 23.04.2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232913",
-      "latestPatchPublishedAt": "2026-04-23T11:47:15+00:00",
+      "latestPatchTitle": "Fair Play: April 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235745",
+      "latestPatchPublishedAt": "2026-04-24T11:36:41+00:00",
       "status": "ok"
     }
   ]
