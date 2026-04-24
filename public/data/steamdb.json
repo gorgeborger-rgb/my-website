@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-24T20:54:28.988040+00:00",
+  "generatedAt": "2026-04-24T21:41:02.721761+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Americas Series Finals 1 - Day 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236368",
-      "latestPatchPublishedAt": "2026-04-24T14:41:16+00:00",
+      "latestPatchTitle": "PEC: Spring Finals 1 - Day 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237395",
+      "latestPatchPublishedAt": "2026-04-24T21:00:06+00:00",
       "status": "ok"
     },
     {
