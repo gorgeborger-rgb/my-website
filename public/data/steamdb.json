@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-24T12:09:59.572351+00:00",
+  "generatedAt": "2026-04-24T14:05:16.527513+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Server maintenance April 24th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235655",
-      "latestPatchPublishedAt": "2026-04-24T11:06:38+00:00",
+      "latestPatchTitle": "PIONER - patch EA 0.1.8",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235971",
+      "latestPatchPublishedAt": "2026-04-24T12:34:29+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "The lost report",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232560",
-      "latestPatchPublishedAt": "2026-04-23T08:59:11+00:00",
+      "latestPatchTitle": "Increase in number of winners",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236084",
+      "latestPatchPublishedAt": "2026-04-24T13:05:49+00:00",
       "status": "ok"
     },
     {
