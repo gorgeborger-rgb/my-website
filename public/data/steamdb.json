@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-24T10:06:53.247423+00:00",
+  "generatedAt": "2026-04-24T11:20:07.922517+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Join the Xbox AMA Today",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232683",
-      "latestPatchPublishedAt": "2026-04-23T10:00:12+00:00",
+      "latestPatchTitle": "The Crucible II: Week One Report",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235597",
+      "latestPatchPublishedAt": "2026-04-24T10:47:57+00:00",
       "status": "ok"
     },
     {
