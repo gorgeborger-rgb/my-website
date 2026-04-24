@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-24T06:25:47.526567+00:00",
+  "generatedAt": "2026-04-24T08:29:18.695061+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #113",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047256713",
-      "latestPatchPublishedAt": "2026-04-16T07:27:40+00:00",
+      "latestPatchTitle": "Early Access Season 9 - Face the Inferno",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235090",
+      "latestPatchPublishedAt": "2026-04-24T06:41:26+00:00",
       "status": "ok"
     },
     {
