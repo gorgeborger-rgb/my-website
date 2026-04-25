@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-25T04:23:58.561284+00:00",
+  "generatedAt": "2026-04-25T06:04:32.144141+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Fair Play: April 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235745",
-      "latestPatchPublishedAt": "2026-04-24T11:36:41+00:00",
+      "latestPatchTitle": "Screenshot Competition – Tried and True!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237934",
+      "latestPatchPublishedAt": "2026-04-25T05:31:23+00:00",
       "status": "ok"
     }
   ]
