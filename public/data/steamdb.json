@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-24T23:53:40.067410+00:00",
+  "generatedAt": "2026-04-25T01:48:51.753371+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 503: Burrowbuck, The Tunnel Trickster",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261658",
-      "latestPatchPublishedAt": "2026-04-18T00:02:06+00:00",
+      "latestPatchTitle": "Community Crunch 504: From Shoulder to Savior",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237746",
+      "latestPatchPublishedAt": "2026-04-25T01:28:24+00:00",
       "status": "ok"
     },
     {
