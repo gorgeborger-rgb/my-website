@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-25T11:56:09.415645+00:00",
+  "generatedAt": "2026-04-25T12:54:40.868378+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Artefacts, they're everywhere!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770238157",
-      "latestPatchPublishedAt": "2026-04-25T08:59:46+00:00",
+      "latestPatchTitle": "Photos from the past",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770238402",
+      "latestPatchPublishedAt": "2026-04-25T12:00:21+00:00",
       "status": "ok"
     },
     {
