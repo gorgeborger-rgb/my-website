@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-27T12:12:36.463269+00:00",
+  "generatedAt": "2026-04-27T14:28:21.431330+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced arrives May 5th with \"strong performance on Steam Deck\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1830797770241834",
-      "latestPatchPublishedAt": "2026-04-27T10:11:32+00:00",
+      "latestPatchTitle": "April Hotfix",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770242232",
+      "latestPatchPublishedAt": "2026-04-27T13:04:32+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Communinet Signal #15",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233622",
-      "latestPatchPublishedAt": "2026-04-23T16:16:59+00:00",
+      "latestPatchTitle": "Update 1.4 livestream - April 30 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770242502",
+      "latestPatchPublishedAt": "2026-04-27T14:00:41+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "What’s Next After Spearhead? | Devlog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230965",
-      "latestPatchPublishedAt": "2026-04-22T15:04:50+00:00",
+      "latestPatchTitle": "Join us for the Early Access Anniversary Stream",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770242571",
+      "latestPatchPublishedAt": "2026-04-27T14:27:34+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Photos from the past",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770238402",
-      "latestPatchPublishedAt": "2026-04-25T12:00:21+00:00",
+      "latestPatchTitle": "Heavy steel moves in",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770242399",
+      "latestPatchPublishedAt": "2026-04-27T13:37:57+00:00",
       "status": "ok"
     },
     {
