@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-27T08:44:20.758349+00:00",
+  "generatedAt": "2026-04-27T10:48:59.402714+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "What is best in life? A free Conan Exiles update that completely revamps the game's graphics and more",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1830797770233870",
-      "latestPatchPublishedAt": "2026-04-23T16:12:26+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced arrives May 5th with \"strong performance on Steam Deck\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1830797770241834",
+      "latestPatchPublishedAt": "2026-04-27T10:11:32+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Update | Bug Fixes & Optimizations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232941",
-      "latestPatchPublishedAt": "2026-04-23T12:00:18+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770241767",
+      "latestPatchPublishedAt": "2026-04-27T09:53:05+00:00",
       "status": "ok"
     },
     {
