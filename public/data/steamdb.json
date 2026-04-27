@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-27T16:08:17.701679+00:00",
+  "generatedAt": "2026-04-27T17:40:05.064946+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "STATS | THE TRICKSTER",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233230",
-      "latestPatchPublishedAt": "2026-04-23T14:01:37+00:00",
+      "latestPatchTitle": "A Match Details Sneak Peek Ahead of Tomorrow's Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770243206",
+      "latestPatchPublishedAt": "2026-04-27T17:08:45+00:00",
       "status": "ok"
     },
     {
