@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-28T12:59:20.276193+00:00",
+  "generatedAt": "2026-04-28T17:12:14.357546+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Anti-Cheat Team - 04/24/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236966",
-      "latestPatchPublishedAt": "2026-04-24T17:35:33+00:00",
+      "latestPatchTitle": "Apex Legends: Overclocked Anthem Trailer",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245734",
+      "latestPatchPublishedAt": "2026-04-28T15:19:28+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "A Match Details Sneak Peek Ahead of Tomorrow's Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770243206",
-      "latestPatchPublishedAt": "2026-04-27T17:08:45+00:00",
+      "latestPatchTitle": "9.6.0 | Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245603",
+      "latestPatchPublishedAt": "2026-04-28T14:30:12+00:00",
       "status": "ok"
     },
     {
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770241767",
-      "latestPatchPublishedAt": "2026-04-27T09:53:05+00:00",
+      "latestPatchTitle": "Burst Fest Update | Log In for 2,600 Limited-Time Delta Tickets",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245753",
+      "latestPatchPublishedAt": "2026-04-28T15:30:34+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Update 1.4 livestream - April 30 ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770242502",
-      "latestPatchPublishedAt": "2026-04-27T14:00:41+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.3.20.0 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245352",
+      "latestPatchPublishedAt": "2026-04-28T13:18:56+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "СМИ: Bungie перебрасывает разработчиков Destiny 2 на спасение Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1830797770233937",
-      "latestPatchPublishedAt": "2026-04-23T18:01:00+00:00",
+      "latestPatchTitle": "Marathon Update 1.0.6.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245526",
+      "latestPatchPublishedAt": "2026-04-28T14:00:29+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List April 21st",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268722",
-      "latestPatchPublishedAt": "2026-04-21T14:31:43+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update – April 29th, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245894",
+      "latestPatchPublishedAt": "2026-04-28T16:23:17+00:00",
       "status": "ok"
     },
     {
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "PIONER - patch EA 0.1.8",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235971",
-      "latestPatchPublishedAt": "2026-04-24T12:34:29+00:00",
+      "latestPatchTitle": "The technical issues have been resolved",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245633",
+      "latestPatchPublishedAt": "2026-04-28T14:42:31+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Subdivision Battles, Wild North and Session modes: answers to your questions",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244930",
-      "latestPatchPublishedAt": "2026-04-28T10:59:58+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245967",
+      "latestPatchPublishedAt": "2026-04-28T16:57:10+00:00",
       "status": "ok"
     },
     {
