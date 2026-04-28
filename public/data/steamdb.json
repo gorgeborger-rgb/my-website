@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-28T18:53:33.851643+00:00",
+  "generatedAt": "2026-04-28T20:10:13.788775+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 3353100,
-      "steamDbUrl": "https://steamdb.info/app/3353100/",
-      "latestPatchTitle": "Patch 1.1.3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588592453",
-      "latestPatchPublishedAt": "2026-03-12T13:55:28+00:00",
+      "appId": 1349230,
+      "steamDbUrl": "https://steamdb.info/app/1349230/",
+      "latestPatchTitle": "Tiny Bugfix Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
+      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
       "status": "ok"
     },
     {
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "1.9 Mod Compatibility & Testing",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821305015",
-      "latestPatchPublishedAt": "2026-04-08T18:34:01+00:00",
+      "latestPatchTitle": "Update 1.9: Blueprints & Progression Overhaul, Mirny Map Expansion, New Airdrops",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770246316",
+      "latestPatchPublishedAt": "2026-04-28T19:37:22+00:00",
       "status": "ok"
     },
     {
