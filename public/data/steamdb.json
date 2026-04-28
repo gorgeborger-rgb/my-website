@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-28T06:40:16.530441+00:00",
+  "generatedAt": "2026-04-28T09:08:03.433350+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Hotfix 1.25.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267980",
-      "latestPatchPublishedAt": "2026-04-21T09:01:44+00:00",
+      "latestPatchTitle": "Riven Tides - Patch Notes Update 1.26.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244665",
+      "latestPatchPublishedAt": "2026-04-28T09:00:54+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Season 9 - Face the Inferno",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235090",
-      "latestPatchPublishedAt": "2026-04-24T06:41:26+00:00",
+      "latestPatchTitle": "Early Access Season #9",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244464",
+      "latestPatchPublishedAt": "2026-04-28T07:29:34+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Tried and True!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237934",
-      "latestPatchPublishedAt": "2026-04-25T05:31:23+00:00",
+      "latestPatchTitle": "Update 2.55.1.84",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244450",
+      "latestPatchPublishedAt": "2026-04-28T07:26:06+00:00",
       "status": "ok"
     }
   ]
