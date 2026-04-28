@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-28T17:12:14.357546+00:00",
+  "generatedAt": "2026-04-28T18:53:33.851643+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Riven Tides",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244701",
-      "latestPatchPublishedAt": "2026-04-28T09:18:34+00:00",
+      "latestPatchTitle": "\"We've heard a clear frustration\": Arc Raiders update adds a beach holiday map while patching the gun balance to ensure \"all players are challenged by weapon attrition\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1830797770245873",
+      "latestPatchPublishedAt": "2026-04-28T15:35:01+00:00",
       "status": "ok"
     },
     {
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 1349230,
-      "steamDbUrl": "https://steamdb.info/app/1349230/",
-      "latestPatchTitle": "Tiny Bugfix Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
-      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
+      "appId": 3353100,
+      "steamDbUrl": "https://steamdb.info/app/3353100/",
+      "latestPatchTitle": "Patch 1.1.3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588592453",
+      "latestPatchPublishedAt": "2026-03-12T13:55:28+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "9.6.0 | Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245603",
-      "latestPatchPublishedAt": "2026-04-28T14:30:12+00:00",
+      "latestPatchTitle": "What's new in 2V8?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770246191",
+      "latestPatchPublishedAt": "2026-04-28T18:09:35+00:00",
       "status": "ok"
     },
     {
