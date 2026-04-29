@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-29T21:41:55.637887+00:00",
+  "generatedAt": "2026-04-29T22:40:13.412594+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Cache arrives in Counter-Strike 2 while Valve continue working on ANIMGRAPH 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1831432155564670",
-      "latestPatchPublishedAt": "2026-04-29T10:25:37+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566354",
+      "latestPatchPublishedAt": "2026-04-29T21:46:05+00:00",
       "status": "ok"
     },
     {
