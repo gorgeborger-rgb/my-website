@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-29T08:58:32.212563+00:00",
+  "generatedAt": "2026-04-29T10:58:26.425251+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Crucible II: Week One Report",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235597",
-      "latestPatchPublishedAt": "2026-04-24T10:47:57+00:00",
+      "latestPatchTitle": "Introducing the Radiant Wilds Ambassadors!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564593",
+      "latestPatchPublishedAt": "2026-04-29T10:00:19+00:00",
       "status": "ok"
     },
     {
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "The Return Of Cache",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563524",
-      "latestPatchPublishedAt": "2026-04-28T22:24:25+00:00",
+      "latestPatchTitle": "Cache arrives in Counter-Strike 2 while Valve continue working on ANIMGRAPH 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1831432155564670",
+      "latestPatchPublishedAt": "2026-04-29T10:25:37+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk April 22nd Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230338",
-      "latestPatchPublishedAt": "2026-04-22T10:55:48+00:00",
+      "latestPatchTitle": "FragPunk April 29th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564694",
+      "latestPatchPublishedAt": "2026-04-29T10:42:44+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Dev Updates on Sponsored Queue and Combat feedback",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563529",
-      "latestPatchPublishedAt": "2026-04-28T22:30:28+00:00",
+      "latestPatchTitle": "Аналитики: Пользователи Xbox Series X|S играют в Marathon активнее, чем владельцы PlayStation 5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1831432155564676",
+      "latestPatchPublishedAt": "2026-04-29T02:57:00+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.84",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244450",
-      "latestPatchPublishedAt": "2026-04-28T07:26:06+00:00",
+      "latestPatchTitle": "War Thunder Infantry: Testing Continues!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564623",
+      "latestPatchPublishedAt": "2026-04-29T10:13:26+00:00",
       "status": "ok"
     }
   ]
