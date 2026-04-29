@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-29T00:09:09.520205+00:00",
+  "generatedAt": "2026-04-29T04:00:48.412295+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "\"We've heard a clear frustration\": Arc Raiders update adds a beach holiday map while patching the gun balance to ensure \"all players are challenged by weapon attrition\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1830797770245873",
-      "latestPatchPublishedAt": "2026-04-28T15:35:01+00:00",
+      "latestPatchTitle": "ARC Raiders получила новую карту, врага и поддержку PSSR 2 на PlayStation 5 Pro — вышло обновление Riven Tides",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1831432155563795",
+      "latestPatchPublishedAt": "2026-04-28T21:00:00+00:00",
       "status": "ok"
     },
     {
