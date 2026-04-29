@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-29T17:52:19.570024+00:00",
+  "generatedAt": "2026-04-29T19:13:29.700019+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "What's new in 2V8?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770246191",
-      "latestPatchPublishedAt": "2026-04-28T18:09:35+00:00",
+      "latestPatchTitle": "Play While You Wait: Now available in 1v4!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565955",
+      "latestPatchPublishedAt": "2026-04-29T18:01:39+00:00",
       "status": "ok"
     },
     {
