@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-29T06:33:31.443890+00:00",
+  "generatedAt": "2026-04-29T08:58:32.212563+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,7 +207,7 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.3.20.0 Patch Notes",
+      "latestPatchTitle": "PvP now optional - 1.3.20.0 Patch Notes",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245352",
       "latestPatchPublishedAt": "2026-04-28T13:18:56+00:00",
       "status": "ok"
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Americas Series Finals 1 - Day 3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770240984",
-      "latestPatchPublishedAt": "2026-04-26T22:23:34+00:00",
+      "latestPatchTitle": "[Dev Letter] Map Selection for Random Map Regions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564238",
+      "latestPatchPublishedAt": "2026-04-29T07:10:35+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245967",
-      "latestPatchPublishedAt": "2026-04-28T16:57:10+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564403",
+      "latestPatchPublishedAt": "2026-04-29T08:30:09+00:00",
       "status": "ok"
     },
     {
