@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-29T12:17:53.817948+00:00",
+  "generatedAt": "2026-04-29T14:33:38.322940+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update – April 29th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245894",
-      "latestPatchPublishedAt": "2026-04-28T16:23:17+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List April 29th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565065",
+      "latestPatchPublishedAt": "2026-04-29T12:52:38+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "COMMUNITY CHECKPOINT #2: Y11S1.2 UPDATES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257663",
-      "latestPatchPublishedAt": "2026-04-16T14:42:46+00:00",
+      "latestPatchTitle": "Salt Lake City Major Kicks Off This May",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565326",
+      "latestPatchPublishedAt": "2026-04-29T14:30:32+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "April patch is officially live! (1.2.3.0.113582)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233227",
-      "latestPatchPublishedAt": "2026-04-23T14:00:57+00:00",
+      "latestPatchTitle": "Hotfix - 1.2.3.1.114625",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565228",
+      "latestPatchPublishedAt": "2026-04-29T13:59:35+00:00",
       "status": "ok"
     },
     {
