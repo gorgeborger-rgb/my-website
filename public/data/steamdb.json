@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T04:51:03.852700+00:00",
+  "generatedAt": "2026-04-30T07:24:43.087446+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Season #9",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244464",
-      "latestPatchPublishedAt": "2026-04-28T07:29:34+00:00",
+      "latestPatchTitle": "Early Access Hotfix #114",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566984",
+      "latestPatchPublishedAt": "2026-04-30T06:03:24+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Burst Fest Update | Log In for 2,600 Limited-Time Delta Tickets",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245753",
-      "latestPatchPublishedAt": "2026-04-28T15:30:34+00:00",
+      "latestPatchTitle": "Burst Fest Streamer Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566977",
+      "latestPatchPublishedAt": "2026-04-30T06:00:18+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260423 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232402",
-      "latestPatchPublishedAt": "2026-04-23T07:17:44+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260430 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567064",
+      "latestPatchPublishedAt": "2026-04-30T07:00:13+00:00",
       "status": "ok"
     },
     {
