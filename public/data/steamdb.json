@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T09:32:54.069659+00:00",
+  "generatedAt": "2026-04-30T11:16:16.894637+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Introducing the Radiant Wilds Ambassadors!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564593",
-      "latestPatchPublishedAt": "2026-04-29T10:00:19+00:00",
+      "latestPatchTitle": "The Crucible II: The Final Showdown Begins",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567500",
+      "latestPatchPublishedAt": "2026-04-30T10:00:32+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "New in-game survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770235764",
-      "latestPatchPublishedAt": "2026-04-24T11:43:35+00:00",
+      "latestPatchTitle": "Developer’s Diary: Lighthouse",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567660",
+      "latestPatchPublishedAt": "2026-04-30T11:00:46+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Hotfix 10.4.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233335",
-      "latestPatchPublishedAt": "2026-04-23T14:33:30+00:00",
+      "latestPatchTitle": "Store Update 10.5.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567507",
+      "latestPatchPublishedAt": "2026-04-30T10:01:45+00:00",
       "status": "ok"
     },
     {
