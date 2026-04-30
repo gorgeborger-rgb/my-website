@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T11:16:16.894637+00:00",
+  "generatedAt": "2026-04-30T12:56:56.751852+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pages of History (May): To Berlin!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567409",
-      "latestPatchPublishedAt": "2026-04-30T09:17:48+00:00",
+      "latestPatchTitle": "War Thunder’s May Sale Is Here!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567715",
+      "latestPatchPublishedAt": "2026-04-30T11:16:42+00:00",
       "status": "ok"
     }
   ]
