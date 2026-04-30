@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T17:58:40.725688+00:00",
+  "generatedAt": "2026-04-30T19:26:03.531912+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Developer’s Diary: Lighthouse",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567660",
-      "latestPatchPublishedAt": "2026-04-30T11:00:46+00:00",
+      "latestPatchTitle": "ETS testing is back!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569341",
+      "latestPatchPublishedAt": "2026-04-30T18:42:11+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Offworld Devblog w/ Slay3k, Norby & Assi - Update 10.4 and Beyond",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770246474",
-      "latestPatchPublishedAt": "2026-04-28T21:36:12+00:00",
+      "latestPatchTitle": "Squad 10.4 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569227",
+      "latestPatchPublishedAt": "2026-04-30T18:00:54+00:00",
       "status": "ok"
     },
     {
