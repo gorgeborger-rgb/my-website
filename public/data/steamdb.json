@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T07:24:43.087446+00:00",
+  "generatedAt": "2026-04-30T09:32:54.069659+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders получила новую карту, врага и поддержку PSSR 2 на PlayStation 5 Pro — вышло обновление Riven Tides",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1831432155563795",
-      "latestPatchPublishedAt": "2026-04-28T21:00:00+00:00",
+      "latestPatchTitle": "Hotfix 1.26.1 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567224",
+      "latestPatchPublishedAt": "2026-04-30T08:08:46+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564403",
-      "latestPatchPublishedAt": "2026-04-29T08:30:09+00:00",
+      "latestPatchTitle": "Class system",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567366",
+      "latestPatchPublishedAt": "2026-04-30T08:59:59+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Decal Trophy for Golden Week in Japan!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564760",
-      "latestPatchPublishedAt": "2026-04-29T11:12:28+00:00",
+      "latestPatchTitle": "Pages of History (May): To Berlin!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567409",
+      "latestPatchPublishedAt": "2026-04-30T09:17:48+00:00",
       "status": "ok"
     }
   ]
