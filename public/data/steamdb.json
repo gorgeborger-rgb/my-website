@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T15:07:01.434923+00:00",
+  "generatedAt": "2026-04-30T16:44:15.948173+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Overclocked Anthem Trailer",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245734",
-      "latestPatchPublishedAt": "2026-04-28T15:19:28+00:00",
+      "latestPatchTitle": "Apex Legends: Overclocked Gameplay Trailer",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568816",
+      "latestPatchPublishedAt": "2026-04-30T16:09:27+00:00",
       "status": "ok"
     },
     {
@@ -81,9 +81,9 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Community Radar #60",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230780",
-      "latestPatchPublishedAt": "2026-04-22T14:06:37+00:00",
+      "latestPatchTitle": "Announcing Arma 3 Pass",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568883",
+      "latestPatchPublishedAt": "2026-04-30T16:30:02+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "PvP now optional - 1.3.20.0 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245352",
-      "latestPatchPublishedAt": "2026-04-28T13:18:56+00:00",
+      "latestPatchTitle": "Update 1.4 coming May 19",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568756",
+      "latestPatchPublishedAt": "2026-04-30T16:00:26+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Hell Let Loose: Vietnam | Beta Testing Sign Up",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047258409",
-      "latestPatchPublishedAt": "2026-04-16T19:31:14+00:00",
+      "latestPatchTitle": "Dev Brief #217 | Juno Beach & Armor Changes | Playtest",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568524",
+      "latestPatchPublishedAt": "2026-04-30T15:01:09+00:00",
       "status": "ok"
     },
     {
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.2.3 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233514",
-      "latestPatchPublishedAt": "2026-04-23T15:37:43+00:00",
+      "latestPatchTitle": "California 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568758",
+      "latestPatchPublishedAt": "2026-04-30T16:00:39+00:00",
       "status": "ok"
     },
     {
