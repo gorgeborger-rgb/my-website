@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T12:56:56.751852+00:00",
+  "generatedAt": "2026-04-30T15:07:01.434923+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "A Tour Of Active Matter’s Locations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770236816",
-      "latestPatchPublishedAt": "2026-04-24T16:58:30+00:00",
+      "latestPatchTitle": "Updated Active Matter Demo Is Now On Steam",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568044",
+      "latestPatchPublishedAt": "2026-04-30T13:00:58+00:00",
       "status": "ok"
     },
     {
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Update 1.9: Blueprints & Progression Overhaul, Mirny Map Expansion, New Airdrops",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770246316",
-      "latestPatchPublishedAt": "2026-04-28T19:37:22+00:00",
+      "latestPatchTitle": "Hotfix 1.9.0.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568161",
+      "latestPatchPublishedAt": "2026-04-30T13:32:33+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "War Thunder’s May Sale Is Here!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567715",
-      "latestPatchPublishedAt": "2026-04-30T11:16:42+00:00",
+      "latestPatchTitle": "Anti-Cheat, Privacy, and Fair Play: Clarifying the Facts",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568224",
+      "latestPatchPublishedAt": "2026-04-30T13:52:56+00:00",
       "status": "ok"
     }
   ]
