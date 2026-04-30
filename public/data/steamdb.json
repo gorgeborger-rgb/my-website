@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-29T23:35:34.583191+00:00",
+  "generatedAt": "2026-04-30T01:20:37.492936+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "[Dev Letter] Map Selection for Random Map Regions",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564238",
-      "latestPatchPublishedAt": "2026-04-29T07:10:35+00:00",
+      "latestPatchTitle": "PUBG Global Series Circuit 2 is about to drop!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566516",
+      "latestPatchPublishedAt": "2026-04-29T23:37:09+00:00",
       "status": "ok"
     },
     {
