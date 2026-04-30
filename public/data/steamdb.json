@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T16:44:15.948173+00:00",
+  "generatedAt": "2026-04-30T17:58:40.725688+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "The technical issues have been resolved",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245633",
-      "latestPatchPublishedAt": "2026-04-28T14:42:31+00:00",
+      "latestPatchTitle": "We have decided to migrate to new servers!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569204",
+      "latestPatchPublishedAt": "2026-04-30T17:51:57+00:00",
       "status": "ok"
     },
     {
