@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-01T10:47:02.302365+00:00",
+  "generatedAt": "2026-05-01T11:45:23.927809+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Anti-Cheat, Privacy, and Fair Play: Clarifying the Facts",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568224",
-      "latestPatchPublishedAt": "2026-04-30T13:52:56+00:00",
+      "latestPatchTitle": "A Trophy with Decals in Honor of Polish Constitution Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155571022",
+      "latestPatchPublishedAt": "2026-05-01T11:34:39+00:00",
       "status": "ok"
     }
   ]
