@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-02T03:53:13.673924+00:00",
+  "generatedAt": "2026-05-02T06:02:04.364382+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon is looking to save you from grenade spam and being one-shot by the Ares",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155564953",
-      "latestPatchPublishedAt": "2026-04-29T11:59:20+00:00",
+      "latestPatchTitle": "Цифры тают на глазах: Среднесуточный онлайн Marathon в Steam впервые провалился до 15 тысяч человек — скидка не помогла",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1831432155573027",
+      "latestPatchPublishedAt": "2026-05-02T02:59:00+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Trophy with Decals in Honor of Polish Constitution Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155571022",
-      "latestPatchPublishedAt": "2026-05-01T11:34:39+00:00",
+      "latestPatchTitle": "Screenshot Competition – Between the Buildings!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155573080",
+      "latestPatchPublishedAt": "2026-05-02T05:00:11+00:00",
       "status": "ok"
     }
   ]
