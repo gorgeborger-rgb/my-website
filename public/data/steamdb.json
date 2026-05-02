@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-02T17:32:25.870329+00:00",
+  "generatedAt": "2026-05-02T18:32:26.852608+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #114",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566984",
-      "latestPatchPublishedAt": "2026-04-30T06:03:24+00:00",
+      "latestPatchTitle": "South Korean Supreme Court orders Dark and Darker dev Ironmace to pay $3.84 million to Nexon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1831432155574212",
+      "latestPatchPublishedAt": "2026-05-02T17:22:57+00:00",
       "status": "ok"
     },
     {
