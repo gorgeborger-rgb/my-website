@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-02T06:02:04.364382+00:00",
+  "generatedAt": "2026-05-02T07:57:48.680284+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Server maintenance May 2th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155572683",
-      "latestPatchPublishedAt": "2026-05-01T22:44:59+00:00",
+      "latestPatchTitle": "PIONER - patch EA 0.1.8A",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155573209",
+      "latestPatchPublishedAt": "2026-05-02T07:46:23+00:00",
       "status": "ok"
     },
     {
