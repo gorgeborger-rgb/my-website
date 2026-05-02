@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-02T00:13:42.273336+00:00",
+  "generatedAt": "2026-05-02T03:53:13.673924+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 504: From Shoulder to Savior",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237746",
-      "latestPatchPublishedAt": "2026-04-25T01:28:24+00:00",
+      "latestPatchTitle": "Community Crunch 505: Deep Dives & Technical Strides. What’s Surfacing Next!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155572815",
+      "latestPatchPublishedAt": "2026-05-02T00:30:00+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS1 Playoffs 2 - Day 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155572094",
-      "latestPatchPublishedAt": "2026-05-01T17:47:22+00:00",
+      "latestPatchTitle": "PAS1 Playoffs 2 - Day 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155572973",
+      "latestPatchPublishedAt": "2026-05-02T02:59:38+00:00",
       "status": "ok"
     },
     {
