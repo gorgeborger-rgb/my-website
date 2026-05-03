@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-03T00:05:50.310240+00:00",
+  "generatedAt": "2026-05-03T04:06:46.788177+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Цифры тают на глазах: Среднесуточный онлайн Marathon в Steam впервые провалился до 15 тысяч человек — скидка не помогла",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1831432155573027",
-      "latestPatchPublishedAt": "2026-05-02T02:59:00+00:00",
+      "latestPatchTitle": "У Bungie есть план поддержки Marathon на несколько лет вперед — от него не собираются отказываться",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1831432155574729",
+      "latestPatchPublishedAt": "2026-05-03T01:14:00+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS1 Playoffs 2 - Day 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155572973",
-      "latestPatchPublishedAt": "2026-05-02T02:59:38+00:00",
+      "latestPatchTitle": "PAS1 Playoffs 2 - Day 3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155574777",
+      "latestPatchPublishedAt": "2026-05-03T02:45:54+00:00",
       "status": "ok"
     },
     {
