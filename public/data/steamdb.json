@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-04T12:08:55.761021+00:00",
+  "generatedAt": "2026-05-04T14:28:18.002225+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 1349230,
-      "steamDbUrl": "https://steamdb.info/app/1349230/",
-      "latestPatchTitle": "Tiny Bugfix Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
-      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
+      "appId": 3353100,
+      "steamDbUrl": "https://steamdb.info/app/3353100/",
+      "latestPatchTitle": "Patch 1.1.3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588592453",
+      "latestPatchPublishedAt": "2026-03-12T13:55:28+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Assault on the Reichstag progression",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155573465",
-      "latestPatchPublishedAt": "2026-05-02T10:59:53+00:00",
+      "latestPatchTitle": "Personalities — a new layer of customisation",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155577421",
+      "latestPatchPublishedAt": "2026-05-04T13:30:00+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Legend of Victory: KV-8",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155576952",
-      "latestPatchPublishedAt": "2026-05-04T09:06:28+00:00",
+      "latestPatchTitle": "Update 2.55.1.92",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155577359",
+      "latestPatchPublishedAt": "2026-05-04T13:07:01+00:00",
       "status": "ok"
     }
   ]
