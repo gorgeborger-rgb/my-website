@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-04T17:54:54.814258+00:00",
+  "generatedAt": "2026-05-04T19:18:22.533087+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Reloaded Recon: Black Ops 7 and Call of Duty: Warzone Season 03",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770234051",
-      "latestPatchPublishedAt": "2026-04-23T19:10:39+00:00",
+      "latestPatchTitle": "Call of Duty Endowment Military Appreciation Month presented by USAA",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578381",
+      "latestPatchPublishedAt": "2026-05-04T18:45:46+00:00",
       "status": "ok"
     },
     {
