@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-05T10:22:42.877804+00:00",
+  "generatedAt": "2026-05-05T11:49:16.787435+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Changelog: Radiant Wilds Patch 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155577031",
-      "latestPatchPublishedAt": "2026-05-04T10:00:16+00:00",
+      "latestPatchTitle": "The Crucible II: The Results are In!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155579655",
+      "latestPatchPublishedAt": "2026-05-05T10:32:29+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Charge!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155579461",
-      "latestPatchPublishedAt": "2026-05-05T08:47:57+00:00",
+      "latestPatchTitle": "Assault on the Reichstag map",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155579714",
+      "latestPatchPublishedAt": "2026-05-05T11:00:30+00:00",
       "status": "ok"
     },
     {
