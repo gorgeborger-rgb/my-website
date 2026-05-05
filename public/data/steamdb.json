@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-05T11:49:16.787435+00:00",
+  "generatedAt": "2026-05-05T12:59:53.273679+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Hotfix - 1.2.3.1.114625",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565228",
-      "latestPatchPublishedAt": "2026-04-29T13:59:35+00:00",
+      "latestPatchTitle": "SCUM - Community showcase",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155579894",
+      "latestPatchPublishedAt": "2026-05-05T12:21:10+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Assault on the Reichstag map",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155579714",
-      "latestPatchPublishedAt": "2026-05-05T11:00:30+00:00",
+      "latestPatchTitle": "What will happen to the Inside Out resources?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155579983",
+      "latestPatchPublishedAt": "2026-05-05T12:58:21+00:00",
       "status": "ok"
     },
     {
