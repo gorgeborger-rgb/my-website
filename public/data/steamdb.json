@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-05T20:46:45.544595+00:00",
+  "generatedAt": "2026-05-05T21:44:49.465672+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Matchmaking Outage - 05/05/2026 11:30am PT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155581061",
-      "latestPatchPublishedAt": "2026-05-05T18:30:57+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 05/05/2026, 2:00pm PT",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155581392",
+      "latestPatchPublishedAt": "2026-05-05T21:03:30+00:00",
       "status": "ok"
     },
     {
