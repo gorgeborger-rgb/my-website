@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-06T11:30:34.836228+00:00",
+  "generatedAt": "2026-05-06T13:18:37.825271+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "All units, charge!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808421",
-      "latestPatchPublishedAt": "2026-05-06T10:11:01+00:00",
+      "latestPatchTitle": "Unusual artefacts detected!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808802",
+      "latestPatchPublishedAt": "2026-05-06T12:58:53+00:00",
       "status": "ok"
     },
     {
