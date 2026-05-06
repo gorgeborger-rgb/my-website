@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-06T13:18:37.825271+00:00",
+  "generatedAt": "2026-05-06T15:38:26.220692+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -117,9 +117,9 @@
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "Springtime Tune-up!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155577662",
-      "latestPatchPublishedAt": "2026-05-04T15:08:57+00:00",
+      "latestPatchTitle": "Springtime Tune-up Hotfix",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502809214",
+      "latestPatchPublishedAt": "2026-05-06T15:06:40+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "The Funcom Survival Classic Conan Exiles Gets FREE Massive UE5 Upgrade",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155580426",
-      "latestPatchPublishedAt": "2026-05-05T15:27:39+00:00",
+      "latestPatchTitle": "Public Test Client: Patch 1.4.0.0 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502809111",
+      "latestPatchPublishedAt": "2026-05-06T14:34:01+00:00",
       "status": "ok"
     },
     {
@@ -306,9 +306,9 @@
       "game": "Off The Grid",
       "appId": 3659280,
       "steamDbUrl": "https://steamdb.info/app/3659280/",
-      "latestPatchTitle": "The Bride Content Pack",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365763601",
-      "latestPatchPublishedAt": "2026-03-23T14:13:34+00:00",
+      "latestPatchTitle": "Spiritual Warfare Has Arrived",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808931",
+      "latestPatchPublishedAt": "2026-05-06T13:38:20+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S1.3 PATCH NOTES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155579580",
-      "latestPatchPublishedAt": "2026-05-05T09:39:44+00:00",
+      "latestPatchTitle": "Rainbow Is Magic Returns With Colorful Rewards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502809005",
+      "latestPatchPublishedAt": "2026-05-06T14:00:03+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Unusual artefacts detected!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808802",
-      "latestPatchPublishedAt": "2026-05-06T12:58:53+00:00",
+      "latestPatchTitle": "Assault of Reichstag × Twitch Drops",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502809046",
+      "latestPatchPublishedAt": "2026-05-06T14:13:06+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "KV-8: Lord of Fire",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808536",
-      "latestPatchPublishedAt": "2026-05-06T11:03:11+00:00",
+      "latestPatchTitle": "WTCS Pro League Major II Has Arrived: Sign Up Now for the Qualifiers!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502809015",
+      "latestPatchPublishedAt": "2026-05-06T14:02:33+00:00",
       "status": "ok"
     }
   ]
