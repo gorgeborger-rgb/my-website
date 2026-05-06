@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-06T18:56:28.970646+00:00",
+  "generatedAt": "2026-05-06T20:18:56.761167+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "9.6.1 | Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155580246",
-      "latestPatchPublishedAt": "2026-05-05T14:32:26+00:00",
+      "latestPatchTitle": "NOW TESTING: Steam test build for 9.6.1 issues",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810113",
+      "latestPatchPublishedAt": "2026-05-06T19:45:00+00:00",
       "status": "ok"
     },
     {
