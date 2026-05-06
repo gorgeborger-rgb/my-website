@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-06T09:40:25.826235+00:00",
+  "generatedAt": "2026-05-06T11:30:34.836228+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155580762",
-      "latestPatchPublishedAt": "2026-05-05T17:06:49+00:00",
+      "latestPatchTitle": "All units, charge!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808421",
+      "latestPatchPublishedAt": "2026-05-06T10:11:01+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.92",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155577359",
-      "latestPatchPublishedAt": "2026-05-04T13:07:01+00:00",
+      "latestPatchTitle": "KV-8: Lord of Fire",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808536",
+      "latestPatchPublishedAt": "2026-05-06T11:03:11+00:00",
       "status": "ok"
     }
   ]
