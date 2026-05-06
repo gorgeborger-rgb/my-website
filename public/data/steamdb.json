@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-06T04:45:03.858962+00:00",
+  "generatedAt": "2026-05-06T09:40:25.826235+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS1 Playoffs 2 - Day 3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155574777",
-      "latestPatchPublishedAt": "2026-05-03T02:45:54+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/27~05/03)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808026",
+      "latestPatchPublishedAt": "2026-05-06T07:00:43+00:00",
       "status": "ok"
     },
     {
