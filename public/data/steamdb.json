@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-06T20:18:56.761167+00:00",
+  "generatedAt": "2026-05-06T21:34:33.565255+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,18 +180,18 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "NOW TESTING: Steam test build for 9.6.1 issues",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810113",
-      "latestPatchPublishedAt": "2026-05-06T19:45:00+00:00",
+      "latestPatchTitle": "Mark your calendars for tomorrow's Community Stream!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810288",
+      "latestPatchPublishedAt": "2026-05-06T21:00:57+00:00",
       "status": "ok"
     },
     {
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Hotfix 1.9.0.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568161",
-      "latestPatchPublishedAt": "2026-04-30T13:32:33+00:00",
+      "latestPatchTitle": "Update 1.9.1: Food, Loot & Vehicle Rebalance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810197",
+      "latestPatchPublishedAt": "2026-05-06T20:25:44+00:00",
       "status": "ok"
     },
     {
