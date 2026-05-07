@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-07T09:18:42.007384+00:00",
+  "generatedAt": "2026-05-07T11:21:59.213549+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Hotfix [07.05.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810358",
-      "latestPatchPublishedAt": "2026-05-06T21:54:23+00:00",
+      "latestPatchTitle": "Monthly cheaters banlists",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811636",
+      "latestPatchPublishedAt": "2026-05-07T10:55:08+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 10.5.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567507",
-      "latestPatchPublishedAt": "2026-04-30T10:01:45+00:00",
+      "latestPatchTitle": "Midseason Update 10.6",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811490",
+      "latestPatchPublishedAt": "2026-05-07T10:00:49+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "WTCS Pro League Major II Has Arrived: Sign Up Now for the Qualifiers!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502809015",
-      "latestPatchPublishedAt": "2026-05-06T14:02:33+00:00",
+      "latestPatchTitle": "Server Maintenance Notice (May 7)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811549",
+      "latestPatchPublishedAt": "2026-05-07T10:22:27+00:00",
       "status": "ok"
     }
   ]
