@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-06T23:26:05.375717+00:00",
+  "generatedAt": "2026-05-07T00:10:35.907133+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": " Marathon Update 1.0.6.3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155580140",
-      "latestPatchPublishedAt": "2026-05-05T14:00:40+00:00",
+      "latestPatchTitle": "Enhanced Sponsored Kit Playlist on Perimeter",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810482",
+      "latestPatchPublishedAt": "2026-05-06T23:37:52+00:00",
       "status": "ok"
     },
     {
