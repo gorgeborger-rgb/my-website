@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-07T19:12:01.522092+00:00",
+  "generatedAt": "2026-05-07T20:40:05.686607+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Ensuring Fair Play",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811700",
-      "latestPatchPublishedAt": "2026-05-07T11:30:07+00:00",
+      "latestPatchTitle": "Embark are testing kernel-level anti-cheat in Arc Raiders to help put a stop to its ongoing cheating problem",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1832065502812980",
+      "latestPatchPublishedAt": "2026-05-07T16:59:09+00:00",
       "status": "ok"
     },
     {
