@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-07T11:21:59.213549+00:00",
+  "generatedAt": "2026-05-07T13:13:42.207729+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Patch Notes - 1.27.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155579503",
-      "latestPatchPublishedAt": "2026-05-05T09:04:30+00:00",
+      "latestPatchTitle": "Ensuring Fair Play",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811700",
+      "latestPatchPublishedAt": "2026-05-07T11:30:07+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Burst Fest Streamer Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566977",
-      "latestPatchPublishedAt": "2026-04-30T06:00:18+00:00",
+      "latestPatchTitle": "Update | Find Lara Event Coming, Ahsarahn Proclamation Appearances On the Way",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811785",
+      "latestPatchPublishedAt": "2026-05-07T12:00:09+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Monthly cheaters banlists",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811636",
-      "latestPatchPublishedAt": "2026-05-07T10:55:08+00:00",
+      "latestPatchTitle": "Scars of War hideout style",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811789",
+      "latestPatchPublishedAt": "2026-05-07T12:01:39+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Server Maintenance Notice (May 7)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811549",
-      "latestPatchPublishedAt": "2026-05-07T10:22:27+00:00",
+      "latestPatchTitle": "The May Sale in the Gaijin Store!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811971",
+      "latestPatchPublishedAt": "2026-05-07T12:58:12+00:00",
       "status": "ok"
     }
   ]
