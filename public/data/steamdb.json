@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-07T20:40:05.686607+00:00",
+  "generatedAt": "2026-05-07T21:37:01.592491+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Enhanced Sponsored Kit Playlist on Perimeter",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810482",
-      "latestPatchPublishedAt": "2026-05-06T23:37:52+00:00",
+      "latestPatchTitle": "Marathon Game Security Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813381",
+      "latestPatchPublishedAt": "2026-05-07T21:00:35+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "UPGRADE HARD, RAID HARDER",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502812966",
-      "latestPatchPublishedAt": "2026-05-07T17:45:48+00:00",
+      "latestPatchTitle": "May's big Rust update adds new, rare workbench upgrades, if you can find them",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502813437",
+      "latestPatchPublishedAt": "2026-05-07T20:00:29+00:00",
       "status": "ok"
     },
     {
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.1 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155580562",
-      "latestPatchPublishedAt": "2026-05-05T16:01:29+00:00",
+      "latestPatchTitle": "3.26.3.2 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813383",
+      "latestPatchPublishedAt": "2026-05-07T21:00:56+00:00",
       "status": "ok"
     },
     {
