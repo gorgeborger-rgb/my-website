@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-07T15:38:48.684496+00:00",
+  "generatedAt": "2026-05-07T17:23:43.748264+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 05/06/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810393",
-      "latestPatchPublishedAt": "2026-05-06T22:25:01+00:00",
+      "latestPatchTitle": "Apex Legends™ EA Play* Weapon Charm",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502812681",
+      "latestPatchPublishedAt": "2026-05-07T16:11:48+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Mark your calendars for tomorrow's Community Stream!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810288",
-      "latestPatchPublishedAt": "2026-05-06T21:00:57+00:00",
+      "latestPatchTitle": "The Grimoire opens one last time!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502812624",
+      "latestPatchPublishedAt": "2026-05-07T16:00:56+00:00",
       "status": "ok"
     },
     {
