@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-08T15:53:45.790752+00:00",
+  "generatedAt": "2026-05-08T17:05:49.741943+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Next episode of TarkovTV broadcast on May 8!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502809683",
-      "latestPatchPublishedAt": "2026-05-06T16:43:02+00:00",
+      "latestPatchTitle": "Developer’s Diary: Prestige system",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815698",
+      "latestPatchPublishedAt": "2026-05-08T16:19:40+00:00",
       "status": "ok"
     },
     {
