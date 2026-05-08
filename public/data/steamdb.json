@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-08T14:15:42.422760+00:00",
+  "generatedAt": "2026-05-08T15:53:45.790752+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Embark are testing kernel-level anti-cheat in Arc Raiders to help put a stop to its ongoing cheating problem",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1832065502812980",
-      "latestPatchPublishedAt": "2026-05-07T16:59:09+00:00",
+      "latestPatchTitle": "Riven Tides Feedback Survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815497",
+      "latestPatchPublishedAt": "2026-05-08T15:14:09+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #114-1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502814049",
-      "latestPatchPublishedAt": "2026-05-08T05:32:49+00:00",
+      "latestPatchTitle": "Dark and Darker gets a fix for Linux / Steam Deck being unable to play certain modes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1832065502815362",
+      "latestPatchPublishedAt": "2026-05-08T14:26:15+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Legacy Chronicle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813052",
-      "latestPatchPublishedAt": "2026-05-07T18:11:44+00:00",
+      "latestPatchTitle": "Roadmap Continued",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815490",
+      "latestPatchPublishedAt": "2026-05-08T15:12:47+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Earn more in the Reichstag",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815123",
-      "latestPatchPublishedAt": "2026-05-08T13:01:24+00:00",
+      "latestPatchTitle": "Supply has arrived!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815352",
+      "latestPatchPublishedAt": "2026-05-08T14:33:33+00:00",
       "status": "ok"
     },
     {
