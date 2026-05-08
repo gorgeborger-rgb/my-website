@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-08T22:49:46.554031+00:00",
+  "generatedAt": "2026-05-08T23:41:44.434275+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Game Security Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813381",
-      "latestPatchPublishedAt": "2026-05-07T21:00:35+00:00",
+      "latestPatchTitle": "Самое слабое звено PlayStation: Sony потеряла 765 млн долларов из-за провалов Bungie",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832065502816458",
+      "latestPatchPublishedAt": "2026-05-08T20:46:18+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS1 Finals 2 Day 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813088",
-      "latestPatchPublishedAt": "2026-05-07T18:32:20+00:00",
+      "latestPatchTitle": "PEC: Spring Finals 2 - Day 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502816382",
+      "latestPatchPublishedAt": "2026-05-08T22:08:09+00:00",
       "status": "ok"
     },
     {
