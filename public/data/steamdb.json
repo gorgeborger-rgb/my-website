@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-08T08:00:40.760781+00:00",
+  "generatedAt": "2026-05-08T09:48:31.958662+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Rainbow Is Magic Returns With Colorful Rewards",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502809005",
-      "latestPatchPublishedAt": "2026-05-06T14:00:03+00:00",
+      "latestPatchTitle": "SALT LAKE CITY MAJOR",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502814272",
+      "latestPatchPublishedAt": "2026-05-08T08:15:09+00:00",
       "status": "ok"
     },
     {
