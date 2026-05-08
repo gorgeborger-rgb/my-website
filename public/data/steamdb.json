@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-08T12:09:58.929200+00:00",
+  "generatedAt": "2026-05-08T14:15:42.422760+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "New Rewards For Watching Active Matter Streams This Week",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155573977",
-      "latestPatchPublishedAt": "2026-05-02T15:03:39+00:00",
+      "latestPatchTitle": "New Overtime Raid \"Dogorsk: Timeline Collision\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815213",
+      "latestPatchPublishedAt": "2026-05-08T13:38:14+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Helene Bøksle's Voice Returns to Conan",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502814710",
-      "latestPatchPublishedAt": "2026-05-08T11:00:28+00:00",
+      "latestPatchTitle": "May Hotfix 1.0.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815263",
+      "latestPatchPublishedAt": "2026-05-08T14:01:28+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "appId": 1145030,
+      "steamDbUrl": "https://steamdb.info/app/1145030/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "The technical work has been completed.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155574577",
-      "latestPatchPublishedAt": "2026-05-02T22:25:42+00:00",
+      "latestPatchTitle": "Technical issues on the hosting provider's side have been resolved",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815029",
+      "latestPatchPublishedAt": "2026-05-08T12:25:03+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Waaaaatch out! CLIP CHALLENGE is live!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502814711",
-      "latestPatchPublishedAt": "2026-05-08T11:01:51+00:00",
+      "latestPatchTitle": "Earn more in the Reichstag",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815123",
+      "latestPatchPublishedAt": "2026-05-08T13:01:24+00:00",
       "status": "ok"
     },
     {
