@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-09T01:24:11.853471+00:00",
+  "generatedAt": "2026-05-09T04:42:43.549810+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 505: Deep Dives & Technical Strides. What’s Surfacing Next!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155572815",
-      "latestPatchPublishedAt": "2026-05-02T00:30:00+00:00",
+      "latestPatchTitle": "Community Crunch 506: Now You See Me, Now You Don’t",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502816623",
+      "latestPatchPublishedAt": "2026-05-09T01:29:52+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PEC: Spring Finals 2 - Day 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502816382",
-      "latestPatchPublishedAt": "2026-05-08T22:08:09+00:00",
+      "latestPatchTitle": "PAS1 Finals 2 Day 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502816699",
+      "latestPatchPublishedAt": "2026-05-09T02:41:08+00:00",
       "status": "ok"
     },
     {
