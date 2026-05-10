@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-10T06:42:14.062556+00:00",
+  "generatedAt": "2026-05-10T08:31:17.349537+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Самое слабое звено PlayStation: Sony потеряла 765 млн долларов из-за провалов Bungie",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832065502816458",
-      "latestPatchPublishedAt": "2026-05-08T20:46:18+00:00",
+      "latestPatchTitle": "Marathon будет жить — Sony видит в сервисном шутере Bungie потенциал, развитие продолжится",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832065502818767",
+      "latestPatchPublishedAt": "2026-05-10T02:59:00+00:00",
       "status": "ok"
     },
     {
