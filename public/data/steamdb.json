@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-11T18:23:11.784536+00:00",
+  "generatedAt": "2026-05-11T20:13:00.430854+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad 10.4 Hotfix 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578762",
-      "latestPatchPublishedAt": "2026-05-04T22:09:07+00:00",
+      "latestPatchTitle": "Squad 10.4.1 Hotfix 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502822103",
+      "latestPatchPublishedAt": "2026-05-11T18:00:30+00:00",
       "status": "ok"
     },
     {
