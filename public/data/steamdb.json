@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-11T00:09:46.205332+00:00",
+  "generatedAt": "2026-05-11T04:33:43.402458+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon будет жить — Sony видит в сервисном шутере Bungie потенциал, развитие продолжится",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832065502818767",
-      "latestPatchPublishedAt": "2026-05-10T02:59:00+00:00",
+      "latestPatchTitle": "Эксперт: Перенос эксклюзивов Sony на ПК не оказал негативного влияния на продажи PlayStation 5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832065502820365",
+      "latestPatchPublishedAt": "2026-05-11T02:55:00+00:00",
       "status": "ok"
     },
     {
