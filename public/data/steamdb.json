@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-11T08:02:49.639557+00:00",
+  "generatedAt": "2026-05-11T11:33:17.114768+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Update | Find Lara Event Coming, Ahsarahn Proclamation Appearances On the Way",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811785",
-      "latestPatchPublishedAt": "2026-05-07T12:00:09+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502820940",
+      "latestPatchPublishedAt": "2026-05-11T11:20:30+00:00",
       "status": "ok"
     },
     {
