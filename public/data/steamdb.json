@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-12T12:20:09.402305+00:00",
+  "generatedAt": "2026-05-12T15:12:50.815869+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Crucible II: The Results are In!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155579655",
-      "latestPatchPublishedAt": "2026-05-05T10:32:29+00:00",
+      "latestPatchTitle": "The Crucible II: A Recap",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823733",
+      "latestPatchPublishedAt": "2026-05-12T12:34:46+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "May Hotfix 1.0.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815263",
-      "latestPatchPublishedAt": "2026-05-08T14:01:28+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 5 May — 12 May 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1832065502823892",
+      "latestPatchPublishedAt": "2026-05-12T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -180,18 +180,18 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "The Grimoire opens one last time!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502812624",
-      "latestPatchPublishedAt": "2026-05-07T16:00:56+00:00",
+      "latestPatchTitle": "9.6.2 | Bugfix Patch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502824037",
+      "latestPatchPublishedAt": "2026-05-12T14:30:06+00:00",
       "status": "ok"
     },
     {
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Update 1.9.1: Food, Loot & Vehicle Rebalance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810197",
-      "latestPatchPublishedAt": "2026-05-06T20:25:44+00:00",
+      "latestPatchTitle": "Hotfix 1.9.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502824109",
+      "latestPatchPublishedAt": "2026-05-12T14:54:47+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Эксперт: Перенос эксклюзивов Sony на ПК не оказал негативного влияния на продажи PlayStation 5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832065502820365",
-      "latestPatchPublishedAt": "2026-05-11T02:55:00+00:00",
+      "latestPatchTitle": "Marathon reconsiders bug abuse approach after player uses Cryo Archive exploit to butcher an entire team",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502824153",
+      "latestPatchPublishedAt": "2026-05-12T13:53:05+00:00",
       "status": "ok"
     },
     {
@@ -306,9 +306,9 @@
       "game": "Off The Grid",
       "appId": 3659280,
       "steamDbUrl": "https://steamdb.info/app/3659280/",
-      "latestPatchTitle": "Spiritual Warfare Has Arrived",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808931",
-      "latestPatchPublishedAt": "2026-05-06T13:38:20+00:00",
+      "latestPatchTitle": "The Gunslinger Content Pack",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502824090",
+      "latestPatchPublishedAt": "2026-05-12T14:50:23+00:00",
       "status": "ok"
     },
     {
@@ -324,18 +324,18 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "May Store Update 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823007",
-      "latestPatchPublishedAt": "2026-05-12T06:00:49+00:00",
+      "latestPatchTitle": "PUBG is removing several weapons from the game, and you could be due compensation",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823862",
+      "latestPatchPublishedAt": "2026-05-12T12:50:14+00:00",
       "status": "ok"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "v0.7.3: Balance adjustments and bug fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607",
-      "latestPatchPublishedAt": "2026-04-06T03:08:53+00:00",
+      "latestPatchTitle": "'Palworld Online' has been trademarked, but there's hints of potential AI use",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823863",
+      "latestPatchPublishedAt": "2026-05-12T12:30:51+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Hotfix - 1.2.3.2.115523",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502812189",
-      "latestPatchPublishedAt": "2026-05-07T14:03:04+00:00",
+      "latestPatchTitle": "SCUM - Community showcase",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823740",
+      "latestPatchPublishedAt": "2026-05-12T12:39:18+00:00",
       "status": "ok"
     },
     {
