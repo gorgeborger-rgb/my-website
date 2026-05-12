@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-12T10:16:00.270217+00:00",
+  "generatedAt": "2026-05-12T12:20:09.402305+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Prepare for Server Migrations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502821054",
-      "latestPatchPublishedAt": "2026-05-11T12:01:06+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.3.20.2 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823612",
+      "latestPatchPublishedAt": "2026-05-12T11:38:29+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "New weekend challenge — Command Orders",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502817023",
-      "latestPatchPublishedAt": "2026-05-09T08:08:23+00:00",
+      "latestPatchTitle": "Maximum value",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823573",
+      "latestPatchPublishedAt": "2026-05-12T11:19:49+00:00",
       "status": "ok"
     },
     {
