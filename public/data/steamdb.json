@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-12T22:06:19.076035+00:00",
+  "generatedAt": "2026-05-12T23:14:44.751926+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon reconsiders bug abuse approach after player uses Cryo Archive exploit to butcher an entire team",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502824153",
-      "latestPatchPublishedAt": "2026-05-12T13:53:05+00:00",
+      "latestPatchTitle": "Marathon Dev Update: Self-Revive Kit and Streamer Tool Updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592784954",
+      "latestPatchPublishedAt": "2026-05-12T22:50:27+00:00",
       "status": "ok"
     },
     {
