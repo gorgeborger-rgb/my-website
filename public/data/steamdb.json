@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-12T07:40:43.227104+00:00",
+  "generatedAt": "2026-05-12T10:16:00.270217+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Riven Tides Feedback Survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815497",
-      "latestPatchPublishedAt": "2026-05-08T15:14:09+00:00",
+      "latestPatchTitle": "Patch Notes 1.28.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823298",
+      "latestPatchPublishedAt": "2026-05-12T09:03:15+00:00",
       "status": "ok"
     },
     {
