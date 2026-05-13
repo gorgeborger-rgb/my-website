@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-13T10:03:55.798020+00:00",
+  "generatedAt": "2026-05-13T12:19:29.214275+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk April 29th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564694",
-      "latestPatchPublishedAt": "2026-04-29T10:42:44+00:00",
+      "latestPatchTitle": "FragPunk May 13th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785877",
+      "latestPatchPublishedAt": "2026-05-13T10:13:46+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Decorated for Duty!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502816813",
-      "latestPatchPublishedAt": "2026-05-09T05:00:06+00:00",
+      "latestPatchTitle": "Update 2.55.1.106",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786032",
+      "latestPatchPublishedAt": "2026-05-13T11:33:58+00:00",
       "status": "ok"
     }
   ]
