@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-13T04:14:06.325621+00:00",
+  "generatedAt": "2026-05-13T07:28:35.775048+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Update #41.2 New Mode: PUBG x PAYDAY",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785214",
-      "latestPatchPublishedAt": "2026-05-13T02:56:20+00:00",
+      "latestPatchTitle": "PUBG x Harley-Davidson",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785505",
+      "latestPatchPublishedAt": "2026-05-13T07:00:12+00:00",
       "status": "ok"
     },
     {
