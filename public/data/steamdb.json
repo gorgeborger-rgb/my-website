@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-13T15:17:48.635570+00:00",
+  "generatedAt": "2026-05-13T17:26:08.176491+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Patch Notes 1.28.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823298",
-      "latestPatchPublishedAt": "2026-05-12T09:03:15+00:00",
+      "latestPatchTitle": "We’re changing how we update ARC Raiders - here’s what it means for you",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592787040",
+      "latestPatchPublishedAt": "2026-05-13T17:01:04+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "From the Ashes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785796",
-      "latestPatchPublishedAt": "2026-05-13T09:27:31+00:00",
+      "latestPatchTitle": "Beware the Shadow is here... I Developer Gameplay Live Stream 🔥🔥🔥",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786872",
+      "latestPatchPublishedAt": "2026-05-13T16:10:05+00:00",
       "status": "ok"
     },
     {
