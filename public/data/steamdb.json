@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-13T12:19:29.214275+00:00",
+  "generatedAt": "2026-05-13T15:17:48.635570+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 5 May — 12 May 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1832065502823892",
-      "latestPatchPublishedAt": "2026-05-12T09:00:00+00:00",
+      "latestPatchTitle": "May Hotfix 1.0.3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786498",
+      "latestPatchPublishedAt": "2026-05-13T14:03:01+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Dev Update: Self-Revive Kit and Streamer Tool Updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592784954",
-      "latestPatchPublishedAt": "2026-05-12T22:50:27+00:00",
+      "latestPatchTitle": "Season 2 Begins June 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786642",
+      "latestPatchPublishedAt": "2026-05-13T15:00:34+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List April 29th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155565065",
-      "latestPatchPublishedAt": "2026-04-29T12:52:38+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List May 13th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786664",
+      "latestPatchPublishedAt": "2026-05-13T15:05:37+00:00",
       "status": "ok"
     },
     {
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Technical issues on the hosting provider's side have been resolved",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815029",
-      "latestPatchPublishedAt": "2026-05-08T12:25:03+00:00",
+      "latestPatchTitle": "The latest hotfix has been installed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786520",
+      "latestPatchPublishedAt": "2026-05-13T14:07:42+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785708",
-      "latestPatchPublishedAt": "2026-05-13T08:48:38+00:00",
+      "latestPatchTitle": "Time to choose the best",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786247",
+      "latestPatchPublishedAt": "2026-05-13T12:56:17+00:00",
       "status": "ok"
     },
     {
