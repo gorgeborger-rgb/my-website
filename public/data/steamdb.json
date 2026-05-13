@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-13T07:28:35.775048+00:00",
+  "generatedAt": "2026-05-13T10:03:55.798020+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Crucible II: A Recap",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823733",
-      "latestPatchPublishedAt": "2026-05-12T12:34:46+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: VicZane",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785856",
+      "latestPatchPublishedAt": "2026-05-13T10:00:19+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Roadmap Continued",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815490",
-      "latestPatchPublishedAt": "2026-05-08T15:12:47+00:00",
+      "latestPatchTitle": "From the Ashes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785796",
+      "latestPatchPublishedAt": "2026-05-13T09:27:31+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG x Harley-Davidson",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785505",
-      "latestPatchPublishedAt": "2026-05-13T07:00:12+00:00",
+      "latestPatchTitle": "PUBG X PAYDAY: Stream the Heist, Win $100,000",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785736",
+      "latestPatchPublishedAt": "2026-05-13T09:00:15+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502824313",
-      "latestPatchPublishedAt": "2026-05-12T15:58:12+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785708",
+      "latestPatchPublishedAt": "2026-05-13T08:48:38+00:00",
       "status": "ok"
     },
     {
