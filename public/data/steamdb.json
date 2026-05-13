@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-13T20:56:30.450878+00:00",
+  "generatedAt": "2026-05-13T22:07:00.528578+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 5PM PT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502822608",
-      "latestPatchPublishedAt": "2026-05-11T23:55:13+00:00",
+      "latestPatchTitle": "Find Your Perfect Squadmate - Matchmaking Recruitment Drive",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592787573",
+      "latestPatchPublishedAt": "2026-05-13T21:57:04+00:00",
       "status": "ok"
     },
     {
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 1530300,
-      "steamDbUrl": "https://steamdb.info/app/1530300/",
-      "latestPatchTitle": "MAINTENANCE on 26th March",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365769374",
-      "latestPatchPublishedAt": "2026-03-26T01:17:49+00:00",
+      "appId": 1349230,
+      "steamDbUrl": "https://steamdb.info/app/1349230/",
+      "latestPatchTitle": "Tiny Bugfix Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
+      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
       "status": "ok"
     },
     {
@@ -279,7 +279,7 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Season 2 Begins June 2",
+      "latestPatchTitle": "Season 2 Begins June 2 ",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786642",
       "latestPatchPublishedAt": "2026-05-13T15:00:34+00:00",
       "status": "ok"
