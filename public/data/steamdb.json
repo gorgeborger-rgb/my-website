@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-13T00:14:19.344469+00:00",
+  "generatedAt": "2026-05-13T04:14:06.325621+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG is removing several weapons from the game, and you could be due compensation",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823862",
-      "latestPatchPublishedAt": "2026-05-12T12:50:14+00:00",
+      "latestPatchTitle": "Update #41.2 New Mode: PUBG x PAYDAY",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785214",
+      "latestPatchPublishedAt": "2026-05-13T02:56:20+00:00",
       "status": "ok"
     },
     {
