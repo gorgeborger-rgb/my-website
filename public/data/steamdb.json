@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-14T15:35:50.139456+00:00",
+  "generatedAt": "2026-05-14T17:24:51.722273+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "New Overtime Raid \"Dogorsk: Timeline Collision\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815213",
-      "latestPatchPublishedAt": "2026-05-08T13:38:14+00:00",
+      "latestPatchTitle": "Update 0.3.0.119",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789561",
+      "latestPatchPublishedAt": "2026-05-14T15:43:07+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Survive and Thrive Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260872",
-      "latestPatchPublishedAt": "2026-04-17T17:00:47+00:00",
+      "latestPatchTitle": "COMRAD #26",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789495",
+      "latestPatchPublishedAt": "2026-05-14T15:24:58+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #115",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788108",
-      "latestPatchPublishedAt": "2026-05-14T05:31:55+00:00",
+      "latestPatchTitle": "Announcement - Dark and Darker e-Sports Title Showcase in Korea",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789502",
+      "latestPatchPublishedAt": "2026-05-14T15:27:02+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Patch 0.4.2.0 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788854",
-      "latestPatchPublishedAt": "2026-05-14T11:47:29+00:00",
+      "latestPatchTitle": "Deploy Into Gray Zone Warfare, Now 25% Off",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789343",
+      "latestPatchPublishedAt": "2026-05-14T15:00:51+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260515 Patch Notes - Season 8 Begins!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788196",
-      "latestPatchPublishedAt": "2026-05-14T06:37:03+00:00",
+      "latestPatchTitle": "Marvel Rivals has added a literal T. rex to the game alongside nerfing some Strategists and I don't know what's more surprising",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1832700592789820",
+      "latestPatchPublishedAt": "2026-05-14T16:39:37+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Not by the book",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788580",
-      "latestPatchPublishedAt": "2026-05-14T09:56:42+00:00",
+      "latestPatchTitle": "Cosplay contest winners",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789878",
+      "latestPatchPublishedAt": "2026-05-14T17:06:48+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Decal Trophy for US Armed Forces Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788753",
-      "latestPatchPublishedAt": "2026-05-14T11:12:31+00:00",
+      "latestPatchTitle": "Update 2.55.1.110",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789485",
+      "latestPatchPublishedAt": "2026-05-14T15:20:13+00:00",
       "status": "ok"
     }
   ]
