@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-14T11:30:00.718474+00:00",
+  "generatedAt": "2026-05-14T13:16:49.894184+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "We’re changing how we update ARC Raiders - here’s what it means for you",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592787040",
-      "latestPatchPublishedAt": "2026-05-13T17:01:04+00:00",
+      "latestPatchTitle": "ARC Raiders moves to slower larger updates as it crosses over 16 million sales",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1832700592788853",
+      "latestPatchPublishedAt": "2026-05-14T11:37:58+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502820940",
-      "latestPatchPublishedAt": "2026-05-11T11:20:30+00:00",
+      "latestPatchTitle": "Burst Fest After-Party Begins, Golden Age Bundle Appearance Lucky Draw Soon Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788878",
+      "latestPatchPublishedAt": "2026-05-14T12:00:37+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Join us for the Early Access Anniversary Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770242571",
-      "latestPatchPublishedAt": "2026-04-27T14:27:34+00:00",
+      "latestPatchTitle": "Patch 0.4.2.0 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788854",
+      "latestPatchPublishedAt": "2026-05-14T11:47:29+00:00",
       "status": "ok"
     },
     {
