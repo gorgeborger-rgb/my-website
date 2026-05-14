@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-14T19:16:15.652629+00:00",
+  "generatedAt": "2026-05-14T20:47:48.180976+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Season 2 Begins June 2 ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786642",
-      "latestPatchPublishedAt": "2026-05-13T15:00:34+00:00",
+      "latestPatchTitle": "Launch, Learnings, and What’s Next",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790224",
+      "latestPatchPublishedAt": "2026-05-14T20:00:00+00:00",
       "status": "ok"
     },
     {
