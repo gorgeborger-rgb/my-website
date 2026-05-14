@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-14T04:15:50.032456+00:00",
+  "generatedAt": "2026-05-14T07:23:42.505851+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Dark and Darker gets a fix for Linux / Steam Deck being unable to play certain modes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1832065502815362",
-      "latestPatchPublishedAt": "2026-05-08T14:26:15+00:00",
+      "latestPatchTitle": "Early Access Hotfix #115",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788108",
+      "latestPatchPublishedAt": "2026-05-14T05:31:55+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260507 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811024",
-      "latestPatchPublishedAt": "2026-05-07T06:25:26+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260515 Patch Notes - Season 8 Begins!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788196",
+      "latestPatchPublishedAt": "2026-05-14T06:37:03+00:00",
       "status": "ok"
     },
     {
