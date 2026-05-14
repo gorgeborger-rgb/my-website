@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-14T21:54:52.308069+00:00",
+  "generatedAt": "2026-05-14T22:50:55.016033+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "NIGHTMODE II Music Kits",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483",
-      "latestPatchPublishedAt": "2026-05-07T22:10:43+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456",
+      "latestPatchPublishedAt": "2026-05-14T22:23:58+00:00",
       "status": "ok"
     },
     {
