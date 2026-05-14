@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-14T09:43:06.169611+00:00",
+  "generatedAt": "2026-05-14T11:30:00.718474+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: VicZane",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785856",
-      "latestPatchPublishedAt": "2026-05-13T10:00:19+00:00",
+      "latestPatchTitle": "Watch the Mid-Season Invasion Day on AlbionTV",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788591",
+      "latestPatchPublishedAt": "2026-05-14T10:00:31+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Time to choose the best",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786247",
-      "latestPatchPublishedAt": "2026-05-13T12:56:17+00:00",
+      "latestPatchTitle": "Not by the book",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788580",
+      "latestPatchPublishedAt": "2026-05-14T09:56:42+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Midseason Update 10.6",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811490",
-      "latestPatchPublishedAt": "2026-05-07T10:00:49+00:00",
+      "latestPatchTitle": "Store Update 10.7.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788592",
+      "latestPatchPublishedAt": "2026-05-14T10:01:08+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.106",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786032",
-      "latestPatchPublishedAt": "2026-05-13T11:33:58+00:00",
+      "latestPatchTitle": "A Decal Trophy for US Armed Forces Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788753",
+      "latestPatchPublishedAt": "2026-05-14T11:12:31+00:00",
       "status": "ok"
     }
   ]
