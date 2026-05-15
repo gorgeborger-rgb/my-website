@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-15T13:15:12.221686+00:00",
+  "generatedAt": "2026-05-15T15:30:59.445645+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.3.0.119",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789561",
-      "latestPatchPublishedAt": "2026-05-14T15:43:07+00:00",
+      "latestPatchTitle": "Thank You For Playing The Demo Of Active Matter",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792029",
+      "latestPatchPublishedAt": "2026-05-15T13:38:34+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Announcement - Dark and Darker e-Sports Title Showcase in Korea",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789502",
-      "latestPatchPublishedAt": "2026-05-14T15:27:02+00:00",
+      "latestPatchTitle": "Streamer Invitational Event Match Online Semifinals Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792201",
+      "latestPatchPublishedAt": "2026-05-15T14:33:29+00:00",
       "status": "ok"
     },
     {
@@ -207,17 +207,17 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.3.20.2 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823612",
-      "latestPatchPublishedAt": "2026-05-12T11:38:29+00:00",
+      "latestPatchTitle": "Communinet Signal #16",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792329",
+      "latestPatchPublishedAt": "2026-05-15T15:17:27+00:00",
       "status": "ok"
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "appId": 1145030,
+      "steamDbUrl": "https://steamdb.info/app/1145030/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Второй сезон в Marathon стартует 2 июня — Bungie приготовила для игроков массу нового контента",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832700592790849",
-      "latestPatchPublishedAt": "2026-05-15T00:19:00+00:00",
+      "latestPatchTitle": "Официально: В Marathon добавят полноценный PvE-режим — шутер будет меняться, у Bungie уже есть план поддержки до пятого сезона",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832700592792147",
+      "latestPatchPublishedAt": "2026-05-15T11:00:00+00:00",
       "status": "ok"
     },
     {
