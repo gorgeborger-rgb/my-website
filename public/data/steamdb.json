@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-15T02:30:26.187060+00:00",
+  "generatedAt": "2026-05-15T06:10:27.592064+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Launch, Learnings, and What’s Next",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790224",
-      "latestPatchPublishedAt": "2026-05-14T20:00:00+00:00",
+      "latestPatchTitle": "Второй сезон в Marathon стартует 2 июня — Bungie приготовила для игроков массу нового контента",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832700592790849",
+      "latestPatchPublishedAt": "2026-05-15T00:19:00+00:00",
       "status": "ok"
     },
     {
