@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-15T06:10:27.592064+00:00",
+  "generatedAt": "2026-05-15T09:24:52.601789+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals has added a literal T. rex to the game alongside nerfing some Strategists and I don't know what's more surprising",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1832700592789820",
-      "latestPatchPublishedAt": "2026-05-14T16:39:37+00:00",
+      "latestPatchTitle": "HD Texture Pack Feature Optimization",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791162",
+      "latestPatchPublishedAt": "2026-05-15T08:15:51+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Cosplay contest winners",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789878",
-      "latestPatchPublishedAt": "2026-05-14T17:06:48+00:00",
+      "latestPatchTitle": "+50% level progression boost",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791248",
+      "latestPatchPublishedAt": "2026-05-15T08:58:15+00:00",
       "status": "ok"
     },
     {
