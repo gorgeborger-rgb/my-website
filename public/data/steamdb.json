@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-15T11:32:50.545531+00:00",
+  "generatedAt": "2026-05-15T13:15:12.221686+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Community Update No.11: Nuclear Escalation, Sound Mods & More",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791417",
-      "latestPatchPublishedAt": "2026-05-15T10:10:15+00:00",
+      "latestPatchTitle": "Pre-order: Jean Bart — The Last French Battleship",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791749",
+      "latestPatchPublishedAt": "2026-05-15T12:04:28+00:00",
       "status": "ok"
     }
   ]
