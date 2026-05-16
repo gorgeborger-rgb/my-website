@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-16T00:07:58.902094+00:00",
+  "generatedAt": "2026-05-16T03:57:43.834398+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 506: Now You See Me, Now You Don’t",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502816623",
-      "latestPatchPublishedAt": "2026-05-09T01:29:52+00:00",
+      "latestPatchTitle": "Community Crunch 507: Tunnel, Tear, and Transform!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592793484",
+      "latestPatchPublishedAt": "2026-05-16T00:27:34+00:00",
       "status": "ok"
     },
     {
