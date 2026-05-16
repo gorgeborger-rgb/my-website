@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-16T03:57:43.834398+00:00",
+  "generatedAt": "2026-05-16T06:21:00.482337+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pre-order: Jean Bart — The Last French Battleship",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791749",
-      "latestPatchPublishedAt": "2026-05-15T12:04:28+00:00",
+      "latestPatchTitle": "Screenshot Competition – Fading Wrecks!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592793708",
+      "latestPatchPublishedAt": "2026-05-16T04:30:37+00:00",
       "status": "ok"
     }
   ]
