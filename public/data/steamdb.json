@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-17T07:58:20.291593+00:00",
+  "generatedAt": "2026-05-17T09:47:55.099213+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "+50% level progression boost",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791248",
-      "latestPatchPublishedAt": "2026-05-15T08:58:15+00:00",
+      "latestPatchTitle": "Spartak's skirmish",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592795714",
+      "latestPatchPublishedAt": "2026-05-17T09:26:44+00:00",
       "status": "ok"
     },
     {
