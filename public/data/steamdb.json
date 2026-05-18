@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-18T16:20:03.844227+00:00",
+  "generatedAt": "2026-05-18T18:14:28.588388+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Find Your Perfect Squadmate - Matchmaking Recruitment Drive",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592787573",
-      "latestPatchPublishedAt": "2026-05-13T21:57:04+00:00",
+      "latestPatchTitle": "Test: Ranked Premades Limited to 1 Tier",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799185",
+      "latestPatchPublishedAt": "2026-05-18T17:20:57+00:00",
       "status": "ok"
     },
     {
