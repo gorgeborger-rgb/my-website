@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-18T12:56:14.389128+00:00",
+  "generatedAt": "2026-05-18T16:20:03.844227+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Operation System Override is coming",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592797830",
-      "latestPatchPublishedAt": "2026-05-18T10:16:43+00:00",
+      "latestPatchTitle": "Y11S2 DESIGNER'S NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592798348",
+      "latestPatchPublishedAt": "2026-05-18T12:53:05+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Spartak's skirmish",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592795714",
-      "latestPatchPublishedAt": "2026-05-17T09:26:44+00:00",
+      "latestPatchTitle": "🔥 Become part of STALCRAFT: X media community",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592798848",
+      "latestPatchPublishedAt": "2026-05-18T15:45:05+00:00",
       "status": "ok"
     },
     {
