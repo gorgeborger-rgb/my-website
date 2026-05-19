@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-19T09:29:52.839365+00:00",
+  "generatedAt": "2026-05-19T12:25:47.502375+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Patch Notes 1.29.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800429",
-      "latestPatchPublishedAt": "2026-05-19T09:03:01+00:00",
+      "latestPatchTitle": "ARC Raiders gets Denuvo Anti-Cheat, a new trader, a new weapon and more",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1832700592800668",
+      "latestPatchPublishedAt": "2026-05-19T11:12:23+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - April 22nd",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229966",
-      "latestPatchPublishedAt": "2026-04-22T07:53:09+00:00",
+      "latestPatchTitle": "ABI × Cyberpunk 2077 Collab Returns Today- Red Items, Outfits & Melee Weapons",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800770",
+      "latestPatchPublishedAt": "2026-05-19T12:03:12+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - April 22nd",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229966",
-      "latestPatchPublishedAt": "2026-04-22T07:53:09+00:00",
+      "latestPatchTitle": "ABI × Cyberpunk 2077 Collab Returns Today- Red Items, Outfits & Melee Weapons",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800770",
+      "latestPatchPublishedAt": "2026-05-19T12:03:12+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "🔥 Become part of STALCRAFT: X media community",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592798848",
-      "latestPatchPublishedAt": "2026-05-18T15:45:05+00:00",
+      "latestPatchTitle": "Clip challenge Q&A",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800632",
+      "latestPatchPublishedAt": "2026-05-19T10:57:44+00:00",
       "status": "ok"
     },
     {
