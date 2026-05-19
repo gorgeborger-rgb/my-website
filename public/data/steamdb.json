@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-19T21:17:20.782425+00:00",
+  "generatedAt": "2026-05-19T22:40:11.651280+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Arc Raiders turns to Denuvo Anti-Cheat in hopes of curbing foul play, Embark say they're \"working to ensure minimal impact on performance\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1832700592801178",
-      "latestPatchPublishedAt": "2026-05-19T13:16:22+00:00",
+      "latestPatchTitle": "ARC Raiders получила античит Denuvo",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832700592802013",
+      "latestPatchPublishedAt": "2026-05-19T21:19:00+00:00",
       "status": "ok"
     },
     {
