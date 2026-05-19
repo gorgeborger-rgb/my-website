@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-19T12:25:47.502375+00:00",
+  "generatedAt": "2026-05-19T15:55:50.010161+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "May Hotfix 1.0.3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786498",
-      "latestPatchPublishedAt": "2026-05-13T14:03:01+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced May Update - Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801081",
+      "latestPatchPublishedAt": "2026-05-19T14:01:29+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Communinet Signal #16",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792329",
-      "latestPatchPublishedAt": "2026-05-15T15:17:27+00:00",
+      "latestPatchTitle": "Update 1.4 Live Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800879",
+      "latestPatchPublishedAt": "2026-05-19T12:44:21+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon's Game Director admits it's \"overwhelming to learn\" and too sweaty",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832700592792525",
-      "latestPatchPublishedAt": "2026-05-15T14:22:00+00:00",
+      "latestPatchTitle": "Marathon Update 1.0.9",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801070",
+      "latestPatchPublishedAt": "2026-05-19T14:00:34+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List May 13th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786664",
-      "latestPatchPublishedAt": "2026-05-13T15:05:37+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update – May 20th, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800973",
+      "latestPatchPublishedAt": "2026-05-19T13:26:08+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Vote for Your Player. Win G-Coin.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790342",
-      "latestPatchPublishedAt": "2026-05-14T21:08:24+00:00",
+      "latestPatchTitle": "I'm not sure who the PUBG x Payday collab is for, or why it exists",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832700592801290",
+      "latestPatchPublishedAt": "2026-05-19T14:58:53+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM - Community showcase",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823740",
-      "latestPatchPublishedAt": "2026-05-12T12:39:18+00:00",
+      "latestPatchTitle": "SCUM: A New Chapter Begins",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801066",
+      "latestPatchPublishedAt": "2026-05-19T14:00:28+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Get the Glaive in the Marine Gendarme Event!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592798185",
-      "latestPatchPublishedAt": "2026-05-18T11:24:51+00:00",
+      "latestPatchTitle": "PGZ88: Jack Of All Trades",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800948",
+      "latestPatchPublishedAt": "2026-05-19T13:10:18+00:00",
       "status": "ok"
     }
   ]
