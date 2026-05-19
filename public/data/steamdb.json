@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-19T05:52:56.042145+00:00",
+  "generatedAt": "2026-05-19T09:29:52.839365+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders moves to slower larger updates as it crosses over 16 million sales",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1832700592788853",
-      "latestPatchPublishedAt": "2026-05-14T11:37:58+00:00",
+      "latestPatchTitle": "Patch Notes 1.29.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800429",
+      "latestPatchPublishedAt": "2026-05-19T09:03:01+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "All the previews from TarkovTV podcast",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815887",
-      "latestPatchPublishedAt": "2026-05-08T17:27:56+00:00",
+      "latestPatchTitle": "Patch 1.0.4.9",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800225",
+      "latestPatchPublishedAt": "2026-05-19T07:00:59+00:00",
       "status": "ok"
     },
     {
