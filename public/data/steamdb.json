@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-19T17:59:39.435387+00:00",
+  "generatedAt": "2026-05-19T19:56:54.890237+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "I'm not sure who the PUBG x Payday collab is for, or why it exists",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832700592801290",
-      "latestPatchPublishedAt": "2026-05-19T14:58:53+00:00",
+      "latestPatchTitle": "PUBG Global Series 4 Group Stage",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801709",
+      "latestPatchPublishedAt": "2026-05-19T18:48:52+00:00",
       "status": "ok"
     },
     {
