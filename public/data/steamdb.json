@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-19T22:40:11.651280+00:00",
+  "generatedAt": "2026-05-19T23:44:27.081139+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Matchmaking Test - Short Delay",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801549",
-      "latestPatchPublishedAt": "2026-05-19T17:03:05+00:00",
+      "latestPatchTitle": "Matchmaking Test, Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318564947",
+      "latestPatchPublishedAt": "2026-05-19T23:37:02+00:00",
       "status": "ok"
     },
     {
