@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-20T08:55:59.816979+00:00",
+  "generatedAt": "2026-05-20T11:46:02.267971+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ABI × Cyberpunk 2077 Collab Returns Today- Red Items, Outfits & Melee Weapons",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800770",
-      "latestPatchPublishedAt": "2026-05-19T12:03:12+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - May 20th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565771",
+      "latestPatchPublishedAt": "2026-05-20T09:20:37+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ABI × Cyberpunk 2077 Collab Returns Today- Red Items, Outfits & Melee Weapons",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800770",
-      "latestPatchPublishedAt": "2026-05-19T12:03:12+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - May 20th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565771",
+      "latestPatchPublishedAt": "2026-05-20T09:20:37+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk May 13th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785877",
-      "latestPatchPublishedAt": "2026-05-13T10:13:46+00:00",
+      "latestPatchTitle": "FragPunk May 21st Update Announcement: New Content for Season 5, Chapter 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565980",
+      "latestPatchPublishedAt": "2026-05-20T10:55:18+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Update 2.7.1.2 Deploying on 20th May, at 09:00 CEST",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801570",
-      "latestPatchPublishedAt": "2026-05-19T17:13:22+00:00",
+      "latestPatchTitle": "Update 2.7.1.2 Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565749",
+      "latestPatchPublishedAt": "2026-05-20T09:07:52+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "PGZ88: Jack Of All Trades",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800948",
-      "latestPatchPublishedAt": "2026-05-19T13:10:18+00:00",
+      "latestPatchTitle": "Marine Gendarme: Glaive",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566004",
+      "latestPatchPublishedAt": "2026-05-20T11:11:24+00:00",
       "status": "ok"
     }
   ]
