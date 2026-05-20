@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-20T19:52:16.892769+00:00",
+  "generatedAt": "2026-05-20T21:45:37.857583+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/11~05/17)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565518",
-      "latestPatchPublishedAt": "2026-05-20T07:00:57+00:00",
+      "latestPatchTitle": "PUBG Global Championship 2026 Heads to İstanbul, Türkiye!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567350",
+      "latestPatchPublishedAt": "2026-05-20T20:57:23+00:00",
       "status": "ok"
     },
     {
