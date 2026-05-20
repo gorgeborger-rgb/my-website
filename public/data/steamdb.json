@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-20T21:45:37.857583+00:00",
+  "generatedAt": "2026-05-20T23:00:07.487617+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Matchmaking Test, Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318564947",
-      "latestPatchPublishedAt": "2026-05-19T23:37:02+00:00",
+      "latestPatchTitle": "Upcoming Matchmaking Test: Diamond + Solo Queue Only",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567481",
+      "latestPatchPublishedAt": "2026-05-20T22:21:15+00:00",
       "status": "ok"
     },
     {
