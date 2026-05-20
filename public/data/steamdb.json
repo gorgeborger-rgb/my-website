@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-20T05:53:39.862842+00:00",
+  "generatedAt": "2026-05-20T08:55:59.816979+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Streamer Invitational Event Match Online Semifinals Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792201",
-      "latestPatchPublishedAt": "2026-05-15T14:33:29+00:00",
+      "latestPatchTitle": "Streamer Invitational Grand Finals Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565676",
+      "latestPatchPublishedAt": "2026-05-20T08:23:16+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.0.4.9",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800225",
-      "latestPatchPublishedAt": "2026-05-19T07:00:59+00:00",
+      "latestPatchTitle": "The Unheard Steam Edition is available!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565703",
+      "latestPatchPublishedAt": "2026-05-20T08:41:01+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Global Series 4 Group Stage",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801709",
-      "latestPatchPublishedAt": "2026-05-19T18:48:52+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/11~05/17)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565518",
+      "latestPatchPublishedAt": "2026-05-20T07:00:57+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801398",
-      "latestPatchPublishedAt": "2026-05-19T16:02:06+00:00",
+      "latestPatchTitle": "Game servers are back online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565718",
+      "latestPatchPublishedAt": "2026-05-20T08:54:00+00:00",
       "status": "ok"
     },
     {
