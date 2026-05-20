@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-20T11:46:02.267971+00:00",
+  "generatedAt": "2026-05-20T14:19:02.100264+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 507: Tunnel, Tear, and Transform!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592793484",
-      "latestPatchPublishedAt": "2026-05-16T00:27:34+00:00",
+      "latestPatchTitle": "ARK Fantastic Tames Season 1: Burrowbuck and Araneo TLC are out now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566244",
+      "latestPatchPublishedAt": "2026-05-20T13:06:11+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM: A New Chapter Begins",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801066",
-      "latestPatchPublishedAt": "2026-05-19T14:00:28+00:00",
+      "latestPatchTitle": "Looking ahead",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566226",
+      "latestPatchPublishedAt": "2026-05-20T13:00:33+00:00",
       "status": "ok"
     },
     {
