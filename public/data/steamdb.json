@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-20T23:00:07.487617+00:00",
+  "generatedAt": "2026-05-21T00:12:20.968787+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760",
-      "latestPatchPublishedAt": "2026-05-18T23:36:08+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567523",
+      "latestPatchPublishedAt": "2026-05-20T23:06:14+00:00",
       "status": "ok"
     },
     {
