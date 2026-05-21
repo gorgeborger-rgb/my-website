@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-21T17:13:16.286526+00:00",
+  "generatedAt": "2026-05-21T19:18:59.418023+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Dev Brief #217 | Juno Beach & Armor Changes | Playtest",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568524",
-      "latestPatchPublishedAt": "2026-04-30T15:01:09+00:00",
+      "latestPatchTitle": "Dev Brief #218 | Update 20 Experimental Branch Test",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318569928",
+      "latestPatchPublishedAt": "2026-05-21T19:10:51+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Global Championship 2026 Heads to İstanbul, Türkiye!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567350",
-      "latestPatchPublishedAt": "2026-05-20T20:57:23+00:00",
+      "latestPatchTitle": "PUBG Global Series 4 Survival Stage",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318569748",
+      "latestPatchPublishedAt": "2026-05-21T17:46:07+00:00",
       "status": "ok"
     },
     {
