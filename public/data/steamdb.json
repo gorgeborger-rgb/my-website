@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-21T04:46:08.478756+00:00",
+  "generatedAt": "2026-05-21T08:23:07.425084+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "HD Texture Pack Feature Optimization",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791162",
-      "latestPatchPublishedAt": "2026-05-15T08:15:51+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260521 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568033",
+      "latestPatchPublishedAt": "2026-05-21T06:29:12+00:00",
       "status": "ok"
     },
     {
