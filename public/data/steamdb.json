@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-21T11:42:53.721105+00:00",
+  "generatedAt": "2026-05-21T14:27:18.235707+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592797797",
-      "latestPatchPublishedAt": "2026-05-18T10:01:29+00:00",
+      "latestPatchTitle": "\"No Half-Time\" Mid-Season Update | Soccer, Rice Dumpling Events",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568663",
+      "latestPatchPublishedAt": "2026-05-21T12:00:23+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Self-Hosted Servers now live ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801400",
-      "latestPatchPublishedAt": "2026-05-19T16:02:57+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.4.0.1 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568714",
+      "latestPatchPublishedAt": "2026-05-21T12:15:50+00:00",
       "status": "ok"
     },
     {
@@ -243,18 +243,18 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk May 21st Update Announcement: New Content for Season 5, Chapter 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565980",
-      "latestPatchPublishedAt": "2026-05-20T10:55:18+00:00",
+      "latestPatchTitle": "FragPunk May 21st Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568785",
+      "latestPatchPublishedAt": "2026-05-21T12:33:50+00:00",
       "status": "ok"
     },
     {
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Deploy Into Gray Zone Warfare, Now 25% Off",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789343",
-      "latestPatchPublishedAt": "2026-05-14T15:00:51+00:00",
+      "latestPatchTitle": "Patch 0.4.3.0 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568669",
+      "latestPatchPublishedAt": "2026-05-21T12:01:31+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "This Month in Sea of Thieves: May 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502814926",
-      "latestPatchPublishedAt": "2026-05-08T12:05:11+00:00",
+      "latestPatchTitle": "Sea of Thieves Release Notes - 3.7.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568655",
+      "latestPatchPublishedAt": "2026-05-21T11:56:54+00:00",
       "status": "ok"
     },
     {
