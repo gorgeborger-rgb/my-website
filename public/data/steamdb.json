@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-21T08:23:07.425084+00:00",
+  "generatedAt": "2026-05-21T11:42:53.721105+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "A Vanity Sale in Three Rounds: Second Round until May 22",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592797841",
-      "latestPatchPublishedAt": "2026-05-18T10:21:16+00:00",
+      "latestPatchTitle": "Dev Talk: Development Update May 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568618",
+      "latestPatchPublishedAt": "2026-05-21T11:33:45+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Triage Shell Cinematic | Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566586",
-      "latestPatchPublishedAt": "2026-05-20T15:30:21+00:00",
+      "latestPatchTitle": "Помощь уже здесь: Bungie показала кинематографический ролик оболочки Триаж в Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318568468",
+      "latestPatchPublishedAt": "2026-05-21T02:28:00+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 10.7.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788592",
-      "latestPatchPublishedAt": "2026-05-14T10:01:08+00:00",
+      "latestPatchTitle": "Store Update 10.8.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568425",
+      "latestPatchPublishedAt": "2026-05-21T10:00:19+00:00",
       "status": "ok"
     },
     {
