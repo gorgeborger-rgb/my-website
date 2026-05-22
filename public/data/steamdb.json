@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-22T11:33:21.674938+00:00",
+  "generatedAt": "2026-05-22T13:57:50.019181+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "The Unheard Steam Edition is available!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565703",
-      "latestPatchPublishedAt": "2026-05-20T08:41:01+00:00",
+      "latestPatchTitle": "New in-game survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571485",
+      "latestPatchPublishedAt": "2026-05-22T11:58:35+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Patch 0.4.3.0 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568669",
-      "latestPatchPublishedAt": "2026-05-21T12:01:31+00:00",
+      "latestPatchTitle": "Hotfix 0.4.3.1 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571490",
+      "latestPatchPublishedAt": "2026-05-22T11:59:51+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Welkin F. Mk. I and F.Mk.I Late: From Heaven’s Vault",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571339",
-      "latestPatchPublishedAt": "2026-05-22T11:04:27+00:00",
+      "latestPatchTitle": "Update 2.55.1.126",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571771",
+      "latestPatchPublishedAt": "2026-05-22T13:35:45+00:00",
       "status": "ok"
     }
   ]
