@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-21T23:33:16.701894+00:00",
+  "generatedAt": "2026-05-22T01:32:32.791391+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567523",
-      "latestPatchPublishedAt": "2026-05-20T23:06:14+00:00",
+      "latestPatchTitle": "IEM Cologne 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412",
+      "latestPatchPublishedAt": "2026-05-22T00:40:46+00:00",
       "status": "ok"
     },
     {
