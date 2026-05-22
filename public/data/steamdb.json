@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-22T13:57:50.019181+00:00",
+  "generatedAt": "2026-05-22T16:26:17.540587+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "An Update from the Anti Cheat Team - 05/21/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318569602",
-      "latestPatchPublishedAt": "2026-05-21T17:00:10+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 5/22/202",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571888",
+      "latestPatchPublishedAt": "2026-05-22T14:15:25+00:00",
       "status": "ok"
     },
     {
@@ -81,9 +81,9 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Announcing Arma 3 Pass",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568883",
-      "latestPatchPublishedAt": "2026-04-30T16:30:02+00:00",
+      "latestPatchTitle": "Community Radar #61",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571830",
+      "latestPatchPublishedAt": "2026-05-22T14:00:35+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "appId": 1145030,
+      "steamDbUrl": "https://steamdb.info/app/1145030/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Global Series 4 Survival Stage",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318569748",
-      "latestPatchPublishedAt": "2026-05-21T17:46:07+00:00",
+      "latestPatchTitle": "Squads up. We are running our first Crew Clash this Saturday with Rumble!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318572069",
+      "latestPatchPublishedAt": "2026-05-22T15:13:34+00:00",
       "status": "ok"
     },
     {
@@ -369,18 +369,18 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "OBEY THE CALL OF AH PUCH",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799533",
-      "latestPatchPublishedAt": "2026-05-18T21:17:18+00:00",
+      "latestPatchTitle": "AH PUCH DEMANDS 2X WORSHIPERS",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318572150",
+      "latestPatchPublishedAt": "2026-05-22T15:43:36+00:00",
       "status": "ok"
     },
     {
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers are back online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565718",
-      "latestPatchPublishedAt": "2026-05-20T08:54:00+00:00",
+      "latestPatchTitle": "Future of act tickets and economic changes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571991",
+      "latestPatchPublishedAt": "2026-05-22T14:57:12+00:00",
       "status": "ok"
     },
     {
