@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-22T23:43:00.396754+00:00",
+  "generatedAt": "2026-05-23T01:28:05.718576+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "ARK Fantastic Tames Season 1: Burrowbuck and Araneo TLC are out now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566244",
-      "latestPatchPublishedAt": "2026-05-20T13:06:11+00:00",
+      "latestPatchTitle": "Community Crunch 508: Side by Tide",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318573047",
+      "latestPatchPublishedAt": "2026-05-23T00:17:34+00:00",
       "status": "ok"
     },
     {
