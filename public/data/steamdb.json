@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-23T17:39:01.831001+00:00",
+  "generatedAt": "2026-05-23T18:41:13.242620+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Global Series 4 Final Stage - Day 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318572571",
-      "latestPatchPublishedAt": "2026-05-22T18:52:07+00:00",
+      "latestPatchTitle": "PUBG Global Series 4 Final Stage - Day 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318574258",
+      "latestPatchPublishedAt": "2026-05-23T17:48:32+00:00",
       "status": "ok"
     },
     {
