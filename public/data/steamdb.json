@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-23T05:03:00.591373+00:00",
+  "generatedAt": "2026-05-23T07:37:59.559502+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.126",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571771",
-      "latestPatchPublishedAt": "2026-05-22T13:35:45+00:00",
+      "latestPatchTitle": "Screenshot Competition – High Impact!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318573396",
+      "latestPatchPublishedAt": "2026-05-23T06:00:21+00:00",
       "status": "ok"
     }
   ]
