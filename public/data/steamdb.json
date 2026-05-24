@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-24T12:44:04.864101+00:00",
+  "generatedAt": "2026-05-24T14:12:31.206361+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Официально: Bungie прекращает активную поддержку Destiny 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318571406",
-      "latestPatchPublishedAt": "2026-05-21T23:54:30+00:00",
+      "latestPatchTitle": "Фанаты Destiny 2 обрушили свой гнев на Marathon в Steam — поклонники нового шутера ответили волной положительных отзывов",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318575352",
+      "latestPatchPublishedAt": "2026-05-23T20:01:00+00:00",
       "status": "ok"
     },
     {
