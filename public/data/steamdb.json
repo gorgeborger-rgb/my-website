@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-24T11:37:40.166232+00:00",
+  "generatedAt": "2026-05-24T12:44:04.864101+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "What could this mean?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318573816",
-      "latestPatchPublishedAt": "2026-05-23T12:58:28+00:00",
+      "latestPatchTitle": "Season ending soon...",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318575280",
+      "latestPatchPublishedAt": "2026-05-24T12:01:21+00:00",
       "status": "ok"
     },
     {
