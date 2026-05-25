@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-25T10:54:15.441422+00:00",
+  "generatedAt": "2026-05-25T13:56:26.184303+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "New in-game survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571485",
-      "latestPatchPublishedAt": "2026-05-22T11:58:35+00:00",
+      "latestPatchTitle": "Patch 1.0.5.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318577081",
+      "latestPatchPublishedAt": "2026-05-25T12:45:48+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Фанаты Destiny 2 обрушили свой гнев на Marathon в Steam — поклонники нового шутера ответили волной положительных отзывов",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318575352",
-      "latestPatchPublishedAt": "2026-05-23T20:01:00+00:00",
+      "latestPatchTitle": "\"Этого я и боялся\": Ветеран Bungie высказался о судьбе разработчиков Destiny 2 под крылом Sony",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318577209",
+      "latestPatchPublishedAt": "2026-05-25T02:59:00+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Looking ahead",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566226",
-      "latestPatchPublishedAt": "2026-05-20T13:00:33+00:00",
+      "latestPatchTitle": "SCUM: INTO THE WILD - May Update | 1.3.0.0.117753",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318577138",
+      "latestPatchPublishedAt": "2026-05-25T13:13:40+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Season ending soon...",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318575280",
-      "latestPatchPublishedAt": "2026-05-24T12:01:21+00:00",
+      "latestPatchTitle": "A reward quiz event!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318576940",
+      "latestPatchPublishedAt": "2026-05-25T11:08:11+00:00",
       "status": "ok"
     },
     {
