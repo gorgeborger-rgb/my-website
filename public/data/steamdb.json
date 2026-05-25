@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-25T16:20:42.701121+00:00",
+  "generatedAt": "2026-05-25T18:06:52.471289+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight finally confirms Jason Voorhees after an agonizing 13-hour livestream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1833334318574194",
-      "latestPatchPublishedAt": "2026-05-23T15:00:27+00:00",
+      "latestPatchTitle": "STATS | Bloodmoon Event 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318577661",
+      "latestPatchPublishedAt": "2026-05-25T17:01:51+00:00",
       "status": "ok"
     },
     {
