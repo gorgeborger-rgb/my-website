@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-25T18:06:52.471289+00:00",
+  "generatedAt": "2026-05-25T19:56:01.588773+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "STATS | Bloodmoon Event 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318577661",
-      "latestPatchPublishedAt": "2026-05-25T17:01:51+00:00",
+      "latestPatchTitle": "'We’re just thrilled the stars aligned': Less than 2 years after his own game fully shut down, Jason Voorhees is coming to Dead by Daylight",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318577799",
+      "latestPatchPublishedAt": "2026-05-25T18:05:08+00:00",
       "status": "ok"
     },
     {
