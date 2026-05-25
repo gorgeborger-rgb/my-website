@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-25T13:56:26.184303+00:00",
+  "generatedAt": "2026-05-25T16:20:42.701121+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – High Impact!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318573396",
-      "latestPatchPublishedAt": "2026-05-23T06:00:21+00:00",
+      "latestPatchTitle": "Pre-order: Puma u14",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318577414",
+      "latestPatchPublishedAt": "2026-05-25T15:18:33+00:00",
       "status": "ok"
     }
   ]
