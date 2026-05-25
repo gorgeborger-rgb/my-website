@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-25T06:20:22.934841+00:00",
+  "generatedAt": "2026-05-25T10:54:15.441422+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "\"No Half-Time\" Mid-Season Update | Soccer, Rice Dumpling Events",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568663",
-      "latestPatchPublishedAt": "2026-05-21T12:00:23+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318576781",
+      "latestPatchPublishedAt": "2026-05-25T09:24:38+00:00",
       "status": "ok"
     },
     {
