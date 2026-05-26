@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-26T22:01:17.365865+00:00",
+  "generatedAt": "2026-05-26T23:19:30.755702+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "[AMA] Chatting about Axle, with Axle herself",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579910",
-      "latestPatchPublishedAt": "2026-05-26T16:59:38+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 5/26/26",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530882808",
+      "latestPatchPublishedAt": "2026-05-26T22:17:08+00:00",
       "status": "ok"
     },
     {
