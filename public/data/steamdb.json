@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-26T18:08:44.287701+00:00",
+  "generatedAt": "2026-05-26T20:24:53.733880+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.0.0 | Jason PTB Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579520",
-      "latestPatchPublishedAt": "2026-05-26T14:30:08+00:00",
+      "latestPatchTitle": "At long last, Dead by Daylight welcomes Friday the 13th's Jason Voorhees, and he's now available for some beta slashing",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1833334318579881",
+      "latestPatchPublishedAt": "2026-05-26T16:09:18+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.0.9.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579437",
-      "latestPatchPublishedAt": "2026-05-26T14:00:31+00:00",
+      "latestPatchTitle": "Season 2 Cinematic Trailer | Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318580213",
+      "latestPatchPublishedAt": "2026-05-26T19:15:47+00:00",
       "status": "ok"
     },
     {
