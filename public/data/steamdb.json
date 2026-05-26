@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-26T08:51:52.714536+00:00",
+  "generatedAt": "2026-05-26T15:21:39.566248+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Notes on The Matchmaking System",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566689",
-      "latestPatchPublishedAt": "2026-05-20T16:00:23+00:00",
+      "latestPatchTitle": "Store Update 1.30.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578858",
+      "latestPatchPublishedAt": "2026-05-26T09:03:05+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "A Vanity Sale in Three Rounds: Third Round until May 25",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571237",
-      "latestPatchPublishedAt": "2026-05-22T10:12:55+00:00",
+      "latestPatchTitle": "Changelog: Radiant Wilds Patch 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578987",
+      "latestPatchPublishedAt": "2026-05-26T10:06:43+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "'We’re just thrilled the stars aligned': Less than 2 years after his own game fully shut down, Jason Voorhees is coming to Dead by Daylight",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318577799",
-      "latestPatchPublishedAt": "2026-05-25T18:05:08+00:00",
+      "latestPatchTitle": "10.0.0 | Jason PTB Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579520",
+      "latestPatchPublishedAt": "2026-05-26T14:30:08+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "New Community Challenge LIVE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570970",
-      "latestPatchPublishedAt": "2026-05-22T08:00:16+00:00",
+      "latestPatchTitle": "Server Migrations - Live today! ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579444",
+      "latestPatchPublishedAt": "2026-05-26T14:00:59+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.0.5.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318577081",
-      "latestPatchPublishedAt": "2026-05-25T12:45:48+00:00",
+      "latestPatchTitle": "Icebreaker Twitch Drops are live!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579628",
+      "latestPatchPublishedAt": "2026-05-26T15:08:49+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.4.3.1 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571490",
-      "latestPatchPublishedAt": "2026-05-22T11:59:51+00:00",
+      "latestPatchTitle": "Join us for the Game Access Stream",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579578",
+      "latestPatchPublishedAt": "2026-05-26T14:53:21+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "\"Этого я и боялся\": Ветеран Bungie высказался о судьбе разработчиков Destiny 2 под крылом Sony",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318577209",
-      "latestPatchPublishedAt": "2026-05-25T02:59:00+00:00",
+      "latestPatchTitle": "Marathon Update 1.0.9.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579437",
+      "latestPatchPublishedAt": "2026-05-26T14:00:31+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List May 20th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566626",
-      "latestPatchPublishedAt": "2026-05-20T15:45:58+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List May 26th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579248",
+      "latestPatchPublishedAt": "2026-05-26T12:32:29+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "A reward quiz event!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318576940",
-      "latestPatchPublishedAt": "2026-05-25T11:08:11+00:00",
+      "latestPatchTitle": "Results of Stage One: Frontline Quiz",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579177",
+      "latestPatchPublishedAt": "2026-05-26T12:03:59+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pre-order: Puma u14",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318577414",
-      "latestPatchPublishedAt": "2026-05-25T15:18:33+00:00",
+      "latestPatchTitle": "The F-4EJ ADTW is Back with a Discount for the Anniversary of its First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579270",
+      "latestPatchPublishedAt": "2026-05-26T12:44:17+00:00",
       "status": "ok"
     }
   ]
