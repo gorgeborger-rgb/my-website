@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-27T09:33:10.659456+00:00",
+  "generatedAt": "2026-05-27T16:27:59.425313+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced May Update - Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801081",
-      "latestPatchPublishedAt": "2026-05-19T14:01:29+00:00",
+      "latestPatchTitle": "May Hotfix 1.1.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885505",
+      "latestPatchPublishedAt": "2026-05-27T14:01:36+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Icebreaker Twitch Drops are live!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579628",
-      "latestPatchPublishedAt": "2026-05-26T15:08:49+00:00",
+      "latestPatchTitle": "Streamer Challenge Returns!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885273",
+      "latestPatchPublishedAt": "2026-05-27T12:30:26+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk May 21st Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568785",
-      "latestPatchPublishedAt": "2026-05-21T12:33:50+00:00",
+      "latestPatchTitle": "FragPunk May 27th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885014",
+      "latestPatchPublishedAt": "2026-05-27T10:32:47+00:00",
       "status": "ok"
     },
     {
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Developer Insight: Devil’s Trail Survey Results",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579969",
-      "latestPatchPublishedAt": "2026-05-26T17:21:30+00:00",
+      "latestPatchTitle": "Road to Hell | Event Trailer | Hunt: Showdown 1896",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885564",
+      "latestPatchPublishedAt": "2026-05-27T14:25:49+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Season 2 Cinematic Trailer | Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318580213",
-      "latestPatchPublishedAt": "2026-05-26T19:15:47+00:00",
+      "latestPatchTitle": "Welcome to Season 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885662",
+      "latestPatchPublishedAt": "2026-05-27T15:00:58+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Results of Stage One: Frontline Quiz",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579177",
-      "latestPatchPublishedAt": "2026-05-26T12:03:59+00:00",
+      "latestPatchTitle": "Storm lies ahead",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885649",
+      "latestPatchPublishedAt": "2026-05-27T14:58:37+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The F-4EJ ADTW is Back with a Discount for the Anniversary of its First Flight!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579270",
-      "latestPatchPublishedAt": "2026-05-26T12:44:17+00:00",
+      "latestPatchTitle": "MAS 429: A Kid With A Club!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885703",
+      "latestPatchPublishedAt": "2026-05-27T15:12:13+00:00",
       "status": "ok"
     }
   ]
