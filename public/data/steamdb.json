@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-27T16:27:59.425313+00:00",
+  "generatedAt": "2026-05-27T18:38:11.308657+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -99,18 +99,18 @@
       "game": "Battlebit",
       "appId": 671860,
       "steamDbUrl": "https://steamdb.info/app/671860/",
-      "latestPatchTitle": "Operation Overhaul Dev Blog #2: Gameplay changes, weapons, vehicles",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105116",
-      "latestPatchPublishedAt": "2026-03-27T17:00:14+00:00",
+      "latestPatchTitle": "Operation Overhaul Dev Blog #3: New maps",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530886017",
+      "latestPatchPublishedAt": "2026-05-27T17:00:05+00:00",
       "status": "ok"
     },
     {
       "game": "Battlefield 6",
       "appId": 671860,
       "steamDbUrl": "https://steamdb.info/app/671860/",
-      "latestPatchTitle": "Operation Overhaul Dev Blog #2: Gameplay changes, weapons, vehicles",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105116",
-      "latestPatchPublishedAt": "2026-03-27T17:00:14+00:00",
+      "latestPatchTitle": "Operation Overhaul Dev Blog #3: New maps",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530886017",
+      "latestPatchPublishedAt": "2026-05-27T17:00:05+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "appId": 1145030,
+      "steamDbUrl": "https://steamdb.info/app/1145030/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
