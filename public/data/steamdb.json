@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-26T23:19:30.755702+00:00",
+  "generatedAt": "2026-05-27T01:29:33.723694+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "'Palworld Online' has been trademarked, but there's hints of potential AI use",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823863",
-      "latestPatchPublishedAt": "2026-05-12T12:30:51+00:00",
+      "latestPatchTitle": "Skol! Palworld X Valheim Steam Bundle!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884070",
+      "latestPatchPublishedAt": "2026-05-27T00:00:13+00:00",
       "status": "ok"
     },
     {
