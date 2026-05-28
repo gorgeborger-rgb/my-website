@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-28T05:43:35.549744+00:00",
+  "generatedAt": "2026-05-28T09:05:11.613941+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals has banned 485 accounts and dished out just 3 hardware bans after the latest slew of cheaters but players are begging for more",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318579940",
-      "latestPatchPublishedAt": "2026-05-26T17:05:01+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260528 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887233",
+      "latestPatchPublishedAt": "2026-05-28T06:22:51+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PNC 2026 Official Participating Teams Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884598",
-      "latestPatchPublishedAt": "2026-05-27T07:00:35+00:00",
+      "latestPatchTitle": "PUBG Nations Cup 2026 Tournament Details",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887302",
+      "latestPatchPublishedAt": "2026-05-28T07:00:46+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Storm lies ahead",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885649",
-      "latestPatchPublishedAt": "2026-05-27T14:58:37+00:00",
+      "latestPatchTitle": "Raincoat is no more!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887505",
+      "latestPatchPublishedAt": "2026-05-28T09:01:20+00:00",
       "status": "ok"
     },
     {
