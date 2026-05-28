@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-28T12:41:39.606824+00:00",
+  "generatedAt": "2026-05-28T16:44:03.401171+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty Endowment Military Appreciation Month presented by USAA",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578381",
-      "latestPatchPublishedAt": "2026-05-04T18:45:46+00:00",
+      "latestPatchTitle": "Announcing Call of Duty: Modern Warfare 4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888684",
+      "latestPatchPublishedAt": "2026-05-28T16:07:51+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM: INTO THE WILD - May Update | 1.3.0.0.117753",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318577138",
-      "latestPatchPublishedAt": "2026-05-25T13:13:40+00:00",
+      "latestPatchTitle": "Hotfix - 1.3.0.1.118271",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888249",
+      "latestPatchPublishedAt": "2026-05-28T13:59:49+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Results of Stage two: Frontline Quiz",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887903",
-      "latestPatchPublishedAt": "2026-05-28T11:59:22+00:00",
+      "latestPatchTitle": "The final assault is nearing its end!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888615",
+      "latestPatchPublishedAt": "2026-05-28T15:55:17+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The Bf 109 Z-1 & Discounts on Bf 109 and Fw 190 Variants!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887795",
-      "latestPatchPublishedAt": "2026-05-28T11:11:58+00:00",
+      "latestPatchTitle": "Man-in-the-Loop: Guidance Mode for Munitions with TV and IR Seekers",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888132",
+      "latestPatchPublishedAt": "2026-05-28T13:11:46+00:00",
       "status": "ok"
     }
   ]
