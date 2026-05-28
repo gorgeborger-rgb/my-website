@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-28T09:05:11.613941+00:00",
+  "generatedAt": "2026-05-28T12:41:39.606824+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Changelog: Radiant Wilds Patch 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578987",
-      "latestPatchPublishedAt": "2026-05-26T10:06:43+00:00",
+      "latestPatchTitle": "Grab your Gold & Learning Points Bundle Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887660",
+      "latestPatchPublishedAt": "2026-05-28T10:11:13+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Arma Reforger Collector's Edition Now Available!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792430",
-      "latestPatchPublishedAt": "2026-05-15T16:00:17+00:00",
+      "latestPatchTitle": "Update 1.7",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887771",
+      "latestPatchPublishedAt": "2026-05-28T11:07:22+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Streamer Invitational Grand Finals Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565676",
-      "latestPatchPublishedAt": "2026-05-20T08:23:16+00:00",
+      "latestPatchTitle": "Ealry Access Hotfix #116",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887651",
+      "latestPatchPublishedAt": "2026-05-28T10:09:56+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318576781",
-      "latestPatchPublishedAt": "2026-05-25T09:24:38+00:00",
+      "latestPatchTitle": "Mid-season Supplies now live, Iron Dame Appearance Lucky Draw now open.",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887906",
+      "latestPatchPublishedAt": "2026-05-28T12:00:01+00:00",
       "status": "ok"
     },
     {
@@ -279,18 +279,18 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Welcome to Season 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885662",
-      "latestPatchPublishedAt": "2026-05-27T15:00:58+00:00",
+      "latestPatchTitle": "Marathon is having a free-to-play week to launch Season 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1833968530887812",
+      "latestPatchPublishedAt": "2026-05-28T10:03:06+00:00",
       "status": "ok"
     },
     {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260528 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887233",
-      "latestPatchPublishedAt": "2026-05-28T06:22:51+00:00",
+      "latestPatchTitle": "Victims of cheaters in Marvel Rivals will be refunded all the ranked points they lost if they report them thanks to NetEase's new Anti-Cheat Rank Compensation System",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833968530887665",
+      "latestPatchPublishedAt": "2026-05-28T10:05:55+00:00",
       "status": "ok"
     },
     {
@@ -378,18 +378,18 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Raincoat is no more!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887505",
-      "latestPatchPublishedAt": "2026-05-28T09:01:20+00:00",
+      "latestPatchTitle": "Results of Stage two: Frontline Quiz",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887903",
+      "latestPatchPublishedAt": "2026-05-28T11:59:22+00:00",
       "status": "ok"
     },
     {
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Sea of Thieves Release Notes - 3.7.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568655",
-      "latestPatchPublishedAt": "2026-05-21T11:56:54+00:00",
+      "latestPatchTitle": "Season 19's Style of Thieves Theme Reveal!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887577",
+      "latestPatchPublishedAt": "2026-05-28T09:30:07+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 10.8.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568425",
-      "latestPatchPublishedAt": "2026-05-21T10:00:19+00:00",
+      "latestPatchTitle": "Update 10.9.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887628",
+      "latestPatchPublishedAt": "2026-05-28T10:00:38+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "MAS 429: A Kid With A Club!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885703",
-      "latestPatchPublishedAt": "2026-05-27T15:12:13+00:00",
+      "latestPatchTitle": "The Bf 109 Z-1 & Discounts on Bf 109 and Fw 190 Variants!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887795",
+      "latestPatchPublishedAt": "2026-05-28T11:11:58+00:00",
       "status": "ok"
     }
   ]
