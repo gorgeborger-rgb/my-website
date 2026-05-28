@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-28T16:44:03.401171+00:00",
+  "generatedAt": "2026-05-28T19:27:53.842243+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Latest Update 5/27/26 (As of 5:16 PM PT)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530886789",
-      "latestPatchPublishedAt": "2026-05-28T00:22:22+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 5/28/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889018",
+      "latestPatchPublishedAt": "2026-05-28T17:48:13+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Nations Cup 2026 Tournament Details",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887302",
-      "latestPatchPublishedAt": "2026-05-28T07:00:46+00:00",
+      "latestPatchTitle": "PUBG Global Series 5 Survival Stage",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889038",
+      "latestPatchPublishedAt": "2026-05-28T17:54:32+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Man-in-the-Loop: Guidance Mode for Munitions with TV and IR Seekers",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888132",
-      "latestPatchPublishedAt": "2026-05-28T13:11:46+00:00",
+      "latestPatchTitle": "Hunter AFV: Singaporean Hunter",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888929",
+      "latestPatchPublishedAt": "2026-05-28T17:15:05+00:00",
       "status": "ok"
     }
   ]
