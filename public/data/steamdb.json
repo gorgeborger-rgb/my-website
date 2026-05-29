@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-29T08:32:23.719903+00:00",
+  "generatedAt": "2026-05-29T11:52:55.594632+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Season 19's Style of Thieves Theme Reveal!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887577",
-      "latestPatchPublishedAt": "2026-05-28T09:30:07+00:00",
+      "latestPatchTitle": "Sea of Thieves Release Notes – Hotfix 3.7.2.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530890650",
+      "latestPatchPublishedAt": "2026-05-29T10:45:13+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Hunter AFV: Singaporean Hunter",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888929",
-      "latestPatchPublishedAt": "2026-05-28T17:15:05+00:00",
+      "latestPatchTitle": "The Milan Returns at a Discount for the Anniversary of its First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530890697",
+      "latestPatchPublishedAt": "2026-05-29T11:06:57+00:00",
       "status": "ok"
     }
   ]
