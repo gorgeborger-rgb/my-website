@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-29T14:47:18.911575+00:00",
+  "generatedAt": "2026-05-29T17:57:20.920988+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Streamer Challenge Returns!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885273",
-      "latestPatchPublishedAt": "2026-05-27T12:30:26+00:00",
+      "latestPatchTitle": "Weekend XP boost!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891376",
+      "latestPatchPublishedAt": "2026-05-29T15:03:31+00:00",
       "status": "ok"
     },
     {
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell | Event Trailer | Hunt: Showdown 1896",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885564",
-      "latestPatchPublishedAt": "2026-05-27T14:25:49+00:00",
+      "latestPatchTitle": "Clear Skies Burn Bright",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891471",
+      "latestPatchPublishedAt": "2026-05-29T15:28:42+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie are making it easy for you to try Marathon by launching its new season with a free week, right when veteran players lose all their best gear",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1833968530888599",
-      "latestPatchPublishedAt": "2026-05-28T14:27:43+00:00",
+      "latestPatchTitle": "Season 2 Combat Tuning Preview",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891352",
+      "latestPatchPublishedAt": "2026-05-29T15:00:29+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Global Series 5 Survival Stage",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889038",
-      "latestPatchPublishedAt": "2026-05-28T17:54:32+00:00",
+      "latestPatchTitle": "PUBG Global Series 5 Final Stage Day 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891573",
+      "latestPatchPublishedAt": "2026-05-29T16:00:26+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad 10.4.1 Hotfix 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502822103",
-      "latestPatchPublishedAt": "2026-05-11T18:00:30+00:00",
+      "latestPatchTitle": "Squad Status Update - May 2026 - Roadmap Showcase",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891733",
+      "latestPatchPublishedAt": "2026-05-29T16:53:08+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pre-orders: M60A1 Predator",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891092",
-      "latestPatchPublishedAt": "2026-05-29T13:23:33+00:00",
+      "latestPatchTitle": "Palmaria: The Island-Sized Slingshot",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891870",
+      "latestPatchPublishedAt": "2026-05-29T17:30:05+00:00",
       "status": "ok"
     }
   ]
