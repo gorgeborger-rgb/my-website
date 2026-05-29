@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-29T00:12:22.202833+00:00",
+  "generatedAt": "2026-05-29T04:44:26.317063+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 4163030,
-      "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 1349230,
+      "steamDbUrl": "https://steamdb.info/app/1349230/",
+      "latestPatchTitle": "Tiny Bugfix Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
+      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
       "status": "ok"
     },
     {
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "IEM Cologne 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412",
-      "latestPatchPublishedAt": "2026-05-22T00:40:46+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736",
+      "latestPatchPublishedAt": "2026-05-29T00:17:23+00:00",
       "status": "ok"
     },
     {
