@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-28T22:58:34.322604+00:00",
+  "generatedAt": "2026-05-29T00:12:22.202833+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon is having a free-to-play week to launch Season 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1833968530887812",
-      "latestPatchPublishedAt": "2026-05-28T10:03:06+00:00",
+      "latestPatchTitle": "Bungie are making it easy for you to try Marathon by launching its new season with a free week, right when veteran players lose all their best gear",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1833968530888599",
+      "latestPatchPublishedAt": "2026-05-28T14:27:43+00:00",
       "status": "ok"
     },
     {
