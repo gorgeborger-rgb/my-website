@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-29T11:52:55.594632+00:00",
+  "generatedAt": "2026-05-29T14:47:18.911575+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S2 DESIGNER'S NOTES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592798348",
-      "latestPatchPublishedAt": "2026-05-18T12:53:05+00:00",
+      "latestPatchTitle": "Y11S2 Streamer Charm",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891153",
+      "latestPatchPublishedAt": "2026-05-29T13:45:43+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The Milan Returns at a Discount for the Anniversary of its First Flight!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530890697",
-      "latestPatchPublishedAt": "2026-05-29T11:06:57+00:00",
+      "latestPatchTitle": "Pre-orders: M60A1 Predator",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891092",
+      "latestPatchPublishedAt": "2026-05-29T13:23:33+00:00",
       "status": "ok"
     }
   ]
