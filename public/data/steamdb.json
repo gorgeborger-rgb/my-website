@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-29T17:57:20.920988+00:00",
+  "generatedAt": "2026-05-29T20:22:57.355644+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Clear Skies Burn Bright",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891471",
-      "latestPatchPublishedAt": "2026-05-29T15:28:42+00:00",
+      "latestPatchTitle": "Clear Skies Burn Bright - Stage 1 Completed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892189",
+      "latestPatchPublishedAt": "2026-05-29T20:02:03+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Palmaria: The Island-Sized Slingshot",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891870",
-      "latestPatchPublishedAt": "2026-05-29T17:30:05+00:00",
+      "latestPatchTitle": "Update 2.55.1.137",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892216",
+      "latestPatchPublishedAt": "2026-05-29T20:20:07+00:00",
       "status": "ok"
     }
   ]
