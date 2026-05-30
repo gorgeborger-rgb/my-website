@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-29T23:42:16.809902+00:00",
+  "generatedAt": "2026-05-30T01:31:08.060533+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 508: Side by Tide",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318573047",
-      "latestPatchPublishedAt": "2026-05-23T00:17:34+00:00",
+      "latestPatchTitle": "Community Crunch 509: A Kraken Good Time",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892623",
+      "latestPatchPublishedAt": "2026-05-30T00:42:30+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 5/28/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889018",
-      "latestPatchPublishedAt": "2026-05-28T17:48:13+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 5/29/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892607",
+      "latestPatchPublishedAt": "2026-05-30T00:31:04+00:00",
       "status": "ok"
     },
     {
@@ -414,9 +414,9 @@
       "game": "The Isle Evrima",
       "appId": 376210,
       "steamDbUrl": "https://steamdb.info/app/376210/",
-      "latestPatchTitle": "DevBlog #68",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155570084",
-      "latestPatchPublishedAt": "2026-05-01T01:26:03+00:00",
+      "latestPatchTitle": "DevBlog #69",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892663",
+      "latestPatchPublishedAt": "2026-05-30T01:25:54+00:00",
       "status": "ok"
     },
     {
