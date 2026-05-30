@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-30T11:45:32.185890+00:00",
+  "generatedAt": "2026-05-30T12:49:59.571734+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "The latest hotfix has been installed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786520",
-      "latestPatchPublishedAt": "2026-05-13T14:07:42+00:00",
+      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
+      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Anticyclone is nearby",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893135",
-      "latestPatchPublishedAt": "2026-05-30T08:59:07+00:00",
+      "latestPatchTitle": "Stage three Frontline Quiz results",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893384",
+      "latestPatchPublishedAt": "2026-05-30T11:58:47+00:00",
       "status": "ok"
     },
     {
