@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-01T05:09:11.891539+00:00",
+  "generatedAt": "2026-06-01T10:30:19.417260+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Ealry Access Hotfix #116",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887651",
-      "latestPatchPublishedAt": "2026-05-28T10:09:56+00:00",
+      "latestPatchTitle": "Streamer Invitational Event Match Grand Finals Result",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530896535",
+      "latestPatchPublishedAt": "2026-06-01T05:43:39+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Mid-season Supplies now live, Iron Dame Appearance Lucky Draw now open.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887906",
-      "latestPatchPublishedAt": "2026-05-28T12:00:01+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530896971",
+      "latestPatchPublishedAt": "2026-06-01T09:13:10+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Along the Waterline!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892831",
-      "latestPatchPublishedAt": "2026-05-30T04:30:24+00:00",
+      "latestPatchTitle": "Get the Spitfire Mk Vb (Float) in the Wings Over Water Event!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897065",
+      "latestPatchPublishedAt": "2026-06-01T09:37:26+00:00",
       "status": "ok"
     }
   ]
