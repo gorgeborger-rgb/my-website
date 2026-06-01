@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-01T10:30:19.417260+00:00",
+  "generatedAt": "2026-06-01T16:25:38.047736+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Hotfix 1.9.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502824109",
-      "latestPatchPublishedAt": "2026-05-12T14:54:47+00:00",
+      "latestPatchTitle": "Patch 1.9.3: PvE Server Changes & Bug Fixes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897902",
+      "latestPatchPublishedAt": "2026-06-01T15:23:08+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Join us for the Game Access Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579578",
-      "latestPatchPublishedAt": "2026-05-26T14:53:21+00:00",
+      "latestPatchTitle": "Upcoming Patches, PvP Changes & Update 0.5 Teasers | Dev Stream VOD",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897787",
+      "latestPatchPublishedAt": "2026-06-01T14:43:34+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Season 2 Combat Tuning Preview",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891352",
-      "latestPatchPublishedAt": "2026-05-29T15:00:29+00:00",
+      "latestPatchTitle": "Season 1 Comes To A Close…",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897823",
+      "latestPatchPublishedAt": "2026-06-01T15:00:02+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Start of the final stage: Frontline quiz",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530895176",
-      "latestPatchPublishedAt": "2026-05-31T10:59:49+00:00",
+      "latestPatchTitle": "Final results for Frontline Quiz",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897425",
+      "latestPatchPublishedAt": "2026-06-01T12:26:15+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Get the Spitfire Mk Vb (Float) in the Wings Over Water Event!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897065",
-      "latestPatchPublishedAt": "2026-06-01T09:37:26+00:00",
+      "latestPatchTitle": "The New Update in Progress: Detailed X-Ray and New MFD Screens",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897753",
+      "latestPatchPublishedAt": "2026-06-01T14:24:45+00:00",
       "status": "ok"
     }
   ]
