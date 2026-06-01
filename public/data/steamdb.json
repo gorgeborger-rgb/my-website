@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-01T16:25:38.047736+00:00",
+  "generatedAt": "2026-06-01T20:42:11.486409+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Season 1 Comes To A Close…",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897823",
-      "latestPatchPublishedAt": "2026-06-01T15:00:02+00:00",
+      "latestPatchTitle": "Open Play Week: June 2 - June 9",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530898384",
+      "latestPatchPublishedAt": "2026-06-01T18:00:10+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Final results for Frontline Quiz",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897425",
-      "latestPatchPublishedAt": "2026-06-01T12:26:15+00:00",
+      "latestPatchTitle": "What is this barter everyone keeps talking about?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530898182",
+      "latestPatchPublishedAt": "2026-06-01T16:57:17+00:00",
       "status": "ok"
     },
     {
