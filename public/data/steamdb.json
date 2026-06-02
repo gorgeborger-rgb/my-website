@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-02T12:50:20.274893+00:00",
+  "generatedAt": "2026-06-02T17:11:05.403339+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Modern Warfare 4 | Vault Edition Trailer",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530899016",
-      "latestPatchPublishedAt": "2026-06-01T23:48:15+00:00",
+      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 04 - Live Now",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901106",
+      "latestPatchPublishedAt": "2026-06-02T17:06:39+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "May Hotfix 1.1.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885505",
-      "latestPatchPublishedAt": "2026-05-27T14:01:36+00:00",
+      "latestPatchTitle": "June Hotfix 1.1.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900590",
+      "latestPatchPublishedAt": "2026-06-02T14:01:48+00:00",
       "status": "ok"
     },
     {
@@ -261,27 +261,27 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Dev Brief #218 | Update 20 Experimental Branch Test",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318569928",
-      "latestPatchPublishedAt": "2026-05-21T19:10:51+00:00",
+      "latestPatchTitle": "Update 20 Changelog | Juno Beach, Canadians & Armor Changes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900740",
+      "latestPatchPublishedAt": "2026-06-02T15:00:40+00:00",
       "status": "ok"
     },
     {
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Developer Livestream on June 3rd at 6 PM CEST ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530898734",
-      "latestPatchPublishedAt": "2026-06-01T20:44:44+00:00",
+      "latestPatchTitle": "Road to Hell | Gameplay Trailer | Hunt: Showdown 1896",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900768",
+      "latestPatchPublishedAt": "2026-06-02T15:09:51+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Open Play Week: June 2 - June 9",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530898384",
-      "latestPatchPublishedAt": "2026-06-01T18:00:10+00:00",
+      "latestPatchTitle": "Marathon's experimental new mode lets you scavenge alone, but only for a little while",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1833968530900849",
+      "latestPatchPublishedAt": "2026-06-02T14:27:30+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S2 PATCH NOTES ADDENDUM",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530899937",
-      "latestPatchPublishedAt": "2026-06-02T10:00:59+00:00",
+      "latestPatchTitle": "OPERATION SYSTEM OVERRIDE BEGINS NOW",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900733",
+      "latestPatchPublishedAt": "2026-06-02T15:00:14+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Hotfix - 1.3.0.1.118271",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888249",
-      "latestPatchPublishedAt": "2026-05-28T13:59:49+00:00",
+      "latestPatchTitle": "SCUM - Community showcase",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900378",
+      "latestPatchPublishedAt": "2026-06-02T13:03:30+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Clip Challenge results",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900146",
-      "latestPatchPublishedAt": "2026-06-02T11:27:42+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900899",
+      "latestPatchPublishedAt": "2026-06-02T15:56:53+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Washington B.1: A Friend in Need",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900035",
-      "latestPatchPublishedAt": "2026-06-02T10:40:55+00:00",
+      "latestPatchTitle": "Rewards for Crashed Aircraft!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900382",
+      "latestPatchPublishedAt": "2026-06-02T13:04:24+00:00",
       "status": "ok"
     }
   ]
