@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-01T22:52:22.804299+00:00",
+  "generatedAt": "2026-06-02T00:07:49.409167+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4 Editions: Pre-order Benefits Detailed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889490",
-      "latestPatchPublishedAt": "2026-05-28T21:18:27+00:00",
+      "latestPatchTitle": "Call of Duty: Modern Warfare 4 | Vault Edition Trailer",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530899016",
+      "latestPatchPublishedAt": "2026-06-01T23:48:15+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1145030,
-      "steamDbUrl": "https://steamdb.info/app/1145030/",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
