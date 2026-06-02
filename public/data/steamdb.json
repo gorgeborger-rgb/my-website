@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-02T17:11:05.403339+00:00",
+  "generatedAt": "2026-06-02T20:20:48.024687+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends™ EA Play* Weapon Charm",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530898933",
-      "latestPatchPublishedAt": "2026-06-01T22:38:15+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 6/2/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901182",
+      "latestPatchPublishedAt": "2026-06-02T17:45:22+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon's experimental new mode lets you scavenge alone, but only for a little while",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1833968530900849",
-      "latestPatchPublishedAt": "2026-06-02T14:27:30+00:00",
+      "latestPatchTitle": "Season 2 is Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901203",
+      "latestPatchPublishedAt": "2026-06-02T17:56:25+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Global Series 6 Survival Stage",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530895553",
-      "latestPatchPublishedAt": "2026-05-31T16:00:51+00:00",
+      "latestPatchTitle": "PUBG Nations Cup 2026 (PNC 2026) Ticket Sales",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901280",
+      "latestPatchPublishedAt": "2026-06-02T18:30:34+00:00",
       "status": "ok"
     },
     {
