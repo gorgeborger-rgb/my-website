@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-02T04:58:03.718618+00:00",
+  "generatedAt": "2026-06-02T09:06:07.222214+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.30.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578858",
-      "latestPatchPublishedAt": "2026-05-26T09:03:05+00:00",
+      "latestPatchTitle": "Store Update 1.31.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530899786",
+      "latestPatchPublishedAt": "2026-06-02T09:02:05+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The New Update in Progress: Detailed X-Ray and New MFD Screens",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897753",
-      "latestPatchPublishedAt": "2026-06-01T14:24:45+00:00",
+      "latestPatchTitle": "Use Razer Gold in the Gaijin Store to get cashback and extra bonuses!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530899611",
+      "latestPatchPublishedAt": "2026-06-02T07:27:01+00:00",
       "status": "ok"
     }
   ]
