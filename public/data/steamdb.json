@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-02T09:06:07.222214+00:00",
+  "generatedAt": "2026-06-02T12:50:20.274893+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S2 Streamer Charm",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891153",
-      "latestPatchPublishedAt": "2026-05-29T13:45:43+00:00",
+      "latestPatchTitle": "Y11S2 PATCH NOTES ADDENDUM",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530899937",
+      "latestPatchPublishedAt": "2026-06-02T10:00:59+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "What is this barter everyone keeps talking about?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530898182",
-      "latestPatchPublishedAt": "2026-06-01T16:57:17+00:00",
+      "latestPatchTitle": "Clip Challenge results",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900146",
+      "latestPatchPublishedAt": "2026-06-02T11:27:42+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Use Razer Gold in the Gaijin Store to get cashback and extra bonuses!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530899611",
-      "latestPatchPublishedAt": "2026-06-02T07:27:01+00:00",
+      "latestPatchTitle": "Washington B.1: A Friend in Need",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900035",
+      "latestPatchPublishedAt": "2026-06-02T10:40:55+00:00",
       "status": "ok"
     }
   ]
