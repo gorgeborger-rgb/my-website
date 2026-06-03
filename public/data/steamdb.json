@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-03T10:11:29.150350+00:00",
+  "generatedAt": "2026-06-03T15:05:03.957778+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Refer a Friend to Unlock the Recruiter’s Sand Salamander",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530896149",
-      "latestPatchPublishedAt": "2026-06-01T00:01:15+00:00",
+      "latestPatchTitle": "New Guide: The Armory",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184557",
+      "latestPatchPublishedAt": "2026-06-03T11:32:16+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - May 20th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565771",
-      "latestPatchPublishedAt": "2026-05-20T09:20:37+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 3rd",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185007",
+      "latestPatchPublishedAt": "2026-06-03T14:43:30+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - May 20th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565771",
-      "latestPatchPublishedAt": "2026-05-20T09:20:37+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 3rd",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185007",
+      "latestPatchPublishedAt": "2026-06-03T14:43:30+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530896971",
-      "latestPatchPublishedAt": "2026-06-01T09:13:10+00:00",
+      "latestPatchTitle": "Update | Soccer Frenzy, DFIW Hype, and New In Store",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184632",
+      "latestPatchPublishedAt": "2026-06-03T12:00:38+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Weekend XP boost!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891376",
-      "latestPatchPublishedAt": "2026-05-29T15:03:31+00:00",
+      "latestPatchTitle": "Streamer Challenge has begun!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185060",
+      "latestPatchPublishedAt": "2026-06-03T15:01:53+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk May 27th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530885014",
-      "latestPatchPublishedAt": "2026-05-27T10:32:47+00:00",
+      "latestPatchTitle": "FragPunk June 3rd Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184472",
+      "latestPatchPublishedAt": "2026-06-03T10:52:00+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Update 20 Changelog | Juno Beach, Canadians & Armor Changes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900740",
-      "latestPatchPublishedAt": "2026-06-02T15:00:40+00:00",
+      "latestPatchTitle": "Update 20 is Live Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184542",
+      "latestPatchPublishedAt": "2026-06-03T11:23:05+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "В Marathon стартовал второй сезон — Bungie гасит свет на карте и открывает бесплатную неделю",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1834602721183556",
-      "latestPatchPublishedAt": "2026-06-03T02:15:00+00:00",
+      "latestPatchTitle": "Marathon dropped its massive Season 2 update, and nobody was able to play it",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1834602721184579",
+      "latestPatchPublishedAt": "2026-06-03T10:13:07+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List May 26th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579248",
-      "latestPatchPublishedAt": "2026-05-26T12:32:29+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update – June 5th, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184673",
+      "latestPatchPublishedAt": "2026-06-03T12:18:49+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/25~05/31)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184039",
-      "latestPatchPublishedAt": "2026-06-03T07:00:22+00:00",
+      "latestPatchTitle": "Community Survey — Share Your Feedback With Us",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184759",
+      "latestPatchPublishedAt": "2026-06-03T13:00:40+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server launch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184403",
-      "latestPatchPublishedAt": "2026-06-03T10:10:50+00:00",
+      "latestPatchTitle": "Subjects unidentified",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184790",
+      "latestPatchPublishedAt": "2026-06-03T13:09:40+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Wings Over Water: Spitfire Mk Vb Floatplane — Going Full Circle!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184388",
-      "latestPatchPublishedAt": "2026-06-03T10:03:32+00:00",
+      "latestPatchTitle": "Update 2.55.1.142",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184867",
+      "latestPatchPublishedAt": "2026-06-03T13:40:14+00:00",
       "status": "ok"
     }
   ]
