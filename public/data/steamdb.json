@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-03T05:19:01.662625+00:00",
+  "generatedAt": "2026-06-03T10:11:29.150350+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Console Date and Single-Player Announced ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901553",
-      "latestPatchPublishedAt": "2026-06-02T21:28:57+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.4.0.3 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184258",
+      "latestPatchPublishedAt": "2026-06-03T09:05:52+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell | Gameplay Trailer | Hunt: Showdown 1896",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900768",
-      "latestPatchPublishedAt": "2026-06-02T15:09:51+00:00",
+      "latestPatchTitle": "Fair Play Task Force – Roadmap Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184393",
+      "latestPatchPublishedAt": "2026-06-03T10:05:09+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Nations Cup 2026 (PNC 2026) Ticket Sales",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901280",
-      "latestPatchPublishedAt": "2026-06-02T18:30:34+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/25~05/31)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184039",
+      "latestPatchPublishedAt": "2026-06-03T07:00:22+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900899",
-      "latestPatchPublishedAt": "2026-06-02T15:56:53+00:00",
+      "latestPatchTitle": "Server launch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184403",
+      "latestPatchPublishedAt": "2026-06-03T10:10:50+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Rewards for Crashed Aircraft!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900382",
-      "latestPatchPublishedAt": "2026-06-02T13:04:24+00:00",
+      "latestPatchTitle": "Wings Over Water: Spitfire Mk Vb Floatplane — Going Full Circle!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184388",
+      "latestPatchPublishedAt": "2026-06-03T10:03:32+00:00",
       "status": "ok"
     }
   ]
