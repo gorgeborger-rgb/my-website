@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-03T18:55:20.123678+00:00",
+  "generatedAt": "2026-06-03T21:44:19.061380+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Developer Livestream Now Live | Road to Hell",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185273",
-      "latestPatchPublishedAt": "2026-06-03T16:13:40+00:00",
+      "latestPatchTitle": "Road to Hell - Roadmap",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185683",
+      "latestPatchPublishedAt": "2026-06-03T18:56:15+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Community Survey — Share Your Feedback With Us",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184759",
-      "latestPatchPublishedAt": "2026-06-03T13:00:40+00:00",
+      "latestPatchTitle": "The PUBG Saturday Custom Games return this weekend!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185689",
+      "latestPatchPublishedAt": "2026-06-03T19:00:59+00:00",
       "status": "ok"
     },
     {
