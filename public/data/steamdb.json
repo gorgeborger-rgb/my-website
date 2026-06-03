@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-03T00:14:42.007600+00:00",
+  "generatedAt": "2026-06-03T05:19:01.662625+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,7 +126,7 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 04 - Live Now",
+      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 04",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901106",
       "latestPatchPublishedAt": "2026-06-02T17:06:39+00:00",
       "status": "ok"
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Season 2 is Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901203",
-      "latestPatchPublishedAt": "2026-06-02T17:56:25+00:00",
+      "latestPatchTitle": "В Marathon стартовал второй сезон — Bungie гасит свет на карте и открывает бесплатную неделю",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1834602721183556",
+      "latestPatchPublishedAt": "2026-06-03T02:15:00+00:00",
       "status": "ok"
     },
     {
