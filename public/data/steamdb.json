@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-04T13:45:18.524766+00:00",
+  "generatedAt": "2026-06-04T16:37:52.552519+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Update 20 is Live Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184542",
-      "latestPatchPublishedAt": "2026-06-03T11:23:05+00:00",
+      "latestPatchTitle": "Update 20 | DX12 & WinStore",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187908",
+      "latestPatchPublishedAt": "2026-06-04T15:35:43+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Fair Play: June 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186838",
-      "latestPatchPublishedAt": "2026-06-04T08:14:02+00:00",
+      "latestPatchTitle": "Ground Locations Reworks & Arresting Gear in the Heavy Cavalry Update!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187930",
+      "latestPatchPublishedAt": "2026-06-04T15:43:43+00:00",
       "status": "ok"
     }
   ]
