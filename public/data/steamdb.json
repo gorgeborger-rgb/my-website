@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-04T06:53:28.663345+00:00",
+  "generatedAt": "2026-06-04T10:34:45.081489+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Developer Q&A: May 26th 2026!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579688",
-      "latestPatchPublishedAt": "2026-05-26T15:32:20+00:00",
+      "latestPatchTitle": "New Overtime Raid: \"Headquarters: Assistance Protocol\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186926",
+      "latestPatchPublishedAt": "2026-06-04T09:04:43+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "New Guide: The Armory",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184557",
-      "latestPatchPublishedAt": "2026-06-03T11:32:16+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: TheRealUriel",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187057",
+      "latestPatchPublishedAt": "2026-06-04T10:00:44+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.4.0.3 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184258",
-      "latestPatchPublishedAt": "2026-06-03T09:05:52+00:00",
+      "latestPatchTitle": "Dune: Awakening is getting a single-player mode and more story content",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1834602721186833",
+      "latestPatchPublishedAt": "2026-06-04T08:07:40+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Upcoming Patches, PvP Changes & Update 0.5 Teasers | Dev Stream VOD",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897787",
-      "latestPatchPublishedAt": "2026-06-01T14:43:34+00:00",
+      "latestPatchTitle": "Patch 0.4.4.0 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186918",
+      "latestPatchPublishedAt": "2026-06-04T09:01:37+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 10.9.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887628",
-      "latestPatchPublishedAt": "2026-05-28T10:00:38+00:00",
+      "latestPatchTitle": "Store Update 10.10.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187056",
+      "latestPatchPublishedAt": "2026-06-04T10:00:30+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Comparison of Missile Parameters & Improved Tracking on the Minimap!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185109",
-      "latestPatchPublishedAt": "2026-06-03T15:19:40+00:00",
+      "latestPatchTitle": "Fair Play: June 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186838",
+      "latestPatchPublishedAt": "2026-06-04T08:14:02+00:00",
       "status": "ok"
     }
   ]
