@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-04T16:37:52.552519+00:00",
+  "generatedAt": "2026-06-04T19:02:54.050951+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends™: Power Trip Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901591",
-      "latestPatchPublishedAt": "2026-06-02T21:45:19+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 6/4/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188472",
+      "latestPatchPublishedAt": "2026-06-04T18:39:40+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 04",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901106",
-      "latestPatchPublishedAt": "2026-06-02T17:06:39+00:00",
+      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 04 - Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188157",
+      "latestPatchPublishedAt": "2026-06-04T16:49:09+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "2026 PGS 6: Who will be the final winner?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187451",
-      "latestPatchPublishedAt": "2026-06-04T13:17:42+00:00",
+      "latestPatchTitle": "PUBG Global Series 6 Final Stage Day 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187967",
+      "latestPatchPublishedAt": "2026-06-04T16:00:02+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Rust's latest update adds mortars but 'no visual guide to help you land shells,' so get ready for some chaos",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1832065502819127",
-      "latestPatchPublishedAt": "2026-05-10T11:00:00+00:00",
+      "latestPatchTitle": "BUILT DIFFERENT",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188341",
+      "latestPatchPublishedAt": "2026-06-04T17:44:04+00:00",
       "status": "ok"
     },
     {
