@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-04T10:34:45.081489+00:00",
+  "generatedAt": "2026-06-04T13:45:18.524766+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "The PUBG Saturday Custom Games return this weekend!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185689",
-      "latestPatchPublishedAt": "2026-06-03T19:00:59+00:00",
+      "latestPatchTitle": "2026 PGS 6: Who will be the final winner?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187451",
+      "latestPatchPublishedAt": "2026-06-04T13:17:42+00:00",
       "status": "ok"
     },
     {
