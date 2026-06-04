@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-04T19:02:54.050951+00:00",
+  "generatedAt": "2026-06-04T21:01:32.797256+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "BUILT DIFFERENT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188341",
-      "latestPatchPublishedAt": "2026-06-04T17:44:04+00:00",
+      "latestPatchTitle": "Everyone in Rust is getting a new face",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721188544",
+      "latestPatchPublishedAt": "2026-06-04T19:08:11+00:00",
       "status": "ok"
     },
     {
