@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-04T02:02:59.302779+00:00",
+  "generatedAt": "2026-06-04T06:53:28.663345+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Victims of cheaters in Marvel Rivals will be refunded all the ranked points they lost if they report them thanks to NetEase's new Anti-Cheat Rank Compensation System",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833968530887665",
-      "latestPatchPublishedAt": "2026-05-28T10:05:55+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260604 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186662",
+      "latestPatchPublishedAt": "2026-06-04T06:25:15+00:00",
       "status": "ok"
     },
     {
