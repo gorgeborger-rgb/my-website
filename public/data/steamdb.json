@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-05T10:41:32.049536+00:00",
+  "generatedAt": "2026-06-05T13:44:18.993065+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pre-order: F-14D Super Tomcat",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190040",
-      "latestPatchPublishedAt": "2026-06-05T09:34:30+00:00",
+      "latestPatchTitle": "Canadian Armed Forces Day with Decals and Discounts!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190636",
+      "latestPatchPublishedAt": "2026-06-05T13:11:59+00:00",
       "status": "ok"
     }
   ]
