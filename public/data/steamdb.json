@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-05T21:45:23.429586+00:00",
+  "generatedAt": "2026-06-05T22:48:17.729921+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon dropped its massive Season 2 update, and nobody was able to play it",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1834602721184579",
-      "latestPatchPublishedAt": "2026-06-03T10:13:07+00:00",
+      "latestPatchTitle": "Bungie продлила акцию бесплатной игры в Marathon на фоне неудачного старта второго сезона",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1834602721192272",
+      "latestPatchPublishedAt": "2026-06-05T22:29:00+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Skol! Palworld X Valheim Steam Bundle!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884070",
-      "latestPatchPublishedAt": "2026-05-27T00:00:13+00:00",
+      "latestPatchTitle": "Palworld 1.0 - July 10! Cinematic Trailer Reveal!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192331",
+      "latestPatchPublishedAt": "2026-06-05T22:42:36+00:00",
       "status": "ok"
     },
     {
