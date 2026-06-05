@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-05T06:52:50.771849+00:00",
+  "generatedAt": "2026-06-05T10:41:32.049536+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 67) | Wishlist now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791552",
-      "latestPatchPublishedAt": "2026-05-15T11:00:36+00:00",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 70) | Wishlist now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190197",
+      "latestPatchPublishedAt": "2026-06-05T10:31:08+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Update | Soccer Frenzy, DFIW Hype, and New In Store",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184632",
-      "latestPatchPublishedAt": "2026-06-03T12:00:38+00:00",
+      "latestPatchTitle": "G.T.I. Security | Operation Sentinel",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189871",
+      "latestPatchPublishedAt": "2026-06-05T08:38:16+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Subjects unidentified",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184790",
-      "latestPatchPublishedAt": "2026-06-03T13:09:40+00:00",
+      "latestPatchTitle": "What lies ahead?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189913",
+      "latestPatchPublishedAt": "2026-06-05T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Ground Locations Reworks & Arresting Gear in the Heavy Cavalry Update!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187930",
-      "latestPatchPublishedAt": "2026-06-04T15:43:43+00:00",
+      "latestPatchTitle": "Pre-order: F-14D Super Tomcat",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190040",
+      "latestPatchPublishedAt": "2026-06-05T09:34:30+00:00",
       "status": "ok"
     }
   ]
