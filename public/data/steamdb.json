@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-06T16:16:54.677350+00:00",
+  "generatedAt": "2026-06-06T17:36:16.964928+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 04 - Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188157",
-      "latestPatchPublishedAt": "2026-06-04T16:49:09+00:00",
+      "latestPatchTitle": "Modern Warfare 4 DMZ: Explore the Hajin Exclusion Zone",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721194009",
+      "latestPatchPublishedAt": "2026-06-06T15:38:36+00:00",
       "status": "ok"
     },
     {
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell - Roadmap",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185683",
-      "latestPatchPublishedAt": "2026-06-03T18:56:15+00:00",
+      "latestPatchTitle": "It Takes a Rogue DLC - Wishlist Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721194032",
+      "latestPatchPublishedAt": "2026-06-06T15:48:07+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Open Play Week and Progression Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192590",
-      "latestPatchPublishedAt": "2026-06-06T00:01:24+00:00",
+      "latestPatchTitle": "Bungie saves Marathon Deluxe Edition mix-up by giving affected players the base game for free",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1834602721194024",
+      "latestPatchPublishedAt": "2026-06-06T14:11:39+00:00",
       "status": "ok"
     },
     {
