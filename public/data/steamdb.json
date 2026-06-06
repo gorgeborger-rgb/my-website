@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-05T23:53:14.785222+00:00",
+  "generatedAt": "2026-06-06T02:29:54.661055+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 509: A Kraken Good Time",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892623",
-      "latestPatchPublishedAt": "2026-05-30T00:42:30+00:00",
+      "latestPatchTitle": "Community Crunch 510: Rise of the Tickle Chicken",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192589",
+      "latestPatchPublishedAt": "2026-06-06T00:01:06+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie продлила акцию бесплатной игры в Marathon на фоне неудачного старта второго сезона",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1834602721192272",
-      "latestPatchPublishedAt": "2026-06-05T22:29:00+00:00",
+      "latestPatchTitle": "Marathon Open Play Week and Progression Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192590",
+      "latestPatchPublishedAt": "2026-06-06T00:01:24+00:00",
       "status": "ok"
     },
     {
