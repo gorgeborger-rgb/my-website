@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-07T12:57:11.063712+00:00",
+  "generatedAt": "2026-06-07T14:50:30.144064+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "M1A2C Abrams: Heavy Cavalry!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721193125",
-      "latestPatchPublishedAt": "2026-06-06T06:31:15+00:00",
+      "latestPatchTitle": "Explanation regarding vehicle textures",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721195954",
+      "latestPatchPublishedAt": "2026-06-07T14:00:48+00:00",
       "status": "ok"
     }
   ]
