@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-08T06:58:03.291089+00:00",
+  "generatedAt": "2026-06-08T11:57:48.470874+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: TheRealUriel",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187057",
-      "latestPatchPublishedAt": "2026-06-04T10:00:44+00:00",
+      "latestPatchTitle": "Behind the Banner: Eikonic",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198328",
+      "latestPatchPublishedAt": "2026-06-08T10:00:35+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Operation Sentinel",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189871",
-      "latestPatchPublishedAt": "2026-06-05T08:38:16+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198252",
+      "latestPatchPublishedAt": "2026-06-08T09:34:43+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk June 3rd Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184472",
-      "latestPatchPublishedAt": "2026-06-03T10:52:00+00:00",
+      "latestPatchTitle": "FragPunk June 8th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198196",
+      "latestPatchPublishedAt": "2026-06-08T09:12:58+00:00",
       "status": "ok"
     },
     {
