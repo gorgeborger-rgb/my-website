@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-08T20:37:41.988530+00:00",
+  "generatedAt": "2026-06-08T22:13:45.042591+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell | Developer Live Stream Recap",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199603",
-      "latestPatchPublishedAt": "2026-06-08T17:04:28+00:00",
+      "latestPatchTitle": "Server Downtime - 9 Jun at 09:00 CEST",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721200211",
+      "latestPatchPublishedAt": "2026-06-08T21:23:36+00:00",
       "status": "ok"
     },
     {
