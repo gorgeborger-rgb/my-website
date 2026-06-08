@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-08T11:57:48.470874+00:00",
+  "generatedAt": "2026-06-08T15:51:34.798502+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Communinet Signal #17",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721191205",
-      "latestPatchPublishedAt": "2026-06-05T15:29:09+00:00",
+      "latestPatchTitle": "Dune: Awakening First Anniversary Livestream ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199002",
+      "latestPatchPublishedAt": "2026-06-08T14:19:36+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Streamer Challenge has begun!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185060",
-      "latestPatchPublishedAt": "2026-06-03T15:01:53+00:00",
+      "latestPatchTitle": "Streamer Challenge has concluded. Time for the results!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199182",
+      "latestPatchPublishedAt": "2026-06-08T15:08:44+00:00",
       "status": "ok"
     },
     {
@@ -324,7 +324,7 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Global Series 6 Final Stage Day 3",
+      "latestPatchTitle": "PUBG Global Series 6 Grand Finals Day 3",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721191289",
       "latestPatchPublishedAt": "2026-06-05T16:00:17+00:00",
       "status": "ok"
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM - Community showcase",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900378",
-      "latestPatchPublishedAt": "2026-06-02T13:03:30+00:00",
+      "latestPatchTitle": "Hotfix - 1.3.0.2.119181",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199153",
+      "latestPatchPublishedAt": "2026-06-08T14:59:52+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Monthly cheaters banlists",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721195577",
-      "latestPatchPublishedAt": "2026-06-07T09:39:40+00:00",
+      "latestPatchTitle": "Baron is back!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199151",
+      "latestPatchPublishedAt": "2026-06-08T14:59:45+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Explanation regarding vehicle textures",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721195954",
-      "latestPatchPublishedAt": "2026-06-07T14:00:48+00:00",
+      "latestPatchTitle": "Hummel: A lot of Buzz!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199277",
+      "latestPatchPublishedAt": "2026-06-08T15:35:17+00:00",
       "status": "ok"
     }
   ]
