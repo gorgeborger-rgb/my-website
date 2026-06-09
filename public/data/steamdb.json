@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-09T17:09:47.450840+00:00",
+  "generatedAt": "2026-06-09T19:28:44.757897+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Matchmaking Tests Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199650",
-      "latestPatchPublishedAt": "2026-06-08T17:13:27+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 6/9/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721202756",
+      "latestPatchPublishedAt": "2026-06-09T18:37:43+00:00",
       "status": "ok"
     },
     {
