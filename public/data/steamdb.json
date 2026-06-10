@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-10T15:19:21.201187+00:00",
+  "generatedAt": "2026-06-10T18:11:27.475528+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "At long last, Dead by Daylight welcomes Friday the 13th's Jason Voorhees, and he's now available for some beta slashing",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1833334318579881",
-      "latestPatchPublishedAt": "2026-05-26T16:09:18+00:00",
+      "latestPatchTitle": "PTB to Live changes: The Slasher",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558218",
+      "latestPatchPublishedAt": "2026-06-10T17:01:47+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Update 2.8 - Road to Hell Starts Now",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201473",
-      "latestPatchPublishedAt": "2026-06-09T11:19:18+00:00",
+      "latestPatchTitle": "It Takes a Rogue DLC Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558057",
+      "latestPatchPublishedAt": "2026-06-10T16:04:21+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260604 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186662",
-      "latestPatchPublishedAt": "2026-06-04T06:25:15+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260612 Balance Post",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558307",
+      "latestPatchPublishedAt": "2026-06-10T17:44:34+00:00",
       "status": "ok"
     },
     {
