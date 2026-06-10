@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-09T22:53:02.860923+00:00",
-  "totalGames": 48,
-  "mappedGames": 48,
+  "generatedAt": "2026-06-10T00:05:40.454812+00:00",
+  "totalGames": 47,
+  "mappedGames": 47,
   "games": [
     {
       "game": "ARC Raiders",
@@ -237,15 +237,6 @@
       "latestPatchTitle": "Farlight 84 New Season Update: \"Shadow Academy\"",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232064",
       "latestPatchPublishedAt": "2026-04-23T02:37:13+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "FragPunk",
-      "appId": 2943650,
-      "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk June 8th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198196",
-      "latestPatchPublishedAt": "2026-06-08T09:12:58+00:00",
       "status": "ok"
     },
     {
