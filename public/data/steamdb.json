@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-10T11:55:42.365759+00:00",
+  "generatedAt": "2026-06-10T15:19:21.201187+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Thank You, Sleepers - Celebrating One Year of Dune: Awakening Together ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557245",
-      "latestPatchPublishedAt": "2026-06-10T11:16:45+00:00",
+      "latestPatchTitle": "Public Test Client: Patch 1.4.10.0 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557596",
+      "latestPatchPublishedAt": "2026-06-10T13:42:04+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Streamer Challenge has concluded. Time for the results!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199182",
-      "latestPatchPublishedAt": "2026-06-08T15:08:44+00:00",
+      "latestPatchTitle": "What is TarCoin?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557801",
+      "latestPatchPublishedAt": "2026-06-10T14:53:52+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk June 8th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198196",
-      "latestPatchPublishedAt": "2026-06-08T09:12:58+00:00",
+      "latestPatchTitle": "FragPunk June 10th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557460",
+      "latestPatchPublishedAt": "2026-06-10T12:55:22+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Update 20 | DX12 & WinStore",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187908",
-      "latestPatchPublishedAt": "2026-06-04T15:35:43+00:00",
+      "latestPatchTitle": "Update 20 | Hotfix 1 Live Now",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557486",
+      "latestPatchPublishedAt": "2026-06-10T13:02:43+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "R6 Regional Leagues - Stage 1 Has Begun!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199502",
-      "latestPatchPublishedAt": "2026-06-08T16:46:19+00:00",
+      "latestPatchTitle": "Dead by Daylight & Rainbow Six Siege",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557512",
+      "latestPatchPublishedAt": "2026-06-10T13:09:27+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "RN Geniere, Discounts and a New Decal for Italian Navy Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557225",
-      "latestPatchPublishedAt": "2026-06-10T11:05:26+00:00",
+      "latestPatchTitle": "USS North Carolina: The Showboat",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557878",
+      "latestPatchPublishedAt": "2026-06-10T15:10:25+00:00",
       "status": "ok"
     }
   ]
