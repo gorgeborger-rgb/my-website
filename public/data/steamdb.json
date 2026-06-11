@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-11T12:52:43.559726+00:00",
+  "generatedAt": "2026-06-11T16:45:06.488166+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "New Overtime Raid: \"Headquarters: Assistance Protocol\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186926",
-      "latestPatchPublishedAt": "2026-06-04T09:04:43+00:00",
+      "latestPatchTitle": "500,000 Operatives Are Ready For Raids!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560310",
+      "latestPatchPublishedAt": "2026-06-11T13:07:12+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "1.7.0.49 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201441",
-      "latestPatchPublishedAt": "2026-06-09T11:01:29+00:00",
+      "latestPatchTitle": "Modder Supporter Pack #1 - Red Hammer Studios is now available!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560335",
+      "latestPatchPublishedAt": "2026-06-11T13:15:05+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced June Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201853",
-      "latestPatchPublishedAt": "2026-06-09T14:02:00+00:00",
+      "latestPatchTitle": "June Hotfix 1.2.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560483",
+      "latestPatchPublishedAt": "2026-06-11T14:01:51+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783556929",
-      "latestPatchPublishedAt": "2026-06-10T08:59:13+00:00",
+      "latestPatchTitle": "Triumphs 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560274",
+      "latestPatchPublishedAt": "2026-06-11T12:59:36+00:00",
       "status": "ok"
     },
     {
