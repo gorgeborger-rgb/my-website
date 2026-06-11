@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-11T09:08:13.224312+00:00",
+  "generatedAt": "2026-06-11T12:52:43.559726+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: Danilskinem",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557064",
-      "latestPatchPublishedAt": "2026-06-10T10:00:53+00:00",
+      "latestPatchTitle": "The Albion Football Clash Kicks Off Today!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559848",
+      "latestPatchPublishedAt": "2026-06-11T10:00:03+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 3rd",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185007",
-      "latestPatchPublishedAt": "2026-06-03T14:43:30+00:00",
+      "latestPatchTitle": "Inspector System Upgrade Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559890",
+      "latestPatchPublishedAt": "2026-06-11T10:14:39+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 3rd",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185007",
-      "latestPatchPublishedAt": "2026-06-03T14:43:30+00:00",
+      "latestPatchTitle": "Inspector System Upgrade Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559890",
+      "latestPatchPublishedAt": "2026-06-11T10:14:39+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198252",
-      "latestPatchPublishedAt": "2026-06-08T09:34:43+00:00",
+      "latestPatchTitle": "Update | Rocket Ratty & UlruEgg Return! Punk Rock Appearance Lucky Draw Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560138",
+      "latestPatchPublishedAt": "2026-06-11T12:00:09+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "It Takes a Rogue DLC Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558057",
-      "latestPatchPublishedAt": "2026-06-10T16:04:21+00:00",
+      "latestPatchTitle": "Update 2.8.0.1 Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559901",
+      "latestPatchPublishedAt": "2026-06-11T10:19:58+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260612 Balance Post",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558307",
-      "latestPatchPublishedAt": "2026-06-10T17:44:34+00:00",
+      "latestPatchTitle": "Marvel Rivals: Dive Into Season 8.5 // Dev Vision Vol. 18",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559764",
+      "latestPatchPublishedAt": "2026-06-11T09:22:16+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 10.10.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187056",
-      "latestPatchPublishedAt": "2026-06-04T10:00:30+00:00",
+      "latestPatchTitle": "Store Update 10.11.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559844",
+      "latestPatchPublishedAt": "2026-06-11T09:59:33+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "USS North Carolina: The Showboat",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557878",
-      "latestPatchPublishedAt": "2026-06-10T15:10:25+00:00",
+      "latestPatchTitle": "Monthly Decals for June!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559863",
+      "latestPatchPublishedAt": "2026-06-11T10:05:03+00:00",
       "status": "ok"
     }
   ]
