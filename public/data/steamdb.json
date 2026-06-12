@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-12T18:29:26.596951+00:00",
+  "generatedAt": "2026-06-12T20:35:57.437127+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "What is TarCoin?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557801",
-      "latestPatchPublishedAt": "2026-06-10T14:53:52+00:00",
+      "latestPatchTitle": "Weekend XP bonus is active!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783564408",
+      "latestPatchPublishedAt": "2026-06-12T18:31:38+00:00",
       "status": "ok"
     },
     {
