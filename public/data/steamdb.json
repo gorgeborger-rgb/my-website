@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-12T16:39:46.850091+00:00",
+  "generatedAt": "2026-06-12T18:29:26.596951+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4 DMZ: Explore the Hajin Exclusion Zone",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721194009",
-      "latestPatchPublishedAt": "2026-06-06T15:38:36+00:00",
+      "latestPatchTitle": "Modern Warfare 4: Campaign Early Access Confirmed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783564162",
+      "latestPatchPublishedAt": "2026-06-12T17:01:54+00:00",
       "status": "ok"
     },
     {
