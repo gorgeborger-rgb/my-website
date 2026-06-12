@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-12T06:15:59.408208+00:00",
+  "generatedAt": "2026-06-12T10:40:38.979695+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Albion Football Clash Kicks Off Today!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559848",
-      "latestPatchPublishedAt": "2026-06-11T10:00:03+00:00",
+      "latestPatchTitle": "Save the Date: The Keeper Uprising Begins July 4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783562903",
+      "latestPatchPublishedAt": "2026-06-12T10:06:40+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #117",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559548",
-      "latestPatchPublishedAt": "2026-06-11T07:30:12+00:00",
+      "latestPatchTitle": "EAS9 Warlord Tournament Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783562607",
+      "latestPatchPublishedAt": "2026-06-12T07:44:53+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Update 2.8.0.1 Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559901",
-      "latestPatchPublishedAt": "2026-06-11T10:19:58+00:00",
+      "latestPatchTitle": "Update 2.8.0.2 Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783562959",
+      "latestPatchPublishedAt": "2026-06-12T10:30:47+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Triumphs 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560274",
-      "latestPatchPublishedAt": "2026-06-11T12:59:36+00:00",
+      "latestPatchTitle": "+50% progression bonus!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783562760",
+      "latestPatchPublishedAt": "2026-06-12T09:00:24+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Monthly Decals for June!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559863",
-      "latestPatchPublishedAt": "2026-06-11T10:05:03+00:00",
+      "latestPatchTitle": "The “Floats” Event is Back, Now with the Spitfire Mk Vb (Float)!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783562817",
+      "latestPatchPublishedAt": "2026-06-12T09:31:50+00:00",
       "status": "ok"
     }
   ]
