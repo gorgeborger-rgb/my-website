@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-12T10:40:38.979695+00:00",
+  "generatedAt": "2026-06-12T13:51:38.188376+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM - Community showcase",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557308",
-      "latestPatchPublishedAt": "2026-06-10T11:54:08+00:00",
+      "latestPatchTitle": "SCUM | June Update Preview: Free-Roaming Animals Return",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783563414",
+      "latestPatchPublishedAt": "2026-06-12T13:04:16+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The “Floats” Event is Back, Now with the Spitfire Mk Vb (Float)!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783562817",
-      "latestPatchPublishedAt": "2026-06-12T09:31:50+00:00",
+      "latestPatchTitle": "A Decal Trophy and Discounts on Rare German Ships for German Navy Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783563332",
+      "latestPatchPublishedAt": "2026-06-12T12:39:56+00:00",
       "status": "ok"
     }
   ]
