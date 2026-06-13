@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-13T11:32:54.164254+00:00",
+  "generatedAt": "2026-06-13T13:10:10.165307+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld 1.0 - July 10! Cinematic Trailer Reveal!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192331",
-      "latestPatchPublishedAt": "2026-06-05T22:42:36+00:00",
+      "latestPatchTitle": "Palworld 1.0 won't wipe your data, 'but you should' says Pocketpair's publishing boss",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783565852",
+      "latestPatchPublishedAt": "2026-06-13T13:00:00+00:00",
       "status": "ok"
     },
     {
