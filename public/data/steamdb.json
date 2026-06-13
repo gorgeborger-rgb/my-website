@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-13T02:41:07.004384+00:00",
+  "generatedAt": "2026-06-13T06:42:15.542470+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Decal Trophy and Discounts on Rare German Ships for German Navy Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783563332",
-      "latestPatchPublishedAt": "2026-06-12T12:39:56+00:00",
+      "latestPatchTitle": "Screenshot Competition – The Early Years!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783565277",
+      "latestPatchPublishedAt": "2026-06-13T05:00:28+00:00",
       "status": "ok"
     }
   ]
