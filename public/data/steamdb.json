@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-13T06:42:15.542470+00:00",
+  "generatedAt": "2026-06-13T09:46:40.504061+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "+50% progression bonus!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783562760",
-      "latestPatchPublishedAt": "2026-06-12T09:00:24+00:00",
+      "latestPatchTitle": "Check the guide before heading out",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783565520",
+      "latestPatchPublishedAt": "2026-06-13T08:59:13+00:00",
       "status": "ok"
     },
     {
