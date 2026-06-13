@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-13T20:48:20.435059+00:00",
+  "generatedAt": "2026-06-13T21:54:04.547198+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld 1.0 won't wipe your data, 'but you should' says Pocketpair's publishing boss",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783565852",
-      "latestPatchPublishedAt": "2026-06-13T13:00:00+00:00",
+      "latestPatchTitle": "Nintendo's legal battle with Palworld looks shakier than ever: It may only get '$30,000 chump change' if it wins at all",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566698",
+      "latestPatchPublishedAt": "2026-06-13T21:13:04+00:00",
       "status": "ok"
     },
     {
