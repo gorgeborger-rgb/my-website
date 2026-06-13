@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-12T23:53:32.288768+00:00",
+  "generatedAt": "2026-06-13T02:41:07.004384+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,7 +18,7 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 511: Tidepup Reveal",
+      "latestPatchTitle": "Community Crunch 511: The Tidepup is Turning",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783564906",
       "latestPatchPublishedAt": "2026-06-12T23:32:04+00:00",
       "status": "ok"
