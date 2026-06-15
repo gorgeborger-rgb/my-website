@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-15T07:32:29.143312+00:00",
+  "generatedAt": "2026-06-15T13:35:16.285885+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "As Dead by Daylight turns 10, Behavior unveils game-changing overhaul that will \"make the next ten better than the first\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835236783568929",
-      "latestPatchPublishedAt": "2026-06-15T01:30:48+00:00",
+      "latestPatchTitle": "Dead by Daylight celebrates its 10 year anniversary by adding the most sought after horror icon and teasing 'a sweeping visual overhaul'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783570269",
+      "latestPatchPublishedAt": "2026-06-15T13:21:19+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Update | Rocket Ratty & UlruEgg Return! Punk Rock Appearance Lucky Draw Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560138",
-      "latestPatchPublishedAt": "2026-06-11T12:00:09+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783569728",
+      "latestPatchPublishedAt": "2026-06-15T10:31:26+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Faction Race",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783567335",
-      "latestPatchPublishedAt": "2026-06-14T08:55:50+00:00",
+      "latestPatchTitle": "North is on fire",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783569672",
+      "latestPatchPublishedAt": "2026-06-15T10:00:37+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – The Early Years!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783565277",
-      "latestPatchPublishedAt": "2026-06-13T05:00:28+00:00",
+      "latestPatchTitle": "Discount on the German Wellington for the 90th Anniversary of its First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783569851",
+      "latestPatchPublishedAt": "2026-06-15T11:04:58+00:00",
       "status": "ok"
     }
   ]
