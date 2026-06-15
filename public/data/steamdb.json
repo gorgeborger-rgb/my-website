@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-15T02:03:43.004727+00:00",
+  "generatedAt": "2026-06-15T07:32:29.143312+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight | 10th Anniversary Broadcast",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783568316",
-      "latestPatchPublishedAt": "2026-06-14T18:42:05+00:00",
+      "latestPatchTitle": "As Dead by Daylight turns 10, Behavior unveils game-changing overhaul that will \"make the next ten better than the first\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835236783568929",
+      "latestPatchPublishedAt": "2026-06-15T01:30:48+00:00",
       "status": "ok"
     },
     {
