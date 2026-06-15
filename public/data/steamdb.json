@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-15T13:35:16.285885+00:00",
+  "generatedAt": "2026-06-15T18:12:12.845110+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight celebrates its 10 year anniversary by adding the most sought after horror icon and teasing 'a sweeping visual overhaul'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783570269",
-      "latestPatchPublishedAt": "2026-06-15T13:21:19+00:00",
+      "latestPatchTitle": "Stats | Celebrating 10 Years In The Fog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783570987",
+      "latestPatchPublishedAt": "2026-06-15T16:06:08+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
-      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad Status Update - May 2026 - Roadmap Showcase",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891733",
-      "latestPatchPublishedAt": "2026-05-29T16:53:08+00:00",
+      "latestPatchTitle": "Squad 10.5 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783571309",
+      "latestPatchPublishedAt": "2026-06-15T17:00:17+00:00",
       "status": "ok"
     },
     {
