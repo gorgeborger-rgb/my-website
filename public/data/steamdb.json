@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-16T20:23:47.100254+00:00",
+  "generatedAt": "2026-06-16T22:27:40.260587+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Live Update 1.33.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573536",
-      "latestPatchPublishedAt": "2026-06-16T09:02:10+00:00",
+      "latestPatchTitle": "ARC Raiders is broken for some Linux / SteamOS players - but a fix is on the way",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1835236783575565",
+      "latestPatchPublishedAt": "2026-06-16T20:59:38+00:00",
       "status": "ok"
     },
     {
