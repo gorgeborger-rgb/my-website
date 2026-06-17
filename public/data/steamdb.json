@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-17T12:34:30.631815+00:00",
+  "generatedAt": "2026-06-17T16:26:02.080530+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -261,27 +261,27 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Update 20 | Hotfix 1 Live Now",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557486",
-      "latestPatchPublishedAt": "2026-06-10T13:02:43+00:00",
+      "latestPatchTitle": "Update 20 | Hotfix 2 Live Now",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300612",
+      "latestPatchPublishedAt": "2026-06-17T13:04:46+00:00",
       "status": "ok"
     },
     {
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Update 2.8.0.2 Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783562959",
-      "latestPatchPublishedAt": "2026-06-12T10:30:47+00:00",
+      "latestPatchTitle": "Update 2.8.0.3 Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300609",
+      "latestPatchPublishedAt": "2026-06-17T13:03:47+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.0.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574842",
-      "latestPatchPublishedAt": "2026-06-16T16:00:24+00:00",
+      "latestPatchTitle": "Vandal Shell Cinematic | Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199301049",
+      "latestPatchPublishedAt": "2026-06-17T15:15:03+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "STALZONE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300365",
-      "latestPatchPublishedAt": "2026-06-17T11:09:19+00:00",
+      "latestPatchTitle": "A scorching hot week in the Zone!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300594",
+      "latestPatchPublishedAt": "2026-06-17T12:59:31+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "IA 58A Pucará — Argentina’s Fortress",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574660",
-      "latestPatchPublishedAt": "2026-06-16T15:01:54+00:00",
+      "latestPatchTitle": "F-101C Voodoo: The Charm of Speed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300996",
+      "latestPatchPublishedAt": "2026-06-17T15:03:11+00:00",
       "status": "ok"
     }
   ]
