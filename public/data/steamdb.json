@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-17T08:26:20.624815+00:00",
+  "generatedAt": "2026-06-17T12:34:30.631815+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Inspector System Upgrade Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559890",
-      "latestPatchPublishedAt": "2026-06-11T10:14:39+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 17th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300271",
+      "latestPatchPublishedAt": "2026-06-17T10:34:01+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Inspector System Upgrade Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559890",
-      "latestPatchPublishedAt": "2026-06-11T10:14:39+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 17th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300271",
+      "latestPatchPublishedAt": "2026-06-17T10:34:01+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "The Jason Chapter is now available on Steam!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783575227",
-      "latestPatchPublishedAt": "2026-06-16T18:15:59+00:00",
+      "latestPatchTitle": "Dead by Daylight hits new all-time peak player count, proving live service isn't dead",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199300390",
+      "latestPatchPublishedAt": "2026-06-17T10:21:40+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783569728",
-      "latestPatchPublishedAt": "2026-06-15T10:31:26+00:00",
+      "latestPatchTitle": "Season-End Armament Voucher Sprint, DFIW World Championship Celebration Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300476",
+      "latestPatchPublishedAt": "2026-06-17T12:00:54+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk June 10th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557460",
-      "latestPatchPublishedAt": "2026-06-10T12:55:22+00:00",
+      "latestPatchTitle": "FragPunk June 17th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300169",
+      "latestPatchPublishedAt": "2026-06-17T10:03:15+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List June 9th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721202044",
-      "latestPatchPublishedAt": "2026-06-09T15:01:08+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List June 17th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300311",
+      "latestPatchPublishedAt": "2026-06-17T10:48:49+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Patch Notes [17.06.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299846",
-      "latestPatchPublishedAt": "2026-06-17T07:59:12+00:00",
+      "latestPatchTitle": "STALZONE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300365",
+      "latestPatchPublishedAt": "2026-06-17T11:09:19+00:00",
       "status": "ok"
     },
     {
