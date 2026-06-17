@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-17T20:53:51.414976+00:00",
+  "generatedAt": "2026-06-17T22:42:06.155773+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "An Update from the Anti Cheat Team - 06/17/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199301465",
-      "latestPatchPublishedAt": "2026-06-17T17:14:31+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 06/17/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302092",
+      "latestPatchPublishedAt": "2026-06-17T22:06:33+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "BFM TV: Sony уволит 50% сотрудников Bungie до конца лета",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1835871199301544",
-      "latestPatchPublishedAt": "2026-06-17T16:57:12+00:00",
+      "latestPatchTitle": "Marathon Dev Team Update: A Note on the Season 2 Economy",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302138",
+      "latestPatchPublishedAt": "2026-06-17T22:25:13+00:00",
       "status": "ok"
     },
     {
