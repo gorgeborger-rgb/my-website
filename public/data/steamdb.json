@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-17T16:26:02.080530+00:00",
+  "generatedAt": "2026-06-17T18:39:39.178695+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 6/9/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721202756",
-      "latestPatchPublishedAt": "2026-06-09T18:37:43+00:00",
+      "latestPatchTitle": "An Update from the Anti Cheat Team - 06/17/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199301465",
+      "latestPatchPublishedAt": "2026-06-17T17:14:31+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Vandal Shell Cinematic | Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199301049",
-      "latestPatchPublishedAt": "2026-06-17T15:15:03+00:00",
+      "latestPatchTitle": "BFM TV: Sony уволит 50% сотрудников Bungie до конца лета",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1835871199301544",
+      "latestPatchPublishedAt": "2026-06-17T16:57:12+00:00",
       "status": "ok"
     },
     {
