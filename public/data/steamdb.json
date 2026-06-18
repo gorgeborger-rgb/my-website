@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-17T22:42:06.155773+00:00",
+  "generatedAt": "2026-06-18T00:03:49.966293+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558731",
-      "latestPatchPublishedAt": "2026-06-10T21:22:05+00:00",
+      "latestPatchTitle": "Playoffs at the \"Cathedral of Counter-Strike\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220",
+      "latestPatchPublishedAt": "2026-06-17T23:22:20+00:00",
       "status": "ok"
     },
     {
