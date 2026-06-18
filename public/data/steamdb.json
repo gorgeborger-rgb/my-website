@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-18T12:31:57.764307+00:00",
+  "generatedAt": "2026-06-18T16:02:39.903403+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight hits new all-time peak player count, proving live service isn't dead",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199300390",
-      "latestPatchPublishedAt": "2026-06-17T10:21:40+00:00",
+      "latestPatchTitle": "Dead by Daylight | Jason launch stream, Featuring PaulieEsther (replay)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304397",
+      "latestPatchPublishedAt": "2026-06-18T14:16:27+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Public Test Client: Patch 1.4.10.0 ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557596",
-      "latestPatchPublishedAt": "2026-06-10T13:42:04+00:00",
+      "latestPatchTitle": "Communinet Signal #18",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304787",
+      "latestPatchPublishedAt": "2026-06-18T16:02:09+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Weekend XP bonus is active!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783564408",
-      "latestPatchPublishedAt": "2026-06-12T18:31:38+00:00",
+      "latestPatchTitle": "Preliminary update plan",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304341",
+      "latestPatchPublishedAt": "2026-06-18T14:01:29+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
+      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM | June Update Preview: Free-Roaming Animals Return",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783563414",
-      "latestPatchPublishedAt": "2026-06-12T13:04:16+00:00",
+      "latestPatchTitle": "SCUM | Public Alpha Update: New Free-Roaming Wildlife Build Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304330",
+      "latestPatchPublishedAt": "2026-06-18T14:00:09+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "This Month in Sea of Thieves: June 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721191812",
-      "latestPatchPublishedAt": "2026-06-05T19:30:48+00:00",
+      "latestPatchTitle": "Personalise Your Pirate Playground in Sea of Thieves Season 20",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304623",
+      "latestPatchPublishedAt": "2026-06-18T15:19:04+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "F-101C Voodoo: The Charm of Speed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300996",
-      "latestPatchPublishedAt": "2026-06-17T15:03:11+00:00",
+      "latestPatchTitle": "Fw 189 С: The Ugliest Duckling",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304201",
+      "latestPatchPublishedAt": "2026-06-18T13:10:20+00:00",
       "status": "ok"
     }
   ]
