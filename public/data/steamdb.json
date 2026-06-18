@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-18T04:57:08.724539+00:00",
+  "generatedAt": "2026-06-18T09:11:55.833632+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders is broken for some Linux / SteamOS players - but a fix is on the way",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1835236783575565",
-      "latestPatchPublishedAt": "2026-06-16T20:59:38+00:00",
+      "latestPatchTitle": "Valve update Proton Hotfix for ARC Raiders compatibility on Linux / SteamOS",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1835871199303196",
+      "latestPatchPublishedAt": "2026-06-18T07:22:23+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals: Dive Into Season 8.5 // Dev Vision Vol. 18",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783559764",
-      "latestPatchPublishedAt": "2026-06-11T09:22:16+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260618 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199303083",
+      "latestPatchPublishedAt": "2026-06-18T06:46:21+00:00",
       "status": "ok"
     },
     {
