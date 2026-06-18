@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-18T16:02:39.903403+00:00",
+  "generatedAt": "2026-06-18T18:32:38.036277+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 06/17/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302092",
-      "latestPatchPublishedAt": "2026-06-17T22:06:33+00:00",
+      "latestPatchTitle": "Overclocked Midseason Designer’s Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199305130",
+      "latestPatchPublishedAt": "2026-06-18T18:07:45+00:00",
       "status": "ok"
     },
     {
@@ -81,18 +81,18 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Community Radar #61",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318571830",
-      "latestPatchPublishedAt": "2026-05-22T14:00:35+00:00",
+      "latestPatchTitle": "Bohemia Interactive Publisher Sale 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304976",
+      "latestPatchPublishedAt": "2026-06-18T17:05:29+00:00",
       "status": "ok"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Modder Supporter Pack #1 - Red Hammer Studios is now available!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560335",
-      "latestPatchPublishedAt": "2026-06-11T13:15:05+00:00",
+      "latestPatchTitle": "Bohemia Interactive Publisher Sale 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304978",
+      "latestPatchPublishedAt": "2026-06-18T17:05:36+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 70) | Wishlist now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190197",
-      "latestPatchPublishedAt": "2026-06-05T10:31:08+00:00",
+      "latestPatchTitle": "Publisher Sale 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304971",
+      "latestPatchPublishedAt": "2026-06-18T17:05:21+00:00",
       "status": "ok"
     },
     {
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Patch 1.9.3: PvE Server Changes & Bug Fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897902",
-      "latestPatchPublishedAt": "2026-06-01T15:23:08+00:00",
+      "latestPatchTitle": "Update 1.10: New Prison POI, Improvised Crossbow & Launcher, Mission Bosses",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199305012",
+      "latestPatchPublishedAt": "2026-06-18T17:15:00+00:00",
       "status": "ok"
     },
     {
