@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-19T11:14:54.013466+00:00",
+  "generatedAt": "2026-06-19T14:22:18.060738+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Communinet Signal #18",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304787",
-      "latestPatchPublishedAt": "2026-06-18T16:02:09+00:00",
+      "latestPatchTitle": "Upcoming PlayStation Closed Beta Weekend Playtest",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199307000",
+      "latestPatchPublishedAt": "2026-06-19T13:01:14+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "A scorching hot week in the Zone!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300594",
-      "latestPatchPublishedAt": "2026-06-17T12:59:31+00:00",
+      "latestPatchTitle": "Incorrect status effect behavior",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199307260",
+      "latestPatchPublishedAt": "2026-06-19T14:02:10+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Fw 189 С: The Ugliest Duckling",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304201",
-      "latestPatchPublishedAt": "2026-06-18T13:10:20+00:00",
+      "latestPatchTitle": "Regarding the Hull Armor of the M1A2 SEP V3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199306939",
+      "latestPatchPublishedAt": "2026-06-19T12:30:08+00:00",
       "status": "ok"
     }
   ]
