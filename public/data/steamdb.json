@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-19T14:22:18.060738+00:00",
+  "generatedAt": "2026-06-19T16:56:03.011135+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Update 2.8.0.3 Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300609",
-      "latestPatchPublishedAt": "2026-06-17T13:03:47+00:00",
+      "latestPatchTitle": "Clear Skies and Double Hunter XP this Weekend",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199307339",
+      "latestPatchPublishedAt": "2026-06-19T14:34:25+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Nintendo's legal battle with Palworld looks shakier than ever: It may only get '$30,000 chump change' if it wins at all",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566698",
-      "latestPatchPublishedAt": "2026-06-13T21:13:04+00:00",
+      "latestPatchTitle": "Palworld studio says 'gamers don't want' AI in their games: 'It feels like everyone who is super gung-ho about it isn't from the industry'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835871199307597",
+      "latestPatchPublishedAt": "2026-06-19T15:54:36+00:00",
       "status": "ok"
     },
     {
