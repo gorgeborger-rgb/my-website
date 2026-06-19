@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-19T06:51:55.420732+00:00",
+  "generatedAt": "2026-06-19T11:14:54.013466+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: Whithblade",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199303658",
-      "latestPatchPublishedAt": "2026-06-18T10:00:00+00:00",
+      "latestPatchTitle": "Season 33 Starts July 4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199306633",
+      "latestPatchPublishedAt": "2026-06-19T10:00:12+00:00",
       "status": "ok"
     },
     {
