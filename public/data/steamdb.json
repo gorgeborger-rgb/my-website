@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-20T19:51:56.141896+00:00",
+  "generatedAt": "2026-06-20T21:07:37.956607+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Playoffs at the \"Cathedral of Counter-Strike\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220",
-      "latestPatchPublishedAt": "2026-06-17T23:22:20+00:00",
+      "latestPatchTitle": "The IEM Cologne 2026 Grand Finals",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024",
+      "latestPatchPublishedAt": "2026-06-20T20:51:54+00:00",
       "status": "ok"
     },
     {
