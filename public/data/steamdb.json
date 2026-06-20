@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-20T13:13:47.118725+00:00",
+  "generatedAt": "2026-06-20T15:15:13.983036+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/08~06/14)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299848",
-      "latestPatchPublishedAt": "2026-06-17T08:00:13+00:00",
+      "latestPatchTitle": "PUBG now has genAI team mates capable of \"intelligent decision-making\", and I must remind you that Krafton are working on bots for the military",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1835871199307693",
+      "latestPatchPublishedAt": "2026-06-19T15:15:00+00:00",
       "status": "ok"
     },
     {
