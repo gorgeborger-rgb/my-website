@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-22T15:01:35.114522+00:00",
+  "generatedAt": "2026-06-22T18:52:13.950787+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,18 +81,18 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Bohemia Interactive Publisher Sale 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304976",
-      "latestPatchPublishedAt": "2026-06-18T17:05:29+00:00",
+      "latestPatchTitle": "Announcing Arma: Cold War Assault Remastered",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313396",
+      "latestPatchPublishedAt": "2026-06-22T16:05:42+00:00",
       "status": "ok"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Bohemia Interactive Publisher Sale 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304978",
-      "latestPatchPublishedAt": "2026-06-18T17:05:36+00:00",
+      "latestPatchTitle": "Announcing Arma: Cold War Assault Remastered",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313395",
+      "latestPatchPublishedAt": "2026-06-22T16:05:39+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4: Campaign Early Access Confirmed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783564162",
-      "latestPatchPublishedAt": "2026-06-12T17:01:54+00:00",
+      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 04 Reloaded",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313531",
+      "latestPatchPublishedAt": "2026-06-22T17:04:12+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG's new AI teammate is somehow more useless than my friends",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199312985",
-      "latestPatchPublishedAt": "2026-06-22T11:41:46+00:00",
+      "latestPatchTitle": "PNC 2026: Pride & Glory",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313439",
+      "latestPatchPublishedAt": "2026-06-22T16:22:11+00:00",
       "status": "ok"
     },
     {
