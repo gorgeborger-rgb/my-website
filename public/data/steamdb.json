@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-22T02:59:04.837517+00:00",
+  "generatedAt": "2026-06-22T09:12:50.416006+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #117-1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573063",
-      "latestPatchPublishedAt": "2026-06-16T05:30:43+00:00",
+      "latestPatchTitle": "EAS9 Warlord Tournament Application Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312379",
+      "latestPatchPublishedAt": "2026-06-22T08:42:14+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Check the Guides before your next raid",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310753",
-      "latestPatchPublishedAt": "2026-06-21T11:02:34+00:00",
+      "latestPatchTitle": "Time to try different calibers",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312407",
+      "latestPatchPublishedAt": "2026-06-22T08:56:32+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Strength in Numbers!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199308766",
-      "latestPatchPublishedAt": "2026-06-20T05:00:12+00:00",
+      "latestPatchTitle": "Leopard 2RI: In the Indonesian Jungle",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312436",
+      "latestPatchPublishedAt": "2026-06-22T09:06:01+00:00",
       "status": "ok"
     }
   ]
