@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-22T09:12:50.416006+00:00",
+  "generatedAt": "2026-06-22T15:01:35.114522+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Season 33 Starts July 4",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199306633",
-      "latestPatchPublishedAt": "2026-06-19T10:00:12+00:00",
+      "latestPatchTitle": "Season 32 Wrapup",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312548",
+      "latestPatchPublishedAt": "2026-06-22T10:00:49+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 17th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300271",
-      "latestPatchPublishedAt": "2026-06-17T10:34:01+00:00",
+      "latestPatchTitle": "Mentor Program: Find Your Mentor. Break Out Together!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312798",
+      "latestPatchPublishedAt": "2026-06-22T12:08:41+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 17th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300271",
-      "latestPatchPublishedAt": "2026-06-17T10:34:01+00:00",
+      "latestPatchTitle": "Mentor Program: Find Your Mentor. Break Out Together!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312798",
+      "latestPatchPublishedAt": "2026-06-22T12:08:41+00:00",
       "status": "ok"
     },
     {
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Update 1.10: New Prison POI, Improvised Crossbow & Launcher, Mission Bosses",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199305012",
-      "latestPatchPublishedAt": "2026-06-18T17:15:00+00:00",
+      "latestPatchTitle": "Hotfix 1.10.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312673",
+      "latestPatchPublishedAt": "2026-06-22T11:03:22+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Patch 0.4.4.0 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186918",
-      "latestPatchPublishedAt": "2026-06-04T09:01:37+00:00",
+      "latestPatchTitle": "Everything You Need to Know About Summer Twitch Drops",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313209",
+      "latestPatchPublishedAt": "2026-06-22T14:54:20+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Dev Team Update: A Note on the Season 2 Economy",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302138",
-      "latestPatchPublishedAt": "2026-06-17T22:25:13+00:00",
+      "latestPatchTitle": "Marathon dev Bungie thinks you're getting too much loot, and it wants to change that",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199312734",
+      "latestPatchPublishedAt": "2026-06-22T10:12:52+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG now has genAI team mates capable of \"intelligent decision-making\", and I must remind you that Krafton are working on bots for the military",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1835871199307693",
-      "latestPatchPublishedAt": "2026-06-19T15:15:00+00:00",
+      "latestPatchTitle": "PUBG's new AI teammate is somehow more useless than my friends",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199312985",
+      "latestPatchPublishedAt": "2026-06-22T11:41:46+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Time to try different calibers",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312407",
-      "latestPatchPublishedAt": "2026-06-22T08:56:32+00:00",
+      "latestPatchTitle": "Triumphs rewards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312790",
+      "latestPatchPublishedAt": "2026-06-22T12:03:35+00:00",
       "status": "ok"
     },
     {
