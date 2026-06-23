@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-23T11:26:30.670333+00:00",
+  "generatedAt": "2026-06-23T13:57:50.266557+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Mentor Program: Find Your Mentor. Break Out Together!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312798",
-      "latestPatchPublishedAt": "2026-06-22T12:08:41+00:00",
+      "latestPatchTitle": "Season 6: White Nights coming June 30.",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315357",
+      "latestPatchPublishedAt": "2026-06-23T12:02:09+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Mentor Program: Find Your Mentor. Break Out Together!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312798",
-      "latestPatchPublishedAt": "2026-06-22T12:08:41+00:00",
+      "latestPatchTitle": "Season 6: White Nights coming June 30.",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315357",
+      "latestPatchPublishedAt": "2026-06-23T12:02:09+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight | Jason launch stream, Featuring PaulieEsther (replay)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304397",
-      "latestPatchPublishedAt": "2026-06-18T14:16:27+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 16 Jun — 23 June 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1835871199315577",
+      "latestPatchPublishedAt": "2026-06-23T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
+      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Leopard 2RI: In the Indonesian Jungle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312436",
-      "latestPatchPublishedAt": "2026-06-22T09:06:01+00:00",
+      "latestPatchTitle": "Flight Model and Missile Autopilot Improvements",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315452",
+      "latestPatchPublishedAt": "2026-06-23T12:52:59+00:00",
       "status": "ok"
     }
   ]
