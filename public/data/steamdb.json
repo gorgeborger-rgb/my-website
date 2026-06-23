@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-23T18:19:10.814854+00:00",
+  "generatedAt": "2026-06-23T20:26:21.268008+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends™: Overclocked Midseason Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313857",
-      "latestPatchPublishedAt": "2026-06-22T19:40:34+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 06/23/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316532",
+      "latestPatchPublishedAt": "2026-06-23T19:12:40+00:00",
       "status": "ok"
     },
     {
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 4163030,
       "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "latestPatchTitle": "Meow meow meow releasing July 8th!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316494",
+      "latestPatchPublishedAt": "2026-06-23T18:54:52+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.0.3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315985",
-      "latestPatchPublishedAt": "2026-06-23T16:00:19+00:00",
+      "latestPatchTitle": "Marathon Dev Team Update: Key Dates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316610",
+      "latestPatchPublishedAt": "2026-06-23T20:00:31+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
-      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
