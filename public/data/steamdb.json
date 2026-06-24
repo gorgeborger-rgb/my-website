@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-24T13:08:26.419550+00:00",
+  "generatedAt": "2026-06-24T15:37:45.799450+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.4.10.0 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545256",
-      "latestPatchPublishedAt": "2026-06-24T08:48:28+00:00",
+      "latestPatchTitle": "Making the Single-Player Experience in Dune: Awakening",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546066",
+      "latestPatchPublishedAt": "2026-06-24T14:02:08+00:00",
       "status": "ok"
     },
     {
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Clear Skies and Double Hunter XP this Weekend",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199307339",
-      "latestPatchPublishedAt": "2026-06-19T14:34:25+00:00",
+      "latestPatchTitle": "Corrupted Cargo | Hunt: Showdown 1896",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546307",
+      "latestPatchPublishedAt": "2026-06-24T15:22:35+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Dev Team Update: Key Dates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316610",
-      "latestPatchPublishedAt": "2026-06-23T20:00:31+00:00",
+      "latestPatchTitle": "Marathon's new experimental Vault Breaker mode has loot you can't take with you",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165546001",
+      "latestPatchPublishedAt": "2026-06-24T13:41:08+00:00",
       "status": "ok"
     },
     {
@@ -298,8 +298,8 @@
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
       "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List June 24th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300311",
-      "latestPatchPublishedAt": "2026-06-17T10:48:49+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546160",
+      "latestPatchPublishedAt": "2026-06-24T14:23:22+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/15~06/21)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545041",
-      "latestPatchPublishedAt": "2026-06-24T07:00:59+00:00",
+      "latestPatchTitle": "After an Intense Survival Stage, the PUBG Nations Cup 2026 Grand Finals Are Here",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546231",
+      "latestPatchPublishedAt": "2026-06-24T15:00:22+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Spartak raises the stakes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545816",
-      "latestPatchPublishedAt": "2026-06-24T12:34:44+00:00",
+      "latestPatchTitle": "Show them how it's done",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546248",
+      "latestPatchPublishedAt": "2026-06-24T15:02:49+00:00",
       "status": "ok"
     },
     {
