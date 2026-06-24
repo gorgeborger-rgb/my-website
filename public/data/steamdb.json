@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-24T07:57:59.237676+00:00",
+  "generatedAt": "2026-06-24T10:49:46.762514+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Upcoming PlayStation Closed Beta Weekend Playtest",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199307000",
-      "latestPatchPublishedAt": "2026-06-19T13:01:14+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.4.10.0 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545256",
+      "latestPatchPublishedAt": "2026-06-24T08:48:28+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk June 17th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300169",
-      "latestPatchPublishedAt": "2026-06-17T10:03:15+00:00",
+      "latestPatchTitle": "FragPunk June 24th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545423",
+      "latestPatchPublishedAt": "2026-06-24T09:55:39+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316025",
-      "latestPatchPublishedAt": "2026-06-23T16:09:09+00:00",
+      "latestPatchTitle": "SSPP Contracts: Briefing",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545297",
+      "latestPatchPublishedAt": "2026-06-24T09:02:16+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Planned Technical Works on 24.06.2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316227",
-      "latestPatchPublishedAt": "2026-06-23T17:06:24+00:00",
+      "latestPatchTitle": "Meet the “Heavy Cavalry” Major Update! ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545279",
+      "latestPatchPublishedAt": "2026-06-24T08:56:48+00:00",
       "status": "ok"
     }
   ]
