@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-24T10:49:46.762514+00:00",
+  "generatedAt": "2026-06-24T13:08:26.419550+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Announcing Arma: Cold War Assault Remastered",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313395",
-      "latestPatchPublishedAt": "2026-06-22T16:05:39+00:00",
+      "latestPatchTitle": "1.7.0.54 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545603",
+      "latestPatchPublishedAt": "2026-06-24T11:03:59+00:00",
       "status": "ok"
     },
     {
@@ -297,7 +297,7 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List June 17th",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List June 24th",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300311",
       "latestPatchPublishedAt": "2026-06-17T10:48:49+00:00",
       "status": "ok"
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "SSPP Contracts: Briefing",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545297",
-      "latestPatchPublishedAt": "2026-06-24T09:02:16+00:00",
+      "latestPatchTitle": "Spartak raises the stakes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545816",
+      "latestPatchPublishedAt": "2026-06-24T12:34:44+00:00",
       "status": "ok"
     },
     {
