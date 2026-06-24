@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-24T04:21:21.022295+00:00",
+  "generatedAt": "2026-06-24T07:57:59.237676+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "The PUBG Nations Cup 2026 continues with Survival Stage Day 2!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315809",
-      "latestPatchPublishedAt": "2026-06-23T15:00:16+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/15~06/21)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545041",
+      "latestPatchPublishedAt": "2026-06-24T07:00:59+00:00",
       "status": "ok"
     },
     {
