@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-24T15:37:45.799450+00:00",
+  "generatedAt": "2026-06-24T17:29:46.004771+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 06/23/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316532",
-      "latestPatchPublishedAt": "2026-06-23T19:12:40+00:00",
+      "latestPatchTitle": "Solo-Queue Test Scheduled for June 30th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546655",
+      "latestPatchPublishedAt": "2026-06-24T17:00:37+00:00",
       "status": "ok"
     },
     {
@@ -270,7 +270,7 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Corrupted Cargo | Hunt: Showdown 1896",
+      "latestPatchTitle": "Cargo Balloon | Hunt: Showdown 1896",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546307",
       "latestPatchPublishedAt": "2026-06-24T15:22:35+00:00",
       "status": "ok"
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
+      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
       "status": "ok"
     },
     {
