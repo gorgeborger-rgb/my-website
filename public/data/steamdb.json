@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-25T05:48:29.207550+00:00",
+  "generatedAt": "2026-06-25T08:40:52.683988+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260618 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199303083",
-      "latestPatchPublishedAt": "2026-06-18T06:46:21+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260625 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548406",
+      "latestPatchPublishedAt": "2026-06-25T08:32:13+00:00",
       "status": "ok"
     },
     {
@@ -313,20 +313,20 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
-      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "After an Intense Survival Stage, the PUBG Nations Cup 2026 Grand Finals Are Here",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546231",
-      "latestPatchPublishedAt": "2026-06-24T15:00:22+00:00",
+      "latestPatchTitle": "[Dev Letter] Anti-Cheat Improvements and Future Direction",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548303",
+      "latestPatchPublishedAt": "2026-06-25T08:00:13+00:00",
       "status": "ok"
     },
     {
