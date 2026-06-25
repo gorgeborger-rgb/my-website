@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-25T22:04:01.697588+00:00",
+  "generatedAt": "2026-06-25T23:40:10.775091+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 06/24/2026 - 6:00pm PT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547518",
-      "latestPatchPublishedAt": "2026-06-25T01:06:37+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 06/25/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552118",
+      "latestPatchPublishedAt": "2026-06-25T23:23:47+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Super Survival Summer Bundle!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550341",
-      "latestPatchPublishedAt": "2026-06-25T17:00:54+00:00",
+      "latestPatchTitle": "Steam Summer Sale is HERE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552073",
+      "latestPatchPublishedAt": "2026-06-25T23:00:10+00:00",
       "status": "ok"
     },
     {
