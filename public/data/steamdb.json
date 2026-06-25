@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-25T11:26:46.024698+00:00",
+  "generatedAt": "2026-06-25T13:34:40.179358+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Season-End Armament Voucher Sprint, DFIW World Championship Celebration Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300476",
-      "latestPatchPublishedAt": "2026-06-17T12:00:54+00:00",
+      "latestPatchTitle": "New Season Pre-registration Rewards & Season-End Ranked Sprint Now Live!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549048",
+      "latestPatchPublishedAt": "2026-06-25T12:00:26+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Update 20 | Hotfix 2 Live Now",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300612",
-      "latestPatchPublishedAt": "2026-06-17T13:04:46+00:00",
+      "latestPatchTitle": "Update 20 | Hotfix 3 Live Now",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549249",
+      "latestPatchPublishedAt": "2026-06-25T13:05:04+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "All the Customary Fun in Season 20 Community Weekend on June 26th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315151",
-      "latestPatchPublishedAt": "2026-06-23T10:23:02+00:00",
+      "latestPatchTitle": "Sea of Thieves Release Notes – Hotfix 3.8.0.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548965",
+      "latestPatchPublishedAt": "2026-06-25T11:35:09+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Meet the “Heavy Cavalry” Major Update! ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545279",
-      "latestPatchPublishedAt": "2026-06-24T08:56:48+00:00",
+      "latestPatchTitle": "Update 2.57.0.13",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549147",
+      "latestPatchPublishedAt": "2026-06-25T12:31:47+00:00",
       "status": "ok"
     }
   ]
