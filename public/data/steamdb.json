@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-25T01:34:30.839539+00:00",
+  "generatedAt": "2026-06-25T05:48:29.207550+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "EAS9 Warlord Tournament Application Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312379",
-      "latestPatchPublishedAt": "2026-06-22T08:42:14+00:00",
+      "latestPatchTitle": "Early Access Hotfix #118",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547924",
+      "latestPatchPublishedAt": "2026-06-25T05:33:29+00:00",
       "status": "ok"
     },
     {
