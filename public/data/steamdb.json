@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-25T08:40:52.683988+00:00",
+  "generatedAt": "2026-06-25T11:26:46.024698+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "M.U.T.E. Protocol Live Now in Rainbow Six Siege",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315730",
-      "latestPatchPublishedAt": "2026-06-23T14:30:14+00:00",
+      "latestPatchTitle": "Y11S2.1 PATCH NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548781",
+      "latestPatchPublishedAt": "2026-06-25T10:26:57+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 10.12.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199303657",
-      "latestPatchPublishedAt": "2026-06-18T09:59:58+00:00",
+      "latestPatchTitle": "Store Update 10.13.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548705",
+      "latestPatchPublishedAt": "2026-06-25T10:06:44+00:00",
       "status": "ok"
     },
     {
