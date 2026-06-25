@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-25T16:06:17.540188+00:00",
+  "generatedAt": "2026-06-25T18:22:30.560041+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,18 +81,18 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Announcing Arma: Cold War Assault Remastered",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313396",
-      "latestPatchPublishedAt": "2026-06-22T16:05:42+00:00",
+      "latestPatchTitle": "Steam Summer Sale 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550768",
+      "latestPatchPublishedAt": "2026-06-25T17:06:08+00:00",
       "status": "ok"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "1.7.0.54 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545603",
-      "latestPatchPublishedAt": "2026-06-24T11:03:59+00:00",
+      "latestPatchTitle": "Steam Summer Sale 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550766",
+      "latestPatchPublishedAt": "2026-06-25T17:06:05+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Publisher Sale 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304971",
-      "latestPatchPublishedAt": "2026-06-18T17:05:21+00:00",
+      "latestPatchTitle": "Summer Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550762",
+      "latestPatchPublishedAt": "2026-06-25T17:05:49+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Making the Single-Player Experience in Dune: Awakening",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546066",
-      "latestPatchPublishedAt": "2026-06-24T14:02:08+00:00",
+      "latestPatchTitle": "The Funcom Steam Summer Sale is live! ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550920",
+      "latestPatchPublishedAt": "2026-06-25T17:14:09+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Preliminary update plan",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304341",
-      "latestPatchPublishedAt": "2026-06-18T14:01:29+00:00",
+      "latestPatchTitle": "The Summer Sale has started!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550832",
+      "latestPatchPublishedAt": "2026-06-25T17:09:02+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Everything You Need to Know About Summer Twitch Drops",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313209",
-      "latestPatchPublishedAt": "2026-06-22T14:54:20+00:00",
+      "latestPatchTitle": "Jump Into Gray Zone Warfare, Now 33% Off",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550396",
+      "latestPatchPublishedAt": "2026-06-25T17:01:02+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld × Windrose Steam Bundle is Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547286",
-      "latestPatchPublishedAt": "2026-06-24T23:00:46+00:00",
+      "latestPatchTitle": "Super Survival Summer Bundle!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550341",
+      "latestPatchPublishedAt": "2026-06-25T17:00:54+00:00",
       "status": "ok"
     },
     {
@@ -369,9 +369,9 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "The Bastet Race to Radiant is On!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783572263",
-      "latestPatchPublishedAt": "2026-06-15T21:03:59+00:00",
+      "latestPatchTitle": "SAVE NOW: SMITE 2 SUMMER SALE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165551014",
+      "latestPatchPublishedAt": "2026-06-25T17:21:09+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad 10.5.1 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199305363",
-      "latestPatchPublishedAt": "2026-06-18T19:45:40+00:00",
+      "latestPatchTitle": "Pick up Squad for 60% off this Steam Summer Sale!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550712",
+      "latestPatchPublishedAt": "2026-06-25T17:03:13+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.0.13",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549147",
-      "latestPatchPublishedAt": "2026-06-25T12:31:47+00:00",
+      "latestPatchTitle": "50% Off Vehicle Packs on Steam & the Gaijin Store!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550925",
+      "latestPatchPublishedAt": "2026-06-25T17:14:22+00:00",
       "status": "ok"
     }
   ]
