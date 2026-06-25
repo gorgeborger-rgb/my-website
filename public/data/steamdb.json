@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-24T23:35:29.997329+00:00",
+  "generatedAt": "2026-06-25T01:34:30.839539+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Solo-Queue Test Scheduled for June 30th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546655",
-      "latestPatchPublishedAt": "2026-06-24T17:00:37+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 06/24/2026 - 6:00pm PT",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547518",
+      "latestPatchPublishedAt": "2026-06-25T01:06:37+00:00",
       "status": "ok"
     },
     {
