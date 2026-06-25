@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-25T13:34:40.179358+00:00",
+  "generatedAt": "2026-06-25T16:06:17.540188+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.34.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199314997",
-      "latestPatchPublishedAt": "2026-06-23T09:02:21+00:00",
+      "latestPatchTitle": "The Fourth Expedition",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549438",
+      "latestPatchPublishedAt": "2026-06-25T14:00:23+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Season 32 Wrapup",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312548",
-      "latestPatchPublishedAt": "2026-06-22T10:00:49+00:00",
+      "latestPatchTitle": "Dev Talk: Keeper Uprising",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549441",
+      "latestPatchPublishedAt": "2026-06-25T14:00:32+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Vendhyan building, armor and weapon cosmetics arrive in Conan Exiles Enhanced",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315664",
-      "latestPatchPublishedAt": "2026-06-23T14:06:39+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced Community Update - June",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549955",
+      "latestPatchPublishedAt": "2026-06-25T16:04:38+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Cargo Balloon | Hunt: Showdown 1896",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546307",
-      "latestPatchPublishedAt": "2026-06-24T15:22:35+00:00",
+      "latestPatchTitle": "Road to Hell | Chapter 2 | Developer Live Stream",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549950",
+      "latestPatchPublishedAt": "2026-06-25T16:04:12+00:00",
       "status": "ok"
     },
     {
@@ -306,18 +306,18 @@
       "game": "Off The Grid",
       "appId": 3659280,
       "steamDbUrl": "https://steamdb.info/app/3659280/",
-      "latestPatchTitle": "The Gunslinger Content Pack",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502824090",
-      "latestPatchPublishedAt": "2026-05-12T14:50:23+00:00",
+      "latestPatchTitle": "The Grid Runner Content Pack",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549717",
+      "latestPatchPublishedAt": "2026-06-25T15:08:25+00:00",
       "status": "ok"
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
+      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
       "status": "ok"
     },
     {
