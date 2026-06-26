@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-25T23:40:10.775091+00:00",
+  "generatedAt": "2026-06-26T01:51:24.661749+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 06/25/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552118",
-      "latestPatchPublishedAt": "2026-06-25T23:23:47+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 06/25/2026 - 5:20PM PT",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552209",
+      "latestPatchPublishedAt": "2026-06-26T00:20:33+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Pick up Squad for 60% off this Steam Summer Sale!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550712",
-      "latestPatchPublishedAt": "2026-06-25T17:03:13+00:00",
+      "latestPatchTitle": "Check out the new Squad Fireteam Edition today!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552241",
+      "latestPatchPublishedAt": "2026-06-26T00:41:24+00:00",
       "status": "ok"
     },
     {
