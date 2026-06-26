@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-26T01:51:24.661749+00:00",
+  "generatedAt": "2026-06-26T06:03:28.901612+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon's new experimental Vault Breaker mode has loot you can't take with you",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165546001",
-      "latestPatchPublishedAt": "2026-06-24T13:41:08+00:00",
+      "latestPatchTitle": "Following the last Destiny 2 update, layoffs at Bungie are underway, with most of the shooter's team affected",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165549998",
+      "latestPatchPublishedAt": "2026-06-25T15:59:40+00:00",
       "status": "ok"
     },
     {
