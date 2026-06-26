@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-26T16:51:15.709553+00:00",
+  "generatedAt": "2026-06-26T18:24:57.778921+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell | Chapter 2 | Developer Live Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549950",
-      "latestPatchPublishedAt": "2026-06-25T16:04:12+00:00",
+      "latestPatchTitle": "Twice a Renegade DLC | Wishlist Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165554819",
+      "latestPatchPublishedAt": "2026-06-26T17:48:26+00:00",
       "status": "ok"
     },
     {
