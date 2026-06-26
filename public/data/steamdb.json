@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-26T14:43:16.857861+00:00",
+  "generatedAt": "2026-06-26T16:51:15.709553+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Nuclear Escalation Returns!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553790",
-      "latestPatchPublishedAt": "2026-06-26T12:45:22+00:00",
+      "latestPatchTitle": "Update 2.57.0.17",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165554419",
+      "latestPatchPublishedAt": "2026-06-26T15:55:30+00:00",
       "status": "ok"
     }
   ]
