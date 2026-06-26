@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-26T06:03:28.901612+00:00",
+  "generatedAt": "2026-06-26T09:48:39.510295+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk June 24th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545423",
-      "latestPatchPublishedAt": "2026-06-24T09:55:39+00:00",
+      "latestPatchTitle": "FragPunk June 26th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552906",
+      "latestPatchPublishedAt": "2026-06-26T07:15:38+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Show them how it's done",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546248",
-      "latestPatchPublishedAt": "2026-06-24T15:02:49+00:00",
+      "latestPatchTitle": "Data processing complete",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553163",
+      "latestPatchPublishedAt": "2026-06-26T08:58:35+00:00",
       "status": "ok"
     },
     {
