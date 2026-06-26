@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-26T09:48:39.510295+00:00",
+  "generatedAt": "2026-06-26T12:03:31.210975+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "[Dev Letter] Anti-Cheat Improvements and Future Direction",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548303",
-      "latestPatchPublishedAt": "2026-06-25T08:00:13+00:00",
+      "latestPatchTitle": "PNC 2026 × Thug Club: The Look of Victory",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553548",
+      "latestPatchPublishedAt": "2026-06-26T11:12:15+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "50% Off Vehicle Packs on Steam & the Gaijin Store!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550925",
-      "latestPatchPublishedAt": "2026-06-25T17:14:22+00:00",
+      "latestPatchTitle": "A Decal Trophy for British Armed Forces Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553539",
+      "latestPatchPublishedAt": "2026-06-26T11:07:15+00:00",
       "status": "ok"
     }
   ]
