@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-26T12:03:31.210975+00:00",
+  "generatedAt": "2026-06-26T14:43:16.857861+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Summer Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550762",
-      "latestPatchPublishedAt": "2026-06-25T17:05:49+00:00",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 73) | Wishlist now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553586",
+      "latestPatchPublishedAt": "2026-06-26T11:28:39+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "The Summer Sale has started!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550832",
-      "latestPatchPublishedAt": "2026-06-25T17:09:02+00:00",
+      "latestPatchTitle": "An in-game survey is available",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553928",
+      "latestPatchPublishedAt": "2026-06-26T13:19:17+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Following the last Destiny 2 update, layoffs at Bungie are underway, with most of the shooter's team affected",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165549998",
-      "latestPatchPublishedAt": "2026-06-25T15:59:40+00:00",
+      "latestPatchTitle": "Bloomberg: Джастин Труман уходит из Bungie, проработав менее года на посту главы студии",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1836506165553597",
+      "latestPatchPublishedAt": "2026-06-25T22:27:36+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PNC 2026 × Thug Club: The Look of Victory",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553548",
-      "latestPatchPublishedAt": "2026-06-26T11:12:15+00:00",
+      "latestPatchTitle": "It All Comes Down To This - PNC 2026 Finals Day 3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553755",
+      "latestPatchPublishedAt": "2026-06-26T12:28:02+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Decal Trophy for British Armed Forces Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553539",
-      "latestPatchPublishedAt": "2026-06-26T11:07:15+00:00",
+      "latestPatchTitle": "Nuclear Escalation Returns!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553790",
+      "latestPatchPublishedAt": "2026-06-26T12:45:22+00:00",
       "status": "ok"
     }
   ]
