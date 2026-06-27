@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-27T12:15:14.576128+00:00",
+  "generatedAt": "2026-06-27T14:07:23.645622+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Jump Into Gray Zone Warfare, Now 33% Off",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550396",
-      "latestPatchPublishedAt": "2026-06-25T17:01:02+00:00",
+      "latestPatchTitle": "Hotfix 0.4.5.1 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165556529",
+      "latestPatchPublishedAt": "2026-06-27T14:01:30+00:00",
       "status": "ok"
     },
     {
