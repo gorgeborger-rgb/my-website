@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-27T14:07:23.645622+00:00",
+  "generatedAt": "2026-06-27T15:35:41.767055+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "New Season Pre-registration Rewards & Season-End Ranked Sprint Now Live!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549048",
-      "latestPatchPublishedAt": "2026-06-25T12:00:26+00:00",
+      "latestPatchTitle": "Biggest Update of The Year: New Season \"Meltdown\" Coming June 30!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165556623",
+      "latestPatchPublishedAt": "2026-06-27T15:00:06+00:00",
       "status": "ok"
     },
     {
