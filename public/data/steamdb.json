@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-28T08:56:48.991758+00:00",
+  "generatedAt": "2026-06-28T11:04:28.358113+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Don't judge a book by its cover",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165556080",
-      "latestPatchPublishedAt": "2026-06-27T09:10:19+00:00",
+      "latestPatchTitle": "Reputation in the Zone matters",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165557847",
+      "latestPatchPublishedAt": "2026-06-28T08:58:07+00:00",
       "status": "ok"
     },
     {
