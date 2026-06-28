@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-28T12:19:36.454944+00:00",
+  "generatedAt": "2026-06-28T14:18:33.418300+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Reputation in the Zone matters",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165557847",
-      "latestPatchPublishedAt": "2026-06-28T08:58:07+00:00",
+      "latestPatchTitle": "Faction Race: may the strongest win",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165558169",
+      "latestPatchPublishedAt": "2026-06-28T13:00:11+00:00",
       "status": "ok"
     },
     {
