@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-28T14:18:33.418300+00:00",
+  "generatedAt": "2026-06-28T15:43:18.473937+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Biggest Update of The Year: New Season \"Meltdown\" Coming June 30!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165556623",
-      "latestPatchPublishedAt": "2026-06-27T15:00:06+00:00",
+      "latestPatchTitle": "Version Update | New Season \"Meltdown\" Events, Rewards & Store",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165558335",
+      "latestPatchPublishedAt": "2026-06-28T15:00:20+00:00",
       "status": "ok"
     },
     {
