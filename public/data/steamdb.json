@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-29T11:34:33.380749+00:00",
+  "generatedAt": "2026-06-29T15:01:57.370465+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Heavy Cavalry!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555770",
-      "latestPatchPublishedAt": "2026-06-27T03:45:17+00:00",
+      "latestPatchTitle": "Tank Football 2026!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559975",
+      "latestPatchPublishedAt": "2026-06-29T11:47:10+00:00",
       "status": "ok"
     }
   ]
