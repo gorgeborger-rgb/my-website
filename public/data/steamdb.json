@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-29T21:06:26.517559+00:00",
+  "generatedAt": "2026-06-29T22:17:37.629690+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -369,9 +369,9 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "SAVE NOW: SMITE 2 SUMMER SALE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165551014",
-      "latestPatchPublishedAt": "2026-06-25T17:21:09+00:00",
+      "latestPatchTitle": "IT'S TIME... FOR CHRONOS!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561014",
+      "latestPatchPublishedAt": "2026-06-29T21:17:31+00:00",
       "status": "ok"
     },
     {
