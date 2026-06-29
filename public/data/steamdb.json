@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-29T15:01:57.370465+00:00",
+  "generatedAt": "2026-06-29T17:46:14.320701+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260625 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548406",
-      "latestPatchPublishedAt": "2026-06-25T08:32:13+00:00",
+      "latestPatchTitle": "Yet another Marvel Rivals creator tournament gets overshadowed by drama, except this time there was $300,000 on the line: 'I got Zazza'd in a tournament 10x the prize pool'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165560610",
+      "latestPatchPublishedAt": "2026-06-29T16:41:49+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Tank Football 2026!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559975",
-      "latestPatchPublishedAt": "2026-06-29T11:47:10+00:00",
+      "latestPatchTitle": "Update 2.57.0.25",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165560430",
+      "latestPatchPublishedAt": "2026-06-29T15:18:21+00:00",
       "status": "ok"
     }
   ]
