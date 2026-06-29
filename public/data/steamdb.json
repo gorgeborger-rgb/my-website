@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-29T06:40:15.375075+00:00",
+  "generatedAt": "2026-06-29T11:34:33.380749+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dev Talk: Keeper Uprising",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549441",
-      "latestPatchPublishedAt": "2026-06-25T14:00:32+00:00",
+      "latestPatchTitle": "Changelog: Radiant Wilds Patch 3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559763",
+      "latestPatchPublishedAt": "2026-06-29T10:00:17+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Season 6: White Nights coming June 30.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315357",
-      "latestPatchPublishedAt": "2026-06-23T12:02:09+00:00",
+      "latestPatchTitle": "Season 6 Update Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559493",
+      "latestPatchPublishedAt": "2026-06-29T07:47:20+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Season 6: White Nights coming June 30.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315357",
-      "latestPatchPublishedAt": "2026-06-23T12:02:09+00:00",
+      "latestPatchTitle": "Season 6 Update Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559493",
+      "latestPatchPublishedAt": "2026-06-29T07:47:20+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Version Update | New Season \"Meltdown\" Events, Rewards & Store",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165558335",
-      "latestPatchPublishedAt": "2026-06-28T15:00:20+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559673",
+      "latestPatchPublishedAt": "2026-06-29T09:15:52+00:00",
       "status": "ok"
     },
     {
