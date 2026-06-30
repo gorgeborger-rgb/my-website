@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-30T16:02:56.916746+00:00",
+  "generatedAt": "2026-06-30T18:08:00.146428+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Twice a Renegade DLC | Wishlist Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165554819",
-      "latestPatchPublishedAt": "2026-06-26T17:48:26+00:00",
+      "latestPatchTitle": "New Player Profile Avatars",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165563159",
+      "latestPatchPublishedAt": "2026-06-30T16:52:39+00:00",
       "status": "ok"
     },
     {
