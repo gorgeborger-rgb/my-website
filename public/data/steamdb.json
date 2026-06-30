@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-30T11:34:15.235699+00:00",
+  "generatedAt": "2026-06-30T13:27:01.562344+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -369,9 +369,9 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "IT'S TIME... FOR CHRONOS!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561014",
-      "latestPatchPublishedAt": "2026-06-29T21:17:31+00:00",
+      "latestPatchTitle": "Beat the Clock: Chronos Race to Radiant is On!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562417",
+      "latestPatchPublishedAt": "2026-06-30T13:00:35+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pages of History (July): New Zealand Ace",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561983",
-      "latestPatchPublishedAt": "2026-06-30T09:41:06+00:00",
+      "latestPatchTitle": "War Thunder Steam Community Spotlight — 15th Edition!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562490",
+      "latestPatchPublishedAt": "2026-06-30T13:26:29+00:00",
       "status": "ok"
     }
   ]
