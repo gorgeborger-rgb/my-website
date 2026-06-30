@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-30T05:44:02.238613+00:00",
+  "generatedAt": "2026-06-30T08:46:50.628879+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559673",
-      "latestPatchPublishedAt": "2026-06-29T09:15:52+00:00",
+      "latestPatchTitle": "Season \"MELTDOWN\" IS NOW LIVE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561626",
+      "latestPatchPublishedAt": "2026-06-30T06:43:06+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "It All Comes Down To This - PNC 2026 Finals Day 3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553755",
-      "latestPatchPublishedAt": "2026-06-26T12:28:02+00:00",
+      "latestPatchTitle": "New Blue Zone Ruleset: Rondo",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561572",
+      "latestPatchPublishedAt": "2026-06-30T06:00:15+00:00",
       "status": "ok"
     },
     {
