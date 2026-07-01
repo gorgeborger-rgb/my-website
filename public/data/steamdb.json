@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-30T22:58:36.208580+00:00",
+  "generatedAt": "2026-07-01T00:06:06.506709+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,18 +45,18 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Changelog: Radiant Wilds Patch 3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559763",
-      "latestPatchPublishedAt": "2026-06-29T10:00:17+00:00",
+      "latestPatchTitle": "Invite a Friend and Unlock the Jester Horse",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165563891",
+      "latestPatchPublishedAt": "2026-07-01T00:01:08+00:00",
       "status": "ok"
     },
     {
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 6/26/26",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555102",
-      "latestPatchPublishedAt": "2026-06-26T20:01:56+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 6/30/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165563881",
+      "latestPatchPublishedAt": "2026-06-30T23:51:47+00:00",
       "status": "ok"
     },
     {
