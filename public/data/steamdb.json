@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-01T08:41:05.581671+00:00",
+  "generatedAt": "2026-07-01T11:45:44.053712+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "New Four-Part Story Arc, Legacy of the Giant-Kings Begins July 21st ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562644",
-      "latestPatchPublishedAt": "2026-06-30T14:01:15+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced is getting a free four-part story expansion",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1836506165564829",
+      "latestPatchPublishedAt": "2026-07-01T09:22:16+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 73) | Wishlist now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553586",
-      "latestPatchPublishedAt": "2026-06-26T11:28:39+00:00",
+      "latestPatchTitle": "1.29 Road to Badlands Experimental Release",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565031",
+      "latestPatchPublishedAt": "2026-07-01T10:51:34+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "The Funcom Steam Summer Sale is live! ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550920",
-      "latestPatchPublishedAt": "2026-06-25T17:14:09+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.4.10.1 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564888",
+      "latestPatchPublishedAt": "2026-07-01T09:53:45+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "An in-game survey is available",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553928",
-      "latestPatchPublishedAt": "2026-06-26T13:19:17+00:00",
+      "latestPatchTitle": "Battlestate Games is heading to ChinaJoy",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564784",
+      "latestPatchPublishedAt": "2026-07-01T09:01:40+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk June 26th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552906",
-      "latestPatchPublishedAt": "2026-06-26T07:15:38+00:00",
+      "latestPatchTitle": "FragPunk July 1st Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564857",
+      "latestPatchPublishedAt": "2026-07-01T09:36:52+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Patch Notes [01.07.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564687",
-      "latestPatchPublishedAt": "2026-07-01T08:10:18+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564799",
+      "latestPatchPublishedAt": "2026-07-01T09:09:10+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.0.27",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562545",
-      "latestPatchPublishedAt": "2026-06-30T13:44:09+00:00",
+      "latestPatchTitle": "A Decal Trophy and Discount on the J35A for 100 Years of the Swedish Air Force!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565093",
+      "latestPatchPublishedAt": "2026-07-01T11:19:57+00:00",
       "status": "ok"
     }
   ]
