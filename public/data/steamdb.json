@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-01T13:55:26.548098+00:00",
+  "generatedAt": "2026-07-01T16:20:53.537385+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "500,000 Operatives Are Ready For Raids!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560310",
-      "latestPatchPublishedAt": "2026-06-11T13:07:12+00:00",
+      "latestPatchTitle": "Developer Q&A: July 1st 2026!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565505",
+      "latestPatchPublishedAt": "2026-07-01T14:01:03+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List June 24th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546160",
-      "latestPatchPublishedAt": "2026-06-24T14:23:22+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 1st",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565482",
+      "latestPatchPublishedAt": "2026-07-01T13:55:15+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Decal Trophy and Discount on the J35A for 100 Years of the Swedish Air Force!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565093",
-      "latestPatchPublishedAt": "2026-07-01T11:19:57+00:00",
+      "latestPatchTitle": "Update 2.57.0.30",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565760",
+      "latestPatchPublishedAt": "2026-07-01T15:26:20+00:00",
       "status": "ok"
     }
   ]
