@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-01T18:21:29.838901+00:00",
+  "generatedAt": "2026-07-01T20:21:06.045798+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Rewards for participating in the clip marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565364",
-      "latestPatchPublishedAt": "2026-07-01T13:08:08+00:00",
+      "latestPatchTitle": "Hotfix [01.07.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566119",
+      "latestPatchPublishedAt": "2026-07-01T18:03:22+00:00",
       "status": "ok"
     },
     {
