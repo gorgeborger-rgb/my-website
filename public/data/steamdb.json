@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-02T08:25:30.507927+00:00",
+  "generatedAt": "2026-07-02T11:04:38.195552+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Invite a Friend and Unlock the Jester Horse",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165563891",
-      "latestPatchPublishedAt": "2026-07-01T00:01:08+00:00",
+      "latestPatchTitle": "Season 33 Starts Saturday",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567571",
+      "latestPatchPublishedAt": "2026-07-02T10:00:49+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Season 6 Update Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559493",
-      "latestPatchPublishedAt": "2026-06-29T07:47:20+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - July 1st",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567431",
+      "latestPatchPublishedAt": "2026-07-02T08:44:22+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Season 6 Update Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165559493",
-      "latestPatchPublishedAt": "2026-06-29T07:47:20+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - July 1st",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567431",
+      "latestPatchPublishedAt": "2026-07-02T08:44:22+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Update 2.8.1 Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565275",
-      "latestPatchPublishedAt": "2026-07-01T12:37:51+00:00",
+      "latestPatchTitle": "Road to Hell - Chapter 2 Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567503",
+      "latestPatchPublishedAt": "2026-07-02T09:19:42+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 10.13.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548705",
-      "latestPatchPublishedAt": "2026-06-25T10:06:44+00:00",
+      "latestPatchTitle": "Store Update 10.14.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567570",
+      "latestPatchPublishedAt": "2026-07-02T10:00:25+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.0.30",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565760",
-      "latestPatchPublishedAt": "2026-07-01T15:26:20+00:00",
+      "latestPatchTitle": "Update 2.57.0.32 — Sound Mods Available",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567559",
+      "latestPatchPublishedAt": "2026-07-02T09:51:20+00:00",
       "status": "ok"
     }
   ]
