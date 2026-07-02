@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-02T22:34:50.619199+00:00",
+  "generatedAt": "2026-07-02T23:42:03.992078+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260702 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567250",
-      "latestPatchPublishedAt": "2026-07-02T07:15:48+00:00",
+      "latestPatchTitle": "The internet is agog at Captain America's hog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165569240",
+      "latestPatchPublishedAt": "2026-07-02T23:30:45+00:00",
       "status": "ok"
     },
     {
