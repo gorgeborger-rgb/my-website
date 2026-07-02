@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-02T13:03:44.106589+00:00",
+  "generatedAt": "2026-07-02T15:27:07.904265+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.35.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561923",
-      "latestPatchPublishedAt": "2026-06-30T09:02:43+00:00",
+      "latestPatchTitle": "Nomadic Envoy & No Free Loadout Survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165568096",
+      "latestPatchPublishedAt": "2026-07-02T14:01:48+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced is getting a free four-part story expansion",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1836506165564829",
-      "latestPatchPublishedAt": "2026-07-01T09:22:16+00:00",
+      "latestPatchTitle": "“Forge Your Legacy” Community Modding Contest",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567965",
+      "latestPatchPublishedAt": "2026-07-02T13:05:09+00:00",
       "status": "ok"
     },
     {
@@ -198,7 +198,7 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Update | Bug Fixes & Optimizations",
+      "latestPatchTitle": "Update | Silent Reckoning & Bug Fixes",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567847",
       "latestPatchPublishedAt": "2026-07-02T12:00:57+00:00",
       "status": "ok"
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.4.10.1 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564888",
-      "latestPatchPublishedAt": "2026-07-01T09:53:45+00:00",
+      "latestPatchTitle": "Dive into a year of big updates and get a sneak peek at what’s next! ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165568084",
+      "latestPatchPublishedAt": "2026-07-02T14:00:29+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.4.5.1 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165556529",
-      "latestPatchPublishedAt": "2026-06-27T14:01:30+00:00",
+      "latestPatchTitle": "Hotfix 0.4.5.2 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567960",
+      "latestPatchPublishedAt": "2026-07-02T13:02:21+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/22~06/28)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564473",
-      "latestPatchPublishedAt": "2026-07-01T07:00:30+00:00",
+      "latestPatchTitle": "PUBG Saturday Custom Games return this weekend!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165568246",
+      "latestPatchPublishedAt": "2026-07-02T14:49:47+00:00",
       "status": "ok"
     },
     {
