@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-03T13:05:22.843624+00:00",
+  "generatedAt": "2026-07-03T15:20:52.706142+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Developer Q&A: July 1st 2026!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565505",
-      "latestPatchPublishedAt": "2026-07-01T14:01:03+00:00",
+      "latestPatchTitle": "New Vehicles Coming To Dalniy Island!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570610",
+      "latestPatchPublishedAt": "2026-07-03T14:07:21+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "40 New User-Created Camouflages in the Ninth Wave Trophy!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570430",
-      "latestPatchPublishedAt": "2026-07-03T12:54:54+00:00",
+      "latestPatchTitle": "Watch the Challenger League Major II and Earn Twitch Drops!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570653",
+      "latestPatchPublishedAt": "2026-07-03T14:20:51+00:00",
       "status": "ok"
     }
   ]
