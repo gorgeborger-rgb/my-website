@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-03T08:21:44.935804+00:00",
+  "generatedAt": "2026-07-03T11:06:30.314759+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Season 33 Starts Saturday",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567571",
-      "latestPatchPublishedAt": "2026-07-02T10:00:49+00:00",
+      "latestPatchTitle": "The Keeper Uprising Begins!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570029",
+      "latestPatchPublishedAt": "2026-07-03T10:00:02+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "July 3 Live Update Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569494",
-      "latestPatchPublishedAt": "2026-07-03T03:27:41+00:00",
+      "latestPatchTitle": "Season 5 Security Report",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569909",
+      "latestPatchPublishedAt": "2026-07-03T08:56:48+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "July 3 Live Update Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569494",
-      "latestPatchPublishedAt": "2026-07-03T03:27:41+00:00",
+      "latestPatchTitle": "Season 5 Security Report",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569909",
+      "latestPatchPublishedAt": "2026-07-03T08:56:48+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "1.29 Road to Badlands Experimental Release",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565031",
-      "latestPatchPublishedAt": "2026-07-01T10:51:34+00:00",
+      "latestPatchTitle": "More Community Items | Steam Point Items",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569924",
+      "latestPatchPublishedAt": "2026-07-03T09:01:05+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dive into a year of big updates and get a sneak peek at what’s next! ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165568084",
-      "latestPatchPublishedAt": "2026-07-02T14:00:29+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.4.10.2 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569969",
+      "latestPatchPublishedAt": "2026-07-03T09:28:05+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Hotfix [01.07.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566119",
-      "latestPatchPublishedAt": "2026-07-01T18:03:22+00:00",
+      "latestPatchTitle": "Enemies or allies?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569913",
+      "latestPatchPublishedAt": "2026-07-03T08:58:19+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.0.35",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569678",
-      "latestPatchPublishedAt": "2026-07-03T06:28:04+00:00",
+      "latestPatchTitle": "Asymmetrical Battles Await You In the “Advance” Event!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570075",
+      "latestPatchPublishedAt": "2026-07-03T10:16:15+00:00",
       "status": "ok"
     }
   ]
