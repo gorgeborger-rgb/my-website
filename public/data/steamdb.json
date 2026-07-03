@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-03T21:46:48.012972+00:00",
+  "generatedAt": "2026-07-03T22:44:29.845133+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 513: Dragon the Anchor",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555568",
-      "latestPatchPublishedAt": "2026-06-27T00:21:33+00:00",
+      "latestPatchTitle": "ARK Tides of Fortune, Dragontopia and Genesis Part 1 are out now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571568",
+      "latestPatchPublishedAt": "2026-07-03T22:13:01+00:00",
       "status": "ok"
     },
     {
