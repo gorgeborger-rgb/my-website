@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-03T11:06:30.314759+00:00",
+  "generatedAt": "2026-07-03T13:05:22.843624+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Keeper Uprising Begins!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570029",
-      "latestPatchPublishedAt": "2026-07-03T10:00:02+00:00",
+      "latestPatchTitle": "Rise as a Valkyrie with the Season 33 Bundles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570382",
+      "latestPatchPublishedAt": "2026-07-03T12:38:43+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Rust's Common Ground update lets you set up clans, a shop, or kick back in your apartment",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165568764",
-      "latestPatchPublishedAt": "2026-07-02T18:00:18+00:00",
+      "latestPatchTitle": "Rust's Common Ground update adds terrifyingly realistic apartment and shop renting, forcing you to feed capricious landlords daily scrap",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165570188",
+      "latestPatchPublishedAt": "2026-07-03T09:50:00+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Enemies or allies?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569913",
-      "latestPatchPublishedAt": "2026-07-03T08:58:19+00:00",
+      "latestPatchTitle": "The Great Zone Rush",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570286",
+      "latestPatchPublishedAt": "2026-07-03T11:58:41+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Asymmetrical Battles Await You In the “Advance” Event!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570075",
-      "latestPatchPublishedAt": "2026-07-03T10:16:15+00:00",
+      "latestPatchTitle": "40 New User-Created Camouflages in the Ninth Wave Trophy!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570430",
+      "latestPatchPublishedAt": "2026-07-03T12:54:54+00:00",
       "status": "ok"
     }
   ]
