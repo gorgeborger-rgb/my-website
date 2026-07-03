@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-03T15:20:52.706142+00:00",
+  "generatedAt": "2026-07-03T16:51:09.951618+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Battlestate Games is heading to ChinaJoy",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564784",
-      "latestPatchPublishedAt": "2026-07-01T09:01:40+00:00",
+      "latestPatchTitle": "Patch 1.0.6.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571045",
+      "latestPatchPublishedAt": "2026-07-03T16:47:13+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Saturday Custom Games return this weekend!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165568246",
-      "latestPatchPublishedAt": "2026-07-02T14:49:47+00:00",
+      "latestPatchTitle": "PUBG EMEA CHAMPIONSHIP & PUBG AMERICAS SERIES RETURNS",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570930",
+      "latestPatchPublishedAt": "2026-07-03T16:00:19+00:00",
       "status": "ok"
     },
     {
