@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-04T12:35:38.972407+00:00",
+  "generatedAt": "2026-07-04T14:11:13.281081+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Sea of Thieves Release Notes – Hotfix 3.8.0.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548965",
-      "latestPatchPublishedAt": "2026-06-25T11:35:09+00:00",
+      "latestPatchTitle": "СМИ: Rare может стать жертвой реструктуризации Xbox — разработчики Sea of Thieves под ударом",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1836506165572422",
+      "latestPatchPublishedAt": "2026-07-04T02:55:00+00:00",
       "status": "ok"
     },
     {
