@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-05T08:28:19.285245+00:00",
+  "generatedAt": "2026-07-05T10:37:05.530649+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Future updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165572219",
-      "latestPatchPublishedAt": "2026-07-04T10:23:14+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "The Great Zone Rush",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570286",
-      "latestPatchPublishedAt": "2026-07-03T11:58:41+00:00",
+      "latestPatchTitle": "Trailblazer's Case",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165573673",
+      "latestPatchPublishedAt": "2026-07-05T08:59:29+00:00",
       "status": "ok"
     },
     {
