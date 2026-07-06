@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-06T09:39:14.586151+00:00",
+  "generatedAt": "2026-07-06T13:07:47.840378+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 23 Jun — 30 June 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165562533",
-      "latestPatchPublishedAt": "2026-06-30T09:00:00+00:00",
+      "latestPatchTitle": "Limmy has finally been banned from Dead by Daylight, but he'll be back very soon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165575869",
+      "latestPatchPublishedAt": "2026-07-06T10:22:43+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Update | Silent Reckoning & Bug Fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567847",
-      "latestPatchPublishedAt": "2026-07-02T12:00:57+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165575548",
+      "latestPatchPublishedAt": "2026-07-06T09:57:31+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Trailblazer's Case",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165573673",
-      "latestPatchPublishedAt": "2026-07-05T08:59:29+00:00",
+      "latestPatchTitle": "Changes to Quasi-Destructors and Modules",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165575887",
+      "latestPatchPublishedAt": "2026-07-06T12:30:15+00:00",
       "status": "ok"
     },
     {
