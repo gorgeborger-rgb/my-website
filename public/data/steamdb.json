@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-06T16:28:01.059934+00:00",
+  "generatedAt": "2026-07-06T18:25:49.563394+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Industrial Front!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571891",
-      "latestPatchPublishedAt": "2026-07-04T04:30:07+00:00",
+      "latestPatchTitle": "Scheduled Maintenance on July 7th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165576404",
+      "latestPatchPublishedAt": "2026-07-06T17:12:47+00:00",
       "status": "ok"
     }
   ]
