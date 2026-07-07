@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-07T07:54:29.799286+00:00",
+  "generatedAt": "2026-07-07T10:48:39.715640+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Nomadic Envoy & No Free Loadout Survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165568096",
-      "latestPatchPublishedAt": "2026-07-02T14:01:48+00:00",
+      "latestPatchTitle": "Live Update 1.36.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577581",
+      "latestPatchPublishedAt": "2026-07-07T09:37:36+00:00",
       "status": "ok"
     },
     {
