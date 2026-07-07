@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-07T15:48:51.435932+00:00",
+  "generatedAt": "2026-07-07T17:46:30.590793+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 7/2/2026 3:15PM PT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569149",
-      "latestPatchPublishedAt": "2026-07-02T22:14:49+00:00",
+      "latestPatchTitle": "Apex Legends x Cyberpunk",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578582",
+      "latestPatchPublishedAt": "2026-07-07T17:04:15+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bloomberg: Джастин Труман уходит из Bungie, проработав менее года на посту главы студии",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1836506165553597",
-      "latestPatchPublishedAt": "2026-06-25T22:27:36+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.0.4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578399",
+      "latestPatchPublishedAt": "2026-07-07T16:00:06+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "Future updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165572219",
+      "latestPatchPublishedAt": "2026-07-04T10:23:14+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Monthly cheaters banlists",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578236",
-      "latestPatchPublishedAt": "2026-07-07T14:50:00+00:00",
+      "latestPatchTitle": "Where are they going?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578562",
+      "latestPatchPublishedAt": "2026-07-07T16:57:11+00:00",
       "status": "ok"
     },
     {
