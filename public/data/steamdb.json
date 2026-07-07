@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-07T13:07:31.045649+00:00",
+  "generatedAt": "2026-07-07T15:48:51.435932+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "ARK Tides of Fortune, Dragontopia and Genesis Part 1 are out now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571568",
-      "latestPatchPublishedAt": "2026-07-03T22:13:01+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
+      "latestPatchPublishedAt": "2026-07-07T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.0.2 | Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165576085",
-      "latestPatchPublishedAt": "2026-07-06T14:30:16+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
+      "latestPatchPublishedAt": "2026-07-07T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update – July 2nd, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566988",
-      "latestPatchPublishedAt": "2026-07-02T03:45:18+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 7th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578106",
+      "latestPatchPublishedAt": "2026-07-07T13:58:59+00:00",
       "status": "ok"
     },
     {
@@ -378,18 +378,18 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Trailblazer statue",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165576154",
-      "latestPatchPublishedAt": "2026-07-06T14:59:23+00:00",
+      "latestPatchTitle": "Monthly cheaters banlists",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578236",
+      "latestPatchPublishedAt": "2026-07-07T14:50:00+00:00",
       "status": "ok"
     },
     {
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "СМИ: Rare может стать жертвой реструктуризации Xbox — разработчики Sea of Thieves под ударом",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1836506165572422",
-      "latestPatchPublishedAt": "2026-07-04T02:55:00+00:00",
+      "latestPatchTitle": "This Month in Sea of Thieves: July 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578237",
+      "latestPatchPublishedAt": "2026-07-07T14:50:12+00:00",
       "status": "ok"
     },
     {
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.3 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783561396",
-      "latestPatchPublishedAt": "2026-06-11T17:53:05+00:00",
+      "latestPatchTitle": "Open-world zombie survival sandbox Unturned source code released",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1836506165578370",
+      "latestPatchPublishedAt": "2026-07-07T15:41:37+00:00",
       "status": "ok"
     },
     {
