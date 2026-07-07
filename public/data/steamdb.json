@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-07T10:48:39.715640+00:00",
+  "generatedAt": "2026-07-07T13:07:31.045649+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.4.5.2 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567960",
-      "latestPatchPublishedAt": "2026-07-02T13:02:21+00:00",
+      "latestPatchTitle": "Patch 0.4.6.0 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577870",
+      "latestPatchPublishedAt": "2026-07-07T12:19:31+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell - Chapter 2 Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567503",
-      "latestPatchPublishedAt": "2026-07-02T09:19:42+00:00",
+      "latestPatchTitle": "DLC Twice a Renegade Out Now",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577683",
+      "latestPatchPublishedAt": "2026-07-07T10:54:51+00:00",
       "status": "ok"
     },
     {
