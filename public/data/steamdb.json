@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-07T04:17:50.273397+00:00",
+  "generatedAt": "2026-07-07T07:54:29.799286+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Scheduled Maintenance on July 7th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165576404",
-      "latestPatchPublishedAt": "2026-07-06T17:12:47+00:00",
+      "latestPatchTitle": "Update 2.57.1.7",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577364",
+      "latestPatchPublishedAt": "2026-07-07T07:25:05+00:00",
       "status": "ok"
     }
   ]
