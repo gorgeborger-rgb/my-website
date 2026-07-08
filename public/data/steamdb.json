@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-08T06:16:59.075375+00:00",
+  "generatedAt": "2026-07-08T08:46:09.870809+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends x Cyberpunk",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578582",
-      "latestPatchPublishedAt": "2026-07-07T17:04:15+00:00",
+      "latestPatchTitle": "Cyberpunk Edgerunners' Lucy finds herself in yet another crossover, this time in an upcoming Apex Legends event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165578721",
+      "latestPatchPublishedAt": "2026-07-07T17:58:49+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals players suspect Captain America's summer sausage has already been downsized",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165574178",
-      "latestPatchPublishedAt": "2026-07-05T15:57:36+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260710 Balance Post",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579820",
+      "latestPatchPublishedAt": "2026-07-08T08:01:12+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG EMEA CHAMPIONSHIP & PUBG AMERICAS SERIES RETURNS",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570930",
-      "latestPatchPublishedAt": "2026-07-03T16:00:19+00:00",
+      "latestPatchTitle": "[Dev Letter] Console Experience Improvement Roadmap",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579719",
+      "latestPatchPublishedAt": "2026-07-08T07:01:49+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.7",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577364",
-      "latestPatchPublishedAt": "2026-07-07T07:25:05+00:00",
+      "latestPatchTitle": "Fair Play: July 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579760",
+      "latestPatchPublishedAt": "2026-07-08T07:23:35+00:00",
       "status": "ok"
     }
   ]
