@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-08T16:16:57.364605+00:00",
+  "generatedAt": "2026-07-08T17:53:12.917067+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1145030,
-      "steamDbUrl": "https://steamdb.info/app/1145030/",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.0.6.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571045",
-      "latestPatchPublishedAt": "2026-07-03T16:47:13+00:00",
+      "latestPatchTitle": "Expansions Hub and TarCoin",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581325",
+      "latestPatchPublishedAt": "2026-07-08T17:12:27+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "DLC Twice a Renegade Out Now",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577683",
-      "latestPatchPublishedAt": "2026-07-07T10:54:51+00:00",
+      "latestPatchTitle": "Road to Hell | Gameplay Live Stream",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581130",
+      "latestPatchPublishedAt": "2026-07-08T16:23:57+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260710 Balance Post",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579820",
-      "latestPatchPublishedAt": "2026-07-08T08:01:12+00:00",
+      "latestPatchTitle": "Marvel Rivals' Season 9 update will affect 80% of its roster as NetEase throws balance out the window for a more 'fun' approach to the game",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165581205",
+      "latestPatchPublishedAt": "2026-07-08T16:38:31+00:00",
       "status": "ok"
     },
     {
@@ -306,9 +306,9 @@
       "game": "Off The Grid",
       "appId": 3659280,
       "steamDbUrl": "https://steamdb.info/app/3659280/",
-      "latestPatchTitle": "The Grid Runner Content Pack",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549717",
-      "latestPatchPublishedAt": "2026-06-25T15:08:25+00:00",
+      "latestPatchTitle": "July Update: Massive Performance Overhaul",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581037",
+      "latestPatchPublishedAt": "2026-07-08T15:44:14+00:00",
       "status": "ok"
     },
     {
