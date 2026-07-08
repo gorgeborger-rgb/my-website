@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-08T10:50:01.833628+00:00",
+  "generatedAt": "2026-07-08T12:08:50.947518+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Patch Notes [08.07.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579992",
-      "latestPatchPublishedAt": "2026-07-08T08:50:50+00:00",
+      "latestPatchTitle": "Triumphant return",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580479",
+      "latestPatchPublishedAt": "2026-07-08T12:04:06+00:00",
       "status": "ok"
     },
     {
