@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-08T12:08:50.947518+00:00",
+  "generatedAt": "2026-07-08T14:37:16.328995+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165575548",
-      "latestPatchPublishedAt": "2026-07-06T09:57:31+00:00",
+      "latestPatchTitle": "Major Update | Rainbow Six Siege Collab Coming Soon!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580736",
+      "latestPatchPublishedAt": "2026-07-08T14:00:10+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "appId": 1145030,
+      "steamDbUrl": "https://steamdb.info/app/1145030/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM: INTO THE WILD - June Update | 1.3.1.0.125621",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562633",
-      "latestPatchPublishedAt": "2026-06-30T14:00:22+00:00",
+      "latestPatchTitle": "Hotfix - 1.3.1.1.128880",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580739",
+      "latestPatchPublishedAt": "2026-07-08T14:00:46+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Triumphant return",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580479",
-      "latestPatchPublishedAt": "2026-07-08T12:04:06+00:00",
+      "latestPatchTitle": "Excerpt from a Frontier Instructor's Journal",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580738",
+      "latestPatchPublishedAt": "2026-07-08T14:00:28+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Fair Play: July 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579760",
-      "latestPatchPublishedAt": "2026-07-08T07:23:35+00:00",
+      "latestPatchTitle": "Infantry in War Thunder: Third Testing Phase!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580595",
+      "latestPatchPublishedAt": "2026-07-08T12:50:48+00:00",
       "status": "ok"
     }
   ]
