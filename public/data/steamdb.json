@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-08T08:46:09.870809+00:00",
+  "generatedAt": "2026-07-08T10:50:01.833628+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Season 5 Security Report",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569909",
-      "latestPatchPublishedAt": "2026-07-03T08:56:48+00:00",
+      "latestPatchTitle": "Outstanding Inspectors Announcement Episode 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580024",
+      "latestPatchPublishedAt": "2026-07-08T09:00:57+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Season 5 Security Report",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569909",
-      "latestPatchPublishedAt": "2026-07-03T08:56:48+00:00",
+      "latestPatchTitle": "Outstanding Inspectors Announcement Episode 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580024",
+      "latestPatchPublishedAt": "2026-07-08T09:00:57+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk July 1st Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564857",
-      "latestPatchPublishedAt": "2026-07-01T09:36:52+00:00",
+      "latestPatchTitle": "FragPunk July 9th Update Announcement: New Content for Season 5, Chapter 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580209",
+      "latestPatchPublishedAt": "2026-07-08T10:21:49+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Where are they going?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578562",
-      "latestPatchPublishedAt": "2026-07-07T16:57:11+00:00",
+      "latestPatchTitle": "Patch Notes [08.07.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579992",
+      "latestPatchPublishedAt": "2026-07-08T08:50:50+00:00",
       "status": "ok"
     },
     {
