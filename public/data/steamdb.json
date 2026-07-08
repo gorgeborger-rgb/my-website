@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-08T21:46:23.304908+00:00",
+  "generatedAt": "2026-07-08T22:45:27.482780+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Excerpt from a Frontier Instructor's Journal",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580738",
-      "latestPatchPublishedAt": "2026-07-08T14:00:28+00:00",
+      "latestPatchTitle": "Hotfix [09.07.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581777",
+      "latestPatchPublishedAt": "2026-07-08T22:15:10+00:00",
       "status": "ok"
     },
     {
