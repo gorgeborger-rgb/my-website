@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-08T03:46:36.619755+00:00",
+  "generatedAt": "2026-07-08T06:16:59.075375+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1145030,
-      "steamDbUrl": "https://steamdb.info/app/1145030/",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165557043",
-      "latestPatchPublishedAt": "2026-06-27T18:45:14+00:00",
+      "latestPatchTitle": "Palworld Surpasses 40 Million Players!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579541",
+      "latestPatchPublishedAt": "2026-07-08T04:57:22+00:00",
       "status": "ok"
     },
     {
