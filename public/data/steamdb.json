@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-09T08:46:15.148679+00:00",
+  "generatedAt": "2026-07-09T11:37:24.413462+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Rise as a Valkyrie with the Season 33 Bundles",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570382",
-      "latestPatchPublishedAt": "2026-07-03T12:38:43+00:00",
+      "latestPatchTitle": "The Albion Football Clash Reaches the Semifinals!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582900",
+      "latestPatchPublishedAt": "2026-07-09T10:00:10+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Major Update | Rainbow Six Siege Collab Coming Soon!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580736",
-      "latestPatchPublishedAt": "2026-07-08T14:00:10+00:00",
+      "latestPatchTitle": "Update | Operator Balance Adjustments & Console Bug Fixes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583099",
+      "latestPatchPublishedAt": "2026-07-09T11:34:38+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Important: About MODs and 1.0!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582004",
-      "latestPatchPublishedAt": "2026-07-09T01:00:44+00:00",
+      "latestPatchTitle": "Palworld dev delivers \"important\" 1.0 mod warning - just turning them off \"is not enough\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165583020",
+      "latestPatchPublishedAt": "2026-07-09T10:14:02+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "This Month in Sea of Thieves: July 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578237",
-      "latestPatchPublishedAt": "2026-07-07T14:50:12+00:00",
+      "latestPatchTitle": "Sea of Thieves Release Notes – Hotfix 3.8.0.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582971",
+      "latestPatchPublishedAt": "2026-07-09T10:25:27+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Infantry in War Thunder: Third Testing Phase!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580595",
-      "latestPatchPublishedAt": "2026-07-08T12:50:48+00:00",
+      "latestPatchTitle": "Monthly Decals for July!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582924",
+      "latestPatchPublishedAt": "2026-07-09T10:03:42+00:00",
       "status": "ok"
     }
   ]
