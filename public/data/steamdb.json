@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-08T23:47:48.494362+00:00",
+  "generatedAt": "2026-07-09T01:20:09.319755+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld Surpasses 40 Million Players!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579541",
-      "latestPatchPublishedAt": "2026-07-08T04:57:22+00:00",
+      "latestPatchTitle": "Important: About MODs and 1.0!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582004",
+      "latestPatchPublishedAt": "2026-07-09T01:00:44+00:00",
       "status": "ok"
     },
     {
