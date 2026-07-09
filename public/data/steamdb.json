@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-09T11:37:24.413462+00:00",
+  "generatedAt": "2026-07-09T14:11:28.314581+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,18 +9,18 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Live Update 1.36.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577581",
-      "latestPatchPublishedAt": "2026-07-07T09:37:36+00:00",
+      "latestPatchTitle": "Hotfix 1.36.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583167",
+      "latestPatchPublishedAt": "2026-07-09T12:01:12+00:00",
       "status": "ok"
     },
     {
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
-      "latestPatchPublishedAt": "2026-07-07T09:00:00+00:00",
+      "latestPatchTitle": "Lumina Awakens!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583172",
+      "latestPatchPublishedAt": "2026-07-09T12:03:45+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.0.4",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578399",
-      "latestPatchPublishedAt": "2026-07-07T16:00:06+00:00",
+      "latestPatchTitle": "Former Marathon director settles lawsuit against Sony and Bungie, following his firing over alleged inappropriate messages to female staff",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165583014",
+      "latestPatchPublishedAt": "2026-07-09T09:16:51+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld dev delivers \"important\" 1.0 mod warning - just turning them off \"is not enough\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165583020",
-      "latestPatchPublishedAt": "2026-07-09T10:14:02+00:00",
+      "latestPatchTitle": "Palworld 1.0 Official Launch Trailer is OUT!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583337",
+      "latestPatchPublishedAt": "2026-07-09T13:02:07+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 10.14.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567570",
-      "latestPatchPublishedAt": "2026-07-02T10:00:25+00:00",
+      "latestPatchTitle": "Update 11.0.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583340",
+      "latestPatchPublishedAt": "2026-07-09T13:05:07+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Monthly Decals for July!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582924",
-      "latestPatchPublishedAt": "2026-07-09T10:03:42+00:00",
+      "latestPatchTitle": "Opening War Thunder’s Official Discord Server!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583463",
+      "latestPatchPublishedAt": "2026-07-09T14:03:21+00:00",
       "status": "ok"
     }
   ]
