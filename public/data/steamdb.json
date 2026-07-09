@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-09T14:11:28.314581+00:00",
+  "generatedAt": "2026-07-09T16:43:03.333975+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "“Forge Your Legacy” Community Modding Contest",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567965",
-      "latestPatchPublishedAt": "2026-07-02T13:05:09+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced - July Patch 1.3.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583586",
+      "latestPatchPublishedAt": "2026-07-09T14:43:45+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld 1.0 Official Launch Trailer is OUT!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583337",
-      "latestPatchPublishedAt": "2026-07-09T13:02:07+00:00",
+      "latestPatchTitle": "Palworld won't raise its price for 1.0 as 'a small way of saying thank you'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165583827",
+      "latestPatchPublishedAt": "2026-07-09T15:48:06+00:00",
       "status": "ok"
     },
     {
