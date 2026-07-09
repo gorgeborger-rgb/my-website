@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-09T16:43:03.333975+00:00",
+  "generatedAt": "2026-07-09T18:28:10.692651+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Cyberpunk Edgerunners' Lucy finds herself in yet another crossover, this time in an upcoming Apex Legends event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165578721",
-      "latestPatchPublishedAt": "2026-07-07T17:58:49+00:00",
+      "latestPatchTitle": "An Update from the Anti Cheat Team - Auto Aim Manipulation",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584282",
+      "latestPatchPublishedAt": "2026-07-09T18:03:24+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld won't raise its price for 1.0 as 'a small way of saying thank you'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165583827",
-      "latestPatchPublishedAt": "2026-07-09T15:48:06+00:00",
+      "latestPatchTitle": "Palworld studio says delete your old mods before the 1.0 release: 'Disabling them is not enough'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165584329",
+      "latestPatchPublishedAt": "2026-07-09T18:23:30+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Hotfix [09.07.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581777",
-      "latestPatchPublishedAt": "2026-07-08T22:15:10+00:00",
+      "latestPatchTitle": "The Coliseum PvP mode coming soon to the game",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584181",
+      "latestPatchPublishedAt": "2026-07-09T17:40:31+00:00",
       "status": "ok"
     },
     {
