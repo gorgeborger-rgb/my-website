@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-10T18:55:54.563576+00:00",
+  "generatedAt": "2026-07-10T20:17:39.313726+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld 1.0 is here with lots of new content",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1837955055356137",
-      "latestPatchPublishedAt": "2026-07-10T08:45:06+00:00",
+      "latestPatchTitle": "Palworld revises some of its most egregious creature designs for its 1.0 release",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055357906",
+      "latestPatchPublishedAt": "2026-07-10T19:53:18+00:00",
       "status": "ok"
     },
     {
