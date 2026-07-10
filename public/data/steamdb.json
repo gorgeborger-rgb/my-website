@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-10T07:53:34.607613+00:00",
+  "generatedAt": "2026-07-10T10:45:53.152491+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Albion Football Clash Reaches the Semifinals!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582900",
-      "latestPatchPublishedAt": "2026-07-09T10:00:10+00:00",
+      "latestPatchTitle": "The Living Legacy Begins July 15",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356328",
+      "latestPatchPublishedAt": "2026-07-10T10:00:56+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Outstanding Inspectors Announcement Episode 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580024",
-      "latestPatchPublishedAt": "2026-07-08T09:00:57+00:00",
+      "latestPatchTitle": "Hostile Sector (TV Station), Supplies Drops NOW AVAILABLE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356033",
+      "latestPatchPublishedAt": "2026-07-10T08:02:04+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Outstanding Inspectors Announcement Episode 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580024",
-      "latestPatchPublishedAt": "2026-07-08T09:00:57+00:00",
+      "latestPatchTitle": "Hostile Sector (TV Station), Supplies Drops NOW AVAILABLE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356033",
+      "latestPatchPublishedAt": "2026-07-10T08:02:04+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld v1.0 - Official Release Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355658",
-      "latestPatchPublishedAt": "2026-07-10T03:09:10+00:00",
+      "latestPatchTitle": "Palworld 1.0 is here with lots of new content",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1837955055356137",
+      "latestPatchPublishedAt": "2026-07-10T08:45:06+00:00",
       "status": "ok"
     },
     {
