@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-10T12:59:25.128519+00:00",
+  "generatedAt": "2026-07-10T15:32:37.827364+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,18 +18,18 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Lumina Awakens!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583172",
-      "latestPatchPublishedAt": "2026-07-09T12:03:45+00:00",
+      "latestPatchTitle": "ARK Franchise Sale!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357199",
+      "latestPatchPublishedAt": "2026-07-10T15:27:29+00:00",
       "status": "ok"
     },
     {
       "game": "ARK Survival Evolved",
       "appId": 346110,
       "steamDbUrl": "https://steamdb.info/app/346110/",
-      "latestPatchTitle": "ARK: Aquatica Official servers update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921817276",
-      "latestPatchPublishedAt": "2026-01-16T23:28:55+00:00",
+      "latestPatchTitle": "ARK Franchise Sale!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357193",
+      "latestPatchPublishedAt": "2026-07-10T15:24:47+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Update | Operator Balance Adjustments & Console Bug Fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583099",
-      "latestPatchPublishedAt": "2026-07-09T11:34:38+00:00",
+      "latestPatchTitle": "Pros Under Siege",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356926",
+      "latestPatchPublishedAt": "2026-07-10T14:00:09+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1145030,
-      "steamDbUrl": "https://steamdb.info/app/1145030/",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "STALZONE - 12 Years in the Zone!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356751",
-      "latestPatchPublishedAt": "2026-07-10T12:47:44+00:00",
+      "latestPatchTitle": "Game Anniversary x Twitch Drops",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356937",
+      "latestPatchPublishedAt": "2026-07-10T14:01:38+00:00",
       "status": "ok"
     },
     {
