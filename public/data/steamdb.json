@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-10T04:16:26.451362+00:00",
+  "generatedAt": "2026-07-10T07:53:34.607613+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals' Season 9 update will affect 80% of its roster as NetEase throws balance out the window for a more 'fun' approach to the game",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165581205",
-      "latestPatchPublishedAt": "2026-07-08T16:38:31+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260710 Patch Notes - Season 9 Arrives",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355963",
+      "latestPatchPublishedAt": "2026-07-10T07:10:50+00:00",
       "status": "ok"
     },
     {
