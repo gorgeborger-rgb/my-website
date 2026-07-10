@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-10T15:32:37.827364+00:00",
+  "generatedAt": "2026-07-10T17:22:29.653441+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,7 +18,7 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "ARK Franchise Sale!",
+      "latestPatchTitle": "ARK Franchise Sale, Free Weekend, and Lumina Arrives!",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357199",
       "latestPatchPublishedAt": "2026-07-10T15:27:29+00:00",
       "status": "ok"
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "New Vehicles Coming To Dalniy Island!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570610",
-      "latestPatchPublishedAt": "2026-07-03T14:07:21+00:00",
+      "latestPatchTitle": "Make America Raid Again!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357310",
+      "latestPatchPublishedAt": "2026-07-10T16:01:08+00:00",
       "status": "ok"
     },
     {
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 4163030,
       "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Meow meow meow 50,000 WISHLISTS!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546769",
-      "latestPatchPublishedAt": "2026-06-24T17:47:23+00:00",
+      "latestPatchTitle": "Meow meow meow release change to July 14th!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357487",
+      "latestPatchPublishedAt": "2026-07-10T17:00:50+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 30 Jun — 7 July 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165578059",
-      "latestPatchPublishedAt": "2026-07-07T09:00:00+00:00",
+      "latestPatchTitle": "Unkillable: inside Dead by Daylight's incredible decade of scares",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055357223",
+      "latestPatchPublishedAt": "2026-07-10T15:15:38+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260710 Patch Notes - Season 9 Arrives",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355963",
-      "latestPatchPublishedAt": "2026-07-10T07:10:50+00:00",
+      "latestPatchTitle": "Marvel Rivals needs to pick a lane and either fully embrace balancing for 'fun' long term or stick to some serious changes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055357358",
+      "latestPatchPublishedAt": "2026-07-10T16:10:59+00:00",
       "status": "ok"
     },
     {
