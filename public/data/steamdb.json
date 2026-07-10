@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-10T00:15:06.448333+00:00",
+  "generatedAt": "2026-07-10T04:16:26.451362+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #119",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165567128",
-      "latestPatchPublishedAt": "2026-07-02T05:38:49+00:00",
+      "latestPatchTitle": "EAS9 Warlord Tournament runs this Friday through Sunday!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355550",
+      "latestPatchPublishedAt": "2026-07-10T02:13:49+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld studio says delete your old mods before the 1.0 release: 'Disabling them is not enough'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165584329",
-      "latestPatchPublishedAt": "2026-07-09T18:23:30+00:00",
+      "latestPatchTitle": "Palworld v1.0 - Official Release Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355658",
+      "latestPatchPublishedAt": "2026-07-10T03:09:10+00:00",
       "status": "ok"
     },
     {
