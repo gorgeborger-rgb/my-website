@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-11T04:22:08.930652+00:00",
+  "generatedAt": "2026-07-11T06:32:36.650970+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Opening War Thunder’s Official Discord Server!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583463",
-      "latestPatchPublishedAt": "2026-07-09T14:03:21+00:00",
+      "latestPatchTitle": "Screenshot Competition – Painted to Perform!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055358600",
+      "latestPatchPublishedAt": "2026-07-11T04:50:24+00:00",
       "status": "ok"
     }
   ]
