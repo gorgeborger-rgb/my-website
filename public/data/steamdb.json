@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-12T03:59:44.505110+00:00",
+  "generatedAt": "2026-07-12T06:38:11.054849+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Valve fix up Marvel Rivals on SteamOS / Linux with Proton Hotfix",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1837955055358897",
-      "latestPatchPublishedAt": "2026-07-11T08:43:50+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260711 Balance Post",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055360643",
+      "latestPatchPublishedAt": "2026-07-12T06:19:38+00:00",
       "status": "ok"
     },
     {
