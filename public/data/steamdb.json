@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-12T15:13:06.009826+00:00",
+  "generatedAt": "2026-07-12T16:13:56.744704+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "How to get hardwood in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055358137",
-      "latestPatchPublishedAt": "2026-07-10T21:57:34+00:00",
+      "latestPatchTitle": "Palworld dev celebrates \"staggering\" Steam response to 1.0, proving lightning can strike twice",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055361413",
+      "latestPatchPublishedAt": "2026-07-12T14:59:06+00:00",
       "status": "ok"
     },
     {
