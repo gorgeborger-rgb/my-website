@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-12T14:09:39.262822+00:00",
+  "generatedAt": "2026-07-12T15:13:06.009826+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Coliseum: alpha gameplay",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055361008",
-      "latestPatchPublishedAt": "2026-07-12T11:53:44+00:00",
+      "latestPatchTitle": "SIX12 exchange",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055361293",
+      "latestPatchPublishedAt": "2026-07-12T14:29:21+00:00",
       "status": "ok"
     },
     {
