@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-13T19:01:12.092350+00:00",
+  "generatedAt": "2026-07-13T20:22:03.525210+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld pulled in almost 900,000 players over the weekend, its second-highest peak ever",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363329",
-      "latestPatchPublishedAt": "2026-07-13T12:21:41+00:00",
+      "latestPatchTitle": "Sick of holding F in Palworld? Change these two settings to make crafting and building less obnoxious",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055364390",
+      "latestPatchPublishedAt": "2026-07-13T20:09:42+00:00",
       "status": "ok"
     },
     {
