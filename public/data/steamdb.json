@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-13T10:00:48.682334+00:00",
+  "generatedAt": "2026-07-13T12:39:12.208901+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld dev celebrates \"staggering\" Steam response to 1.0, proving lightning can strike twice",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055361413",
-      "latestPatchPublishedAt": "2026-07-12T14:59:06+00:00",
+      "latestPatchTitle": "Palworld pulled in almost 900,000 players over the weekend, its second-highest peak ever",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363329",
+      "latestPatchPublishedAt": "2026-07-13T12:21:41+00:00",
       "status": "ok"
     },
     {
