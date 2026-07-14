@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T07:50:03.728539+00:00",
+  "generatedAt": "2026-07-14T09:30:36.375383+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Hotfix 1.36.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583167",
-      "latestPatchPublishedAt": "2026-07-09T12:01:12+00:00",
+      "latestPatchTitle": "Store Update 1.37.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365541",
+      "latestPatchPublishedAt": "2026-07-14T09:01:45+00:00",
       "status": "ok"
     },
     {
