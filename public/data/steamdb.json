@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T14:29:01.229470+00:00",
+  "generatedAt": "2026-07-14T15:57:26.232367+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 4163030,
       "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Meow meow meow 100,000 WISHLISTS!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055363382",
-      "latestPatchPublishedAt": "2026-07-13T13:04:15+00:00",
+      "latestPatchTitle": "Meow meow meow CAT CHESS IS OUT.... NOW!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366523",
+      "latestPatchPublishedAt": "2026-07-14T15:47:07+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "How to get Cryogenic Coolant in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055365775",
-      "latestPatchPublishedAt": "2026-07-14T10:50:43+00:00",
+      "latestPatchTitle": "How to get Ancient Bone in Palworld",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055366355",
+      "latestPatchPublishedAt": "2026-07-14T14:50:05+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Coliseum rewards",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365797",
-      "latestPatchPublishedAt": "2026-07-14T11:02:25+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366529",
+      "latestPatchPublishedAt": "2026-07-14T15:56:27+00:00",
       "status": "ok"
     },
     {
