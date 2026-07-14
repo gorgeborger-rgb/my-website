@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T11:10:23.252887+00:00",
-  "totalGames": 47,
-  "mappedGames": 47,
+  "generatedAt": "2026-07-14T12:40:42.025210+00:00",
+  "totalGames": 48,
+  "mappedGames": 48,
   "games": [
     {
       "game": "ARC Raiders",
@@ -183,6 +183,15 @@
       "latestPatchTitle": "Unkillable: inside Dead by Daylight's incredible decade of scares",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055357223",
       "latestPatchPublishedAt": "2026-07-10T15:15:38+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Deadside",
+      "appId": 895400,
+      "steamDbUrl": "https://steamdb.info/app/895400/",
+      "latestPatchTitle": "Hotfix 1.10.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312673",
+      "latestPatchPublishedAt": "2026-06-22T11:03:22+00:00",
       "status": "ok"
     },
     {
