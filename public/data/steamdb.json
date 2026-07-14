@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T21:39:32.763352+00:00",
+  "generatedAt": "2026-07-14T22:37:28.875517+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "An Update from the Anti-Cheat Team - 07/13/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055364081",
-      "latestPatchPublishedAt": "2026-07-13T17:52:51+00:00",
+      "latestPatchTitle": "Apex Legends™: Cyberpunk Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252762",
+      "latestPatchPublishedAt": "2026-07-14T22:30:51+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Where to find hardwood in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055366537",
-      "latestPatchPublishedAt": "2026-07-14T15:40:16+00:00",
+      "latestPatchTitle": "The best Palworld 1.0 base locations for early game builds, resource-rich farms, or raid safe havens",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055367140",
+      "latestPatchPublishedAt": "2026-07-14T21:35:17+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Rust's Common Ground update adds terrifyingly realistic apartment and shop renting, forcing you to feed capricious landlords daily scrap",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165570188",
-      "latestPatchPublishedAt": "2026-07-03T09:50:00+00:00",
+      "latestPatchTitle": "Rust's Common Ground update lets you set up clans, a shop, or kick back in your apartment",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165568764",
+      "latestPatchPublishedAt": "2026-07-02T18:00:18+00:00",
       "status": "ok"
     },
     {
