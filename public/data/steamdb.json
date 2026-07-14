@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T00:13:04.386355+00:00",
-  "totalGames": 48,
-  "mappedGames": 48,
+  "generatedAt": "2026-07-14T03:36:43.279476+00:00",
+  "totalGames": 47,
+  "mappedGames": 47,
   "games": [
     {
       "game": "ARC Raiders",
@@ -210,15 +210,6 @@
       "latestPatchTitle": "Dune: Awakening - 1.4.10.2 Hotfix Patch Notes",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569969",
       "latestPatchPublishedAt": "2026-07-03T09:28:05+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
-      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
-      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
     {
