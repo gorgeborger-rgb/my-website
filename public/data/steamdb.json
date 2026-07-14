@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T18:17:15.480200+00:00",
+  "generatedAt": "2026-07-14T19:46:16.915245+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Corrupted Cargo - Stage 1 Complete",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581526",
-      "latestPatchPublishedAt": "2026-07-08T19:20:50+00:00",
+      "latestPatchTitle": "Corrupted Cargo Stage 2 Complete",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366864",
+      "latestPatchPublishedAt": "2026-07-14T18:27:12+00:00",
       "status": "ok"
     },
     {
