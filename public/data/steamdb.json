@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T05:54:45.725459+00:00",
+  "generatedAt": "2026-07-14T07:50:03.728539+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "[Dev Letter] Console Experience Improvement Roadmap",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579719",
-      "latestPatchPublishedAt": "2026-07-08T07:01:49+00:00",
+      "latestPatchTitle": "July Store Update 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365237",
+      "latestPatchPublishedAt": "2026-07-14T06:00:34+00:00",
       "status": "ok"
     },
     {
