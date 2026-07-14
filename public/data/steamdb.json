@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T15:57:26.232367+00:00",
+  "generatedAt": "2026-07-14T17:12:23.411674+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "How to get Ancient Bone in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055366355",
-      "latestPatchPublishedAt": "2026-07-14T14:50:05+00:00",
+      "latestPatchTitle": "Where to find hardwood in Palworld",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055366537",
+      "latestPatchPublishedAt": "2026-07-14T15:40:16+00:00",
       "status": "ok"
     },
     {
