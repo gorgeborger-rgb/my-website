@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T09:30:36.375383+00:00",
-  "totalGames": 48,
-  "mappedGames": 48,
+  "generatedAt": "2026-07-14T11:10:23.252887+00:00",
+  "totalGames": 47,
+  "mappedGames": 47,
   "games": [
     {
       "game": "ARC Raiders",
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Living Legacy Begins July 15",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356328",
-      "latestPatchPublishedAt": "2026-07-10T10:00:56+00:00",
+      "latestPatchTitle": "The Living Legacy Returns!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365669",
+      "latestPatchPublishedAt": "2026-07-14T10:00:45+00:00",
       "status": "ok"
     },
     {
@@ -186,15 +186,6 @@
       "status": "ok"
     },
     {
-      "game": "Deadside",
-      "appId": 895400,
-      "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Hotfix 1.10.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312673",
-      "latestPatchPublishedAt": "2026-06-22T11:03:22+00:00",
-      "status": "ok"
-    },
-    {
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
@@ -297,9 +288,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 7th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578106",
-      "latestPatchPublishedAt": "2026-07-07T13:58:59+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 14th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365686",
+      "latestPatchPublishedAt": "2026-07-14T10:07:34+00:00",
       "status": "ok"
     },
     {
@@ -333,18 +324,18 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Sick of holding F in Palworld? Change these two settings to make crafting and building less obnoxious",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055364390",
-      "latestPatchPublishedAt": "2026-07-13T20:09:42+00:00",
+      "latestPatchTitle": "How to get Cryogenic Coolant in Palworld",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055365775",
+      "latestPatchPublishedAt": "2026-07-14T10:50:43+00:00",
       "status": "ok"
     },
     {
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "MARKETPLACE & ECONOMY: A NEW DIRECTION",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562862",
-      "latestPatchPublishedAt": "2026-06-30T15:00:52+00:00",
+      "latestPatchTitle": "Y11S2.2 MID-SEASON PATCH NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365693",
+      "latestPatchPublishedAt": "2026-07-14T10:08:48+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +369,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "SIX12 exchange",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055361293",
-      "latestPatchPublishedAt": "2026-07-12T14:29:21+00:00",
+      "latestPatchTitle": "Coliseum rewards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365797",
+      "latestPatchPublishedAt": "2026-07-14T11:02:25+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +423,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "War Thunder to put 128-player boots-on-the-ground battles in action in Infantry's \"largest map\" yet",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055363812",
-      "latestPatchPublishedAt": "2026-07-13T15:39:06+00:00",
+      "latestPatchTitle": "Decals and a Discount on the Vautour IIN for Bastille Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365805",
+      "latestPatchPublishedAt": "2026-07-14T11:04:51+00:00",
       "status": "ok"
     }
   ]
