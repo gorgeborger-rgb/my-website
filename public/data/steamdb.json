@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-15T15:06:02.751416+00:00",
+  "generatedAt": "2026-07-15T16:41:37.010954+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.0.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584491",
-      "latestPatchPublishedAt": "2026-07-09T20:12:47+00:00",
+      "latestPatchTitle": "Bungie pulls \"unfinished\" Marathon gun skins, but promises you'll get them back next week",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329254619",
+      "latestPatchPublishedAt": "2026-07-15T14:35:05+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 14th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365686",
-      "latestPatchPublishedAt": "2026-07-14T10:07:34+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update – July 16th, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254538",
+      "latestPatchPublishedAt": "2026-07-15T15:31:33+00:00",
       "status": "ok"
     },
     {
