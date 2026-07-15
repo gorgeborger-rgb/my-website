@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-15T16:41:37.010954+00:00",
+  "generatedAt": "2026-07-15T17:56:06.072218+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends™: Cyberpunk Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252762",
-      "latestPatchPublishedAt": "2026-07-14T22:30:51+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 07/15/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254889",
+      "latestPatchPublishedAt": "2026-07-15T17:51:58+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 05",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055364028",
-      "latestPatchPublishedAt": "2026-07-13T17:09:51+00:00",
+      "latestPatchTitle": "Modern Warfare 4 Multiplayer: Kill Block Intel",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254835",
+      "latestPatchPublishedAt": "2026-07-15T17:16:15+00:00",
       "status": "ok"
     },
     {
