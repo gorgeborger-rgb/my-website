@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-15T11:55:48.571681+00:00",
+  "generatedAt": "2026-07-15T13:22:39.791416+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Pros Under Siege",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356926",
-      "latestPatchPublishedAt": "2026-07-10T14:00:09+00:00",
+      "latestPatchTitle": "Update | Uluru's First Ultimate Appearance — \"Fury\" Is Coming",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254071",
+      "latestPatchPublishedAt": "2026-07-15T12:00:35+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "v1.0.1: Bug fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253279",
-      "latestPatchPublishedAt": "2026-07-15T05:17:43+00:00",
+      "latestPatchTitle": "Where to find Ancient Bark in Palworld",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329254075",
+      "latestPatchPublishedAt": "2026-07-15T11:39:34+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM - Community Showcase",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366269",
-      "latestPatchPublishedAt": "2026-07-14T14:22:25+00:00",
+      "latestPatchTitle": "SCUM | July Update Preview: New Tutorial, Master Hunter Quests & Mutant Animals",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254187",
+      "latestPatchPublishedAt": "2026-07-15T13:00:07+00:00",
       "status": "ok"
     },
     {
