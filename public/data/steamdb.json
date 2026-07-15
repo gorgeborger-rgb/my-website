@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-15T10:25:25.627454+00:00",
+  "generatedAt": "2026-07-15T11:55:48.571681+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Living Legacy Returns!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365669",
-      "latestPatchPublishedAt": "2026-07-14T10:00:45+00:00",
+      "latestPatchTitle": "Discover three new Anniversary Vanity Bundles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253901",
+      "latestPatchPublishedAt": "2026-07-15T10:47:39+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk July 9th Update Announcement: New Content for Season 5, Chapter 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165580209",
-      "latestPatchPublishedAt": "2026-07-08T10:21:49+00:00",
+      "latestPatchTitle": "FragPunk July 15th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253826",
+      "latestPatchPublishedAt": "2026-07-15T10:17:06+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/06~07/12)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253418",
-      "latestPatchPublishedAt": "2026-07-15T07:00:23+00:00",
+      "latestPatchTitle": "Dress Like a Champion: PGC 2025 Champion Set Released!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253816",
+      "latestPatchPublishedAt": "2026-07-15T10:11:39+00:00",
       "status": "ok"
     },
     {
