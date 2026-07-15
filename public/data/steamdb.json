@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-15T13:22:39.791416+00:00",
+  "generatedAt": "2026-07-15T15:06:02.751416+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "More Community Items | Steam Point Items",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569924",
-      "latestPatchPublishedAt": "2026-07-03T09:01:05+00:00",
+      "latestPatchTitle": "DayZ | 1.29 Road to Badlands Stable Update - Out Now",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254245",
+      "latestPatchPublishedAt": "2026-07-15T13:25:38+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S2.2 MID-SEASON PATCH NOTES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365693",
-      "latestPatchPublishedAt": "2026-07-14T10:08:48+00:00",
+      "latestPatchTitle": "DESIGNER'S NOTES: Y11S2.2 MID-SEASON UPDATE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254475",
+      "latestPatchPublishedAt": "2026-07-15T15:05:21+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Decals and a Discount on the Vautour IIN for Bastille Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365805",
-      "latestPatchPublishedAt": "2026-07-14T11:04:51+00:00",
+      "latestPatchTitle": "The WTCS Challenger League Major II Winner is “Team Warning”!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254341",
+      "latestPatchPublishedAt": "2026-07-15T14:10:56+00:00",
       "status": "ok"
     }
   ]
