@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-15T03:53:18.083795+00:00",
+  "generatedAt": "2026-07-15T06:08:31.670193+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,18 +324,18 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "July Store Update 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365237",
-      "latestPatchPublishedAt": "2026-07-14T06:00:34+00:00",
+      "latestPatchTitle": "Special Drops - July 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253249",
+      "latestPatchPublishedAt": "2026-07-15T05:00:16+00:00",
       "status": "ok"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "How to get Nightstar Sand in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329252981",
-      "latestPatchPublishedAt": "2026-07-15T01:26:38+00:00",
+      "latestPatchTitle": "v1.0.1: Bug fixes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253279",
+      "latestPatchPublishedAt": "2026-07-15T05:17:43+00:00",
       "status": "ok"
     },
     {
