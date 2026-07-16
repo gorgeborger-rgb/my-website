@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-16T17:59:05.393797+00:00",
+  "generatedAt": "2026-07-16T19:15:23.756320+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Where to get Ancient Civilization Cores in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257137",
-      "latestPatchPublishedAt": "2026-07-16T14:13:11+00:00",
+      "latestPatchTitle": "Where to find Ancient Bone in Palworld",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257532",
+      "latestPatchPublishedAt": "2026-07-16T16:10:59+00:00",
       "status": "ok"
     },
     {
