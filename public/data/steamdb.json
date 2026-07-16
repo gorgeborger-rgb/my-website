@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-16T15:44:24.605665+00:00",
+  "generatedAt": "2026-07-16T16:53:50.694787+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Make America Raid Again!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357310",
-      "latestPatchPublishedAt": "2026-07-10T16:01:08+00:00",
+      "latestPatchTitle": "Changes to Safe Containers and Beacons",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257197",
+      "latestPatchPublishedAt": "2026-07-16T16:23:38+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie pulls \"unfinished\" Marathon gun skins, but promises you'll get them back next week",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329254619",
-      "latestPatchPublishedAt": "2026-07-15T14:35:05+00:00",
+      "latestPatchTitle": "Mid-Season 2 Update Preview",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257184",
+      "latestPatchPublishedAt": "2026-07-16T16:20:06+00:00",
       "status": "ok"
     },
     {
@@ -333,18 +333,18 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Where to find Ancient Bark in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329254075",
-      "latestPatchPublishedAt": "2026-07-15T11:39:34+00:00",
+      "latestPatchTitle": "Where to get Ancient Civilization Cores in Palworld",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257137",
+      "latestPatchPublishedAt": "2026-07-16T14:13:11+00:00",
       "status": "ok"
     },
     {
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "DESIGNER'S NOTES: Y11S2.2 MID-SEASON UPDATE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254475",
-      "latestPatchPublishedAt": "2026-07-15T15:05:21+00:00",
+      "latestPatchTitle": "Rainbow Six Siege Mid-Season Update: Everything You Need to Know",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257158",
+      "latestPatchPublishedAt": "2026-07-16T16:10:43+00:00",
       "status": "ok"
     },
     {
