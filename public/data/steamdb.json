@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-16T14:04:17.596245+00:00",
+  "generatedAt": "2026-07-16T15:44:24.605665+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4 Multiplayer: Kill Block Intel",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254835",
-      "latestPatchPublishedAt": "2026-07-15T17:16:15+00:00",
+      "latestPatchTitle": "Call of Duty® and Aston Martin Unveil the Dreadnought for Modern Warfare® 4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257013",
+      "latestPatchPublishedAt": "2026-07-16T15:25:09+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Corrupted Cargo Stage 2 Complete",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366864",
-      "latestPatchPublishedAt": "2026-07-14T18:27:12+00:00",
+      "latestPatchTitle": "New Story Challenge \"Let Us Prey\" Live Now",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257021",
+      "latestPatchPublishedAt": "2026-07-16T15:27:51+00:00",
       "status": "ok"
     },
     {
