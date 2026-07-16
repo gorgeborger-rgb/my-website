@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-16T11:59:57.524763+00:00",
+  "generatedAt": "2026-07-16T14:04:17.596245+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.37.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365541",
-      "latestPatchPublishedAt": "2026-07-14T09:01:45+00:00",
+      "latestPatchTitle": "Expedition Departure Issue Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256749",
+      "latestPatchPublishedAt": "2026-07-16T14:00:53+00:00",
       "status": "ok"
     },
     {
@@ -81,18 +81,18 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Steam Summer Sale 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550768",
-      "latestPatchPublishedAt": "2026-06-25T17:06:08+00:00",
+      "latestPatchTitle": "Arma: Cold War Assault Remastered Is Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256762",
+      "latestPatchPublishedAt": "2026-07-16T14:02:59+00:00",
       "status": "ok"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Steam Summer Sale 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550766",
-      "latestPatchPublishedAt": "2026-06-25T17:06:05+00:00",
+      "latestPatchTitle": "Arma: Cold War Assault Remastered Is Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256748",
+      "latestPatchPublishedAt": "2026-07-16T14:00:45+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 7 Jul — 14 July 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147",
-      "latestPatchPublishedAt": "2026-07-14T09:00:00+00:00",
+      "latestPatchTitle": "Important Developer Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256675",
+      "latestPatchPublishedAt": "2026-07-16T13:31:22+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1145030,
-      "steamDbUrl": "https://steamdb.info/app/1145030/",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals is making some big visual changes to 'cut down on battlefield chaos' which is wonderful because my old brain can't handle that level of overstimulation",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329256378",
-      "latestPatchPublishedAt": "2026-07-16T11:23:02+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260716 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256599",
+      "latestPatchPublishedAt": "2026-07-16T12:59:57+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Mercenaries don't fight for an idea. Mercenaries are only in it for the money.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256342",
-      "latestPatchPublishedAt": "2026-07-16T11:04:52+00:00",
+      "latestPatchTitle": "Area-16: Coliseum",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256699",
+      "latestPatchPublishedAt": "2026-07-16T13:38:54+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The WTCS Challenger League Major II Winner is “Team Warning”!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254341",
-      "latestPatchPublishedAt": "2026-07-15T14:10:56+00:00",
+      "latestPatchTitle": "Update 2.57.1.29",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256705",
+      "latestPatchPublishedAt": "2026-07-16T13:42:12+00:00",
       "status": "ok"
     }
   ]
