@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-16T03:39:31.252312+00:00",
+  "generatedAt": "2026-07-16T06:02:09.850703+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "EAS9 Warlord Tournament runs this Friday through Sunday!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355550",
-      "latestPatchPublishedAt": "2026-07-10T02:13:49+00:00",
+      "latestPatchTitle": "EAS9 Warlord Tournament Results Are Here!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329255720",
+      "latestPatchPublishedAt": "2026-07-16T04:37:41+00:00",
       "status": "ok"
     },
     {
