@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-16T10:27:24.306574+00:00",
+  "generatedAt": "2026-07-16T11:59:57.524763+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Discover three new Anniversary Vanity Bundles",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253901",
-      "latestPatchPublishedAt": "2026-07-15T10:47:39+00:00",
+      "latestPatchTitle": "The Albion Football Clash Reaches the Finals!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256274",
+      "latestPatchPublishedAt": "2026-07-16T10:30:50+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals has upset players yet again with some peculiar balances that buff some of the strongest heroes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363970",
-      "latestPatchPublishedAt": "2026-07-13T16:48:14+00:00",
+      "latestPatchTitle": "Marvel Rivals is making some big visual changes to 'cut down on battlefield chaos' which is wonderful because my old brain can't handle that level of overstimulation",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329256378",
+      "latestPatchPublishedAt": "2026-07-16T11:23:02+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "To the Zone — departure and return",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253621",
-      "latestPatchPublishedAt": "2026-07-15T08:59:10+00:00",
+      "latestPatchTitle": "Mercenaries don't fight for an idea. Mercenaries are only in it for the money.",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256342",
+      "latestPatchPublishedAt": "2026-07-16T11:04:52+00:00",
       "status": "ok"
     },
     {
