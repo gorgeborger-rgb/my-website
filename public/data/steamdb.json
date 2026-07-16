@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-16T16:53:50.694787+00:00",
+  "generatedAt": "2026-07-16T17:59:05.393797+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 07/15/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254889",
-      "latestPatchPublishedAt": "2026-07-15T17:51:58+00:00",
+      "latestPatchTitle": "Find Your Perfect Squadmate - Matchmaking Recruitment Drive",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257302",
+      "latestPatchPublishedAt": "2026-07-16T16:59:17+00:00",
       "status": "ok"
     },
     {
