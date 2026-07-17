@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-17T12:48:42.383634+00:00",
+  "generatedAt": "2026-07-17T14:19:51.553880+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Get the Scimitar Mk.2 in the Scimitar Strike Event!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329259208",
-      "latestPatchPublishedAt": "2026-07-17T11:15:54+00:00",
+      "latestPatchTitle": "Work-In-Progress: CA-27",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329259473",
+      "latestPatchPublishedAt": "2026-07-17T13:08:49+00:00",
       "status": "ok"
     }
   ]
