@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-17T08:24:23.205095+00:00",
+  "generatedAt": "2026-07-17T10:16:01.747050+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ | 1.29 Road to Badlands Stable Update - Out Now",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254245",
-      "latestPatchPublishedAt": "2026-07-15T13:25:38+00:00",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 76) | New Rebuilding System | Wishlist now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329259021",
+      "latestPatchPublishedAt": "2026-07-17T10:04:46+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Update | Uluru's First Ultimate Appearance — \"Fury\" Is Coming",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254071",
-      "latestPatchPublishedAt": "2026-07-15T12:00:35+00:00",
+      "latestPatchTitle": "Uluru’s first Ultimate Appearance Fury Now Available",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258819",
+      "latestPatchPublishedAt": "2026-07-17T08:39:50+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Area-16: Coliseum",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256699",
-      "latestPatchPublishedAt": "2026-07-16T13:38:54+00:00",
+      "latestPatchTitle": "Module and Quasi-Destructors rework",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329259019",
+      "latestPatchPublishedAt": "2026-07-17T10:03:06+00:00",
       "status": "ok"
     },
     {
