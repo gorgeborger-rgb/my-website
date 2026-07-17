@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-17T11:42:19.629530+00:00",
+  "generatedAt": "2026-07-17T12:48:42.383634+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "New Story Challenge \"Let Us Prey\" Live Now",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257021",
-      "latestPatchPublishedAt": "2026-07-16T15:27:51+00:00",
+      "latestPatchTitle": "Road to Hell Event Survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329259394",
+      "latestPatchPublishedAt": "2026-07-17T12:44:17+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Mid-Season 2 Update Preview",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257184",
-      "latestPatchPublishedAt": "2026-07-16T16:20:06+00:00",
+      "latestPatchTitle": "Marathon's experimental PvE roguelite mode is, bafflingly, only around for two weeks when it drops next week",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1838407329257602",
+      "latestPatchPublishedAt": "2026-07-16T17:58:21+00:00",
       "status": "ok"
     },
     {
