@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-17T10:16:01.747050+00:00",
+  "generatedAt": "2026-07-17T11:42:19.629530+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 76) | New Rebuilding System | Wishlist now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329259021",
-      "latestPatchPublishedAt": "2026-07-17T10:04:46+00:00",
+      "latestPatchTitle": "DayZ Badlands gets a fresh teaser and it's set to launch in October",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1838407329259131",
+      "latestPatchPublishedAt": "2026-07-17T10:49:04+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.29",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256705",
-      "latestPatchPublishedAt": "2026-07-16T13:42:12+00:00",
+      "latestPatchTitle": "Get the Scimitar Mk.2 in the Scimitar Strike Event!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329259208",
+      "latestPatchPublishedAt": "2026-07-17T11:15:54+00:00",
       "status": "ok"
     }
   ]
