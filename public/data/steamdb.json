@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-18T21:02:44.465524+00:00",
+  "generatedAt": "2026-07-18T22:02:10.176164+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "«Cветлое будущее»: Bungie потеряла руководителя разработки Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1838407329261321",
-      "latestPatchPublishedAt": "2026-07-18T01:34:35+00:00",
+      "latestPatchTitle": "A month after mass layoffs at Bungie, Marathon game director Joe Ziegler is leaving the studio",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1838407329262291",
+      "latestPatchPublishedAt": "2026-07-18T17:00:48+00:00",
       "status": "ok"
     },
     {
