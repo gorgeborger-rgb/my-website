@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-18T05:40:49.181189+00:00",
+  "generatedAt": "2026-07-18T07:19:27.879143+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon's experimental PvE roguelite mode is, bafflingly, only around for two weeks when it drops next week",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1838407329257602",
-      "latestPatchPublishedAt": "2026-07-16T17:58:21+00:00",
+      "latestPatchTitle": "«Cветлое будущее»: Bungie потеряла руководителя разработки Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1838407329261321",
+      "latestPatchPublishedAt": "2026-07-18T01:34:35+00:00",
       "status": "ok"
     },
     {
