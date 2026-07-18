@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-18T12:31:45.477566+00:00",
+  "generatedAt": "2026-07-18T14:02:43.931604+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Where to find Ancient Bone in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257532",
-      "latestPatchPublishedAt": "2026-07-16T16:10:59+00:00",
+      "latestPatchTitle": "For years, survival games have convinced us that chopping down 400 trees is somehow part of the fantasy—Palworld proves them wrong",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329261997",
+      "latestPatchPublishedAt": "2026-07-18T14:00:00+00:00",
       "status": "ok"
     },
     {
