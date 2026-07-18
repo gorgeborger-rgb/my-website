@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-18T17:08:50.994300+00:00",
+  "generatedAt": "2026-07-18T18:04:40.398048+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell Event Survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329259394",
-      "latestPatchPublishedAt": "2026-07-17T12:44:17+00:00",
+      "latestPatchTitle": "Corrupted Cargo - Stage 3 Completed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329262263",
+      "latestPatchPublishedAt": "2026-07-18T17:11:30+00:00",
       "status": "ok"
     },
     {
