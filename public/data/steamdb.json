@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-19T06:16:19.700949+00:00",
+  "generatedAt": "2026-07-19T08:34:58.839841+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "For years, survival games have convinced us that chopping down 400 trees is somehow part of the fantasy—Palworld proves them wrong",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329261997",
-      "latestPatchPublishedAt": "2026-07-18T14:00:00+00:00",
+      "latestPatchTitle": "Every new Pal in Palworld 1.0 and where to catch them",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329263271",
+      "latestPatchPublishedAt": "2026-07-19T08:30:04+00:00",
       "status": "ok"
     },
     {
