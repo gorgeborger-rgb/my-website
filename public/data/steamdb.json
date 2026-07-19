@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-19T12:11:42.660634+00:00",
+  "generatedAt": "2026-07-19T13:55:17.856736+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Dress Like a Champion: PGC 2025 Champion Set Released!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253816",
-      "latestPatchPublishedAt": "2026-07-15T10:11:39+00:00",
+      "latestPatchTitle": "PUBG is the original battle royale game and probably still the best",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329263623",
+      "latestPatchPublishedAt": "2026-07-19T13:00:25+00:00",
       "status": "ok"
     },
     {
