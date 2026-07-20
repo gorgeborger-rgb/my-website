@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-20T18:24:23.041240+00:00",
+  "generatedAt": "2026-07-20T20:03:43.842621+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "A month after mass layoffs at Bungie, Marathon game director Joe Ziegler is leaving the studio",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1838407329262291",
-      "latestPatchPublishedAt": "2026-07-18T17:00:48+00:00",
+      "latestPatchTitle": "Vault Breaker Overview | Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329266906",
+      "latestPatchPublishedAt": "2026-07-20T18:50:46+00:00",
       "status": "ok"
     },
     {
@@ -369,9 +369,9 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "Race to Radiant: Xing Tian!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366053",
-      "latestPatchPublishedAt": "2026-07-14T13:00:55+00:00",
+      "latestPatchTitle": "Race to Exalted: Scylla!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267423",
+      "latestPatchPublishedAt": "2026-07-20T19:51:29+00:00",
       "status": "ok"
     },
     {
