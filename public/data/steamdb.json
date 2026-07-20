@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-20T10:31:43.229013+00:00",
+  "generatedAt": "2026-07-20T12:35:57.916031+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Every new Pal in Palworld 1.0 and where to catch them",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329263271",
-      "latestPatchPublishedAt": "2026-07-19T08:30:04+00:00",
+      "latestPatchTitle": "Where to find Holy Water in Palworld 1.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329265275",
+      "latestPatchPublishedAt": "2026-07-20T11:01:04+00:00",
       "status": "ok"
     },
     {
