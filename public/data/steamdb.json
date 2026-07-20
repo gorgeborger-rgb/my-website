@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-20T16:20:15.544187+00:00",
+  "generatedAt": "2026-07-20T18:24:23.041240+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty® and Aston Martin Unveil the Dreadnought for Modern Warfare® 4",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257013",
-      "latestPatchPublishedAt": "2026-07-16T15:25:09+00:00",
+      "latestPatchTitle": "Modern Warfare 4: Open Beta, NEXT, Fanatics Fest, & Serialized Camo",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329266134",
+      "latestPatchPublishedAt": "2026-07-20T17:15:04+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Future updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165572219",
-      "latestPatchPublishedAt": "2026-07-04T10:23:14+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld is only growing more powerful, hitting nearly a million concurrents in its second weekend",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329265785",
-      "latestPatchPublishedAt": "2026-07-20T15:13:38+00:00",
+      "latestPatchTitle": "Where to find Coralum Ore in Palworld 1.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329266093",
+      "latestPatchPublishedAt": "2026-07-20T16:14:42+00:00",
       "status": "ok"
     },
     {
