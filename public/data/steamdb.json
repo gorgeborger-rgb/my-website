@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-21T14:48:34.797405+00:00",
+  "generatedAt": "2026-07-21T16:08:03.466089+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Vault Breaker Overview | Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329266906",
-      "latestPatchPublishedAt": "2026-07-20T18:50:46+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269349",
+      "latestPatchPublishedAt": "2026-07-21T16:00:42+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update – July 16th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329254538",
-      "latestPatchPublishedAt": "2026-07-15T15:31:33+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 21st",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269204",
+      "latestPatchPublishedAt": "2026-07-21T15:00:15+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Cybersecurity on the web and in games",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329265646",
-      "latestPatchPublishedAt": "2026-07-20T14:23:28+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269335",
+      "latestPatchPublishedAt": "2026-07-21T15:55:38+00:00",
       "status": "ok"
     },
     {
