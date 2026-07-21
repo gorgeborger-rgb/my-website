@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-21T03:47:30.895964+00:00",
+  "generatedAt": "2026-07-21T06:17:25.117265+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Global Series Circuit 3: Everything You Need To Know!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329265511",
-      "latestPatchPublishedAt": "2026-07-20T13:12:24+00:00",
+      "latestPatchTitle": "Improved Unban Policy for Account Theft",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268090",
+      "latestPatchPublishedAt": "2026-07-21T05:00:09+00:00",
       "status": "ok"
     },
     {
