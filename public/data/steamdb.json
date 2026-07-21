@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-21T17:41:03.128189+00:00",
+  "generatedAt": "2026-07-21T18:56:32.694685+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 4163030,
       "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Meow meow meow CAT CHESS IS OUT.... NOW!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366523",
-      "latestPatchPublishedAt": "2026-07-14T15:47:07+00:00",
+      "latestPatchTitle": "Week 1 Game Updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269698",
+      "latestPatchPublishedAt": "2026-07-21T18:10:56+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 14 Jul — 21 July 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1838407329269011",
-      "latestPatchPublishedAt": "2026-07-21T09:00:00+00:00",
+      "latestPatchTitle": "Palworld players have harnessed the power of selective breeding to create 'infinite bomb' Pals that can blow themselves up, repeatedly, forever",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329269747",
+      "latestPatchPublishedAt": "2026-07-21T18:35:28+00:00",
       "status": "ok"
     },
     {
