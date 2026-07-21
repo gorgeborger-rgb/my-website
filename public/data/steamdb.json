@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-21T06:17:25.117265+00:00",
+  "generatedAt": "2026-07-21T09:03:25.490681+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Expedition Departure Issue Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256749",
-      "latestPatchPublishedAt": "2026-07-16T14:00:53+00:00",
+      "latestPatchTitle": "Store Update 1.38.0 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268489",
+      "latestPatchPublishedAt": "2026-07-21T09:00:50+00:00",
       "status": "ok"
     },
     {
