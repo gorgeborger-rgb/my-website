@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-21T11:15:37.441824+00:00",
+  "generatedAt": "2026-07-21T12:43:46.359098+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329265440",
-      "latestPatchPublishedAt": "2026-07-20T12:49:39+00:00",
+      "latestPatchTitle": "Update 2.57.1.33",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268779",
+      "latestPatchPublishedAt": "2026-07-21T11:27:12+00:00",
       "status": "ok"
     }
   ]
