@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-20T23:16:30.383666+00:00",
+  "generatedAt": "2026-07-21T00:12:26.462696+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Call II Arms-ory",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098",
-      "latestPatchPublishedAt": "2026-07-16T23:39:54+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267700",
+      "latestPatchPublishedAt": "2026-07-20T23:13:36+00:00",
       "status": "ok"
     },
     {
