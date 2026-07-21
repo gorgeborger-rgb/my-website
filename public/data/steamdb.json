@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-21T16:08:03.466089+00:00",
+  "generatedAt": "2026-07-21T17:41:03.128189+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Find Your Perfect Squadmate - Matchmaking Recruitment Drive",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257302",
-      "latestPatchPublishedAt": "2026-07-16T16:59:17+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 07/21/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269626",
+      "latestPatchPublishedAt": "2026-07-21T17:33:09+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4: Open Beta, NEXT, Fanatics Fest, & Serialized Camo",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329266134",
-      "latestPatchPublishedAt": "2026-07-20T17:15:04+00:00",
+      "latestPatchTitle": "Introducing the Season 05 Battle Pass, BlackCell, and New Store Bundles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269549",
+      "latestPatchPublishedAt": "2026-07-21T17:03:59+00:00",
       "status": "ok"
     },
     {
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Twitch Drops Coming on July 22nd",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329264192",
-      "latestPatchPublishedAt": "2026-07-19T20:10:18+00:00",
+      "latestPatchTitle": "Twitch Drops are back!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269407",
+      "latestPatchPublishedAt": "2026-07-21T16:12:12+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269349",
-      "latestPatchPublishedAt": "2026-07-21T16:00:42+00:00",
+      "latestPatchTitle": "Последний шанс: Bungie показала геймплей PvE-режима Vault Breaker для Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1838407329269493",
+      "latestPatchPublishedAt": "2026-07-21T16:16:47+00:00",
       "status": "ok"
     },
     {
