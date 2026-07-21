@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-21T12:43:46.359098+00:00",
+  "generatedAt": "2026-07-21T14:48:34.797405+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Changes to Safe Containers and Beacons",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257197",
-      "latestPatchPublishedAt": "2026-07-16T16:23:38+00:00",
+      "latestPatchTitle": "Inventory 2.0: Deep Pockets!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268944",
+      "latestPatchPublishedAt": "2026-07-21T13:05:47+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced - July Patch 1.3.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583586",
-      "latestPatchPublishedAt": "2026-07-09T14:43:45+00:00",
+      "latestPatchTitle": "The Legacy of the Giant-Kings Begins! Part One Out Now! ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269062",
+      "latestPatchPublishedAt": "2026-07-21T14:00:39+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Important Developer Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256675",
-      "latestPatchPublishedAt": "2026-07-16T13:31:22+00:00",
+      "latestPatchTitle": "10.0.3 | Bugfix Patch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269139",
+      "latestPatchPublishedAt": "2026-07-21T14:31:30+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Where to find Coralum Ore in Palworld 1.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329266093",
-      "latestPatchPublishedAt": "2026-07-20T16:14:42+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 14 Jul — 21 July 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1838407329269011",
+      "latestPatchPublishedAt": "2026-07-21T09:00:00+00:00",
       "status": "ok"
     },
     {
