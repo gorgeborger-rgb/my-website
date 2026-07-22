@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-22T11:21:08.162186+00:00",
+  "generatedAt": "2026-07-22T12:54:19.146368+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk July 15th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253826",
-      "latestPatchPublishedAt": "2026-07-15T10:17:06+00:00",
+      "latestPatchTitle": "FragPunk July 22nd Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023774",
+      "latestPatchPublishedAt": "2026-07-22T12:12:08+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld players have harnessed the power of selective breeding to create 'infinite bomb' Pals that can blow themselves up, repeatedly, forever",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329269747",
-      "latestPatchPublishedAt": "2026-07-21T18:35:28+00:00",
+      "latestPatchTitle": "\"Ultra\" Palworld 1.0 mod adds ray-traced lighting, and it's already got 18,000 downloads",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839041357023795",
+      "latestPatchPublishedAt": "2026-07-22T10:20:18+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.33",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268779",
-      "latestPatchPublishedAt": "2026-07-21T11:27:12+00:00",
+      "latestPatchTitle": "Discounts for P.O. Sukhoi’s Birthday!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023758",
+      "latestPatchPublishedAt": "2026-07-22T12:04:34+00:00",
       "status": "ok"
     }
   ]
