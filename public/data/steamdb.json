@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-22T14:58:53.646336+00:00",
+  "generatedAt": "2026-07-22T16:20:53.905566+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Twitch Drops are back!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269407",
-      "latestPatchPublishedAt": "2026-07-21T16:12:12+00:00",
+      "latestPatchTitle": "Twitch Drops are now LIVE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357024226",
+      "latestPatchPublishedAt": "2026-07-22T15:00:39+00:00",
       "status": "ok"
     },
     {
