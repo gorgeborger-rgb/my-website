@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-22T04:14:43.814766+00:00",
+  "generatedAt": "2026-07-22T06:43:18.609840+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Season #10",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258402",
-      "latestPatchPublishedAt": "2026-07-17T03:36:02+00:00",
+      "latestPatchTitle": "EAS10 Legendary Status Sale | 30% Off — Limited Time!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023032",
+      "latestPatchPublishedAt": "2026-07-22T04:33:08+00:00",
       "status": "ok"
     },
     {
