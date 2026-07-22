@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-22T20:00:55.531128+00:00",
+  "generatedAt": "2026-07-22T21:18:11.333972+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Coliseum Matchmaking Issue",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023955",
-      "latestPatchPublishedAt": "2026-07-22T13:33:51+00:00",
+      "latestPatchTitle": "Season Pass points for playing Coliseum",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357024991",
+      "latestPatchPublishedAt": "2026-07-22T20:27:42+00:00",
       "status": "ok"
     },
     {
