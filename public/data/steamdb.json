@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-23T12:59:02.700817+00:00",
+  "generatedAt": "2026-07-23T15:10:06.788337+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "The Legacy of the Giant-Kings Begins! Part One Out Now! ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269062",
-      "latestPatchPublishedAt": "2026-07-21T14:00:39+00:00",
+      "latestPatchTitle": "July Hotfix",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026794",
+      "latestPatchPublishedAt": "2026-07-23T14:01:41+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Try the Korean War “Black Thursday” Event!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026390",
-      "latestPatchPublishedAt": "2026-07-23T11:19:20+00:00",
+      "latestPatchTitle": "Update 2.57.1.43",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026840",
+      "latestPatchPublishedAt": "2026-07-23T14:19:55+00:00",
       "status": "ok"
     }
   ]
