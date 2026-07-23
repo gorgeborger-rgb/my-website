@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-23T11:28:03.942539+00:00",
+  "generatedAt": "2026-07-23T12:59:02.700817+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Anniversary Stream with Live Q&A",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023651",
-      "latestPatchPublishedAt": "2026-07-22T10:55:27+00:00",
+      "latestPatchTitle": "Dragonfire Comes to Albion on August 31",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026416",
+      "latestPatchPublishedAt": "2026-07-23T11:34:44+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite x Resident Evil Collab Confirmed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329262933",
-      "latestPatchPublishedAt": "2026-07-19T02:15:59+00:00",
+      "latestPatchTitle": "ARENA BREAKOUT: INFINITE X RESIDENT EVIL COLLAB COMING JULY 24",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026486",
+      "latestPatchPublishedAt": "2026-07-23T12:11:12+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite x Resident Evil Collab Confirmed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329262933",
-      "latestPatchPublishedAt": "2026-07-19T02:15:59+00:00",
+      "latestPatchTitle": "ARENA BREAKOUT: INFINITE X RESIDENT EVIL COLLAB COMING JULY 24",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026486",
+      "latestPatchPublishedAt": "2026-07-23T12:11:12+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security Brief | A Mid-Year Look at Our Security Environment",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357024080",
-      "latestPatchPublishedAt": "2026-07-22T14:25:04+00:00",
+      "latestPatchTitle": "Mid-Season Sign-In for Epic Weapon Skins, Choose & Conquer for Great Rewards!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026464",
+      "latestPatchPublishedAt": "2026-07-23T12:00:33+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Sea of Thieves Release Notes – Hotfix 3.8.0.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582971",
-      "latestPatchPublishedAt": "2026-07-09T10:25:27+00:00",
+      "latestPatchTitle": "Sea of Thieves Release Notes – 3.8.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026563",
+      "latestPatchPublishedAt": "2026-07-23T12:50:13+00:00",
       "status": "ok"
     },
     {
