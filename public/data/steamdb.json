@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-23T04:26:21.349835+00:00",
+  "generatedAt": "2026-07-23T07:03:39.588682+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "EAS10 Legendary Status Sale | 30% Off — Limited Time!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023032",
-      "latestPatchPublishedAt": "2026-07-22T04:33:08+00:00",
+      "latestPatchTitle": "Early Access Hotfix #120",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357025772",
+      "latestPatchPublishedAt": "2026-07-23T05:31:37+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260716 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256599",
-      "latestPatchPublishedAt": "2026-07-16T12:59:57+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260723 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357025863",
+      "latestPatchPublishedAt": "2026-07-23T06:33:39+00:00",
       "status": "ok"
     },
     {
