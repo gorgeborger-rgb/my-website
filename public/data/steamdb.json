@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-23T07:03:39.588682+00:00",
+  "generatedAt": "2026-07-23T09:30:50.299924+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.4.10.3 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366019",
-      "latestPatchPublishedAt": "2026-07-14T12:44:17+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.4.10.4 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357025950",
+      "latestPatchPublishedAt": "2026-07-23T07:45:54+00:00",
       "status": "ok"
     },
     {
