@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-23T09:30:50.299924+00:00",
+  "generatedAt": "2026-07-23T11:28:03.942539+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 11.1.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256197",
-      "latestPatchPublishedAt": "2026-07-16T10:00:48+00:00",
+      "latestPatchTitle": "Store Update 11.2.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026238",
+      "latestPatchPublishedAt": "2026-07-23T10:00:22+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "New Run of Nuclear Escalation!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023905",
-      "latestPatchPublishedAt": "2026-07-22T13:15:28+00:00",
+      "latestPatchTitle": "Try the Korean War “Black Thursday” Event!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026390",
+      "latestPatchPublishedAt": "2026-07-23T11:19:20+00:00",
       "status": "ok"
     }
   ]
