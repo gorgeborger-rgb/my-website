@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-24T14:26:36.245476+00:00",
+  "generatedAt": "2026-07-24T15:53:18.775938+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Inventory 2.0: Deep Pockets!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268944",
-      "latestPatchPublishedAt": "2026-07-21T13:05:47+00:00",
+      "latestPatchTitle": "Pedal to the Metal! New Vehicles, New Possibilities",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029831",
+      "latestPatchPublishedAt": "2026-07-24T15:01:10+00:00",
       "status": "ok"
     },
     {
