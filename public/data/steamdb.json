@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-24T15:53:18.775938+00:00",
+  "generatedAt": "2026-07-24T17:22:09.873479+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dragonfire Comes to Albion on August 31",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026416",
-      "latestPatchPublishedAt": "2026-07-23T11:34:44+00:00",
+      "latestPatchTitle": "Dev Talk: Dragonfire Introduction",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357030024",
+      "latestPatchPublishedAt": "2026-07-24T16:02:01+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "New in-game survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029317",
-      "latestPatchPublishedAt": "2026-07-24T11:49:34+00:00",
+      "latestPatchTitle": "Weekend XP bonus!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357030119",
+      "latestPatchPublishedAt": "2026-07-24T16:28:14+00:00",
       "status": "ok"
     },
     {
