@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-24T12:46:30.954915+00:00",
+  "generatedAt": "2026-07-24T14:26:36.245476+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Twitch Drops | Gameplay Live Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357024505",
-      "latestPatchPublishedAt": "2026-07-22T16:34:11+00:00",
+      "latestPatchTitle": "Twitch Drops Rewards - Week 1 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029621",
+      "latestPatchPublishedAt": "2026-07-24T13:48:30+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Revealing Key Figures",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357028972",
-      "latestPatchPublishedAt": "2026-07-24T09:15:32+00:00",
+      "latestPatchTitle": "Watch STALZONE on Twitch and earn rewards!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029649",
+      "latestPatchPublishedAt": "2026-07-24T14:00:00+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.48",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029174",
-      "latestPatchPublishedAt": "2026-07-24T10:50:11+00:00",
+      "latestPatchTitle": "Work-In-Progress: The M7 Tank",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029558",
+      "latestPatchPublishedAt": "2026-07-24T13:21:25+00:00",
       "status": "ok"
     }
   ]
