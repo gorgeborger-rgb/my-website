@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-24T06:44:28.124838+00:00",
+  "generatedAt": "2026-07-24T09:10:40.393599+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "\"Ultra\" Palworld 1.0 mod adds ray-traced lighting, and it's already got 18,000 downloads",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839041357023795",
-      "latestPatchPublishedAt": "2026-07-22T10:20:18+00:00",
+      "latestPatchTitle": "The best Palworld 1.0 pals for running your base like a well-oiled machine",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839041357028726",
+      "latestPatchPublishedAt": "2026-07-24T07:00:10+00:00",
       "status": "ok"
     },
     {
