@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-24T11:13:03.361244+00:00",
+  "generatedAt": "2026-07-24T12:46:30.954915+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Expansions Hub and TarCoin",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581325",
-      "latestPatchPublishedAt": "2026-07-08T17:12:27+00:00",
+      "latestPatchTitle": "New in-game survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029317",
+      "latestPatchPublishedAt": "2026-07-24T11:49:34+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/13~07/19)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023224",
-      "latestPatchPublishedAt": "2026-07-22T07:00:05+00:00",
+      "latestPatchTitle": "Get Ready for the EWC 2026 Finals!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029348",
+      "latestPatchPublishedAt": "2026-07-24T12:02:06+00:00",
       "status": "ok"
     },
     {
