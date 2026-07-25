@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-24T23:37:32.382782+00:00",
+  "generatedAt": "2026-07-25T01:06:16.980695+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 515: Bouncing into Summer!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329261085",
-      "latestPatchPublishedAt": "2026-07-18T01:36:38+00:00",
+      "latestPatchTitle": "Community Crunch 516: Flips, Tricks & Teeth",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357031030",
+      "latestPatchPublishedAt": "2026-07-25T00:32:29+00:00",
       "status": "ok"
     },
     {
