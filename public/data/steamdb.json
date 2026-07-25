@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-25T16:26:15.110778+00:00",
+  "generatedAt": "2026-07-25T17:28:31.575456+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,18 +81,18 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Arma: Cold War Assault Remastered Is Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256762",
-      "latestPatchPublishedAt": "2026-07-16T14:02:59+00:00",
+      "latestPatchTitle": "Steam Flash Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357032350",
+      "latestPatchPublishedAt": "2026-07-25T17:00:51+00:00",
       "status": "ok"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Arma: Cold War Assault Remastered Is Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329256748",
-      "latestPatchPublishedAt": "2026-07-16T14:00:45+00:00",
+      "latestPatchTitle": "Steam Flash Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357032349",
+      "latestPatchPublishedAt": "2026-07-25T17:00:45+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands gets a fresh teaser and it's set to launch in October",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1838407329259131",
-      "latestPatchPublishedAt": "2026-07-17T10:49:04+00:00",
+      "latestPatchTitle": "Flash Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357032362",
+      "latestPatchPublishedAt": "2026-07-25T17:05:12+00:00",
       "status": "ok"
     },
     {
