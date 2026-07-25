@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-25T04:21:41.217659+00:00",
+  "generatedAt": "2026-07-25T06:35:42.207542+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Work-In-Progress: The M7 Tank",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029558",
-      "latestPatchPublishedAt": "2026-07-24T13:21:25+00:00",
+      "latestPatchTitle": "Screenshot Competition – Changing Tides!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357031320",
+      "latestPatchPublishedAt": "2026-07-25T05:00:32+00:00",
       "status": "ok"
     }
   ]
