@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-26T07:14:55.718977+00:00",
+  "generatedAt": "2026-07-26T09:24:59.797850+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Science in Service of the S.S.P.P.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357031575",
-      "latestPatchPublishedAt": "2026-07-25T09:02:18+00:00",
+      "latestPatchTitle": "What should you get done before August 5?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357033434",
+      "latestPatchPublishedAt": "2026-07-26T09:08:24+00:00",
       "status": "ok"
     },
     {
