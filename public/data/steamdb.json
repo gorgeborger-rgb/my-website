@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-27T10:56:46.885088+00:00",
+  "generatedAt": "2026-07-27T13:36:48.079346+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "What should you get done before August 5?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357033434",
-      "latestPatchPublishedAt": "2026-07-26T09:08:24+00:00",
+      "latestPatchTitle": "Rumors of an unnamed Covenant squad in the Temple Swamp",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357035632",
+      "latestPatchPublishedAt": "2026-07-27T13:00:05+00:00",
       "status": "ok"
     },
     {
