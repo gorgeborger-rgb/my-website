@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-27T20:44:59.305748+00:00",
+  "generatedAt": "2026-07-27T21:48:47.705736+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -369,9 +369,9 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "Race to Exalted: Scylla!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267423",
-      "latestPatchPublishedAt": "2026-07-20T19:51:29+00:00",
+      "latestPatchTitle": "Cu Chulainn: Race to Rage-iant!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357036788",
+      "latestPatchPublishedAt": "2026-07-27T21:44:00+00:00",
       "status": "ok"
     },
     {
