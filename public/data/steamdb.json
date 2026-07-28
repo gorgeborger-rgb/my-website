@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-28T07:07:58.273761+00:00",
+  "generatedAt": "2026-07-28T09:43:27.512295+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.38.0 ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268489",
-      "latestPatchPublishedAt": "2026-07-21T09:00:50+00:00",
+      "latestPatchTitle": "Live Update 1.39.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037759",
+      "latestPatchPublishedAt": "2026-07-28T09:00:26+00:00",
       "status": "ok"
     },
     {
