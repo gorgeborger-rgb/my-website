@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-28T09:43:27.512295+00:00",
+  "generatedAt": "2026-07-28T11:46:01.584428+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dev Talk: Dragonfire Introduction",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357030024",
-      "latestPatchPublishedAt": "2026-07-24T16:02:01+00:00",
+      "latestPatchTitle": "The Keeper Uprising: Phase 3 Begins",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037874",
+      "latestPatchPublishedAt": "2026-07-28T10:00:28+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Patch 0.4.7.0 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357035290",
-      "latestPatchPublishedAt": "2026-07-27T09:59:25+00:00",
+      "latestPatchTitle": "Server Fix Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037931",
+      "latestPatchPublishedAt": "2026-07-28T10:33:03+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Changing Tides!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357031320",
-      "latestPatchPublishedAt": "2026-07-25T05:00:32+00:00",
+      "latestPatchTitle": "Update 2.57.1.50",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037910",
+      "latestPatchPublishedAt": "2026-07-28T10:22:37+00:00",
       "status": "ok"
     }
   ]
