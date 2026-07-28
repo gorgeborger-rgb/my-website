@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-28T13:20:05.458676+00:00",
+  "generatedAt": "2026-07-28T15:38:47.485855+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "July Hotfix",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026794",
-      "latestPatchPublishedAt": "2026-07-23T14:01:41+00:00",
+      "latestPatchTitle": "July Hotfix - 2.0.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038403",
+      "latestPatchPublishedAt": "2026-07-28T14:04:43+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.0.3 | Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269139",
-      "latestPatchPublishedAt": "2026-07-21T14:31:30+00:00",
+      "latestPatchTitle": "July Community Stream | Gameplay Showcase Recap",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038393",
+      "latestPatchPublishedAt": "2026-07-28T14:00:43+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 21st",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269204",
-      "latestPatchPublishedAt": "2026-07-21T15:00:15+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 28th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038455",
+      "latestPatchPublishedAt": "2026-07-28T14:25:13+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "The best Palworld 1.0 pals for running your base like a well-oiled machine",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839041357028726",
-      "latestPatchPublishedAt": "2026-07-24T07:00:10+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 21 Jul — 28 July 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839041357038321",
+      "latestPatchPublishedAt": "2026-07-28T09:00:00+00:00",
       "status": "ok"
     },
     {
