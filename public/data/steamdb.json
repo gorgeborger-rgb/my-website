@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-29T09:29:21.174537+00:00",
+  "generatedAt": "2026-07-29T11:40:09.978807+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -243,18 +243,18 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk July 22nd Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023774",
-      "latestPatchPublishedAt": "2026-07-22T12:12:08+00:00",
+      "latestPatchTitle": "FragPunk July 29th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882167",
+      "latestPatchPublishedAt": "2026-07-29T10:39:04+00:00",
       "status": "ok"
     },
     {
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Server Fix Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037931",
-      "latestPatchPublishedAt": "2026-07-28T10:33:03+00:00",
+      "latestPatchTitle": "Hotfix 0.4.7.1 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882081",
+      "latestPatchPublishedAt": "2026-07-29T10:02:31+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.50",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037910",
-      "latestPatchPublishedAt": "2026-07-28T10:22:37+00:00",
+      "latestPatchTitle": "It’s fixed! №116",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882025",
+      "latestPatchPublishedAt": "2026-07-29T09:45:51+00:00",
       "status": "ok"
     }
   ]
