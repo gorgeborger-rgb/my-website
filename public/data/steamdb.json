@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-29T06:42:09.172898+00:00",
+  "generatedAt": "2026-07-29T09:29:21.174537+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Get Ready for the EWC 2026 Finals!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357029348",
-      "latestPatchPublishedAt": "2026-07-24T12:02:06+00:00",
+      "latestPatchTitle": "PUBG Saturday Custom Games return this weekend!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881978",
+      "latestPatchPublishedAt": "2026-07-29T09:19:38+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038674",
-      "latestPatchPublishedAt": "2026-07-28T15:58:00+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881891",
+      "latestPatchPublishedAt": "2026-07-29T08:52:15+00:00",
       "status": "ok"
     },
     {
