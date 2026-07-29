@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-29T04:08:43.379348+00:00",
+  "generatedAt": "2026-07-29T06:42:09.172898+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ARENA BREAKOUT: INFINITE X RESIDENT EVIL COLLAB COMING JULY 24",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026486",
-      "latestPatchPublishedAt": "2026-07-23T12:11:12+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - July 29th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881702",
+      "latestPatchPublishedAt": "2026-07-29T06:37:43+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ARENA BREAKOUT: INFINITE X RESIDENT EVIL COLLAB COMING JULY 24",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026486",
-      "latestPatchPublishedAt": "2026-07-23T12:11:12+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - July 29th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881702",
+      "latestPatchPublishedAt": "2026-07-29T06:37:43+00:00",
       "status": "ok"
     },
     {
