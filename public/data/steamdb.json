@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-29T00:56:34.182387+00:00",
+  "generatedAt": "2026-07-29T04:08:43.379348+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 21 Jul — 28 July 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839041357038321",
-      "latestPatchPublishedAt": "2026-07-28T09:00:00+00:00",
+      "latestPatchTitle": "v1.0.2: Bug fixes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881423",
+      "latestPatchPublishedAt": "2026-07-29T03:08:24+00:00",
       "status": "ok"
     },
     {
