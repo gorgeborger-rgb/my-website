@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-29T22:14:26.654553+00:00",
-  "totalGames": 47,
-  "mappedGames": 47,
+  "generatedAt": "2026-07-29T23:15:10.631283+00:00",
+  "totalGames": 48,
+  "mappedGames": 48,
   "games": [
     {
       "game": "ARC Raiders",
@@ -309,6 +309,15 @@
       "latestPatchTitle": "July Update: Massive Performance Overhaul",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581037",
       "latestPatchPublishedAt": "2026-07-08T15:44:14+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "PIONER",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
