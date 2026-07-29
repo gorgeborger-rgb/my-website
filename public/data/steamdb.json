@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-29T20:17:56.530664+00:00",
+  "generatedAt": "2026-07-29T21:14:22.297278+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "v1.0.2: Bug fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881423",
-      "latestPatchPublishedAt": "2026-07-29T03:08:24+00:00",
+      "latestPatchTitle": "Latest Palworld patch keeps Victor & Shadowbeak from accidentally teleporting out of existence, prevents Panthalus from breaking everything",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055883473",
+      "latestPatchPublishedAt": "2026-07-29T20:04:17+00:00",
       "status": "ok"
     },
     {
