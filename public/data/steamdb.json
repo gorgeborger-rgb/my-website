@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-30T08:46:07.180205+00:00",
+  "generatedAt": "2026-07-30T10:52:35.589243+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Keeper Uprising: Phase 3 Begins",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037874",
-      "latestPatchPublishedAt": "2026-07-28T10:00:28+00:00",
+      "latestPatchTitle": "Catch the Mid-Season Action Live on AlbionTV",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884762",
+      "latestPatchPublishedAt": "2026-07-30T10:00:32+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 11.2.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026238",
-      "latestPatchPublishedAt": "2026-07-23T10:00:22+00:00",
+      "latestPatchTitle": "Update 11.3.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884764",
+      "latestPatchPublishedAt": "2026-07-30T10:00:35+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "It’s fixed! №116",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882025",
-      "latestPatchPublishedAt": "2026-07-29T09:45:51+00:00",
+      "latestPatchTitle": "Unplanned Technical Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884822",
+      "latestPatchPublishedAt": "2026-07-30T10:29:04+00:00",
       "status": "ok"
     }
   ]
