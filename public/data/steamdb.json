@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-30T10:52:35.589243+00:00",
+  "generatedAt": "2026-07-30T12:24:59.946612+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Stats | Global Stats",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055883131",
-      "latestPatchPublishedAt": "2026-07-29T17:11:32+00:00",
+      "latestPatchTitle": "Chorus of Sin - Early Access",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885005",
+      "latestPatchPublishedAt": "2026-07-30T12:00:12+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Mod Support Improvement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884093",
-      "latestPatchPublishedAt": "2026-07-30T03:05:21+00:00",
+      "latestPatchTitle": "v1.0.2.101103:Bug fixes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885050",
+      "latestPatchPublishedAt": "2026-07-30T12:16:34+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Unplanned Technical Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884822",
-      "latestPatchPublishedAt": "2026-07-30T10:29:04+00:00",
+      "latestPatchTitle": "A Discount for the P-16 to Mark the Swiss Air Force’s Founding Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885046",
+      "latestPatchPublishedAt": "2026-07-30T12:14:03+00:00",
       "status": "ok"
     }
   ]
