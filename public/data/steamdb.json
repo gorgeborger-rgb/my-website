@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-30T03:31:23.919642+00:00",
+  "generatedAt": "2026-07-30T06:09:38.828549+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - July 29th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881702",
-      "latestPatchPublishedAt": "2026-07-29T06:37:43+00:00",
+      "latestPatchTitle": "July 30 Live Update Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884184",
+      "latestPatchPublishedAt": "2026-07-30T04:03:19+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - July 29th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881702",
-      "latestPatchPublishedAt": "2026-07-29T06:37:43+00:00",
+      "latestPatchTitle": "July 30 Live Update Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884184",
+      "latestPatchPublishedAt": "2026-07-30T04:03:19+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #120",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357025772",
-      "latestPatchPublishedAt": "2026-07-23T05:31:37+00:00",
+      "latestPatchTitle": "Early Access Hotfix #121",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884296",
+      "latestPatchPublishedAt": "2026-07-30T05:31:56+00:00",
       "status": "ok"
     },
     {
