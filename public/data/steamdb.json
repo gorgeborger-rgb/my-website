@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-30T14:39:26.034929+00:00",
+  "generatedAt": "2026-07-30T16:13:04.131055+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "Open-world zombie survival sandbox Unturned source code released",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1836506165578370",
-      "latestPatchPublishedAt": "2026-07-07T15:41:37+00:00",
+      "latestPatchTitle": "3.26.3.5 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885737",
+      "latestPatchPublishedAt": "2026-07-30T16:07:10+00:00",
       "status": "ok"
     },
     {
