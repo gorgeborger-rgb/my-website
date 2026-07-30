@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-30T06:09:38.828549+00:00",
+  "generatedAt": "2026-07-30T08:46:07.180205+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,18 +288,18 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260723 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357025863",
-      "latestPatchPublishedAt": "2026-07-23T06:33:39+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260730 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884349",
+      "latestPatchPublishedAt": "2026-07-30T06:12:36+00:00",
       "status": "ok"
     },
     {
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update – July 30th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882951",
-      "latestPatchPublishedAt": "2026-07-29T16:03:28+00:00",
+      "latestPatchTitle": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884356",
+      "latestPatchPublishedAt": "2026-07-30T06:20:29+00:00",
       "status": "ok"
     },
     {
