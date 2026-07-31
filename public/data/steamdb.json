@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-31T18:00:24.858804+00:00",
+  "generatedAt": "2026-07-31T19:46:53.208320+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -117,9 +117,9 @@
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "Character Migrations for Official Servers!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566434",
-      "latestPatchPublishedAt": "2026-05-20T14:34:26+00:00",
+      "latestPatchTitle": "DevBlog #01 - Customization & Chittering Chills",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055889128",
+      "latestPatchPublishedAt": "2026-07-31T19:00:11+00:00",
       "status": "ok"
     },
     {
