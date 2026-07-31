@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-31T10:10:49.670121+00:00",
+  "generatedAt": "2026-07-31T12:18:39.523832+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Catch the Mid-Season Action Live on AlbionTV",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884762",
-      "latestPatchPublishedAt": "2026-07-30T10:00:32+00:00",
+      "latestPatchTitle": "Last Chance to Complete your Anniversary Collection",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887722",
+      "latestPatchPublishedAt": "2026-07-31T10:12:15+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "July 30 Live Update Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884184",
-      "latestPatchPublishedAt": "2026-07-30T04:03:19+00:00",
+      "latestPatchTitle": "DMA Guard",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887869",
+      "latestPatchPublishedAt": "2026-07-31T11:19:01+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "July 30 Live Update Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884184",
-      "latestPatchPublishedAt": "2026-07-30T04:03:19+00:00",
+      "latestPatchTitle": "DMA Guard",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887869",
+      "latestPatchPublishedAt": "2026-07-31T11:19:01+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Flash Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357032362",
-      "latestPatchPublishedAt": "2026-07-25T17:05:12+00:00",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog Recap (1)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887794",
+      "latestPatchPublishedAt": "2026-07-31T10:43:37+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The German Su-22M4 Returns at a Discount for the First Flight of the Su-17!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887582",
-      "latestPatchPublishedAt": "2026-07-31T09:15:41+00:00",
+      "latestPatchTitle": "The Advance mode is back with higher Battle Ratings!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887902",
+      "latestPatchPublishedAt": "2026-07-31T11:37:30+00:00",
       "status": "ok"
     }
   ]
