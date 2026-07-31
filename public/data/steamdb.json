@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-31T16:25:14.588198+00:00",
+  "generatedAt": "2026-07-31T18:00:24.858804+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Rust's Common Ground update lets you set up clans, a shop, or kick back in your apartment",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165568764",
-      "latestPatchPublishedAt": "2026-07-02T18:00:18+00:00",
+      "latestPatchTitle": "Facepunch director Alistair McFarlane, who once offered to buy New World from Amazon and faked us out about Rust 2, has left the company",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055888796",
+      "latestPatchPublishedAt": "2026-07-31T16:29:42+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The Advance mode is back with higher Battle Ratings!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887902",
-      "latestPatchPublishedAt": "2026-07-31T11:37:30+00:00",
+      "latestPatchTitle": "How Was the Year in War Thunder: Rate the New Additions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055888776",
+      "latestPatchPublishedAt": "2026-07-31T16:28:38+00:00",
       "status": "ok"
     }
   ]
