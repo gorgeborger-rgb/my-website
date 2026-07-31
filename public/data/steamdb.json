@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-31T19:46:53.208320+00:00",
+  "generatedAt": "2026-07-31T20:48:07.424442+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Marked Gameplay Trailer",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357038656",
-      "latestPatchPublishedAt": "2026-07-28T15:47:52+00:00",
+      "latestPatchTitle": "Marked Designer’s Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055889220",
+      "latestPatchPublishedAt": "2026-07-31T19:49:29+00:00",
       "status": "ok"
     },
     {
