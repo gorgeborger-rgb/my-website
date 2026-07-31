@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-31T07:36:26.882238+00:00",
+  "generatedAt": "2026-07-31T10:10:49.670121+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Chorus of Sin - Early Access",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885005",
-      "latestPatchPublishedAt": "2026-07-30T12:00:12+00:00",
+      "latestPatchTitle": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055887482",
+      "latestPatchPublishedAt": "2026-07-31T08:21:49+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.58",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885168",
-      "latestPatchPublishedAt": "2026-07-30T13:04:10+00:00",
+      "latestPatchTitle": "The German Su-22M4 Returns at a Discount for the First Flight of the Su-17!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887582",
+      "latestPatchPublishedAt": "2026-07-31T09:15:41+00:00",
       "status": "ok"
     }
   ]
