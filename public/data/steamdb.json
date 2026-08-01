@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-01T16:38:41.196490+00:00",
+  "generatedAt": "2026-08-01T17:39:42.580765+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld 1.0 review",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055889695",
-      "latestPatchPublishedAt": "2026-08-01T01:00:59+00:00",
+      "latestPatchTitle": "Steam gamers have spoken: innovative indies like Palworld continue to thrive while traditional triple-A flounders for a foothold",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055891029",
+      "latestPatchPublishedAt": "2026-08-01T16:13:18+00:00",
       "status": "ok"
     },
     {
