@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-01T09:22:27.699856+00:00",
+  "generatedAt": "2026-08-01T10:55:06.807349+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Get Ol’ Betsy This Referral Season",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055889597",
-      "latestPatchPublishedAt": "2026-08-01T00:01:26+00:00",
+      "latestPatchTitle": "Wehype Community Rewards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055890407",
+      "latestPatchPublishedAt": "2026-08-01T10:01:03+00:00",
       "status": "ok"
     },
     {
