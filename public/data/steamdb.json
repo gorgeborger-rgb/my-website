@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-01T04:39:11.675275+00:00",
+  "generatedAt": "2026-08-01T07:11:58.254556+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,7 +333,7 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld 1.0 review: A solid creature collector with a mild identity crisis",
+      "latestPatchTitle": "Palworld 1.0 review",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055889695",
       "latestPatchPublishedAt": "2026-08-01T01:00:59+00:00",
       "status": "ok"
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Crowd Favorite!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055889985",
-      "latestPatchPublishedAt": "2026-08-01T04:30:19+00:00",
+      "latestPatchTitle": "Update 2.57.1.60",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055890000",
+      "latestPatchPublishedAt": "2026-08-01T04:45:02+00:00",
       "status": "ok"
     }
   ]
