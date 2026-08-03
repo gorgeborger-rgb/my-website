@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-03T11:45:41.053758+00:00",
+  "generatedAt": "2026-08-03T14:03:13.776060+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Heat is coming",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055894501",
-      "latestPatchPublishedAt": "2026-08-03T10:59:23+00:00",
+      "latestPatchTitle": "Triumphs are coming to an end",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055894698",
+      "latestPatchPublishedAt": "2026-08-03T12:48:08+00:00",
       "status": "ok"
     },
     {
