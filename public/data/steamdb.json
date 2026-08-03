@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-03T08:14:30.186752+00:00",
+  "generatedAt": "2026-08-03T11:45:41.053758+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Mid-Season: Free Legendary Appearance & Balance Adjustments!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885079",
-      "latestPatchPublishedAt": "2026-07-30T12:30:39+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055894316",
+      "latestPatchPublishedAt": "2026-08-03T09:37:32+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881891",
-      "latestPatchPublishedAt": "2026-07-29T08:52:15+00:00",
+      "latestPatchTitle": "Heat is coming",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055894501",
+      "latestPatchPublishedAt": "2026-08-03T10:59:23+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 11.3.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884764",
-      "latestPatchPublishedAt": "2026-07-30T10:00:35+00:00",
+      "latestPatchTitle": "THE FINALS will be adding a new \"Elytra\" anti-cheat",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1839676055894158",
+      "latestPatchPublishedAt": "2026-08-03T08:34:05+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.60",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055890000",
-      "latestPatchPublishedAt": "2026-08-01T04:45:02+00:00",
+      "latestPatchTitle": "Work-In-Progress: New Decals and QoL Features",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055894545",
+      "latestPatchPublishedAt": "2026-08-03T11:19:28+00:00",
       "status": "ok"
     }
   ]
