@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-03T14:03:13.776060+00:00",
+  "generatedAt": "2026-08-03T16:35:13.149787+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Twitch Drops Rewards - Week 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885415",
-      "latestPatchPublishedAt": "2026-07-30T14:29:40+00:00",
+      "latestPatchTitle": "Road to Hell - Chapter 3 Roadmap",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895009",
+      "latestPatchPublishedAt": "2026-08-03T15:11:29+00:00",
       "status": "ok"
     },
     {
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.5 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885737",
-      "latestPatchPublishedAt": "2026-07-30T16:07:10+00:00",
+      "latestPatchTitle": "3.26.3.7 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895261",
+      "latestPatchPublishedAt": "2026-08-03T16:34:50+00:00",
       "status": "ok"
     },
     {
