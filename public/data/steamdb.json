@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-03T16:35:13.149787+00:00",
+  "generatedAt": "2026-08-03T18:21:42.692056+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Marked Designer’s Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055889220",
-      "latestPatchPublishedAt": "2026-07-31T19:49:29+00:00",
+      "latestPatchTitle": "Apex Legends™: Marked Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895320",
+      "latestPatchPublishedAt": "2026-08-03T16:48:40+00:00",
       "status": "ok"
     },
     {
