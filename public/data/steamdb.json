@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-04T13:26:47.854742+00:00",
+  "generatedAt": "2026-08-04T15:53:25.533835+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055887482",
-      "latestPatchPublishedAt": "2026-07-31T08:21:49+00:00",
+      "latestPatchTitle": "10.1.0 | PTB Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897511",
+      "latestPatchPublishedAt": "2026-08-04T14:30:45+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884356",
-      "latestPatchPublishedAt": "2026-07-30T06:20:29+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List August 4th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897435",
+      "latestPatchPublishedAt": "2026-08-04T13:55:58+00:00",
       "status": "ok"
     },
     {
@@ -333,18 +333,18 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Steam gamers have spoken: innovative indies like Palworld continue to thrive while traditional triple-A flounders for a foothold",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055891029",
-      "latestPatchPublishedAt": "2026-08-01T16:13:18+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 28 Jul — 4 August 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839676055897393",
+      "latestPatchPublishedAt": "2026-08-04T09:00:00+00:00",
       "status": "ok"
     },
     {
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Rainbow Six Siege Mid-Season Update: Everything You Need to Know",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257158",
-      "latestPatchPublishedAt": "2026-07-16T16:10:43+00:00",
+      "latestPatchTitle": "Y11S2.3 PATCH NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897412",
+      "latestPatchPublishedAt": "2026-08-04T13:44:13+00:00",
       "status": "ok"
     },
     {
