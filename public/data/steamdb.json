@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-04T01:03:10.476906+00:00",
+  "generatedAt": "2026-08-04T04:23:13.756415+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -414,9 +414,9 @@
       "game": "The Isle Evrima",
       "appId": 376210,
       "steamDbUrl": "https://steamdb.info/app/376210/",
-      "latestPatchTitle": "DevBlog #71",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055889689",
-      "latestPatchPublishedAt": "2026-08-01T01:02:22+00:00",
+      "latestPatchTitle": "Patch 0.21.772 is now available!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055896244",
+      "latestPatchPublishedAt": "2026-08-04T01:18:54+00:00",
       "status": "ok"
     },
     {
