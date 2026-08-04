@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-04T09:46:44.819006+00:00",
+  "generatedAt": "2026-08-04T11:49:53.224143+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.1.0.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055896016",
-      "latestPatchPublishedAt": "2026-08-03T22:33:08+00:00",
+      "latestPatchTitle": "Twitch Drops for the launch of season one!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897126",
+      "latestPatchPublishedAt": "2026-08-04T11:01:00+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Work-In-Progress: New Decals and QoL Features",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055894545",
-      "latestPatchPublishedAt": "2026-08-03T11:19:28+00:00",
+      "latestPatchTitle": "Update 2.57.1.67",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897045",
+      "latestPatchPublishedAt": "2026-08-04T10:24:33+00:00",
       "status": "ok"
     }
   ]
