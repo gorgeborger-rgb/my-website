@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-04T11:49:53.224143+00:00",
+  "generatedAt": "2026-08-04T13:26:47.854742+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: Playgrounds x CurseForge UGC Contest Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055896872",
-      "latestPatchPublishedAt": "2026-08-04T09:00:31+00:00",
+      "latestPatchTitle": "PUBG is hosting a modding competition, and you could earn a share of $95k",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897281",
+      "latestPatchPublishedAt": "2026-08-04T11:25:38+00:00",
       "status": "ok"
     },
     {
