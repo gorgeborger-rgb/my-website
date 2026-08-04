@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-04T20:41:41.096898+00:00",
+  "generatedAt": "2026-08-04T21:57:43.748047+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG is hosting a modding competition, and you could earn a share of $95k",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897281",
-      "latestPatchPublishedAt": "2026-08-04T11:25:38+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 7 GROUP STAGE IS LIVE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055898437",
+      "latestPatchPublishedAt": "2026-08-04T20:55:39+00:00",
       "status": "ok"
     },
     {
