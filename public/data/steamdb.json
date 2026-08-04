@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-04T15:53:25.533835+00:00",
+  "generatedAt": "2026-08-04T17:37:04.330426+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Recon Intel: Threats on Foreign Soil",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055888618",
-      "latestPatchPublishedAt": "2026-07-31T15:46:50+00:00",
+      "latestPatchTitle": "Weapon Customization — Paint Your Arsenal!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897889",
+      "latestPatchPublishedAt": "2026-08-04T16:38:59+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends™: Marked Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895320",
-      "latestPatchPublishedAt": "2026-08-03T16:48:40+00:00",
+      "latestPatchTitle": "Gear up for Apex Legends™: Season 30 with EA Play* for $0.99",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055898013",
+      "latestPatchPublishedAt": "2026-08-04T17:26:08+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.1.0 | PTB Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897511",
-      "latestPatchPublishedAt": "2026-08-04T14:30:45+00:00",
+      "latestPatchTitle": "Dead by Daylight's first-ever community-created chapter has finally hit the PTB",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897881",
+      "latestPatchPublishedAt": "2026-08-04T15:00:14+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Update 20 | Hotfix 3 Live Now",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549249",
-      "latestPatchPublishedAt": "2026-06-25T13:05:04+00:00",
+      "latestPatchTitle": "Dev Brief #219 | First U21 Experimental Branch Test | Weapon & Armor Changes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055898017",
+      "latestPatchPublishedAt": "2026-08-04T17:28:33+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Sony: Marathon сохраняет высокий уровень удержания игроков и продолжает привлекать новую аудиторию",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1839676055892759",
-      "latestPatchPublishedAt": "2026-08-02T02:56:00+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.5.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897742",
+      "latestPatchPublishedAt": "2026-08-04T16:00:52+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Time to unwind",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055896886",
-      "latestPatchPublishedAt": "2026-08-04T09:04:21+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897740",
+      "latestPatchPublishedAt": "2026-08-04T16:00:45+00:00",
       "status": "ok"
     },
     {
