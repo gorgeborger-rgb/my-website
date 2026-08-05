@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-05T08:49:48.711962+00:00",
+  "generatedAt": "2026-08-05T11:07:49.576628+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk July 29th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882167",
-      "latestPatchPublishedAt": "2026-07-29T10:39:04+00:00",
+      "latestPatchTitle": "FragPunk August 5th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338776",
+      "latestPatchPublishedAt": "2026-08-05T10:08:44+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Patch Notes [05.08.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338523",
-      "latestPatchPublishedAt": "2026-08-05T08:09:20+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338609",
+      "latestPatchPublishedAt": "2026-08-05T08:52:40+00:00",
       "status": "ok"
     },
     {
