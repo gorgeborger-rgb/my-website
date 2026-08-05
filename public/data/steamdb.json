@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-05T00:12:44.772758+00:00",
+  "generatedAt": "2026-08-05T03:34:42.893631+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,27 +54,27 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Gear up for Apex Legends™: Season 30 with EA Play* for $0.99",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055898013",
-      "latestPatchPublishedAt": "2026-08-04T17:26:08+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 8/4/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314337786",
+      "latestPatchPublishedAt": "2026-08-05T00:45:06+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "DMA Guard",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887869",
-      "latestPatchPublishedAt": "2026-07-31T11:19:01+00:00",
+      "latestPatchTitle": "DMA Guard Operation Guide",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338061",
+      "latestPatchPublishedAt": "2026-08-05T02:34:04+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "DMA Guard",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887869",
-      "latestPatchPublishedAt": "2026-07-31T11:19:01+00:00",
+      "latestPatchTitle": "DMA Guard Operation Guide",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338061",
+      "latestPatchPublishedAt": "2026-08-05T02:34:04+00:00",
       "status": "ok"
     },
     {
