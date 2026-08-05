@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-05T15:23:50.753536+00:00",
+  "generatedAt": "2026-08-05T16:58:29.626238+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell - Chapter 3 Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338588",
-      "latestPatchPublishedAt": "2026-08-05T08:41:25+00:00",
+      "latestPatchTitle": "Fog of War Descends...",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314339555",
+      "latestPatchPublishedAt": "2026-08-05T15:54:46+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260807 Balance Post",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338443",
-      "latestPatchPublishedAt": "2026-08-05T07:31:14+00:00",
+      "latestPatchTitle": "Marvel Rivals is gearing up for season 9.5 with major Vanguard adjustments alongside a teaser for its next hero, The Hood",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840310314339750",
+      "latestPatchPublishedAt": "2026-08-05T16:40:17+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S2.3 PATCH NOTES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897412",
-      "latestPatchPublishedAt": "2026-08-04T13:44:13+00:00",
+      "latestPatchTitle": "Rengoku Returns: Battle for Glory from August 5 to August 26",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314339502",
+      "latestPatchPublishedAt": "2026-08-05T15:30:56+00:00",
       "status": "ok"
     },
     {
