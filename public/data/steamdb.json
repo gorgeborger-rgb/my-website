@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-06T11:49:00.559160+00:00",
+  "generatedAt": "2026-08-06T13:22:40.612019+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055894316",
-      "latestPatchPublishedAt": "2026-08-03T09:37:32+00:00",
+      "latestPatchTitle": "Fortune Run is coming soon. Claim 2,600 Limited-Time Delta Tickets for free!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341619",
+      "latestPatchPublishedAt": "2026-08-06T12:00:59+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Removal of Japanese Ho-Ri SPGs from the Research Tree and Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341283",
-      "latestPatchPublishedAt": "2026-08-06T09:10:08+00:00",
+      "latestPatchTitle": "Update 2.57.1.70",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341749",
+      "latestPatchPublishedAt": "2026-08-06T12:43:26+00:00",
       "status": "ok"
     }
   ]
