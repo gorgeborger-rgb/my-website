@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-06T09:31:25.641815+00:00",
+  "generatedAt": "2026-08-06T11:49:00.559160+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "THE FINALS will be adding a new \"Elytra\" anti-cheat",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1839676055894158",
-      "latestPatchPublishedAt": "2026-08-03T08:34:05+00:00",
+      "latestPatchTitle": "Store Update 11.4.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341384",
+      "latestPatchPublishedAt": "2026-08-06T09:59:50+00:00",
       "status": "ok"
     },
     {
