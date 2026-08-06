@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-06T06:47:04.282279+00:00",
+  "generatedAt": "2026-08-06T09:31:25.641815+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.67",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897045",
-      "latestPatchPublishedAt": "2026-08-04T10:24:33+00:00",
+      "latestPatchTitle": "Removal of Japanese Ho-Ri SPGs from the Research Tree and Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341283",
+      "latestPatchPublishedAt": "2026-08-06T09:10:08+00:00",
       "status": "ok"
     }
   ]
