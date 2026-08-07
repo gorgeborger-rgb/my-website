@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-07T10:35:37.167609+00:00",
+  "generatedAt": "2026-08-07T11:26:55.742521+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog Recap (1)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055887794",
-      "latestPatchPublishedAt": "2026-07-31T10:43:37+00:00",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 79) | Wishlist now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344537",
+      "latestPatchPublishedAt": "2026-08-07T10:15:48+00:00",
       "status": "ok"
     },
     {
