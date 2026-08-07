@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-07T15:29:33.742744+00:00",
+  "generatedAt": "2026-08-07T16:24:58.874796+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "[Dev Letter] A New Era of Gunplay: Meta Rotation",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344098",
-      "latestPatchPublishedAt": "2026-08-07T08:00:59+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 7 FINAL STAGE DAY 1 IS LIVE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345254",
+      "latestPatchPublishedAt": "2026-08-07T15:00:30+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "+50% to Season Pass leveling!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345103",
-      "latestPatchPublishedAt": "2026-08-07T14:01:27+00:00",
+      "latestPatchTitle": "Bale bag",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345234",
+      "latestPatchPublishedAt": "2026-08-07T15:00:10+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 11.4.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341384",
-      "latestPatchPublishedAt": "2026-08-06T09:59:50+00:00",
+      "latestPatchTitle": "Hotfix 11.4.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345323",
+      "latestPatchPublishedAt": "2026-08-07T15:16:58+00:00",
       "status": "ok"
     },
     {
