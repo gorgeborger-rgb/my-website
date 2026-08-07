@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-06T13:22:40.612019+00:00",
+  "generatedAt": "2026-08-07T00:31:58.077902+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Weapon Customization — Paint Your Arsenal!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897889",
-      "latestPatchPublishedAt": "2026-08-04T16:38:59+00:00",
+      "latestPatchTitle": "New Weapon Attachments: Variable Magnification Scopes, Foregrips, and Adapters",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342763",
+      "latestPatchPublishedAt": "2026-08-06T17:54:35+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals is gearing up for season 9.5 with major Vanguard adjustments alongside a teaser for its next hero, The Hood",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840310314339750",
-      "latestPatchPublishedAt": "2026-08-05T16:40:17+00:00",
+      "latestPatchTitle": "Многопользовательский хит Marvel Rivals скоро похудеет на консолях и ПК",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1840310314343139",
+      "latestPatchPublishedAt": "2026-08-06T20:54:00+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/27~08/02)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338395",
-      "latestPatchPublishedAt": "2026-08-05T07:00:30+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 7 SURVIVAL STAGE IS LIVE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314343041",
+      "latestPatchPublishedAt": "2026-08-06T20:09:13+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Facepunch director Alistair McFarlane, who once offered to buy New World from Amazon and faked us out about Rust 2, has left the company",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055888796",
-      "latestPatchPublishedAt": "2026-07-31T16:29:42+00:00",
+      "latestPatchTitle": "POWER TRIP",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342737",
+      "latestPatchPublishedAt": "2026-08-06T17:44:49+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Sea of Thieves Release Notes – 3.8.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026563",
-      "latestPatchPublishedAt": "2026-07-23T12:50:13+00:00",
+      "latestPatchTitle": "This Month in Sea of Thieves: August 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342461",
+      "latestPatchPublishedAt": "2026-08-06T16:30:10+00:00",
       "status": "ok"
     },
     {
