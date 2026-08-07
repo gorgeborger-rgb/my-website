@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-07T16:24:58.874796+00:00",
+  "generatedAt": "2026-08-07T17:14:05.787040+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 4163030,
       "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Week 1 Game Updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269698",
-      "latestPatchPublishedAt": "2026-07-21T18:10:56+00:00",
+      "latestPatchTitle": "Cat Chess is part of the Cat Awareness Feline Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345640",
+      "latestPatchPublishedAt": "2026-08-07T17:00:26+00:00",
       "status": "ok"
     },
     {
