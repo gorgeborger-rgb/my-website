@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-08T02:31:45.113953+00:00",
+  "generatedAt": "2026-08-08T03:53:54.126810+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Get Oktyabrskaya Revolutsiya in the Guardian of the Baltic Sea Event!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345148",
-      "latestPatchPublishedAt": "2026-08-07T14:23:56+00:00",
+      "latestPatchTitle": "Screenshot Competition – The Long Guns!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314346713",
+      "latestPatchPublishedAt": "2026-08-08T03:00:10+00:00",
       "status": "ok"
     }
   ]
