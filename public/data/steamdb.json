@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-07T23:49:01.779244+00:00",
+  "generatedAt": "2026-08-08T00:34:34.874906+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 517: Sharper Than Ever",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055889533",
-      "latestPatchPublishedAt": "2026-07-31T23:14:48+00:00",
+      "latestPatchTitle": "Community Crunch 518: Long Live the King!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314346538",
+      "latestPatchPublishedAt": "2026-08-08T00:21:05+00:00",
       "status": "ok"
     },
     {
