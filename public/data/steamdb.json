@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-08T13:07:15.649754+00:00",
+  "generatedAt": "2026-08-08T13:53:06.545639+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight's first-ever community-created chapter has finally hit the PTB",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897881",
-      "latestPatchPublishedAt": "2026-08-04T15:00:14+00:00",
+      "latestPatchTitle": "Dead by Daylight is getting a Survivor chat wheel soon, as Behaviour reveals plans to debloat a decade of systems",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840310314347473",
+      "latestPatchPublishedAt": "2026-08-08T12:20:28+00:00",
       "status": "ok"
     },
     {
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.7 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895261",
-      "latestPatchPublishedAt": "2026-08-03T16:34:50+00:00",
+      "latestPatchTitle": "Blocky zombie survival sim Unturned releases its source code so players can build a 'lasting legacy' for the game 'regardless of the changes we make'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840310314347429",
+      "latestPatchPublishedAt": "2026-08-08T13:00:00+00:00",
       "status": "ok"
     },
     {
