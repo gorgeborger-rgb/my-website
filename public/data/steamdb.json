@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-08T15:54:42.579204+00:00",
+  "generatedAt": "2026-08-08T16:23:12.774478+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Twitch Drops for the launch of season one!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897126",
-      "latestPatchPublishedAt": "2026-08-04T11:01:00+00:00",
+      "latestPatchTitle": "TarkovTV on August 10!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314347740",
+      "latestPatchPublishedAt": "2026-08-08T15:33:52+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG GLOBAL SERIES 7 FINAL STAGE DAY 1 IS LIVE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345254",
-      "latestPatchPublishedAt": "2026-08-07T15:00:30+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 7 FINAL STAGE DAY 2 IS LIVE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314347611",
+      "latestPatchPublishedAt": "2026-08-08T15:00:34+00:00",
       "status": "ok"
     },
     {
