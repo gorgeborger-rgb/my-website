@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-10T12:33:29.917359+00:00",
+  "generatedAt": "2026-08-10T14:01:12.493293+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Monthly Decals for August!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351157",
-      "latestPatchPublishedAt": "2026-08-10T10:08:25+00:00",
+      "latestPatchTitle": "Work-In-Progress: PLZ45",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351496",
+      "latestPatchPublishedAt": "2026-08-10T13:06:30+00:00",
       "status": "ok"
     }
   ]
