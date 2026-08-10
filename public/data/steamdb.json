@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-10T15:11:25.405582+00:00",
+  "generatedAt": "2026-08-10T16:10:00.464636+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "New Weapon Attachments: Variable Magnification Scopes, Foregrips, and Adapters",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342763",
-      "latestPatchPublishedAt": "2026-08-06T17:54:35+00:00",
+      "latestPatchTitle": "Heal More Efficiently, Survive Longer!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351786",
+      "latestPatchPublishedAt": "2026-08-10T15:18:07+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Bale bag",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345234",
-      "latestPatchPublishedAt": "2026-08-07T15:00:10+00:00",
+      "latestPatchTitle": "Coliseum Rating Details",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351740",
+      "latestPatchPublishedAt": "2026-08-10T15:00:22+00:00",
       "status": "ok"
     },
     {
