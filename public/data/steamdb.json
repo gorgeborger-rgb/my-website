@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-10T09:49:13.980752+00:00",
+  "generatedAt": "2026-08-10T10:51:06.348238+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Fog of War Descends...",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314339555",
-      "latestPatchPublishedAt": "2026-08-05T15:54:46+00:00",
+      "latestPatchTitle": "The Fog Lifts",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351152",
+      "latestPatchPublishedAt": "2026-08-10T10:04:54+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – The Long Guns!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314346713",
-      "latestPatchPublishedAt": "2026-08-08T03:00:10+00:00",
+      "latestPatchTitle": "Monthly Decals for August!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351157",
+      "latestPatchPublishedAt": "2026-08-10T10:08:25+00:00",
       "status": "ok"
     }
   ]
