@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-11T10:35:02.048612+00:00",
+  "generatedAt": "2026-08-11T11:25:04.763063+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Work-In-Progress: PLZ45",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351496",
-      "latestPatchPublishedAt": "2026-08-10T13:06:30+00:00",
+      "latestPatchTitle": "Unplanned Technical Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353715",
+      "latestPatchPublishedAt": "2026-08-11T10:24:40+00:00",
       "status": "ok"
     }
   ]
