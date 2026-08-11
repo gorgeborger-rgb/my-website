@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-11T13:34:58.903345+00:00",
+  "generatedAt": "2026-08-11T14:38:52.200976+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,9 +81,9 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "SPOTREP #00120",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354067",
-      "latestPatchPublishedAt": "2026-08-11T13:05:31+00:00",
+      "latestPatchTitle": "Arma 3 Mac Port Update 2.22",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354128",
+      "latestPatchPublishedAt": "2026-08-11T13:35:53+00:00",
       "status": "ok"
     },
     {
@@ -324,8 +324,8 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Patch Notes - Update 42.3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353234",
+      "latestPatchTitle": "August Store Update 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353235",
       "latestPatchPublishedAt": "2026-08-11T06:00:47+00:00",
       "status": "ok"
     },
