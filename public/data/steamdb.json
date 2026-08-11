@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-11T11:25:04.763063+00:00",
+  "generatedAt": "2026-08-11T12:05:34.306610+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351073",
-      "latestPatchPublishedAt": "2026-08-10T09:17:26+00:00",
+      "latestPatchTitle": "2026 Delta Force Rise Series: Open Qualifier Season 2 Now Open for Registration",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353888",
+      "latestPatchPublishedAt": "2026-08-11T12:00:03+00:00",
       "status": "ok"
     },
     {
