@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-11T04:53:48.265578+00:00",
+  "generatedAt": "2026-08-11T05:48:37.037095+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG GLOBAL SERIES 7 FINAL STAGE DAY 2 IS LIVE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314347611",
-      "latestPatchPublishedAt": "2026-08-08T15:00:34+00:00",
+      "latestPatchTitle": "[Dev Letter] Adjustment to the Map Selection System(NA, SA, EU, RU, Console)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353155",
+      "latestPatchPublishedAt": "2026-08-11T05:00:41+00:00",
       "status": "ok"
     },
     {
