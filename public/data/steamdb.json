@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-11T15:34:14.602789+00:00",
+  "generatedAt": "2026-08-11T16:28:39.882584+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "The Fog Lifts",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351152",
-      "latestPatchPublishedAt": "2026-08-10T10:04:54+00:00",
+      "latestPatchTitle": "Developer Insight: Behind the Design and History of Road to Hell",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354570",
+      "latestPatchPublishedAt": "2026-08-11T16:21:43+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.5.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897742",
-      "latestPatchPublishedAt": "2026-08-04T16:00:52+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.5.3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354503",
+      "latestPatchPublishedAt": "2026-08-11T16:00:18+00:00",
       "status": "ok"
     },
     {
@@ -324,8 +324,8 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "August Store Update 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353235",
+      "latestPatchTitle": "Patch Notes - Update 42.3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353234",
       "latestPatchPublishedAt": "2026-08-11T06:00:47+00:00",
       "status": "ok"
     },
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Coliseum Rating Details",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351740",
-      "latestPatchPublishedAt": "2026-08-10T15:00:22+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354507",
+      "latestPatchPublishedAt": "2026-08-11T16:01:26+00:00",
       "status": "ok"
     },
     {
