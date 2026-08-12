@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-12T08:40:18.548242+00:00",
+  "generatedAt": "2026-08-12T09:47:07.826655+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "KAMONA SUMMER FESTIVAL",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344811",
-      "latestPatchPublishedAt": "2026-08-07T12:06:00+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - August 12th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773509",
+      "latestPatchPublishedAt": "2026-08-12T09:45:05+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "KAMONA SUMMER FESTIVAL",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344811",
-      "latestPatchPublishedAt": "2026-08-07T12:06:00+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - August 12th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773509",
+      "latestPatchPublishedAt": "2026-08-12T09:45:05+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.4.10.4 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357025950",
-      "latestPatchPublishedAt": "2026-07-23T07:45:54+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.4.10.5 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773382",
+      "latestPatchPublishedAt": "2026-08-12T08:50:34+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Patch Notes [12.08.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773269",
-      "latestPatchPublishedAt": "2026-08-12T07:58:15+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773394",
+      "latestPatchPublishedAt": "2026-08-12T08:56:47+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Unplanned Technical Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353715",
-      "latestPatchPublishedAt": "2026-08-11T10:24:40+00:00",
+      "latestPatchTitle": "Fair Play: August 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773393",
+      "latestPatchPublishedAt": "2026-08-12T08:55:58+00:00",
       "status": "ok"
     }
   ]
