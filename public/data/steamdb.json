@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-12T10:43:56.742249+00:00",
+  "generatedAt": "2026-08-12T11:31:55.793688+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Fair Play: August 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773393",
-      "latestPatchPublishedAt": "2026-08-12T08:55:58+00:00",
+      "latestPatchTitle": "It’s fixed! №117",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773577",
+      "latestPatchPublishedAt": "2026-08-12T10:14:01+00:00",
       "status": "ok"
     }
   ]
