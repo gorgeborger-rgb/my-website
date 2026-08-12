@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-12T13:55:50.768606+00:00",
+  "generatedAt": "2026-08-12T14:51:17.802606+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update – August 13th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183774007",
-      "latestPatchPublishedAt": "2026-08-12T13:35:40+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List August 13th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183774044",
+      "latestPatchPublishedAt": "2026-08-12T13:53:55+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "It’s fixed! №117",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773577",
-      "latestPatchPublishedAt": "2026-08-12T10:14:01+00:00",
+      "latestPatchTitle": "The WTCS Pro League Major III is Here: Register Now For The Qualification Stage!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183774070",
+      "latestPatchPublishedAt": "2026-08-12T14:04:00+00:00",
       "status": "ok"
     }
   ]
