@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-12T07:12:21.802350+00:00",
+  "generatedAt": "2026-08-12T08:40:18.548242+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Special Drops - August 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773006",
-      "latestPatchPublishedAt": "2026-08-12T05:00:14+00:00",
+      "latestPatchTitle": "PUBG: Playgrounds – Discover and Play Community-Created Experiences",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773159",
+      "latestPatchPublishedAt": "2026-08-12T07:00:20+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354507",
-      "latestPatchPublishedAt": "2026-08-11T16:01:26+00:00",
+      "latestPatchTitle": "Patch Notes [12.08.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773269",
+      "latestPatchPublishedAt": "2026-08-12T07:58:15+00:00",
       "status": "ok"
     },
     {
