@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-12T12:27:25.415764+00:00",
+  "generatedAt": "2026-08-12T13:55:50.768606+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List August 4th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897435",
-      "latestPatchPublishedAt": "2026-08-04T13:55:58+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update – August 13th, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183774007",
+      "latestPatchPublishedAt": "2026-08-12T13:35:40+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773394",
-      "latestPatchPublishedAt": "2026-08-12T08:56:47+00:00",
+      "latestPatchTitle": "The Colosseum is calling!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773925",
+      "latestPatchPublishedAt": "2026-08-12T13:00:38+00:00",
       "status": "ok"
     },
     {
