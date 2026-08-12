@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-12T21:10:48.990853+00:00",
+  "generatedAt": "2026-08-12T22:04:17.813423+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: Playgrounds – Discover and Play Community-Created Experiences",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773159",
-      "latestPatchPublishedAt": "2026-08-12T07:00:20+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 8 WINNERS STAGE IS LIVE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775113",
+      "latestPatchPublishedAt": "2026-08-12T21:47:58+00:00",
       "status": "ok"
     },
     {
