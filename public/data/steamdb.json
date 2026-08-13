@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-13T09:21:16.484728+00:00",
+  "generatedAt": "2026-08-13T10:33:50.375504+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG GLOBAL SERIES 8 WINNERS STAGE IS LIVE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775113",
-      "latestPatchPublishedAt": "2026-08-12T21:47:58+00:00",
+      "latestPatchTitle": "PGS 7: Tournament Recap",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776223",
+      "latestPatchPublishedAt": "2026-08-13T09:23:05+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Hotfix 11.4.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345323",
-      "latestPatchPublishedAt": "2026-08-07T15:16:58+00:00",
+      "latestPatchTitle": "Store Update 11.5.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776297",
+      "latestPatchPublishedAt": "2026-08-13T10:00:29+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The WTCS Pro League Major III is Here: Register Now For The Qualification Stage!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183774070",
-      "latestPatchPublishedAt": "2026-08-12T14:04:00+00:00",
+      "latestPatchTitle": "The F-89D is Temporarily Available at a Discount on its First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776250",
+      "latestPatchPublishedAt": "2026-08-13T09:37:10+00:00",
       "status": "ok"
     }
   ]
