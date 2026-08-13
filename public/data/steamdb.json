@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-13T16:32:58.536405+00:00",
+  "generatedAt": "2026-08-13T17:34:44.312238+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Introducing the Season 05 Battle Pass, BlackCell, and New Store Bundles",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269549",
-      "latestPatchPublishedAt": "2026-07-21T17:03:59+00:00",
+      "latestPatchTitle": "Call of Duty: Black Ops 7 and Call of Duty: Warzone Season 05 Mid-Season Content",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777440",
+      "latestPatchPublishedAt": "2026-08-13T17:11:24+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Public Test Client: Patch 1.5.1.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777057",
-      "latestPatchPublishedAt": "2026-08-13T15:08:23+00:00",
+      "latestPatchTitle": "Communinet Signal #19",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777331",
+      "latestPatchPublishedAt": "2026-08-13T16:35:35+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Developer Insight: Behind the Design and History of Road to Hell",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354570",
-      "latestPatchPublishedAt": "2026-08-11T16:21:43+00:00",
+      "latestPatchTitle": "Road to Hell - Cosmetic Survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777369",
+      "latestPatchPublishedAt": "2026-08-13T16:53:49+00:00",
       "status": "ok"
     },
     {
