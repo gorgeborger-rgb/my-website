@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-13T13:38:56.981915+00:00",
+  "generatedAt": "2026-08-13T14:41:08.519870+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Wehype Community Rewards",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055890407",
-      "latestPatchPublishedAt": "2026-08-01T10:01:03+00:00",
+      "latestPatchTitle": "Dev Talk: The Ancient Lands",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776981",
+      "latestPatchPublishedAt": "2026-08-13T14:39:58+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.4.7.1 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882081",
-      "latestPatchPublishedAt": "2026-07-29T10:02:31+00:00",
+      "latestPatchTitle": "Arma Creative Director Ivan Buchta Joins the Gray Zone Warfare Team",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776865",
+      "latestPatchPublishedAt": "2026-08-13T14:00:51+00:00",
       "status": "ok"
     },
     {
