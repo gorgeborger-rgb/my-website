@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-13T14:41:08.519870+00:00",
+  "generatedAt": "2026-08-13T15:40:16.741476+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.4.10.5 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773382",
-      "latestPatchPublishedAt": "2026-08-12T08:50:34+00:00",
+      "latestPatchTitle": "Public Test Client: Patch 1.5.1.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777057",
+      "latestPatchPublishedAt": "2026-08-13T15:08:23+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "The Colosseum is calling!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773925",
-      "latestPatchPublishedAt": "2026-08-12T13:00:38+00:00",
+      "latestPatchTitle": "Coliseum highlights",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777015",
+      "latestPatchPublishedAt": "2026-08-13T14:57:57+00:00",
       "status": "ok"
     },
     {
