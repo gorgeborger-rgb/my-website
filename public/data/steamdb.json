@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-13T15:40:16.741476+00:00",
+  "generatedAt": "2026-08-13T16:32:58.536405+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Масштабные сражения Вьетнамской войны: Релизный трейлер Hell Let Loose: Vietnam",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1840310314348058",
-      "latestPatchPublishedAt": "2026-08-08T15:13:00+00:00",
+      "latestPatchTitle": "Hell Let Loose: Vietnam is Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777213",
+      "latestPatchPublishedAt": "2026-08-13T16:00:34+00:00",
       "status": "ok"
     },
     {
