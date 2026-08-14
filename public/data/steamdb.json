@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-14T12:10:02.877738+00:00",
+  "generatedAt": "2026-08-14T13:38:25.565468+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Check the Event Hub",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183778997",
-      "latestPatchPublishedAt": "2026-08-14T09:01:34+00:00",
+      "latestPatchTitle": "New Coliseum ranked time windows reminder",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779544",
+      "latestPatchPublishedAt": "2026-08-14T12:57:28+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Polish Vehicles and a Trophy with Decals Commemorating Polish Armed Forces Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779287",
-      "latestPatchPublishedAt": "2026-08-14T11:04:05+00:00",
+      "latestPatchTitle": "A Discount on the UH-1C XM-30 and a Decal Trophy for US Airborne Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779583",
+      "latestPatchPublishedAt": "2026-08-14T13:12:20+00:00",
       "status": "ok"
     }
   ]
