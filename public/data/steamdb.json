@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-14T20:53:44.260522+00:00",
+  "generatedAt": "2026-08-14T21:17:45.465375+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld fans 'do not realize the sheer number of collabs we've rejected' even with the survival game's 'fun-first approach'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183779702",
-      "latestPatchPublishedAt": "2026-08-14T13:47:27+00:00",
+      "latestPatchTitle": "Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183780705",
+      "latestPatchPublishedAt": "2026-08-14T20:08:31+00:00",
       "status": "ok"
     },
     {
