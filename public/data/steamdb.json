@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-14T08:38:08.965552+00:00",
+  "generatedAt": "2026-08-14T09:40:23.992888+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Hotfix [14.08.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183778017",
-      "latestPatchPublishedAt": "2026-08-13T22:11:00+00:00",
+      "latestPatchTitle": "Check the Event Hub",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183778997",
+      "latestPatchPublishedAt": "2026-08-14T09:01:34+00:00",
       "status": "ok"
     },
     {
