@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-14T18:07:43.591625+00:00",
+  "generatedAt": "2026-08-14T19:09:30.252728+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Hotfix 1.10.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312673",
-      "latestPatchPublishedAt": "2026-06-22T11:03:22+00:00",
+      "latestPatchTitle": "WIP: New Vehicles and Tires, New POI, Boars, More Missions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780338",
+      "latestPatchPublishedAt": "2026-08-14T17:10:02+00:00",
       "status": "ok"
     },
     {
