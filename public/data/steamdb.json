@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-14T09:40:23.992888+00:00",
+  "generatedAt": "2026-08-14T10:40:46.192719+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dev Talk: The Ancient Lands",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776981",
-      "latestPatchPublishedAt": "2026-08-13T14:39:58+00:00",
+      "latestPatchTitle": "Dragonslayers Wanted!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779121",
+      "latestPatchPublishedAt": "2026-08-14T10:00:33+00:00",
       "status": "ok"
     },
     {
