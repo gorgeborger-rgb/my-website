@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-14T19:09:30.252728+00:00",
+  "generatedAt": "2026-08-14T19:53:50.086873+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Black Ops 7 and Call of Duty: Warzone Season 05 Mid-Season Content",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777440",
-      "latestPatchPublishedAt": "2026-08-13T17:11:24+00:00",
+      "latestPatchTitle": "Modern Warfare 4: Call of Duty: NEXT, Early Access Beta and Open Beta",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780610",
+      "latestPatchPublishedAt": "2026-08-14T19:16:59+00:00",
       "status": "ok"
     },
     {
