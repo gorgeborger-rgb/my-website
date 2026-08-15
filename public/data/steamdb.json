@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-15T05:37:13.549388+00:00",
+  "generatedAt": "2026-08-15T05:56:51.591153+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Discount on the UH-1C XM-30 and a Decal Trophy for US Airborne Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779583",
-      "latestPatchPublishedAt": "2026-08-14T13:12:20+00:00",
+      "latestPatchTitle": "Screenshot Competition – Blue Frontiers!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183781420",
+      "latestPatchPublishedAt": "2026-08-15T05:00:35+00:00",
       "status": "ok"
     }
   ]
