@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-15T17:52:20.669672+00:00",
+  "generatedAt": "2026-08-15T18:17:10.410565+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Rengoku Returns: Battle for Glory from August 5 to August 26",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314339502",
-      "latestPatchPublishedAt": "2026-08-05T15:30:56+00:00",
+      "latestPatchTitle": "Rainbow Six Siege Season 3 adds drone racing, and an operator \"to break the shield meta wide open\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183782602",
+      "latestPatchPublishedAt": "2026-08-15T16:46:24+00:00",
       "status": "ok"
     },
     {
