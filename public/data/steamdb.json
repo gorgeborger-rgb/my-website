@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-15T14:47:26.150921+00:00",
+  "generatedAt": "2026-08-15T15:01:08.306080+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG GLOBAL SERIES 8 FINALS STAGE DAY 1 IS LIVE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780822",
-      "latestPatchPublishedAt": "2026-08-14T21:23:30+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 8 FINALS STAGE DAY 2 IS LIVE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183782285",
+      "latestPatchPublishedAt": "2026-08-15T15:00:02+00:00",
       "status": "ok"
     },
     {
