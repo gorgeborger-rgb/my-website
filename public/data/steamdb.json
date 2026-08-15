@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-15T11:42:01.408109+00:00",
+  "generatedAt": "2026-08-15T11:57:42.009018+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Developer Update | Player Intent System",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780289",
-      "latestPatchPublishedAt": "2026-08-14T17:00:22+00:00",
+      "latestPatchTitle": "Dead by Daylight's new chat wheel for Survivors is already better thanks to feedback",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183781962",
+      "latestPatchPublishedAt": "2026-08-15T10:54:11+00:00",
       "status": "ok"
     },
     {
