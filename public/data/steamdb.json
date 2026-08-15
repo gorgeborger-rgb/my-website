@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-14T23:57:18.011295+00:00",
+  "generatedAt": "2026-08-15T01:05:23.425140+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 518: Long Live the King!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314346538",
-      "latestPatchPublishedAt": "2026-08-08T00:21:05+00:00",
+      "latestPatchTitle": "Community Crunch 519: Tusk, Tusk, Boom!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183781046",
+      "latestPatchPublishedAt": "2026-08-15T00:01:23+00:00",
       "status": "ok"
     },
     {
