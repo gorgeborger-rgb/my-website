@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-15T11:24:48.243824+00:00",
+  "generatedAt": "2026-08-15T11:42:01.408109+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "New Coliseum ranked time windows reminder",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779544",
-      "latestPatchPublishedAt": "2026-08-14T12:57:28+00:00",
+      "latestPatchTitle": "Coliseum Weekend",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183781894",
+      "latestPatchPublishedAt": "2026-08-15T11:00:44+00:00",
       "status": "ok"
     },
     {
