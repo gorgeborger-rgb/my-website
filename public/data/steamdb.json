@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-17T09:24:10.916011+00:00",
+  "generatedAt": "2026-08-17T10:03:32.313304+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dragonslayers Wanted!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779121",
-      "latestPatchPublishedAt": "2026-08-14T10:00:33+00:00",
+      "latestPatchTitle": "The Keeper Uprising: Phase Four",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785573",
+      "latestPatchPublishedAt": "2026-08-17T10:00:11+00:00",
       "status": "ok"
     },
     {
