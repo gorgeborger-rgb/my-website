@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-17T11:03:52.841195+00:00",
+  "generatedAt": "2026-08-17T11:35:10.003645+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Heal More Efficiently, Survive Longer!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351786",
-      "latestPatchPublishedAt": "2026-08-10T15:18:07+00:00",
+      "latestPatchTitle": "Developer Q&A: August 17th 2026!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785754",
+      "latestPatchPublishedAt": "2026-08-17T11:04:28+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260813 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775879",
-      "latestPatchPublishedAt": "2026-08-13T06:11:22+00:00",
+      "latestPatchTitle": "Marvel Rivals players are messing with their config files 'to cancel games with no consequence' before they get a loss",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183785803",
+      "latestPatchPublishedAt": "2026-08-17T11:26:47+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Moments of Valor: India",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183782326",
-      "latestPatchPublishedAt": "2026-08-15T15:31:21+00:00",
+      "latestPatchTitle": "Work-In-Progress: AW159 Wildcat",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785779",
+      "latestPatchPublishedAt": "2026-08-17T11:15:26+00:00",
       "status": "ok"
     }
   ]
