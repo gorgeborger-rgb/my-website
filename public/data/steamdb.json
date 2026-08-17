@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-17T08:41:36.021612+00:00",
+  "generatedAt": "2026-08-17T09:24:10.916011+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Fortune Run Rewards Keep Coming, Sea Gleam Returns",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776539",
-      "latestPatchPublishedAt": "2026-08-13T12:00:27+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785504",
+      "latestPatchPublishedAt": "2026-08-17T09:22:47+00:00",
       "status": "ok"
     },
     {
