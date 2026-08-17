@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-17T13:20:24.271712+00:00",
+  "generatedAt": "2026-08-17T13:58:56.280749+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG GLOBAL SERIES 8 FINALS STAGE DAY 2 IS LIVE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183782285",
-      "latestPatchPublishedAt": "2026-08-15T15:00:02+00:00",
+      "latestPatchTitle": "Global Partner Team Skins: Now Available!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786067",
+      "latestPatchPublishedAt": "2026-08-17T13:32:09+00:00",
       "status": "ok"
     },
     {
