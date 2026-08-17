@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-17T14:54:38.687646+00:00",
+  "generatedAt": "2026-08-17T15:18:12.084036+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Operation Split Fire Revealed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183783859",
-      "latestPatchPublishedAt": "2026-08-16T13:00:08+00:00",
+      "latestPatchTitle": "Y11S3 DESIGNER'S NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786302",
+      "latestPatchPublishedAt": "2026-08-17T15:01:38+00:00",
       "status": "ok"
     },
     {
