@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-18T08:49:26.291622+00:00",
+  "generatedAt": "2026-08-18T09:16:21.331220+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Arma Creative Director Ivan Buchta Joins the Gray Zone Warfare Team",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776865",
-      "latestPatchPublishedAt": "2026-08-13T14:00:51+00:00",
+      "latestPatchTitle": "Hotfix 0.4.7.2 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788224",
+      "latestPatchPublishedAt": "2026-08-18T09:01:15+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Global Partner Team Skins: Now Available!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786067",
-      "latestPatchPublishedAt": "2026-08-17T13:32:09+00:00",
+      "latestPatchTitle": "PGS 9: Watch live and earn Drops!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788225",
+      "latestPatchPublishedAt": "2026-08-18T09:01:24+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Work-In-Progress: AW159 Wildcat",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785779",
-      "latestPatchPublishedAt": "2026-08-17T11:15:26+00:00",
+      "latestPatchTitle": "Reshuffles to the Israeli Ground Vehicle Research Tree",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788230",
+      "latestPatchPublishedAt": "2026-08-18T09:04:02+00:00",
       "status": "ok"
     }
   ]
