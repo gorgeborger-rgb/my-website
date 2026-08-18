@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-18T15:34:44.988845+00:00",
+  "generatedAt": "2026-08-18T16:00:18.002635+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 79) | Wishlist now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344537",
-      "latestPatchPublishedAt": "2026-08-07T10:15:48+00:00",
+      "latestPatchTitle": "The new DayZ update will bring home renovation to the zombie apocalypse",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183789162",
+      "latestPatchPublishedAt": "2026-08-18T14:47:25+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Ordnance Heist",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786662",
-      "latestPatchPublishedAt": "2026-08-17T17:00:35+00:00",
+      "latestPatchTitle": "Ordnance Heist Overview | Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789032",
+      "latestPatchPublishedAt": "2026-08-18T15:00:42+00:00",
       "status": "ok"
     },
     {
