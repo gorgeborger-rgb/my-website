@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-18T16:00:18.002635+00:00",
+  "generatedAt": "2026-08-18T16:37:06.154594+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Ordnance Heist Overview | Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789032",
-      "latestPatchPublishedAt": "2026-08-18T15:00:42+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.5.4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789202",
+      "latestPatchPublishedAt": "2026-08-18T16:00:45+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Q&A with the NPC AI department",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183783865",
-      "latestPatchPublishedAt": "2026-08-16T13:01:17+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789219",
+      "latestPatchPublishedAt": "2026-08-18T16:07:21+00:00",
       "status": "ok"
     },
     {
