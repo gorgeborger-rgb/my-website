@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-18T08:00:39.396531+00:00",
+  "generatedAt": "2026-08-18T08:49:26.291622+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Technical Issues 18.08.26",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788070",
-      "latestPatchPublishedAt": "2026-08-18T07:36:31+00:00",
+      "latestPatchTitle": "Work-In-Progress: AW159 Wildcat",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785779",
+      "latestPatchPublishedAt": "2026-08-17T11:15:26+00:00",
       "status": "ok"
     }
   ]
