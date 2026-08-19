@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-19T12:01:45.454469+00:00",
+  "generatedAt": "2026-08-19T13:04:09.045780+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Developer Q&A: August 17th 2026!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785754",
-      "latestPatchPublishedAt": "2026-08-17T11:04:28+00:00",
+      "latestPatchTitle": "Access Granted to the Terminal Animation",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662522",
+      "latestPatchPublishedAt": "2026-08-19T13:02:03+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.4.7.2 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788224",
-      "latestPatchPublishedAt": "2026-08-18T09:01:15+00:00",
+      "latestPatchTitle": "Tune In for the First-Ever FPS Games Show, Featuring GZW and 15 More FPS Titles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662520",
+      "latestPatchPublishedAt": "2026-08-19T13:01:45+00:00",
       "status": "ok"
     },
     {
