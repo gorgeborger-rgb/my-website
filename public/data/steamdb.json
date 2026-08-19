@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-19T11:43:41.962127+00:00",
+  "generatedAt": "2026-08-19T12:01:45.454469+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785504",
-      "latestPatchPublishedAt": "2026-08-17T09:22:47+00:00",
+      "latestPatchTitle": "Fortune Run Rewards Keep Coming - Desmoulins' Edge Appearance Returns",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662378",
+      "latestPatchPublishedAt": "2026-08-19T12:00:07+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk August 12th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773835",
-      "latestPatchPublishedAt": "2026-08-12T12:12:02+00:00",
+      "latestPatchTitle": "FragPunk August 19th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662354",
+      "latestPatchPublishedAt": "2026-08-19T11:48:27+00:00",
       "status": "ok"
     },
     {
