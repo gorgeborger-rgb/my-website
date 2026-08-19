@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-19T13:52:28.268094+00:00",
+  "generatedAt": "2026-08-19T14:24:19.358799+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/10~08/16)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228661766",
-      "latestPatchPublishedAt": "2026-08-19T07:03:56+00:00",
+      "latestPatchTitle": "PGS 9: Broadcasting Channels, Format and Talent",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662559",
+      "latestPatchPublishedAt": "2026-08-19T13:11:43+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Community Update No.12: Keeping You Updated On What We’re Working on!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788978",
-      "latestPatchPublishedAt": "2026-08-18T14:37:42+00:00",
+      "latestPatchTitle": "Update 2.57.1.98",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662552",
+      "latestPatchPublishedAt": "2026-08-19T13:10:44+00:00",
       "status": "ok"
     }
   ]
