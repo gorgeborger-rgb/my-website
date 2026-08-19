@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-19T10:27:45.632103+00:00",
+  "generatedAt": "2026-08-19T10:54:39.710096+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Keeper Uprising: Phase Four",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785573",
-      "latestPatchPublishedAt": "2026-08-17T10:00:11+00:00",
+      "latestPatchTitle": "Join the Dragonfire AMA on August 20",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662080",
+      "latestPatchPublishedAt": "2026-08-19T10:00:00+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Extension of server maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662013",
-      "latestPatchPublishedAt": "2026-08-19T09:24:30+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662102",
+      "latestPatchPublishedAt": "2026-08-19T10:05:53+00:00",
       "status": "ok"
     },
     {
