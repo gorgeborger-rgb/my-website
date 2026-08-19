@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-19T16:41:53.708143+00:00",
+  "generatedAt": "2026-08-19T17:04:52.241926+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4 Beta Weekend One First Look",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789938",
-      "latestPatchPublishedAt": "2026-08-18T21:19:22+00:00",
+      "latestPatchTitle": "Call of Duty: NEXT and Modern Warfare 4 Beta: Early Intel, PC Specs, Pre-loading",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663286",
+      "latestPatchPublishedAt": "2026-08-19T17:02:13+00:00",
       "status": "ok"
     },
     {
