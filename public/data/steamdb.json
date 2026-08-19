@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-19T10:54:39.710096+00:00",
+  "generatedAt": "2026-08-19T11:17:42.879798+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.5.4",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789202",
-      "latestPatchPublishedAt": "2026-08-18T16:00:45+00:00",
+      "latestPatchTitle": "Marathon's limited time Ordnance Heist is a multi-run and map event that nets you a cool gun you can't keep",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1840944183789434",
+      "latestPatchPublishedAt": "2026-08-18T16:09:20+00:00",
       "status": "ok"
     },
     {
