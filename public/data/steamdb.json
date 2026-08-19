@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-19T21:42:45.363883+00:00",
+  "generatedAt": "2026-08-19T22:01:39.406749+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 9: Broadcasting Channels, Format and Talent",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662559",
-      "latestPatchPublishedAt": "2026-08-19T13:11:43+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 9 SURVIVAL STAGE IS LIVE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663803",
+      "latestPatchPublishedAt": "2026-08-19T21:57:48+00:00",
       "status": "ok"
     },
     {
