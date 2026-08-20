@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-20T16:13:10.463239+00:00",
+  "generatedAt": "2026-08-20T16:52:35.911723+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "How to get Chromite in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183789606",
-      "latestPatchPublishedAt": "2026-08-18T18:14:43+00:00",
+      "latestPatchTitle": "Palworld and No Man's Sky are intensifying their months-long flirtation, and if those two don't just kiss already, I'm going to lose my mind",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666180",
+      "latestPatchPublishedAt": "2026-08-20T16:29:47+00:00",
       "status": "ok"
     },
     {
