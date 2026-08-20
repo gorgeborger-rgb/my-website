@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-20T09:45:57.906615+00:00",
+  "generatedAt": "2026-08-20T10:12:39.118100+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 11.5.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776297",
-      "latestPatchPublishedAt": "2026-08-13T10:00:29+00:00",
+      "latestPatchTitle": "Update 11.6.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228665017",
+      "latestPatchPublishedAt": "2026-08-20T10:02:05+00:00",
       "status": "ok"
     },
     {
