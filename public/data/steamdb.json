@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-20T17:21:06.353063+00:00",
+  "generatedAt": "2026-08-20T17:54:00.432241+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Access Granted to the Terminal Animation",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662522",
-      "latestPatchPublishedAt": "2026-08-19T13:02:03+00:00",
+      "latestPatchTitle": "Arsenal Expansion: New Weapons",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228666413",
+      "latestPatchPublishedAt": "2026-08-20T17:39:29+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG GLOBAL SERIES 9 SURVIVAL STAGE IS LIVE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663803",
-      "latestPatchPublishedAt": "2026-08-19T21:57:48+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 9 GRAND FINALS DAY 1 IS LIVE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228666439",
+      "latestPatchPublishedAt": "2026-08-20T17:43:18+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad 10.5.2 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183774689",
-      "latestPatchPublishedAt": "2026-08-12T18:00:26+00:00",
+      "latestPatchTitle": "Squad 10.5.3 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228666406",
+      "latestPatchPublishedAt": "2026-08-20T17:37:51+00:00",
       "status": "ok"
     },
     {
