@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-20T19:43:23.555720+00:00",
+  "generatedAt": "2026-08-20T20:03:16.070899+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Update 1.8",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776502",
-      "latestPatchPublishedAt": "2026-08-13T11:42:01+00:00",
+      "latestPatchTitle": "COMRAD #28",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228666617",
+      "latestPatchPublishedAt": "2026-08-20T19:17:59+00:00",
       "status": "ok"
     },
     {
