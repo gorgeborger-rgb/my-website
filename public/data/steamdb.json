@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-20T11:44:18.885734+00:00",
+  "generatedAt": "2026-08-20T12:03:35.115936+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "This Month in Sea of Thieves: August 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342461",
-      "latestPatchPublishedAt": "2026-08-06T16:30:10+00:00",
+      "latestPatchTitle": "Sea of Thieves Release Notes – 3.8.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228665179",
+      "latestPatchPublishedAt": "2026-08-20T11:05:07+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.98",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662552",
-      "latestPatchPublishedAt": "2026-08-19T13:10:44+00:00",
+      "latestPatchTitle": "The Hungarian PzH 2000 Returns for St. Stephen’s Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228665169",
+      "latestPatchPublishedAt": "2026-08-20T11:01:49+00:00",
       "status": "ok"
     }
   ]
