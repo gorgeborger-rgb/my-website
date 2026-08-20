@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-20T16:52:35.911723+00:00",
+  "generatedAt": "2026-08-20T17:21:06.353063+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: NEXT and Modern Warfare 4 Beta: Early Intel, PC Specs, Pre-loading",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663286",
-      "latestPatchPublishedAt": "2026-08-19T17:02:13+00:00",
+      "latestPatchTitle": "Call of Duty: NEXT and Modern Warfare 4 Early Access Beta: Weekend One Initial I",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228666303",
+      "latestPatchPublishedAt": "2026-08-20T17:03:26+00:00",
       "status": "ok"
     },
     {
