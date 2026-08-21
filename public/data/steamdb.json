@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-21T19:05:01.364569+00:00",
+  "generatedAt": "2026-08-21T19:32:39.586545+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: NEXT and Modern Warfare 4 Early Access Beta - Live Now",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669225",
-      "latestPatchPublishedAt": "2026-08-21T15:47:42+00:00",
+      "latestPatchTitle": "Modern Warfare 4 Open Beta: Everything You Need to Know",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669874",
+      "latestPatchPublishedAt": "2026-08-21T19:25:46+00:00",
       "status": "ok"
     },
     {
