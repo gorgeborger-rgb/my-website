@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-21T00:01:01.498452+00:00",
+  "generatedAt": "2026-08-21T01:52:51.867431+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "EA Season #10 Warlord Tournament — Coming This October!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228664675",
-      "latestPatchPublishedAt": "2026-08-20T07:46:44+00:00",
+      "latestPatchTitle": "Early Access Hotfix #124",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667210",
+      "latestPatchPublishedAt": "2026-08-21T00:31:28+00:00",
       "status": "ok"
     },
     {
