@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-21T15:43:32.889019+00:00",
+  "generatedAt": "2026-08-21T16:11:30.032219+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Live Update 1.42.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669036",
-      "latestPatchPublishedAt": "2026-08-21T14:50:16+00:00",
+      "latestPatchTitle": "The 5th Expedition",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669064",
+      "latestPatchPublishedAt": "2026-08-21T15:00:33+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Join the Dragonfire AMA on August 20",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662080",
-      "latestPatchPublishedAt": "2026-08-19T10:00:00+00:00",
+      "latestPatchTitle": "Bring the Dragonfire to Discord!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669126",
+      "latestPatchPublishedAt": "2026-08-21T15:09:25+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: NEXT and Modern Warfare 4 Early Access Beta: Weekend One Initial I",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228666303",
-      "latestPatchPublishedAt": "2026-08-20T17:03:26+00:00",
+      "latestPatchTitle": "Call of Duty: NEXT and Modern Warfare 4 Early Access Beta - Live Now",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669225",
+      "latestPatchPublishedAt": "2026-08-21T15:47:42+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Tune In for the First-Ever FPS Games Show, Featuring GZW and 15 More FPS Titles",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662520",
-      "latestPatchPublishedAt": "2026-08-19T13:01:45+00:00",
+      "latestPatchTitle": "Join us for the Gamescom Stream",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669172",
+      "latestPatchPublishedAt": "2026-08-21T15:25:55+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG GLOBAL SERIES 9 GRAND FINALS DAY 1 IS LIVE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228666439",
-      "latestPatchPublishedAt": "2026-08-20T17:43:18+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 9 GRAND FINALS DAY 2 IS LIVE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669074",
+      "latestPatchPublishedAt": "2026-08-21T15:00:44+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Expanding the Creator Crew for 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668241",
-      "latestPatchPublishedAt": "2026-08-21T10:20:18+00:00",
+      "latestPatchTitle": "Season 20's Style of Thieves Theme Reveal!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669301",
+      "latestPatchPublishedAt": "2026-08-21T16:00:45+00:00",
       "status": "ok"
     },
     {
