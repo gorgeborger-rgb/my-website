@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-21T13:53:43.658504+00:00",
+  "generatedAt": "2026-08-21T14:26:02.019872+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The Indonesian Hawk 209 Returns at a Discount for the Hawk’s First Flight!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668382",
-      "latestPatchPublishedAt": "2026-08-21T11:08:44+00:00",
+      "latestPatchTitle": "Ki-93-I Ko: Saigo no Bushi",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668710",
+      "latestPatchPublishedAt": "2026-08-21T13:10:04+00:00",
       "status": "ok"
     }
   ]
