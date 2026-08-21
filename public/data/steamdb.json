@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-21T11:43:26.749014+00:00",
+  "generatedAt": "2026-08-21T12:03:31.222285+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Arsenal Expansion: New Weapons",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228666413",
-      "latestPatchPublishedAt": "2026-08-20T17:39:29+00:00",
+      "latestPatchTitle": "Agency Communication Upgrades",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668411",
+      "latestPatchPublishedAt": "2026-08-21T11:21:09+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "New MFDs and HMDs!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668045",
-      "latestPatchPublishedAt": "2026-08-21T09:13:47+00:00",
+      "latestPatchTitle": "The Indonesian Hawk 209 Returns at a Discount for the Hawk’s First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668382",
+      "latestPatchPublishedAt": "2026-08-21T11:08:44+00:00",
       "status": "ok"
     }
   ]
