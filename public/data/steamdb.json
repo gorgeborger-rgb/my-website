@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-21T09:08:34.037897+00:00",
+  "generatedAt": "2026-08-21T09:49:45.516135+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "M7: In The Middle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228665816",
-      "latestPatchPublishedAt": "2026-08-20T14:35:59+00:00",
+      "latestPatchTitle": "New MFDs and HMDs!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668045",
+      "latestPatchPublishedAt": "2026-08-21T09:13:47+00:00",
       "status": "ok"
     }
   ]
