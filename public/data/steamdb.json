@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-21T10:14:23.871951+00:00",
+  "generatedAt": "2026-08-21T10:49:19.601428+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Sea of Thieves Release Notes – 3.8.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228665179",
-      "latestPatchPublishedAt": "2026-08-20T11:05:07+00:00",
+      "latestPatchTitle": "Expanding the Creator Crew for 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668241",
+      "latestPatchPublishedAt": "2026-08-21T10:20:18+00:00",
       "status": "ok"
     },
     {
