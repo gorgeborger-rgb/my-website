@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-22T04:24:16.858844+00:00",
+  "generatedAt": "2026-08-22T04:57:26.380673+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Ki-93-I Ko: Saigo no Bushi",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668710",
-      "latestPatchPublishedAt": "2026-08-21T13:10:04+00:00",
+      "latestPatchTitle": "Screenshot Competition – Rapid Advance!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228670735",
+      "latestPatchPublishedAt": "2026-08-22T04:30:12+00:00",
       "status": "ok"
     }
   ]
