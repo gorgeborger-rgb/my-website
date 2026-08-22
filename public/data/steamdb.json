@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-22T16:14:00.886462+00:00",
+  "generatedAt": "2026-08-22T16:42:24.443842+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell - Double XP Weekend",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668662",
-      "latestPatchPublishedAt": "2026-08-21T12:57:12+00:00",
+      "latestPatchTitle": "Some trails lead to Bounty...",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228671723",
+      "latestPatchPublishedAt": "2026-08-22T16:14:27+00:00",
       "status": "ok"
     },
     {
