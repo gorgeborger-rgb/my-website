@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-22T14:53:29.035875+00:00",
+  "generatedAt": "2026-08-22T15:12:27.283752+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG GLOBAL SERIES 9 GRAND FINALS DAY 2 IS LIVE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669074",
-      "latestPatchPublishedAt": "2026-08-21T15:00:44+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 9 GRAND FINALS DAY 3 IS LIVE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228671582",
+      "latestPatchPublishedAt": "2026-08-22T15:00:53+00:00",
       "status": "ok"
     },
     {
