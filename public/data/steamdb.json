@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-24T14:26:46.373838+00:00",
+  "generatedAt": "2026-08-24T15:09:30.535754+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #124",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667210",
-      "latestPatchPublishedAt": "2026-08-21T00:31:28+00:00",
+      "latestPatchTitle": "Team IRONMACE is heading to PAX West 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228675712",
+      "latestPatchPublishedAt": "2026-08-24T14:39:08+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Some trails lead to Bounty...",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228671723",
-      "latestPatchPublishedAt": "2026-08-22T16:14:27+00:00",
+      "latestPatchTitle": "🩸🩸born in blood, bound in blood🩸🩸",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228675749",
+      "latestPatchPublishedAt": "2026-08-24T14:53:17+00:00",
       "status": "ok"
     },
     {
