@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-24T17:03:48.312541+00:00",
+  "generatedAt": "2026-08-24T17:39:58.367280+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Agency Communication Upgrades",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668411",
-      "latestPatchPublishedAt": "2026-08-21T11:21:09+00:00",
+      "latestPatchTitle": "Battle Pass",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676106",
+      "latestPatchPublishedAt": "2026-08-24T17:04:10+00:00",
       "status": "ok"
     },
     {
