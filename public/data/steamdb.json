@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-24T12:52:44.322840+00:00",
+  "generatedAt": "2026-08-24T13:43:20.243401+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Fortune Run Rewards Keep Coming - Desmoulins' Edge Appearance Returns",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662378",
-      "latestPatchPublishedAt": "2026-08-19T12:00:07+00:00",
+      "latestPatchTitle": "New Support Operator Rover Coming to Season Reorientation on September 8",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228675420",
+      "latestPatchPublishedAt": "2026-08-24T12:39:10+00:00",
       "status": "ok"
     },
     {
