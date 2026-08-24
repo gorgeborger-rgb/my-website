@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-24T09:51:48.595396+00:00",
+  "generatedAt": "2026-08-24T10:29:49.598662+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Rapid Advance!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228670735",
-      "latestPatchPublishedAt": "2026-08-22T04:30:12+00:00",
+      "latestPatchTitle": "New Darwin Hill Location and Map Improvements!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228675108",
+      "latestPatchPublishedAt": "2026-08-24T10:11:36+00:00",
       "status": "ok"
     }
   ]
