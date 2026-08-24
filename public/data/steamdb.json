@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-24T21:23:26.723374+00:00",
+  "generatedAt": "2026-08-24T21:51:31.807075+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Battle Pass",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676106",
-      "latestPatchPublishedAt": "2026-08-24T17:04:10+00:00",
+      "latestPatchTitle": "Personal rewards of future Harmonizations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676689",
+      "latestPatchPublishedAt": "2026-08-24T21:30:32+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4 Open Beta: Everything You Need to Know",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669874",
-      "latestPatchPublishedAt": "2026-08-21T19:25:46+00:00",
+      "latestPatchTitle": "Think you’ve got the #MW4 movement down?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676677",
+      "latestPatchPublishedAt": "2026-08-24T21:26:18+00:00",
       "status": "ok"
     },
     {
