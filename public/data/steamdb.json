@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-25T11:58:52.430548+00:00",
+  "generatedAt": "2026-08-25T12:50:47.621817+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Personal rewards of future Harmonizations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676689",
-      "latestPatchPublishedAt": "2026-08-24T21:30:32+00:00",
+      "latestPatchTitle": "Active Matter Launches September 15th on Steam",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678215",
+      "latestPatchPublishedAt": "2026-08-25T12:44:55+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List August 18th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788968",
-      "latestPatchPublishedAt": "2026-08-18T14:32:58+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List August 25th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678222",
+      "latestPatchPublishedAt": "2026-08-25T12:48:37+00:00",
       "status": "ok"
     },
     {
