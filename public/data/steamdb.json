@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-26T11:46:50.113802+00:00",
+  "generatedAt": "2026-08-26T12:17:39.280250+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Reward for When the Enemy Abandons a Tank or Ship!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678301",
-      "latestPatchPublishedAt": "2026-08-25T13:11:48+00:00",
+      "latestPatchTitle": "Pre-order: PLZ45 — Thunderous Response",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296578",
+      "latestPatchPublishedAt": "2026-08-26T11:06:08+00:00",
       "status": "ok"
     }
   ]
