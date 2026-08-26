@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-26T16:20:01.114222+00:00",
+  "generatedAt": "2026-08-26T18:07:13.704516+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 8/25/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951295240",
-      "latestPatchPublishedAt": "2026-08-25T22:38:23+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 8/26/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297706",
+      "latestPatchPublishedAt": "2026-08-26T17:38:31+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "COMRAD #28",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228666617",
-      "latestPatchPublishedAt": "2026-08-20T19:17:59+00:00",
+      "latestPatchTitle": "Gamescom Sale 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297609",
+      "latestPatchPublishedAt": "2026-08-26T17:05:09+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Resurgence enters the MW4 Beta this Friday",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951295354",
-      "latestPatchPublishedAt": "2026-08-26T00:20:35+00:00",
+      "latestPatchTitle": "Modern Warfare 4 Open Beta: Weekend Two Intel",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297613",
+      "latestPatchPublishedAt": "2026-08-26T17:06:19+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Anti-Cheat Trials",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296959",
-      "latestPatchPublishedAt": "2026-08-26T13:59:51+00:00",
+      "latestPatchTitle": "Dead by Daylight will be testing out Denuvo Anti-Cheat and other systems soon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951297629",
+      "latestPatchPublishedAt": "2026-08-26T17:09:25+00:00",
       "status": "ok"
     },
     {
