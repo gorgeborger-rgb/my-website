@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-26T00:00:31.404259+00:00",
+  "generatedAt": "2026-08-26T01:53:29.024696+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Think you’ve got the #MW4 movement down?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676677",
-      "latestPatchPublishedAt": "2026-08-24T21:26:18+00:00",
+      "latestPatchTitle": "Resurgence enters the MW4 Beta this Friday",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951295354",
+      "latestPatchPublishedAt": "2026-08-26T00:20:35+00:00",
       "status": "ok"
     },
     {
