@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-26T14:09:45.115073+00:00",
+  "generatedAt": "2026-08-26T14:59:21.835074+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "“Forge Your Legacy”Community Modding Contest Winners",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668690",
-      "latestPatchPublishedAt": "2026-08-21T13:02:55+00:00",
+      "latestPatchTitle": "August Hotfix",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296997",
+      "latestPatchPublishedAt": "2026-08-26T14:03:34+00:00",
       "status": "ok"
     },
     {
@@ -171,18 +171,18 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "The new DayZ update will bring home renovation to the zombie apocalypse",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183789162",
-      "latestPatchPublishedAt": "2026-08-18T14:47:25+00:00",
+      "latestPatchTitle": "Future Games Show Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297126",
+      "latestPatchPublishedAt": "2026-08-26T14:39:06+00:00",
       "status": "ok"
     },
     {
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.1.0 | Chorus of Sin",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678469",
-      "latestPatchPublishedAt": "2026-08-25T14:30:16+00:00",
+      "latestPatchTitle": "Anti-Cheat Trials",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296959",
+      "latestPatchPublishedAt": "2026-08-26T13:59:51+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pre-order: PLZ45 — Thunderous Response",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296578",
-      "latestPatchPublishedAt": "2026-08-26T11:06:08+00:00",
+      "latestPatchTitle": "Pages of History (September): Night Witch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296987",
+      "latestPatchPublishedAt": "2026-08-26T14:02:19+00:00",
       "status": "ok"
     }
   ]
