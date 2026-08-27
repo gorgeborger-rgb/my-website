@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-27T04:04:29.066473+00:00",
+  "generatedAt": "2026-08-27T15:08:46.328244+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter Launches September 15th on Steam",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678215",
-      "latestPatchPublishedAt": "2026-08-25T12:44:55+00:00",
+      "latestPatchTitle": "PvPvE extraction-style raid shooter Active Matter arrives September 15",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951299354",
+      "latestPatchPublishedAt": "2026-08-27T08:47:54+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Bring the Dragonfire to Discord!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669126",
-      "latestPatchPublishedAt": "2026-08-21T15:09:25+00:00",
+      "latestPatchTitle": "Catch the Season Finale Live on AlbionTV",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299521",
+      "latestPatchPublishedAt": "2026-08-27T10:00:29+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "New Support Operator Rover Coming to Season Reorientation on September 8",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228675420",
-      "latestPatchPublishedAt": "2026-08-24T12:39:10+00:00",
+      "latestPatchTitle": "End-of-Season Armament Voucher Giveaway, Fine China Appearance Draw Coming Soon!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299798",
+      "latestPatchPublishedAt": "2026-08-27T12:00:35+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260820 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228664552",
-      "latestPatchPublishedAt": "2026-08-20T06:43:51+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260827 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299116",
+      "latestPatchPublishedAt": "2026-08-27T07:07:07+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Don't miss Rainbow Six Siege Live at Gamescom!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296828",
-      "latestPatchPublishedAt": "2026-08-26T13:00:26+00:00",
+      "latestPatchTitle": "Tom Clancy's Rainbow Six Tactics Is Revealed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299253",
+      "latestPatchPublishedAt": "2026-08-27T08:04:58+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Airdrops are already on Forge-11",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296674",
-      "latestPatchPublishedAt": "2026-08-26T11:55:54+00:00",
+      "latestPatchTitle": "Something is stirring in the shadows",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299792",
+      "latestPatchPublishedAt": "2026-08-27T11:57:09+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 11.6.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228665017",
-      "latestPatchPublishedAt": "2026-08-20T10:02:05+00:00",
+      "latestPatchTitle": "Update 11.7.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299517",
+      "latestPatchPublishedAt": "2026-08-27T10:00:25+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pages of History (September): Night Witch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296987",
-      "latestPatchPublishedAt": "2026-08-26T14:02:19+00:00",
+      "latestPatchTitle": "Server Maintenance Notice (27.08.2026)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299938",
+      "latestPatchPublishedAt": "2026-08-27T12:47:35+00:00",
       "status": "ok"
     }
   ]
