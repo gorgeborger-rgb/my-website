@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-27T15:08:46.328244+00:00",
+  "generatedAt": "2026-08-28T00:23:30.160307+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 520: Three heads. One very good boy.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228670564",
-      "latestPatchPublishedAt": "2026-08-22T01:59:35+00:00",
+      "latestPatchTitle": "Astraeos Heaven & Abyss Update is now live!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300804",
+      "latestPatchPublishedAt": "2026-08-27T17:07:26+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "PvPvE extraction-style raid shooter Active Matter arrives September 15",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951299354",
-      "latestPatchPublishedAt": "2026-08-27T08:47:54+00:00",
+      "latestPatchTitle": "Major Update \"250 Shades of Liberty\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300370",
+      "latestPatchPublishedAt": "2026-08-27T15:13:20+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4 Open Beta: Weekend Two Intel",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297613",
-      "latestPatchPublishedAt": "2026-08-26T17:06:19+00:00",
+      "latestPatchTitle": "Modern Warfare 4 Open Beta: Maps and Modes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300964",
+      "latestPatchPublishedAt": "2026-08-27T18:14:23+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Future Games Show Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297126",
-      "latestPatchPublishedAt": "2026-08-26T14:39:06+00:00",
+      "latestPatchTitle": "DayZ Badlands | Coming October 15, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300447",
+      "latestPatchPublishedAt": "2026-08-27T15:38:09+00:00",
       "status": "ok"
     },
     {
@@ -306,18 +306,18 @@
       "game": "Off The Grid",
       "appId": 3659280,
       "steamDbUrl": "https://steamdb.info/app/3659280/",
-      "latestPatchTitle": "July Update: Massive Performance Overhaul",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581037",
-      "latestPatchPublishedAt": "2026-07-08T15:44:14+00:00",
+      "latestPatchTitle": "OTG August Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300446",
+      "latestPatchPublishedAt": "2026-08-27T15:37:05+00:00",
       "status": "ok"
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
+      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM: INTO THE WILD - August Update | 1.3.3.0.144566",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678472",
-      "latestPatchPublishedAt": "2026-08-25T14:31:13+00:00",
+      "latestPatchTitle": "Hotfix - 1.3.3.1.145413",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300434",
+      "latestPatchPublishedAt": "2026-08-27T15:33:58+00:00",
       "status": "ok"
     },
     {
