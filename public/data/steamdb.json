@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-28T00:23:30.160307+00:00",
+  "generatedAt": "2026-08-28T11:35:31.359666+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Catch the Season Finale Live on AlbionTV",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299521",
-      "latestPatchPublishedAt": "2026-08-27T10:00:29+00:00",
+      "latestPatchTitle": "Dev Talk: Dragon Sanctuary & New Rewards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951302746",
+      "latestPatchPublishedAt": "2026-08-28T10:35:09+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk August 27th Update Announcement: New Content for Season 6, Chapter 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296673",
-      "latestPatchPublishedAt": "2026-08-26T11:55:14+00:00",
+      "latestPatchTitle": "FragPunk August 28th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951302761",
+      "latestPatchPublishedAt": "2026-08-28T10:41:56+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Server Maintenance Notice (27.08.2026)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299938",
-      "latestPatchPublishedAt": "2026-08-27T12:47:35+00:00",
+      "latestPatchTitle": "Discount on the F-20A to Mark the Anniversary of its First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951302553",
+      "latestPatchPublishedAt": "2026-08-28T09:12:37+00:00",
       "status": "ok"
     }
   ]
