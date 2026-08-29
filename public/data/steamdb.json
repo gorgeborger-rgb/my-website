@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-29T03:21:19.060823+00:00",
+  "generatedAt": "2026-08-29T10:16:59.045492+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Changes to Bomber Survivability",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951303134",
-      "latestPatchPublishedAt": "2026-08-28T12:53:19+00:00",
+      "latestPatchTitle": "Screenshot Competition – Shockwave!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951304911",
+      "latestPatchPublishedAt": "2026-08-29T04:10:33+00:00",
       "status": "ok"
     }
   ]
