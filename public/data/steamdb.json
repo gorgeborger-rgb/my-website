@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-28T21:30:35.759901+00:00",
+  "generatedAt": "2026-08-29T03:21:19.060823+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Astraeos Heaven & Abyss Update is now live!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300804",
-      "latestPatchPublishedAt": "2026-08-27T17:07:26+00:00",
+      "latestPatchTitle": "Community Crunch 521: Big Ship Energy",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951304588",
+      "latestPatchPublishedAt": "2026-08-29T00:00:30+00:00",
       "status": "ok"
     },
     {
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "Blocky zombie survival sim Unturned releases its source code so players can build a 'lasting legacy' for the game 'regardless of the changes we make'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840310314347429",
-      "latestPatchPublishedAt": "2026-08-08T13:00:00+00:00",
+      "latestPatchTitle": "3.26.3.9 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951304404",
+      "latestPatchPublishedAt": "2026-08-28T21:37:19+00:00",
       "status": "ok"
     },
     {
