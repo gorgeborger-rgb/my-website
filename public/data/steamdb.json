@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-30T06:44:57.136223+00:00",
+  "generatedAt": "2026-08-30T12:16:16.250491+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Something is stirring in the shadows",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299792",
-      "latestPatchPublishedAt": "2026-08-27T11:57:09+00:00",
+      "latestPatchTitle": "What's hiding in the rewards?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951307189",
+      "latestPatchPublishedAt": "2026-08-30T09:01:05+00:00",
       "status": "ok"
     },
     {
