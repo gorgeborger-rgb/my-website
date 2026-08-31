@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-31T05:40:10.804248+00:00",
+  "generatedAt": "2026-08-31T11:50:06.225530+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dev Talk: Dragon Sanctuary & New Rewards",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951302746",
-      "latestPatchPublishedAt": "2026-08-28T10:35:09+00:00",
+      "latestPatchTitle": "Dragonfire is Live!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309853",
+      "latestPatchPublishedAt": "2026-08-31T10:54:54+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Join us for the Gamescom Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669172",
-      "latestPatchPublishedAt": "2026-08-21T15:25:55+00:00",
+      "latestPatchTitle": "Hotfix 0.4.7.3 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309652",
+      "latestPatchPublishedAt": "2026-08-31T09:22:40+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
-      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Do you recognize these places?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951307584",
-      "latestPatchPublishedAt": "2026-08-30T13:32:44+00:00",
+      "latestPatchTitle": "Storm Warning",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309582",
+      "latestPatchPublishedAt": "2026-08-31T08:59:04+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Shockwave!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951304911",
-      "latestPatchPublishedAt": "2026-08-29T04:10:33+00:00",
+      "latestPatchTitle": "Get the F-16XL in the Space Program Event!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309850",
+      "latestPatchPublishedAt": "2026-08-31T10:54:46+00:00",
       "status": "ok"
     }
   ]
