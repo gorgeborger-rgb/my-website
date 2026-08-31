@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-31T11:50:06.225530+00:00",
+  "generatedAt": "2026-08-31T18:11:18.788459+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dragonfire is Live!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309853",
-      "latestPatchPublishedAt": "2026-08-31T10:54:54+00:00",
+      "latestPatchTitle": "Become a Dragon Hunter with the Season 34 Bundles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309978",
+      "latestPatchPublishedAt": "2026-08-31T11:50:20+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Gamescom Sale 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297609",
-      "latestPatchPublishedAt": "2026-08-26T17:05:09+00:00",
+      "latestPatchTitle": "Post-Gamescom Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310739",
+      "latestPatchPublishedAt": "2026-08-31T16:15:19+00:00",
       "status": "ok"
     },
     {
@@ -135,18 +135,18 @@
       "game": "Chess",
       "appId": 4163030,
       "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Cat Chess is part of the Cat Awareness Feline Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345640",
-      "latestPatchPublishedAt": "2026-08-07T17:00:26+00:00",
+      "latestPatchTitle": "Month 1 Game Updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310428",
+      "latestPatchPublishedAt": "2026-08-31T14:45:00+00:00",
       "status": "ok"
     },
     {
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "August Hotfix",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296997",
-      "latestPatchPublishedAt": "2026-08-26T14:03:34+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced & Aloft Bundle Now Available at PVE Survival Fest 2026! ⚒️",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310916",
+      "latestPatchPublishedAt": "2026-08-31T17:10:10+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Coming October 15, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300447",
-      "latestPatchPublishedAt": "2026-08-27T15:38:09+00:00",
+      "latestPatchTitle": "PvE Survival Crafting Fest Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310862",
+      "latestPatchPublishedAt": "2026-08-31T17:00:39+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Sentinel Shell Cinematic | Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297272",
-      "latestPatchPublishedAt": "2026-08-26T15:15:32+00:00",
+      "latestPatchTitle": "Джейсон Шрайер: За последние годы Bungie отменила несколько сервисов — они должны были принести Sony большие деньги",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1842212951311089",
+      "latestPatchPublishedAt": "2026-08-31T16:20:00+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
+      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Storm Warning",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309582",
-      "latestPatchPublishedAt": "2026-08-31T08:59:04+00:00",
+      "latestPatchTitle": "Time to submit your entries",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951311001",
+      "latestPatchPublishedAt": "2026-08-31T17:33:06+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Get the F-16XL in the Space Program Event!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309850",
-      "latestPatchPublishedAt": "2026-08-31T10:54:46+00:00",
+      "latestPatchTitle": "Giulio Cesare: Caesar Adest!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310456",
+      "latestPatchPublishedAt": "2026-08-31T14:51:48+00:00",
       "status": "ok"
     }
   ]
