@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-01T12:03:18.926595+00:00",
+  "generatedAt": "2026-09-01T16:32:51.584926+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 8/26/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297706",
-      "latestPatchPublishedAt": "2026-08-26T17:38:31+00:00",
+      "latestPatchTitle": "Apex Legends™ EA Play* Weapon Charm",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951314034",
+      "latestPatchPublishedAt": "2026-09-01T16:32:10+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight will be testing out Denuvo Anti-Cheat and other systems soon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951297629",
-      "latestPatchPublishedAt": "2026-08-26T17:09:25+00:00",
+      "latestPatchTitle": "10.1.1 | Bugfix Patch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313573",
+      "latestPatchPublishedAt": "2026-09-01T14:30:25+00:00",
       "status": "ok"
     },
     {
@@ -207,17 +207,17 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Filmic Archive DLC, and Cross-Play Confirmed for Post Console Launch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297317",
-      "latestPatchPublishedAt": "2026-08-26T15:31:27+00:00",
+      "latestPatchTitle": "Gamescom Is Over - Here’s a Recap of Dune: Awakening News",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313540",
+      "latestPatchPublishedAt": "2026-09-01T14:16:41+00:00",
       "status": "ok"
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "appId": 1145030,
+      "steamDbUrl": "https://steamdb.info/app/1145030/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.4.7.3 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309652",
-      "latestPatchPublishedAt": "2026-08-31T09:22:40+00:00",
+      "latestPatchTitle": "Update 0.5 Sneak Peeks Revealed at Gamescom | Dev Stream VOD",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313854",
+      "latestPatchPublishedAt": "2026-09-01T15:45:45+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Джейсон Шрайер: За последние годы Bungie отменила несколько сервисов — они должны были принести Sony большие деньги",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1842212951311089",
-      "latestPatchPublishedAt": "2026-08-31T16:20:00+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.9",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313913",
+      "latestPatchPublishedAt": "2026-09-01T16:00:49+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List August 25th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678222",
-      "latestPatchPublishedAt": "2026-08-25T12:48:37+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List September 1st",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313370",
+      "latestPatchPublishedAt": "2026-09-01T13:10:44+00:00",
       "status": "ok"
     },
     {
@@ -333,18 +333,18 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld and No Man's Sky are intensifying their months-long flirtation, and if those two don't just kiss already, I'm going to lose my mind",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666180",
-      "latestPatchPublishedAt": "2026-08-20T16:29:47+00:00",
+      "latestPatchTitle": "Palworld Global Popularity Poll 2026 is LIVE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313335",
+      "latestPatchPublishedAt": "2026-09-01T13:00:38+00:00",
       "status": "ok"
     },
     {
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Tom Clancy's Rainbow Six Tactics Is Revealed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299253",
-      "latestPatchPublishedAt": "2026-08-27T08:04:58+00:00",
+      "latestPatchTitle": "Y11S3 PATCH NOTES ADDENDUM",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313816",
+      "latestPatchPublishedAt": "2026-09-01T15:33:33+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Autumn collection",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313193",
-      "latestPatchPublishedAt": "2026-09-01T12:00:13+00:00",
+      "latestPatchTitle": "New season: tulpa!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313686",
+      "latestPatchPublishedAt": "2026-09-01T14:59:49+00:00",
       "status": "ok"
     },
     {
