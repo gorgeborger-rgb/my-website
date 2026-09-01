@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-01T16:32:51.584926+00:00",
+  "generatedAt": "2026-09-01T19:32:05.889158+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1145030,
-      "steamDbUrl": "https://steamdb.info/app/1145030/",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -252,18 +252,18 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Update 0.5 Sneak Peeks Revealed at Gamescom | Dev Stream VOD",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313854",
-      "latestPatchPublishedAt": "2026-09-01T15:45:45+00:00",
+      "latestPatchTitle": "Get Gray Zone Warfare Now at 30% Off",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951314148",
+      "latestPatchPublishedAt": "2026-09-01T17:00:51+00:00",
       "status": "ok"
     },
     {
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Hell Let Loose: Vietnam is Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777213",
-      "latestPatchPublishedAt": "2026-08-13T16:00:34+00:00",
+      "latestPatchTitle": "Dev Brief #220 | What's Coming Next to Hell Let Loose?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951314227",
+      "latestPatchPublishedAt": "2026-09-01T17:15:16+00:00",
       "status": "ok"
     },
     {
