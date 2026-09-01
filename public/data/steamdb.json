@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-31T22:53:11.353918+00:00",
+  "generatedAt": "2026-09-01T01:31:58.202584+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Become a Dragon Hunter with the Season 34 Bundles",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951309978",
-      "latestPatchPublishedAt": "2026-08-31T11:50:20+00:00",
+      "latestPatchTitle": "Unleash the Steelplate Cougar with One Referral",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951311763",
+      "latestPatchPublishedAt": "2026-09-01T00:01:59+00:00",
       "status": "ok"
     },
     {
