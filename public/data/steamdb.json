@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-02T12:04:57.552297+00:00",
+  "generatedAt": "2026-09-02T16:29:50.352117+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.1.1 | Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313573",
-      "latestPatchPublishedAt": "2026-09-01T14:30:25+00:00",
+      "latestPatchTitle": "Anti-Cheat Trials are now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
+      "latestPatchPublishedAt": "2026-09-02T15:00:09+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
+      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S3 PATCH NOTES ADDENDUM",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313816",
-      "latestPatchPublishedAt": "2026-09-01T15:33:33+00:00",
+      "latestPatchTitle": "R6S Community Checkpoint [REPLAY] - Gamescom Day 4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440239",
+      "latestPatchPublishedAt": "2026-09-02T13:02:35+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814439677",
-      "latestPatchPublishedAt": "2026-09-02T09:00:50+00:00",
+      "latestPatchTitle": "WARNING! High voltage",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440440",
+      "latestPatchPublishedAt": "2026-09-02T14:05:10+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The German Tempest Mk V is Available at a Discount to Mark the Anniversary!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440016",
-      "latestPatchPublishedAt": "2026-09-02T11:07:31+00:00",
+      "latestPatchTitle": "Update 2.57.1.126",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440358",
+      "latestPatchPublishedAt": "2026-09-02T13:39:12+00:00",
       "status": "ok"
     }
   ]
