@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-02T21:55:26.032427+00:00",
-  "totalGames": 47,
-  "mappedGames": 47,
+  "generatedAt": "2026-09-02T23:43:38.493874+00:00",
+  "totalGames": 48,
+  "mappedGames": 48,
   "games": [
     {
       "game": "ARC Raiders",
@@ -183,6 +183,15 @@
       "latestPatchTitle": "Anti-Cheat Trials are now Live",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
       "latestPatchPublishedAt": "2026-09-02T15:00:09+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Deadside",
+      "appId": 895400,
+      "steamDbUrl": "https://steamdb.info/app/895400/",
+      "latestPatchTitle": "WIP: New Vehicles and Tires, New POI, Boars, More Missions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780338",
+      "latestPatchPublishedAt": "2026-08-14T17:10:02+00:00",
       "status": "ok"
     },
     {
