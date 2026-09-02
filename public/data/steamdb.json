@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-01T23:50:38.332147+00:00",
+  "generatedAt": "2026-09-02T02:13:45.817474+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Team IRONMACE is heading to PAX West 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228675712",
-      "latestPatchPublishedAt": "2026-08-24T14:39:08+00:00",
+      "latestPatchTitle": "Team IRONMACE is heading to Tokyo Game Show 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814438929",
+      "latestPatchPublishedAt": "2026-09-02T00:49:32+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "appId": 1145030,
+      "steamDbUrl": "https://steamdb.info/app/1145030/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
