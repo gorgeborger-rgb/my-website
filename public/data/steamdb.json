@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-02T07:07:43.101253+00:00",
+  "generatedAt": "2026-09-02T12:04:57.552297+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Unleash the Steelplate Cougar with One Referral",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951311763",
-      "latestPatchPublishedAt": "2026-09-01T00:01:59+00:00",
+      "latestPatchTitle": "New Music and Wallpaper is Here",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814439872",
+      "latestPatchPublishedAt": "2026-09-02T10:05:03+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk August 28th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951302761",
-      "latestPatchPublishedAt": "2026-08-28T10:41:56+00:00",
+      "latestPatchTitle": "FragPunk September 2nd Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814439704",
+      "latestPatchPublishedAt": "2026-09-02T09:08:55+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 9: How Did Gen.G Become a Top Team?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313001",
-      "latestPatchPublishedAt": "2026-09-01T10:36:25+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/24~08/30)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814439609",
+      "latestPatchPublishedAt": "2026-09-02T08:32:01+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "New season: tulpa!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313686",
-      "latestPatchPublishedAt": "2026-09-01T14:59:49+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814439677",
+      "latestPatchPublishedAt": "2026-09-02T09:00:50+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Giulio Cesare: Caesar Adest!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310456",
-      "latestPatchPublishedAt": "2026-08-31T14:51:48+00:00",
+      "latestPatchTitle": "The German Tempest Mk V is Available at a Discount to Mark the Anniversary!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440016",
+      "latestPatchPublishedAt": "2026-09-02T11:07:31+00:00",
       "status": "ok"
     }
   ]
