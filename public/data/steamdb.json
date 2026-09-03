@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-03T15:04:41.068592+00:00",
+  "generatedAt": "2026-09-03T18:33:43.591012+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Controller Anti-Cheat Enforcement & Ban Wave Update — 09/02/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814441123",
-      "latestPatchPublishedAt": "2026-09-02T17:24:54+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 9/3/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443925",
+      "latestPatchPublishedAt": "2026-09-03T16:28:20+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Get Gray Zone Warfare Now at 30% Off",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951314148",
-      "latestPatchPublishedAt": "2026-09-01T17:00:51+00:00",
+      "latestPatchTitle": "Gray Zone Warfare Enters Alpha This Fall",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444292",
+      "latestPatchPublishedAt": "2026-09-03T18:19:44+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Blood Testament - Partner Preview",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440950",
-      "latestPatchPublishedAt": "2026-09-02T16:31:41+00:00",
+      "latestPatchTitle": "Partner Preview | Blood Testament",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444266",
+      "latestPatchPublishedAt": "2026-09-03T18:10:07+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 4 Aug — 11 August 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1840310314354123",
-      "latestPatchPublishedAt": "2026-08-11T09:00:00+00:00",
+      "latestPatchTitle": "BREACH AND CLEAR",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444168",
+      "latestPatchPublishedAt": "2026-09-03T17:26:33+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "⚙️ Hotfix [03.09.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443410",
-      "latestPatchPublishedAt": "2026-09-03T13:59:22+00:00",
+      "latestPatchTitle": "FPS Games Show is live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444229",
+      "latestPatchPublishedAt": "2026-09-03T17:52:43+00:00",
       "status": "ok"
     },
     {
@@ -423,18 +423,18 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.9 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951304404",
-      "latestPatchPublishedAt": "2026-08-28T21:37:19+00:00",
+      "latestPatchTitle": "3.26.3.11 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444212",
+      "latestPatchPublishedAt": "2026-09-03T17:47:32+00:00",
       "status": "ok"
     },
     {
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.132",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443568",
-      "latestPatchPublishedAt": "2026-09-03T14:44:22+00:00",
+      "latestPatchTitle": "\"Sky Odyssey\" Update Trailer!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444143",
+      "latestPatchPublishedAt": "2026-09-03T17:17:26+00:00",
       "status": "ok"
     }
   ]
