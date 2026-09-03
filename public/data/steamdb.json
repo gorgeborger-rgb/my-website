@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-03T11:22:28.656803+00:00",
+  "generatedAt": "2026-09-03T15:04:41.068592+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,18 +81,18 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "SPOTREP #00121",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297195",
-      "latestPatchPublishedAt": "2026-08-26T15:00:06+00:00",
+      "latestPatchTitle": "Creator SPOTREP: Western Sahara #013",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443309",
+      "latestPatchPublishedAt": "2026-09-03T13:30:21+00:00",
       "status": "ok"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Post-Gamescom Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310739",
-      "latestPatchPublishedAt": "2026-08-31T16:15:19+00:00",
+      "latestPatchTitle": "1.8.0.13 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443044",
+      "latestPatchPublishedAt": "2026-09-03T11:58:32+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Anti-Cheat Trials are now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
-      "latestPatchPublishedAt": "2026-09-02T15:00:09+00:00",
+      "latestPatchTitle": "Dead by Daylight is now testing Denuvo, but \"will not include\" its anti-piracy DRM",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1842846814443069",
+      "latestPatchPublishedAt": "2026-09-03T10:45:28+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security Brief | Taking Down a Cheat Ring",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814441153",
-      "latestPatchPublishedAt": "2026-09-02T17:44:13+00:00",
+      "latestPatchTitle": "End-of-Season Double Merit Weekend, Bastet Appearance Lucky Draw Coming",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443054",
+      "latestPatchPublishedAt": "2026-09-03T12:00:26+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
+      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "STALZONE is heading to FPS Games Show",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814441209",
-      "latestPatchPublishedAt": "2026-09-02T18:11:37+00:00",
+      "latestPatchTitle": "⚙️ Hotfix [03.09.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443410",
+      "latestPatchPublishedAt": "2026-09-03T13:59:22+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Space Program: F-16XL",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442944",
-      "latestPatchPublishedAt": "2026-09-03T11:07:13+00:00",
+      "latestPatchTitle": "Update 2.57.1.132",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443568",
+      "latestPatchPublishedAt": "2026-09-03T14:44:22+00:00",
       "status": "ok"
     }
   ]
