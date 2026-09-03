@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-03T06:17:25.539267+00:00",
+  "generatedAt": "2026-09-03T11:22:28.656803+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "New Music and Wallpaper is Here",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814439872",
-      "latestPatchPublishedAt": "2026-09-02T10:05:03+00:00",
+      "latestPatchTitle": "Season 34 Starts Soon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442809",
+      "latestPatchPublishedAt": "2026-09-03T10:00:22+00:00",
       "status": "ok"
     },
     {
@@ -288,18 +288,18 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260827 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299116",
-      "latestPatchPublishedAt": "2026-08-27T07:07:07+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260903 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442388",
+      "latestPatchPublishedAt": "2026-09-03T06:26:19+00:00",
       "status": "ok"
     },
     {
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List September 1st",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313370",
-      "latestPatchPublishedAt": "2026-09-01T13:10:44+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update –September 3rd, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442378",
+      "latestPatchPublishedAt": "2026-09-03T06:23:13+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
-      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 11.7.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299517",
-      "latestPatchPublishedAt": "2026-08-27T10:00:25+00:00",
+      "latestPatchTitle": "Store Update 11.8.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442821",
+      "latestPatchPublishedAt": "2026-09-03T10:01:20+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.126",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440358",
-      "latestPatchPublishedAt": "2026-09-02T13:39:12+00:00",
+      "latestPatchTitle": "Space Program: F-16XL",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442944",
+      "latestPatchPublishedAt": "2026-09-03T11:07:13+00:00",
       "status": "ok"
     }
   ]
