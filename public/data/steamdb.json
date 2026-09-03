@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-03T01:29:27.278036+00:00",
+  "generatedAt": "2026-09-03T06:17:25.539267+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Team IRONMACE is heading to Tokyo Game Show 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814438929",
-      "latestPatchPublishedAt": "2026-09-02T00:49:32+00:00",
+      "latestPatchTitle": "Early Access Hotfix #125",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442284",
+      "latestPatchPublishedAt": "2026-09-03T05:31:23+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
+      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
       "status": "ok"
     },
     {
