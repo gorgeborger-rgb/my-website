@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-04T14:02:05.115370+00:00",
+  "generatedAt": "2026-09-04T17:34:01.138645+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight is now testing Denuvo, but \"will not include\" its anti-piracy DRM",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1842846814443069",
-      "latestPatchPublishedAt": "2026-09-03T10:45:28+00:00",
+      "latestPatchTitle": "Dress to the Divines with the Dead by Daylight: Chorus of Sin Merch Collection",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447263",
+      "latestPatchPublishedAt": "2026-09-04T17:00:16+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Gamescom Is Over - Here’s a Recap of Dune: Awakening News",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313540",
-      "latestPatchPublishedAt": "2026-09-01T14:16:41+00:00",
+      "latestPatchTitle": "Communinet signal #20",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446778",
+      "latestPatchPublishedAt": "2026-09-04T14:35:30+00:00",
       "status": "ok"
     },
     {
@@ -369,9 +369,9 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "Ravana: Race to Radiant!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678268",
-      "latestPatchPublishedAt": "2026-08-25T13:00:24+00:00",
+      "latestPatchTitle": "2X WORSHIPER WEEKEND!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446709",
+      "latestPatchPublishedAt": "2026-09-04T14:13:29+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Discounts for Pakistan Defense Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446466",
-      "latestPatchPublishedAt": "2026-09-04T13:14:39+00:00",
+      "latestPatchTitle": "Greek Aircraft and Tanks Coming in Sky Odyssey!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446965",
+      "latestPatchPublishedAt": "2026-09-04T15:28:38+00:00",
       "status": "ok"
     }
   ]
