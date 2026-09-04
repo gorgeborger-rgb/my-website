@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-04T09:58:12.674381+00:00",
+  "generatedAt": "2026-09-04T14:02:05.115370+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Dev Brief #220 | What's Coming Next to Hell Let Loose?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951314227",
-      "latestPatchPublishedAt": "2026-09-01T17:15:16+00:00",
+      "latestPatchTitle": "U21 Experimental Branch is LIVE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446475",
+      "latestPatchPublishedAt": "2026-09-04T13:16:20+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Season 20's Style of Thieves Theme Reveal!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669301",
-      "latestPatchPublishedAt": "2026-08-21T16:00:45+00:00",
+      "latestPatchTitle": "This Month in Sea of Thieves: September 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446246",
+      "latestPatchPublishedAt": "2026-09-04T12:00:13+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "\"Sky Odyssey\" Update Trailer!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444143",
-      "latestPatchPublishedAt": "2026-09-03T17:17:26+00:00",
+      "latestPatchTitle": "Discounts for Pakistan Defense Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446466",
+      "latestPatchPublishedAt": "2026-09-04T13:14:39+00:00",
       "status": "ok"
     }
   ]
