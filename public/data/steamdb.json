@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-04T23:35:43.652004+00:00",
+  "generatedAt": "2026-09-05T01:21:23.726279+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 521: Big Ship Energy",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951304588",
-      "latestPatchPublishedAt": "2026-08-29T00:00:30+00:00",
+      "latestPatchTitle": "Community Crunch 522: The Good, the Bad and the Ugly",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814448143",
+      "latestPatchPublishedAt": "2026-09-05T00:00:49+00:00",
       "status": "ok"
     },
     {
