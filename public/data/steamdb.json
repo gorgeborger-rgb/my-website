@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-05T13:28:09.182303+00:00",
+  "generatedAt": "2026-09-05T16:10:11.388729+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Missed it live? Here it is",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444361",
-      "latestPatchPublishedAt": "2026-09-03T18:47:16+00:00",
+      "latestPatchTitle": "Monthly cheaters banlists",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814449118",
+      "latestPatchPublishedAt": "2026-09-05T13:58:53+00:00",
       "status": "ok"
     },
     {
