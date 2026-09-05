@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-05T01:21:23.726279+00:00",
+  "generatedAt": "2026-09-05T05:59:08.286079+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Greek Aircraft and Tanks Coming in Sky Odyssey!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446965",
-      "latestPatchPublishedAt": "2026-09-04T15:28:38+00:00",
+      "latestPatchTitle": "Screenshot Competition – Beyond Standard!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814448386",
+      "latestPatchPublishedAt": "2026-09-05T04:10:04+00:00",
       "status": "ok"
     }
   ]
