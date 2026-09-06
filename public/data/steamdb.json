@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-06T11:38:04.580562+00:00",
+  "generatedAt": "2026-09-06T14:22:52.157827+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "The 2nd Anniversary Season \"Reorientation\" is about to begin!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814448927",
-      "latestPatchPublishedAt": "2026-09-05T12:00:50+00:00",
+      "latestPatchTitle": "Version Update: New Season 'Reorientation' – Events, Rewards & Store",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814450684",
+      "latestPatchPublishedAt": "2026-09-06T13:00:04+00:00",
       "status": "ok"
     },
     {
