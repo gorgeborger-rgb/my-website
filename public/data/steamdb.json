@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-06T14:22:52.157827+00:00",
+  "generatedAt": "2026-09-06T17:11:37.146769+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Partner Preview | Blood Testament",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444266",
-      "latestPatchPublishedAt": "2026-09-03T18:10:07+00:00",
+      "latestPatchTitle": "New Partners | Blood Testament",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814451151",
+      "latestPatchPublishedAt": "2026-09-06T15:59:58+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Monthly cheaters banlists",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814449118",
-      "latestPatchPublishedAt": "2026-09-05T13:58:53+00:00",
+      "latestPatchTitle": "Developer's diary: Core team",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814450797",
+      "latestPatchPublishedAt": "2026-09-06T14:29:57+00:00",
       "status": "ok"
     },
     {
