@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-06T02:12:38.709001+00:00",
-  "totalGames": 48,
-  "mappedGames": 48,
+  "generatedAt": "2026-09-06T07:08:55.667386+00:00",
+  "totalGames": 39,
+  "mappedGames": 39,
   "games": [
     {
       "game": "ARC Raiders",
@@ -30,15 +30,6 @@
       "latestPatchTitle": "ARK Franchise Sale!",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357193",
       "latestPatchPublishedAt": "2026-07-10T15:24:47+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Active Matter",
-      "appId": 2887580,
-      "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Major Update \"250 Shades of Liberty\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300370",
-      "latestPatchPublishedAt": "2026-08-27T15:13:20+00:00",
       "status": "ok"
     },
     {
@@ -132,15 +123,6 @@
       "status": "ok"
     },
     {
-      "game": "Chess",
-      "appId": 4163030,
-      "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Month 1 Game Updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310428",
-      "latestPatchPublishedAt": "2026-08-31T14:45:00+00:00",
-      "status": "ok"
-    },
-    {
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
@@ -186,15 +168,6 @@
       "status": "ok"
     },
     {
-      "game": "Deadside",
-      "appId": 895400,
-      "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "WIP: New Vehicles and Tires, New POI, Boars, More Missions",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780338",
-      "latestPatchPublishedAt": "2026-08-14T17:10:02+00:00",
-      "status": "ok"
-    },
-    {
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
@@ -213,39 +186,12 @@
       "status": "ok"
     },
     {
-      "game": "EFT",
-      "appId": 3975470,
-      "steamDbUrl": "https://steamdb.info/app/3975470/",
-      "latestPatchTitle": "Play “A Night at Moka Efti” at Gamescom...",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662101",
-      "latestPatchPublishedAt": "2026-08-19T10:05:25+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Escape From Tarkov",
-      "appId": 3932890,
-      "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "TarkovTV on August 10!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314347740",
-      "latestPatchPublishedAt": "2026-08-08T15:33:52+00:00",
-      "status": "ok"
-    },
-    {
       "game": "Farlight 84",
       "appId": 1928420,
       "steamDbUrl": "https://steamdb.info/app/1928420/",
       "latestPatchTitle": "Farlight 84 New Season Update: \"Shadow Academy\"",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232064",
       "latestPatchPublishedAt": "2026-04-23T02:37:13+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "FragPunk",
-      "appId": 2943650,
-      "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk September 2nd Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814439704",
-      "latestPatchPublishedAt": "2026-09-02T09:08:55+00:00",
       "status": "ok"
     },
     {
@@ -276,15 +222,6 @@
       "status": "ok"
     },
     {
-      "game": "Marathon",
-      "appId": 3065800,
-      "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.9",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313913",
-      "latestPatchPublishedAt": "2026-09-01T16:00:49+00:00",
-      "status": "ok"
-    },
-    {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
@@ -300,24 +237,6 @@
       "latestPatchTitle": "NARAKA: BLADEPOINT Update –September 3rd, 2026",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442378",
       "latestPatchPublishedAt": "2026-09-03T06:23:13+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Off The Grid",
-      "appId": 3659280,
-      "steamDbUrl": "https://steamdb.info/app/3659280/",
-      "latestPatchTitle": "OTG August Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300446",
-      "latestPatchPublishedAt": "2026-08-27T15:37:05+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
