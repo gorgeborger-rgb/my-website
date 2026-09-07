@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-07T15:57:13.934143+00:00",
+  "generatedAt": "2026-09-07T19:34:45.485010+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,9 +81,9 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Creator SPOTREP: Western Sahara #013",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443309",
-      "latestPatchPublishedAt": "2026-09-03T13:30:21+00:00",
+      "latestPatchTitle": "Steam Midweek Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453607",
+      "latestPatchPublishedAt": "2026-09-07T17:05:33+00:00",
       "status": "ok"
     },
     {
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 4163030,
       "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Month 1 Game Updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310428",
-      "latestPatchPublishedAt": "2026-08-31T14:45:00+00:00",
+      "latestPatchTitle": "Meow meow meow SALE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453582",
+      "latestPatchPublishedAt": "2026-09-07T17:00:29+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "New Partners | Blood Testament",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814451151",
-      "latestPatchPublishedAt": "2026-09-06T15:59:58+00:00",
+      "latestPatchTitle": "Server Downtime",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453583",
+      "latestPatchPublishedAt": "2026-09-07T17:00:29+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Developer's diary: Core team",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814450797",
-      "latestPatchPublishedAt": "2026-09-06T14:29:57+00:00",
+      "latestPatchTitle": "Chain of Decay — The Search Is Over!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453443",
+      "latestPatchPublishedAt": "2026-09-07T15:58:18+00:00",
       "status": "ok"
     },
     {
