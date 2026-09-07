@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-07T19:34:45.485010+00:00",
+  "generatedAt": "2026-09-07T22:14:47.736266+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,7 +36,7 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Сессия вопросов и ответов с разработчиками: 7 сентября 2026",
+      "latestPatchTitle": "Developer Q&A: September 7th 2026!",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453177",
       "latestPatchPublishedAt": "2026-09-07T14:02:19+00:00",
       "status": "ok"
