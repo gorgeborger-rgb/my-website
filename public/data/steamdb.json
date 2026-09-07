@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-07T00:39:41.633661+00:00",
+  "generatedAt": "2026-09-07T05:12:31.879776+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #125",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442284",
-      "latestPatchPublishedAt": "2026-09-03T05:31:23+00:00",
+      "latestPatchTitle": "EAS10 Warlord Tournament Applications",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452007",
+      "latestPatchPublishedAt": "2026-09-07T02:15:17+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld Global Popularity Poll 2026 is LIVE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313335",
-      "latestPatchPublishedAt": "2026-09-01T13:00:38+00:00",
+      "latestPatchTitle": "v1.0.4: Balance Adjustments & Bug Fixes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452062",
+      "latestPatchPublishedAt": "2026-09-07T03:04:45+00:00",
       "status": "ok"
     },
     {
