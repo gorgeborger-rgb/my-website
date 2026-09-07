@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-07T10:22:14.016065+00:00",
+  "generatedAt": "2026-09-07T15:57:13.934143+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Major Update \"250 Shades of Liberty\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300370",
-      "latestPatchPublishedAt": "2026-08-27T15:13:20+00:00",
+      "latestPatchTitle": "Сессия вопросов и ответов с разработчиками: 7 сентября 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453177",
+      "latestPatchPublishedAt": "2026-09-07T14:02:19+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "1.8.0.13 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443044",
-      "latestPatchPublishedAt": "2026-09-03T11:58:32+00:00",
+      "latestPatchTitle": "Announcing: Arma Reforger - Rally",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453220",
+      "latestPatchPublishedAt": "2026-09-07T14:15:03+00:00",
       "status": "ok"
     },
     {
@@ -313,20 +313,20 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
-      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Saturday Custom Games return this weekend!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447811",
-      "latestPatchPublishedAt": "2026-09-04T20:51:14+00:00",
+      "latestPatchTitle": "PUBG EMEA Championship: Fall - Playoffs & Finals kick off this weekend!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453273",
+      "latestPatchPublishedAt": "2026-09-07T14:39:39+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Beyond Standard!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814448386",
-      "latestPatchPublishedAt": "2026-09-05T04:10:04+00:00",
+      "latestPatchTitle": "FK-2000: Top Of Its Class",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453330",
+      "latestPatchPublishedAt": "2026-09-07T15:00:42+00:00",
       "status": "ok"
     }
   ]
