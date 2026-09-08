@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-08T00:26:42.704097+00:00",
+  "generatedAt": "2026-09-08T04:58:42.637962+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -313,20 +313,20 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
-      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG EMEA Championship: Fall - Playoffs & Finals kick off this weekend!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453273",
-      "latestPatchPublishedAt": "2026-09-07T14:39:39+00:00",
+      "latestPatchTitle": "PUBG x Jujutsu Kaisen",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814454347",
+      "latestPatchPublishedAt": "2026-09-08T01:00:17+00:00",
       "status": "ok"
     },
     {
