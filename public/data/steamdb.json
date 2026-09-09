@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-09T05:19:45.763683+00:00",
+  "generatedAt": "2026-09-09T09:52:40.024391+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "SEASON 7: UTOPIA ARRIVES SEP 16",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456042",
-      "latestPatchPublishedAt": "2026-09-08T15:39:09+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - September 9th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688495",
+      "latestPatchPublishedAt": "2026-09-09T09:21:56+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "SEASON 7: UTOPIA ARRIVES SEP 16",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456042",
-      "latestPatchPublishedAt": "2026-09-08T15:39:09+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - September 9th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688495",
+      "latestPatchPublishedAt": "2026-09-09T09:21:56+00:00",
       "status": "ok"
     },
     {
@@ -214,11 +214,11 @@
     },
     {
       "game": "EFT",
-      "appId": 3975470,
-      "steamDbUrl": "https://steamdb.info/app/3975470/",
-      "latestPatchTitle": "Only 48 hours left: Moka Efti is opening its doors!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455811",
-      "latestPatchPublishedAt": "2026-09-08T14:23:02+00:00",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Make Them Bleed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456171",
-      "latestPatchPublishedAt": "2026-09-08T16:15:30+00:00",
+      "latestPatchTitle": "Make Them Bleed | Stage 1 | Complete!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688064",
+      "latestPatchPublishedAt": "2026-09-09T05:19:59+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Americas Series 2: Everything You Need To Know",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455757",
-      "latestPatchPublishedAt": "2026-09-08T14:04:56+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/31~09/06)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688215",
+      "latestPatchPublishedAt": "2026-09-09T07:00:19+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456096",
-      "latestPatchPublishedAt": "2026-09-08T15:58:32+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688525",
+      "latestPatchPublishedAt": "2026-09-09T09:32:45+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Harimau: Tiger, Tiger, Burning Bright",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456175",
-      "latestPatchPublishedAt": "2026-09-08T16:20:38+00:00",
+      "latestPatchTitle": "Arjun Mk 1: Archer Prince!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688470",
+      "latestPatchPublishedAt": "2026-09-09T09:02:01+00:00",
       "status": "ok"
     }
   ]
