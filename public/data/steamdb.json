@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-09T17:46:50.843322+00:00",
+  "generatedAt": "2026-09-09T20:02:18.173547+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Sage of Joseon DLC - Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262689416",
-      "latestPatchPublishedAt": "2026-09-09T15:25:11+00:00",
+      "latestPatchTitle": "Hotfix 2.9.0.1 | Blood Testament",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690183",
+      "latestPatchPublishedAt": "2026-09-09T19:04:32+00:00",
       "status": "ok"
     },
     {
