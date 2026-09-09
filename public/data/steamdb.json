@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-09T09:52:40.024391+00:00",
+  "generatedAt": "2026-09-09T14:03:55.368701+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Developer Q&A: September 7th 2026!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453177",
-      "latestPatchPublishedAt": "2026-09-07T14:02:19+00:00",
+      "latestPatchTitle": "Akira Yamaoka Joins the Musical Multiverse of Active Matter!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688827",
+      "latestPatchPublishedAt": "2026-09-09T12:00:49+00:00",
       "status": "ok"
     },
     {
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452647",
-      "latestPatchPublishedAt": "2026-09-07T09:36:29+00:00",
+      "latestPatchTitle": "Update | Balance Adjustments & Bug Fixes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688954",
+      "latestPatchPublishedAt": "2026-09-09T13:00:36+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Communinet signal #20",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446778",
-      "latestPatchPublishedAt": "2026-09-04T14:35:30+00:00",
+      "latestPatchTitle": "Survival Expert: “The deserts of Dune: Awakening are incredibly realistic”",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262689139",
+      "latestPatchPublishedAt": "2026-09-09T14:01:08+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk September 2nd Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814439704",
-      "latestPatchPublishedAt": "2026-09-02T09:08:55+00:00",
+      "latestPatchTitle": "FragPunk September 9th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688641",
+      "latestPatchPublishedAt": "2026-09-09T10:37:59+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260903 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442388",
-      "latestPatchPublishedAt": "2026-09-03T06:26:19+00:00",
+      "latestPatchTitle": "Marvel Rivals breaks its 17 month streak of adding 2 heroes per season, but its creative director reassures fans it's not 'the new normal'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1843481262688985",
+      "latestPatchPublishedAt": "2026-09-09T13:06:34+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
+      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Hotfix - 1.3.3.2.148381",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455759",
-      "latestPatchPublishedAt": "2026-09-08T14:05:24+00:00",
+      "latestPatchTitle": "Hotfix - 1.3.3.3.148720",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688693",
+      "latestPatchPublishedAt": "2026-09-09T11:00:47+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688525",
-      "latestPatchPublishedAt": "2026-09-09T09:32:45+00:00",
+      "latestPatchTitle": "Concept art for tulpa! styles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688951",
+      "latestPatchPublishedAt": "2026-09-09T13:00:34+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Arjun Mk 1: Archer Prince!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688470",
-      "latestPatchPublishedAt": "2026-09-09T09:02:01+00:00",
+      "latestPatchTitle": "Hawk T Mk1A and Pre-order for the Hawk T Mk1A (FRP) — Back to School",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688709",
+      "latestPatchPublishedAt": "2026-09-09T11:08:20+00:00",
       "status": "ok"
     }
   ]
