@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-09T14:03:55.368701+00:00",
+  "generatedAt": "2026-09-09T17:46:50.843322+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Make Them Bleed | Stage 1 | Complete!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688064",
-      "latestPatchPublishedAt": "2026-09-09T05:19:59+00:00",
+      "latestPatchTitle": "Sage of Joseon DLC - Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262689416",
+      "latestPatchPublishedAt": "2026-09-09T15:25:11+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals breaks its 17 month streak of adding 2 heroes per season, but its creative director reassures fans it's not 'the new normal'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1843481262688985",
-      "latestPatchPublishedAt": "2026-09-09T13:06:34+00:00",
+      "latestPatchTitle": "Разработчики Marvel Rivals раскрыли состав боевого пропуска 10-го сезона",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1843481262689729",
+      "latestPatchPublishedAt": "2026-09-09T16:28:57+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "This Month in Sea of Thieves: September 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446246",
-      "latestPatchPublishedAt": "2026-09-04T12:00:13+00:00",
+      "latestPatchTitle": "From Concept to Cosmetic: Greed’s Reach Cutlass",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262689576",
+      "latestPatchPublishedAt": "2026-09-09T16:15:22+00:00",
       "status": "ok"
     },
     {
