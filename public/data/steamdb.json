@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-10T05:01:17.331082+00:00",
+  "generatedAt": "2026-09-10T09:36:35.208306+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Разработчики Marvel Rivals раскрыли состав боевого пропуска 10-го сезона",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1843481262689729",
-      "latestPatchPublishedAt": "2026-09-09T16:28:57+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260911 Patch Notes - Season 10 Arrives",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691410",
+      "latestPatchPublishedAt": "2026-09-10T07:33:37+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
-      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Hawk T Mk1A and Pre-order for the Hawk T Mk1A (FRP) — Back to School",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688709",
-      "latestPatchPublishedAt": "2026-09-09T11:08:20+00:00",
+      "latestPatchTitle": "EMBT: The Eurotank",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691614",
+      "latestPatchPublishedAt": "2026-09-10T09:09:47+00:00",
       "status": "ok"
     }
   ]
