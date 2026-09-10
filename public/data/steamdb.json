@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-10T13:46:49.328002+00:00",
+  "generatedAt": "2026-09-10T17:16:19.295061+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Akira Yamaoka Joins the Musical Multiverse of Active Matter!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688827",
-      "latestPatchPublishedAt": "2026-09-09T12:00:49+00:00",
+      "latestPatchTitle": "From Words to Music!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692352",
+      "latestPatchPublishedAt": "2026-09-10T14:08:38+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced & Aloft Bundle Now Available at PVE Survival Fest 2026! ⚒️",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310916",
-      "latestPatchPublishedAt": "2026-08-31T17:10:10+00:00",
+      "latestPatchTitle": "Legacy of the Giant-Kings: Part Two Arrives October 6 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692333",
+      "latestPatchPublishedAt": "2026-09-10T14:02:47+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Hotfix 2.9.0.1 | Blood Testament",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690183",
-      "latestPatchPublishedAt": "2026-09-09T19:04:32+00:00",
+      "latestPatchTitle": "Make Them Bleed | Stage 2 | Complete!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692409",
+      "latestPatchPublishedAt": "2026-09-10T14:28:14+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad 10.5.4 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444803",
-      "latestPatchPublishedAt": "2026-09-03T22:51:09+00:00",
+      "latestPatchTitle": "Squad 10.5.5 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692903",
+      "latestPatchPublishedAt": "2026-09-10T17:00:25+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "F-102A Delta Dagger: The “Bear” Hunter",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692252",
-      "latestPatchPublishedAt": "2026-09-10T13:36:56+00:00",
+      "latestPatchTitle": "40 New Camouflages Now Available in the WTCS Trophy VI!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692529",
+      "latestPatchPublishedAt": "2026-09-10T15:05:25+00:00",
       "status": "ok"
     }
   ]
