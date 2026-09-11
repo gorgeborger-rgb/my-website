@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-11T18:35:44.113206+00:00",
+  "generatedAt": "2026-09-11T21:14:36.521003+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Make Them Bleed | Stage 2 | Complete!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692409",
-      "latestPatchPublishedAt": "2026-09-10T14:28:14+00:00",
+      "latestPatchTitle": "BLOODSKIN HAS ARRIVED | Make Them Bleed | Stage 3 | Complete!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696329",
+      "latestPatchPublishedAt": "2026-09-11T20:14:58+00:00",
       "status": "ok"
     },
     {
