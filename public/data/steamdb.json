@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-11T11:32:02.865027+00:00",
+  "generatedAt": "2026-09-11T15:10:24.528308+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "PvE Survival Crafting Fest Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951310862",
-      "latestPatchPublishedAt": "2026-08-31T17:00:39+00:00",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 84) | Motobikes & Ragdoll Physics | Wishlist now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695521",
+      "latestPatchPublishedAt": "2026-09-11T14:44:10+00:00",
       "status": "ok"
     },
     {
@@ -216,9 +216,9 @@
       "game": "EFT",
       "appId": 3975470,
       "steamDbUrl": "https://steamdb.info/app/3975470/",
-      "latestPatchTitle": "Only 48 hours left: Moka Efti is opening its doors!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455811",
-      "latestPatchPublishedAt": "2026-09-08T14:23:02+00:00",
+      "latestPatchTitle": "The Babylon Berlin game “A Night at Moka Efti” is now available to play!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695211",
+      "latestPatchPublishedAt": "2026-09-11T12:59:53+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Americas Series 2: Meet The Talent!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692271",
-      "latestPatchPublishedAt": "2026-09-10T13:45:21+00:00",
+      "latestPatchTitle": "PUBG Americas Series 2: Playoffs 1 Bracket Revealed!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695265",
+      "latestPatchPublishedAt": "2026-09-11T13:21:06+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Get the La-11 and Dolgushin’s La-7 at a Discount for S.A. Lavochkin’s Birthday!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262694540",
-      "latestPatchPublishedAt": "2026-09-11T09:24:55+00:00",
+      "latestPatchTitle": "H145M: Angry Dragonfly",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695193",
+      "latestPatchPublishedAt": "2026-09-11T12:48:37+00:00",
       "status": "ok"
     }
   ]
