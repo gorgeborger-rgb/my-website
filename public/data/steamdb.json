@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-11T15:10:24.528308+00:00",
+  "generatedAt": "2026-09-11T18:35:44.113206+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter developers put up an incredibly distasteful AI notice on Steam",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1843481262694306",
-      "latestPatchPublishedAt": "2026-09-11T07:29:43+00:00",
+      "latestPatchTitle": "Even more Active Matter music is now on YouTube!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695813",
+      "latestPatchPublishedAt": "2026-09-11T16:28:57+00:00",
       "status": "ok"
     },
     {
@@ -171,7 +171,7 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 84) | Motobikes & Ragdoll Physics | Wishlist now!",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 84) | Motorbikes&Ragdoll Physics | Wishlist now!",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695521",
       "latestPatchPublishedAt": "2026-09-11T14:44:10+00:00",
       "status": "ok"
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.1.5.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455578",
-      "latestPatchPublishedAt": "2026-09-08T13:04:24+00:00",
+      "latestPatchTitle": "New in-game survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695602",
+      "latestPatchPublishedAt": "2026-09-11T15:11:15+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "H145M: Angry Dragonfly",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695193",
-      "latestPatchPublishedAt": "2026-09-11T12:48:37+00:00",
+      "latestPatchTitle": "MiG-35: The Last MiG",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695689",
+      "latestPatchPublishedAt": "2026-09-11T15:42:48+00:00",
       "status": "ok"
     }
   ]
