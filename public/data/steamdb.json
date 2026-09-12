@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-12T05:49:55.514186+00:00",
+  "generatedAt": "2026-09-12T09:37:59.101567+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "MiG-35: The Last MiG",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695689",
-      "latestPatchPublishedAt": "2026-09-11T15:42:48+00:00",
+      "latestPatchTitle": "Screenshot Competition – Steel and Stone!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696980",
+      "latestPatchPublishedAt": "2026-09-12T06:05:13+00:00",
       "status": "ok"
     }
   ]
