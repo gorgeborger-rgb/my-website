@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-14T18:41:16.320619+00:00",
+  "generatedAt": "2026-09-14T22:05:44.858483+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Anti-Cheat Update - 09/10/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262693320",
-      "latestPatchPublishedAt": "2026-09-10T20:16:11+00:00",
+      "latestPatchTitle": "Apex Legends™: Marked Midseason Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702712",
+      "latestPatchPublishedAt": "2026-09-14T18:41:23+00:00",
       "status": "ok"
     },
     {
