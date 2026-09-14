@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-14T06:37:11.831025+00:00",
+  "generatedAt": "2026-09-14T13:17:59.486185+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Season 34 Starts Saturday",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691697",
-      "latestPatchPublishedAt": "2026-09-10T10:00:25+00:00",
+      "latestPatchTitle": "Guide: Region Queue",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701267",
+      "latestPatchPublishedAt": "2026-09-14T10:06:47+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Layali Grove 2.0 — More Than One Way Through",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692135",
-      "latestPatchPublishedAt": "2026-09-10T13:00:35+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701155",
+      "latestPatchPublishedAt": "2026-09-14T09:20:35+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Steel and Stone!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696980",
-      "latestPatchPublishedAt": "2026-09-12T06:05:13+00:00",
+      "latestPatchTitle": "Update 2.57.1.140",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701491",
+      "latestPatchPublishedAt": "2026-09-14T11:58:19+00:00",
       "status": "ok"
     }
   ]
