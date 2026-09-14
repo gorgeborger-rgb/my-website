@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-14T13:17:59.486185+00:00",
+  "generatedAt": "2026-09-14T18:41:16.320619+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Even more Active Matter music is now on YouTube!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695813",
-      "latestPatchPublishedAt": "2026-09-11T16:28:57+00:00",
+      "latestPatchTitle": "Harmonization Cycles Q&A",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702675",
+      "latestPatchPublishedAt": "2026-09-14T18:26:58+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.1.2 | Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455826",
-      "latestPatchPublishedAt": "2026-09-08T14:30:39+00:00",
+      "latestPatchTitle": "Dev Update | 10.2.0 Perks Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701761",
+      "latestPatchPublishedAt": "2026-09-14T14:00:30+00:00",
       "status": "ok"
     },
     {
@@ -216,9 +216,9 @@
       "game": "EFT",
       "appId": 3975470,
       "steamDbUrl": "https://steamdb.info/app/3975470/",
-      "latestPatchTitle": "The Babylon Berlin game “A Night at Moka Efti” is now available to play!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695211",
-      "latestPatchPublishedAt": "2026-09-11T12:59:53+00:00",
+      "latestPatchTitle": "Update 1.0.2: Organizing Research Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701870",
+      "latestPatchPublishedAt": "2026-09-14T14:38:35+00:00",
       "status": "ok"
     },
     {
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "BLOODSKIN HAS ARRIVED | Make Them Bleed | Stage 3 | Complete!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696329",
-      "latestPatchPublishedAt": "2026-09-11T20:14:58+00:00",
+      "latestPatchTitle": "Pre-order the Bound By Blood Necklace and Corruption's Cup now.",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702258",
+      "latestPatchPublishedAt": "2026-09-14T16:26:42+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie готова сдать в аренду свою штаб-квартиру на срок до 2035 года",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1842846814452504",
-      "latestPatchPublishedAt": "2026-09-07T03:20:09+00:00",
+      "latestPatchTitle": "Marathon Development Update - Nightfall Refresh and Symbiosis",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702400",
+      "latestPatchPublishedAt": "2026-09-14T17:00:38+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.1.140",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701491",
-      "latestPatchPublishedAt": "2026-09-14T11:58:19+00:00",
+      "latestPatchTitle": "HMS Lion: One Last Roar",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702123",
+      "latestPatchPublishedAt": "2026-09-14T15:47:47+00:00",
       "status": "ok"
     }
   ]
