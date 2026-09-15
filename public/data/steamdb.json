@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-15T05:16:04.581803+00:00",
+  "generatedAt": "2026-09-15T10:07:30.312213+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Live Update 1.45.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455073",
-      "latestPatchPublishedAt": "2026-09-08T09:03:11+00:00",
+      "latestPatchTitle": "Store Update 1.46.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703998",
+      "latestPatchPublishedAt": "2026-09-15T09:01:48+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Harmonization Cycles Q&A",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702675",
-      "latestPatchPublishedAt": "2026-09-14T18:26:58+00:00",
+      "latestPatchTitle": "Active Matter Is Now Available On PC",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704000",
+      "latestPatchPublishedAt": "2026-09-15T09:02:53+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - September 9th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688495",
-      "latestPatchPublishedAt": "2026-09-09T09:21:56+00:00",
+      "latestPatchTitle": "Season 7 UTOPIA Arrives with Massive Rewards!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703981",
+      "latestPatchPublishedAt": "2026-09-15T08:55:02+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - September 9th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688495",
-      "latestPatchPublishedAt": "2026-09-09T09:21:56+00:00",
+      "latestPatchTitle": "Season 7 UTOPIA Arrives with Massive Rewards!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703981",
+      "latestPatchPublishedAt": "2026-09-15T08:55:02+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Gray Zone Warfare Enters Alpha This Fall",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444292",
-      "latestPatchPublishedAt": "2026-09-03T18:19:44+00:00",
+      "latestPatchTitle": "Hotfix 0.4.7.4 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704029",
+      "latestPatchPublishedAt": "2026-09-15T09:16:15+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Development Update - Nightfall Refresh and Symbiosis",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702400",
-      "latestPatchPublishedAt": "2026-09-14T17:00:38+00:00",
+      "latestPatchTitle": "Мёртвому припарки: Bungie отложила релиз нового контента для Marathon до декабря",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1843481262703675",
+      "latestPatchPublishedAt": "2026-09-15T02:59:00+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "+50% Season Pass progression",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262694491",
-      "latestPatchPublishedAt": "2026-09-11T09:00:15+00:00",
+      "latestPatchTitle": "Meteorologists predict a bountiful weekend",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704120",
+      "latestPatchPublishedAt": "2026-09-15T09:57:37+00:00",
       "status": "ok"
     },
     {
