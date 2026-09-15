@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-15T10:07:30.312213+00:00",
+  "generatedAt": "2026-09-15T14:57:19.309178+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Guide: Region Queue",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701267",
-      "latestPatchPublishedAt": "2026-09-14T10:06:47+00:00",
+      "latestPatchTitle": "Join Our Dragonfire Live Q&A",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704160",
+      "latestPatchPublishedAt": "2026-09-15T10:15:55+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Legacy of the Giant-Kings: Part Two Arrives October 6 ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692333",
-      "latestPatchPublishedAt": "2026-09-10T14:02:47+00:00",
+      "latestPatchTitle": "Update 2.2.0: Engine Upgrade, Iris Networking & New Bazaar Bundles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704693",
+      "latestPatchPublishedAt": "2026-09-15T14:08:29+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dev Update | 10.2.0 Perks Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701761",
-      "latestPatchPublishedAt": "2026-09-14T14:00:30+00:00",
+      "latestPatchTitle": "Denuvo Anti Cheat Trial Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704672",
+      "latestPatchPublishedAt": "2026-09-15T14:00:06+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Survival Expert: “The deserts of Dune: Awakening are incredibly realistic”",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262689139",
-      "latestPatchPublishedAt": "2026-09-09T14:01:08+00:00",
+      "latestPatchTitle": "What Is Dune: Awakening? New Video Welcomes New Players ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704674",
+      "latestPatchPublishedAt": "2026-09-15T14:00:19+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "New in-game survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695602",
-      "latestPatchPublishedAt": "2026-09-11T15:11:15+00:00",
+      "latestPatchTitle": "Leagues are live!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704542",
+      "latestPatchPublishedAt": "2026-09-15T13:08:44+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "HMS Lion: One Last Roar",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702123",
-      "latestPatchPublishedAt": "2026-09-14T15:47:47+00:00",
+      "latestPatchTitle": "A Decal & Discounts for Battle of Britain Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704292",
+      "latestPatchPublishedAt": "2026-09-15T11:23:04+00:00",
       "status": "ok"
     }
   ]
