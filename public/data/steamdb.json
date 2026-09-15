@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-15T14:57:19.309178+00:00",
+  "generatedAt": "2026-09-15T18:41:49.959919+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends™: Marked Midseason Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702712",
-      "latestPatchPublishedAt": "2026-09-14T18:41:23+00:00",
+      "latestPatchTitle": "Apex Legends VS Street Fighter 6 Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704926",
+      "latestPatchPublishedAt": "2026-09-15T15:28:24+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Denuvo Anti Cheat Trial Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704672",
-      "latestPatchPublishedAt": "2026-09-15T14:00:06+00:00",
+      "latestPatchTitle": "10.2.0 | PTB Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704854",
+      "latestPatchPublishedAt": "2026-09-15T15:07:04+00:00",
       "status": "ok"
     },
     {
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Pre-order the Bound By Blood Necklace and Corruption's Cup now.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702258",
-      "latestPatchPublishedAt": "2026-09-14T16:26:42+00:00",
+      "latestPatchTitle": "New Free Story Challenge | Written in Blood | Blood Testament",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704848",
+      "latestPatchPublishedAt": "2026-09-15T15:05:49+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Мёртвому припарки: Bungie отложила релиз нового контента для Marathon до декабря",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1843481262703675",
-      "latestPatchPublishedAt": "2026-09-15T02:59:00+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.9.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705014",
+      "latestPatchPublishedAt": "2026-09-15T16:00:43+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Meteorologists predict a bountiful weekend",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704120",
-      "latestPatchPublishedAt": "2026-09-15T09:57:37+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705009",
+      "latestPatchPublishedAt": "2026-09-15T15:59:45+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Decal & Discounts for Battle of Britain Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704292",
-      "latestPatchPublishedAt": "2026-09-15T11:23:04+00:00",
+      "latestPatchTitle": "Planned Technical Works on 16.09.2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705200",
+      "latestPatchPublishedAt": "2026-09-15T17:19:37+00:00",
       "status": "ok"
     }
   ]
