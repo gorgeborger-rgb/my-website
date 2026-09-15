@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-15T00:31:34.019314+00:00",
+  "generatedAt": "2026-09-15T05:16:04.581803+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,18 +324,18 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Americas Series 2: Playoffs 1 Day 3 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262698650",
-      "latestPatchPublishedAt": "2026-09-13T01:59:20+00:00",
+      "latestPatchTitle": "Now Available: Team Edition Skins 2nd Drop!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703376",
+      "latestPatchPublishedAt": "2026-09-15T02:00:01+00:00",
       "status": "ok"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1843481262693002",
-      "latestPatchPublishedAt": "2026-09-10T17:22:59+00:00",
+      "latestPatchTitle": "v1.0.5: Bug fixes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703464",
+      "latestPatchPublishedAt": "2026-09-15T03:03:47+00:00",
       "status": "ok"
     },
     {
