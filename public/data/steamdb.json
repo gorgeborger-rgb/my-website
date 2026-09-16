@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-16T06:49:13.449097+00:00",
+  "generatedAt": "2026-09-16T12:11:55.050713+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.46.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703998",
-      "latestPatchPublishedAt": "2026-09-15T09:01:48+00:00",
+      "latestPatchTitle": "Hotfix 1.46.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488417",
+      "latestPatchPublishedAt": "2026-09-16T08:11:06+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 84) | Motorbikes&Ragdoll Physics | Wishlist now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695521",
-      "latestPatchPublishedAt": "2026-09-11T14:44:10+00:00",
+      "latestPatchTitle": "1.30 Experimental Release | Motorbikes, Inventory UI Improvements, and more!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488662",
+      "latestPatchPublishedAt": "2026-09-16T10:08:09+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk September 9th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688641",
-      "latestPatchPublishedAt": "2026-09-09T10:37:59+00:00",
+      "latestPatchTitle": "FragPunk September 16th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488814",
+      "latestPatchPublishedAt": "2026-09-16T11:18:47+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List September 8th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456139",
-      "latestPatchPublishedAt": "2026-09-08T16:06:16+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List September 15th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488275",
+      "latestPatchPublishedAt": "2026-09-16T06:51:53+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Now Available: Team Edition Skins 2nd Drop!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703376",
-      "latestPatchPublishedAt": "2026-09-15T02:00:01+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/07~09/13)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488289",
+      "latestPatchPublishedAt": "2026-09-16T07:00:07+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705009",
-      "latestPatchPublishedAt": "2026-09-15T15:59:45+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488540",
+      "latestPatchPublishedAt": "2026-09-16T09:02:43+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Planned Technical Works on 16.09.2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705200",
-      "latestPatchPublishedAt": "2026-09-15T17:19:37+00:00",
+      "latestPatchTitle": "Meet the “Sky Odyssey” Major Update! ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488572",
+      "latestPatchPublishedAt": "2026-09-16T09:20:34+00:00",
       "status": "ok"
     }
   ]
