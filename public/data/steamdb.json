@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-16T17:01:03.133806+00:00",
+  "generatedAt": "2026-09-16T20:02:27.131071+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 06",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456331",
-      "latestPatchPublishedAt": "2026-09-08T17:08:11+00:00",
+      "latestPatchTitle": "Call of Duty: Modern Warfare 4: The Story So Far",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489694",
+      "latestPatchPublishedAt": "2026-09-16T17:03:15+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad 10.5.5 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692903",
-      "latestPatchPublishedAt": "2026-09-10T17:00:25+00:00",
+      "latestPatchTitle": "Squad 10.5.6 Hotfix Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489819",
+      "latestPatchPublishedAt": "2026-09-16T18:01:04+00:00",
       "status": "ok"
     },
     {
