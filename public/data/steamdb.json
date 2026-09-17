@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-17T05:51:54.567582+00:00",
+  "generatedAt": "2026-09-17T10:44:17.948607+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter Is Now Available On PC",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704000",
-      "latestPatchPublishedAt": "2026-09-15T09:02:53+00:00",
+      "latestPatchTitle": "Update 0.4.0.115",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491563",
+      "latestPatchPublishedAt": "2026-09-17T10:17:11+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Join Our Dragonfire Live Q&A",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704160",
-      "latestPatchPublishedAt": "2026-09-15T10:15:55+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: Regaro",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491524",
+      "latestPatchPublishedAt": "2026-09-17T10:00:29+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Modern Warfare 4: The Story So Far",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489694",
-      "latestPatchPublishedAt": "2026-09-16T17:03:15+00:00",
+      "latestPatchTitle": "Modern Warfare 4: Tokyo Games Show Campaign Trailer",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491544",
+      "latestPatchPublishedAt": "2026-09-17T10:08:28+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260911 Patch Notes - Season 10 Arrives",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691410",
-      "latestPatchPublishedAt": "2026-09-10T07:33:37+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260917 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491291",
+      "latestPatchPublishedAt": "2026-09-17T08:45:27+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 11.9.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691696",
-      "latestPatchPublishedAt": "2026-09-10T09:59:53+00:00",
+      "latestPatchTitle": "Update 11.10.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491518",
+      "latestPatchPublishedAt": "2026-09-17T09:59:53+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Meet the “Sky Odyssey” Major Update! ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488572",
-      "latestPatchPublishedAt": "2026-09-16T09:20:34+00:00",
+      "latestPatchTitle": "The YP-38 is Available at a Discount on the Anniversary of its First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491360",
+      "latestPatchPublishedAt": "2026-09-17T09:19:36+00:00",
       "status": "ok"
     }
   ]
