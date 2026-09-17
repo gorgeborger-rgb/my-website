@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-17T19:05:52.210614+00:00",
+  "generatedAt": "2026-09-17T22:06:08.381310+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "THE NEW DUNE: AWAKENING IS HERE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491805",
-      "latestPatchPublishedAt": "2026-09-17T12:00:34+00:00",
+      "latestPatchTitle": "Император ступил на путь варвара: Обзор Dune: Awakening",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1844115010493337",
+      "latestPatchPublishedAt": "2026-09-17T21:00:00+00:00",
       "status": "ok"
     },
     {
