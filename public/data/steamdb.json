@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-17T10:44:17.948607+00:00",
+  "generatedAt": "2026-09-17T15:19:17.968900+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,9 +81,9 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Steam Midweek Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453607",
-      "latestPatchPublishedAt": "2026-09-07T17:05:33+00:00",
+      "latestPatchTitle": "Community Radar #62",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492407",
+      "latestPatchPublishedAt": "2026-09-17T15:15:14+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Update 2.2.0: Engine Upgrade, Iris Networking & New Bazaar Bundles",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704693",
-      "latestPatchPublishedAt": "2026-09-15T14:08:29+00:00",
+      "latestPatchTitle": "September Hotfix",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492099",
+      "latestPatchPublishedAt": "2026-09-17T13:57:40+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.2.0 | PTB Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704854",
-      "latestPatchPublishedAt": "2026-09-15T15:07:04+00:00",
+      "latestPatchTitle": "10.1.2a | Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492341",
+      "latestPatchPublishedAt": "2026-09-17T15:00:07+00:00",
       "status": "ok"
     },
     {
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701155",
-      "latestPatchPublishedAt": "2026-09-14T09:20:35+00:00",
+      "latestPatchTitle": "Join & Win for Rewards, Operator Balance Adjustments, and More",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491806",
+      "latestPatchPublishedAt": "2026-09-17T12:00:35+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "What Is Dune: Awakening? New Video Welcomes New Players ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704674",
-      "latestPatchPublishedAt": "2026-09-15T14:00:19+00:00",
+      "latestPatchTitle": "THE NEW DUNE: AWAKENING IS HERE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491805",
+      "latestPatchPublishedAt": "2026-09-17T12:00:34+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "From Concept to Cosmetic: Greed’s Reach Cutlass",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262689576",
-      "latestPatchPublishedAt": "2026-09-09T16:15:22+00:00",
+      "latestPatchTitle": "Sea of Thieves Release Notes – 3.9.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491911",
+      "latestPatchPublishedAt": "2026-09-17T12:45:13+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The YP-38 is Available at a Discount on the Anniversary of its First Flight!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491360",
-      "latestPatchPublishedAt": "2026-09-17T09:19:36+00:00",
+      "latestPatchTitle": "Update 2.59.0.11",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492259",
+      "latestPatchPublishedAt": "2026-09-17T14:38:29+00:00",
       "status": "ok"
     }
   ]
