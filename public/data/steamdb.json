@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-18T17:11:17.758114+00:00",
+  "generatedAt": "2026-09-18T19:39:15.591109+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Rewards for Watching Active Matter Streams All Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494363",
-      "latestPatchPublishedAt": "2026-09-18T10:28:47+00:00",
+      "latestPatchTitle": "Update 0.4.0.122",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495607",
+      "latestPatchPublishedAt": "2026-09-18T17:30:28+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 9/17/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492838",
-      "latestPatchPublishedAt": "2026-09-17T17:34:56+00:00",
+      "latestPatchTitle": "An Update from the Anti Cheat Team - 09/18/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495631",
+      "latestPatchPublishedAt": "2026-09-18T17:37:54+00:00",
       "status": "ok"
     },
     {
