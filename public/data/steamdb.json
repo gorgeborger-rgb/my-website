@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-18T09:11:24.145014+00:00",
+  "generatedAt": "2026-09-18T13:37:50.138994+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.115",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491563",
-      "latestPatchPublishedAt": "2026-09-17T10:17:11+00:00",
+      "latestPatchTitle": "Rewards for Watching Active Matter Streams All Week!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494363",
+      "latestPatchPublishedAt": "2026-09-18T10:28:47+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "September Hotfix",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492099",
-      "latestPatchPublishedAt": "2026-09-17T13:57:40+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced Community Update - September",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494561",
+      "latestPatchPublishedAt": "2026-09-18T12:00:59+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Император ступил на путь варвара: Обзор Dune: Awakening",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1844115010493337",
-      "latestPatchPublishedAt": "2026-09-17T21:00:00+00:00",
+      "latestPatchTitle": "Dune: Awakening v1.5 brings a full single-player mode and much more customization",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844115010494191",
+      "latestPatchPublishedAt": "2026-09-18T09:09:07+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.9.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705014",
-      "latestPatchPublishedAt": "2026-09-15T16:00:43+00:00",
+      "latestPatchTitle": "Sony сделает Marathon условно-бесплатной PvE-игрой и объединит с Destiny?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1844115010494480",
+      "latestPatchPublishedAt": "2026-09-18T03:41:06+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Drop In: PUBG College Royale Returns for the Fall 2026 Season!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010493042",
-      "latestPatchPublishedAt": "2026-09-17T19:01:29+00:00",
+      "latestPatchTitle": "PAS2 Finals 1: Drops available this weekend!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494697",
+      "latestPatchPublishedAt": "2026-09-18T12:58:10+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.11",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492259",
-      "latestPatchPublishedAt": "2026-09-17T14:38:29+00:00",
+      "latestPatchTitle": "Discounts on Rare Variants of the Mi-24 for the Anniversary of its First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494751",
+      "latestPatchPublishedAt": "2026-09-18T13:12:52+00:00",
       "status": "ok"
     }
   ]
