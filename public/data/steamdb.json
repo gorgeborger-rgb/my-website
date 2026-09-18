@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-18T04:38:22.282763+00:00",
+  "generatedAt": "2026-09-18T09:11:24.145014+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "EAS10 Warlord Tournament Applications",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452007",
-      "latestPatchPublishedAt": "2026-09-07T02:15:17+00:00",
+      "latestPatchTitle": "Early Access Hotfix #126",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010493853",
+      "latestPatchPublishedAt": "2026-09-18T05:31:49+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.4.7.4 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704029",
-      "latestPatchPublishedAt": "2026-09-15T09:16:15+00:00",
+      "latestPatchTitle": "Security Report: Recent Exploit & Actions Taken",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494057",
+      "latestPatchPublishedAt": "2026-09-18T08:00:19+00:00",
       "status": "ok"
     },
     {
@@ -378,18 +378,18 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Lofi mix: campfire edition",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492737",
-      "latestPatchPublishedAt": "2026-09-17T17:02:04+00:00",
+      "latestPatchTitle": "Cloudy with a Chance of Artifacts",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494145",
+      "latestPatchPublishedAt": "2026-09-18T08:59:42+00:00",
       "status": "ok"
     },
     {
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Sea of Thieves Release Notes – 3.9.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491911",
-      "latestPatchPublishedAt": "2026-09-17T12:45:13+00:00",
+      "latestPatchTitle": "Lose Yourself in Live Events in Sea of Thieves Season 21",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494049",
+      "latestPatchPublishedAt": "2026-09-18T07:55:17+00:00",
       "status": "ok"
     },
     {
