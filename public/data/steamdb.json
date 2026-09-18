@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-18T13:37:50.138994+00:00",
+  "generatedAt": "2026-09-18T17:11:17.758114+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -117,9 +117,9 @@
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "DevBlog #01 - Customization & Chittering Chills",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055889128",
-      "latestPatchPublishedAt": "2026-07-31T19:00:11+00:00",
+      "latestPatchTitle": "DevBlog #02 - Public Test Announcement!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495302",
+      "latestPatchPublishedAt": "2026-09-18T16:01:00+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #126",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010493853",
-      "latestPatchPublishedAt": "2026-09-18T05:31:49+00:00",
+      "latestPatchTitle": "Tokyo Game Show 2026 - We're Here!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494872",
+      "latestPatchPublishedAt": "2026-09-18T13:53:00+00:00",
       "status": "ok"
     },
     {
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "WIP: New Vehicles and Tires, New POI, Boars, More Missions",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780338",
-      "latestPatchPublishedAt": "2026-08-14T17:10:02+00:00",
+      "latestPatchTitle": "PTS 1.11: Boars, New Vehicle Features & Lots of Balance Changes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495460",
+      "latestPatchPublishedAt": "2026-09-18T16:53:03+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "New Dime Novel - Corruption's Cup",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492510",
-      "latestPatchPublishedAt": "2026-09-17T15:47:59+00:00",
+      "latestPatchTitle": "Hotfix 2.9.0.3 | Blood Testament",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495159",
+      "latestPatchPublishedAt": "2026-09-18T15:15:21+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 11.10.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491518",
-      "latestPatchPublishedAt": "2026-09-17T09:59:53+00:00",
+      "latestPatchTitle": "A New Chapter",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495295",
+      "latestPatchPublishedAt": "2026-09-18T16:00:27+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Discounts on Rare Variants of the Mi-24 for the Anniversary of its First Flight!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494751",
-      "latestPatchPublishedAt": "2026-09-18T13:12:52+00:00",
+      "latestPatchTitle": "Update 2.59.0.13",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495099",
+      "latestPatchPublishedAt": "2026-09-18T15:00:26+00:00",
       "status": "ok"
     }
   ]
