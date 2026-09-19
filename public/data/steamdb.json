@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-19T14:41:09.607408+00:00",
+  "generatedAt": "2026-09-19T17:28:06.699555+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening v1.5 brings a full single-player mode and much more customization",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844115010494191",
-      "latestPatchPublishedAt": "2026-09-18T09:09:07+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.3.1 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010497313",
+      "latestPatchPublishedAt": "2026-09-19T15:02:24+00:00",
       "status": "ok"
     },
     {
