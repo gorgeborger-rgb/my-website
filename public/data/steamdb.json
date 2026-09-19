@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-19T01:40:11.955424+00:00",
+  "generatedAt": "2026-09-19T06:36:35.868218+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS2 Finals 1: Drops available this weekend!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494697",
-      "latestPatchPublishedAt": "2026-09-18T12:58:10+00:00",
+      "latestPatchTitle": "PAS2 Finals 1 Day 2 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496482",
+      "latestPatchPublishedAt": "2026-09-19T02:16:59+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.13",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495099",
-      "latestPatchPublishedAt": "2026-09-18T15:00:26+00:00",
+      "latestPatchTitle": "Screenshot Competition – Sky Odyssey!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496623",
+      "latestPatchPublishedAt": "2026-09-19T05:00:02+00:00",
       "status": "ok"
     }
   ]
