@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-18T23:46:56.703441+00:00",
+  "generatedAt": "2026-09-19T01:40:11.955424+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 523: Swipe Right",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696728",
-      "latestPatchPublishedAt": "2026-09-12T00:20:23+00:00",
+      "latestPatchTitle": "Community Crunch 524: Three of a Kind",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496332",
+      "latestPatchPublishedAt": "2026-09-19T00:05:23+00:00",
       "status": "ok"
     },
     {
