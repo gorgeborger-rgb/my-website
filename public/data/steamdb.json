@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-20T01:26:37.669703+00:00",
+  "generatedAt": "2026-09-20T06:37:22.879916+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Season 7 UTOPIA Arrives with Massive Rewards!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703981",
-      "latestPatchPublishedAt": "2026-09-15T08:55:02+00:00",
+      "latestPatchTitle": "Special Enforcement Against Negative Behavior",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498322",
+      "latestPatchPublishedAt": "2026-09-20T04:01:53+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Season 7 UTOPIA Arrives with Massive Rewards!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703981",
-      "latestPatchPublishedAt": "2026-09-15T08:55:02+00:00",
+      "latestPatchTitle": "Special Enforcement Against Negative Behavior",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498322",
+      "latestPatchPublishedAt": "2026-09-20T04:01:53+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS2 Finals 1 Day 2 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496482",
-      "latestPatchPublishedAt": "2026-09-19T02:16:59+00:00",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
