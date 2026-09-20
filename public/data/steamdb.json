@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-20T06:37:22.879916+00:00",
+  "generatedAt": "2026-09-20T11:46:58.476494+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Join & Win for Rewards, Operator Balance Adjustments, and More",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491806",
-      "latestPatchPublishedAt": "2026-09-17T12:00:35+00:00",
+      "latestPatchTitle": "Delta Force | ANNIVERSARY SEASON STREAMER",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498750",
+      "latestPatchPublishedAt": "2026-09-20T11:22:49+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Have a question about game balance? Now’s the time to ask",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010497041",
-      "latestPatchPublishedAt": "2026-09-19T11:59:33+00:00",
+      "latestPatchTitle": "It's Not Over Yet",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498721",
+      "latestPatchPublishedAt": "2026-09-20T11:01:30+00:00",
       "status": "ok"
     },
     {
