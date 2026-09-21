@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-21T16:34:19.325387+00:00",
+  "generatedAt": "2026-09-21T20:32:06.822933+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "The Agency Is Recruiting Content Creators!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501308",
-      "latestPatchPublishedAt": "2026-09-21T13:01:16+00:00",
+      "latestPatchTitle": "Плановые технические работы на серверах Active Matter",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502308",
+      "latestPatchPublishedAt": "2026-09-21T19:09:57+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "An Update from the Anti Cheat Team - 09/18/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495631",
-      "latestPatchPublishedAt": "2026-09-18T17:37:54+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 09/21/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502111",
+      "latestPatchPublishedAt": "2026-09-21T17:41:03+00:00",
       "status": "ok"
     },
     {
@@ -279,18 +279,18 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "The Next Chapter for Bungie",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501772",
-      "latestPatchPublishedAt": "2026-09-21T16:00:37+00:00",
+      "latestPatchTitle": "\"Мы надеялись на большее\": Bungie признала, что Marathon не собрала нужную аудиторию",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010501919",
+      "latestPatchPublishedAt": "2026-09-21T16:33:04+00:00",
       "status": "ok"
     },
     {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260917 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491291",
-      "latestPatchPublishedAt": "2026-09-17T08:45:27+00:00",
+      "latestPatchTitle": "В Marvel Rivals убрали отдельную категорию жалоб на оскорбительные и враждебные высказывания",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010502042",
+      "latestPatchPublishedAt": "2026-09-21T17:01:40+00:00",
       "status": "ok"
     },
     {
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.11 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444212",
-      "latestPatchPublishedAt": "2026-09-03T17:47:32+00:00",
+      "latestPatchTitle": "3.26.3.12 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502406",
+      "latestPatchPublishedAt": "2026-09-21T20:03:33+00:00",
       "status": "ok"
     },
     {
