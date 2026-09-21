@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-21T20:32:06.822933+00:00",
+  "generatedAt": "2026-09-21T23:32:55.895462+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Leagues are live!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704542",
-      "latestPatchPublishedAt": "2026-09-15T13:08:44+00:00",
+      "latestPatchTitle": "Создатели Escape from Tarkov будут издавать рискованные игры, которые другие издатели обходят стороной",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010502497",
+      "latestPatchPublishedAt": "2026-09-21T20:48:31+00:00",
       "status": "ok"
     },
     {
