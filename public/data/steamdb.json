@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-21T05:00:17.467219+00:00",
+  "generatedAt": "2026-09-21T10:33:38.702939+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Special Enforcement Against Negative Behavior",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498322",
-      "latestPatchPublishedAt": "2026-09-20T04:01:53+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite начала сильнее наказывать афк-игроков: за пассивность в бою грозит блокировка",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010500785",
+      "latestPatchPublishedAt": "2026-09-21T08:47:41+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Special Enforcement Against Negative Behavior",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498322",
-      "latestPatchPublishedAt": "2026-09-20T04:01:53+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite начала сильнее наказывать афк-игроков: за пассивность в бою грозит блокировка",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010500785",
+      "latestPatchPublishedAt": "2026-09-21T08:47:41+00:00",
       "status": "ok"
     },
     {
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Delta Force | ANNIVERSARY SEASON STREAMER",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498750",
-      "latestPatchPublishedAt": "2026-09-20T11:22:49+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010500770",
+      "latestPatchPublishedAt": "2026-09-21T08:54:33+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.3.1 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010497313",
-      "latestPatchPublishedAt": "2026-09-19T15:02:24+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.3.2 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010500924",
+      "latestPatchPublishedAt": "2026-09-21T10:00:56+00:00",
       "status": "ok"
     },
     {
