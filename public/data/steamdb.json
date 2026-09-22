@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-22T12:14:52.270719+00:00",
+  "generatedAt": "2026-09-22T16:59:46.840136+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Scheduled Maintenance on Active Matter Servers",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502308",
-      "latestPatchPublishedAt": "2026-09-21T19:09:57+00:00",
+      "latestPatchTitle": "Update 0.4.0.135",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504721",
+      "latestPatchPublishedAt": "2026-09-22T16:10:39+00:00",
       "status": "ok"
     },
     {
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010500770",
-      "latestPatchPublishedAt": "2026-09-21T08:54:33+00:00",
+      "latestPatchTitle": "2nd Anniversary Celebration Begins | Limited-Time Delta Tickets & Free Bundle",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504274",
+      "latestPatchPublishedAt": "2026-09-22T14:00:44+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.3.3 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504010",
-      "latestPatchPublishedAt": "2026-09-22T12:05:42+00:00",
+      "latestPatchTitle": "Dune: Awakening стала доступна на консолях; новый одиночный режим и кино-DLC уже в продаже на всех платформах",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010504093",
+      "latestPatchPublishedAt": "2026-09-22T12:44:44+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "U21 Experimental Branch is LIVE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446475",
-      "latestPatchPublishedAt": "2026-09-04T13:16:20+00:00",
+      "latestPatchTitle": "Update 21 | Full Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504686",
+      "latestPatchPublishedAt": "2026-09-22T16:01:18+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844115010503885",
-      "latestPatchPublishedAt": "2026-09-22T10:58:45+00:00",
+      "latestPatchTitle": "Bungie admits Marathon \"did not reach as many players as we hoped\" as it plans major changes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1844115010503831",
+      "latestPatchPublishedAt": "2026-09-22T10:30:20+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Save up to 90% on games during the Ubisoft 40th Publisher Sale!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492911",
-      "latestPatchPublishedAt": "2026-09-17T18:00:52+00:00",
+      "latestPatchTitle": "Молодое поколение геймеров ломает тактическую механику Rainbow Six Siege беготней в стиле Рэмбо",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010504556",
+      "latestPatchPublishedAt": "2026-09-22T15:24:26+00:00",
       "status": "ok"
     },
     {
@@ -369,18 +369,18 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "Hachiman: Race to Radiant!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455546",
-      "latestPatchPublishedAt": "2026-09-08T13:00:29+00:00",
+      "latestPatchTitle": "Hel: Race to Radiant!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504466",
+      "latestPatchPublishedAt": "2026-09-22T14:59:23+00:00",
       "status": "ok"
     },
     {
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "STALZONE Art Contest",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501437",
-      "latestPatchPublishedAt": "2026-09-21T13:47:13+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504658",
+      "latestPatchPublishedAt": "2026-09-22T15:54:44+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Sky Odyssey!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496623",
-      "latestPatchPublishedAt": "2026-09-19T05:00:02+00:00",
+      "latestPatchTitle": "Update 2.59.0.22",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504531",
+      "latestPatchPublishedAt": "2026-09-22T15:16:00+00:00",
       "status": "ok"
     }
   ]
