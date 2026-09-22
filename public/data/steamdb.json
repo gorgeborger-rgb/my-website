@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-22T06:50:26.923111+00:00",
+  "generatedAt": "2026-09-22T12:14:52.270719+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Авторы ARC Raiders покажут крупное обновление Frozen Trail 23 сентября - игроков ждёт новая карта и опасный противник",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499338",
-      "latestPatchPublishedAt": "2026-09-19T07:52:28+00:00",
+      "latestPatchTitle": "Store Update 1.47.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503597",
+      "latestPatchPublishedAt": "2026-09-22T09:01:52+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: Regaro",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491524",
-      "latestPatchPublishedAt": "2026-09-17T10:00:29+00:00",
+      "latestPatchTitle": "The Royal Hunt: Midpoint Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503719",
+      "latestPatchPublishedAt": "2026-09-22T10:00:31+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Разработчики DayZ отказались от велосипедов из-за технических ограничений устаревшего движка",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499271",
-      "latestPatchPublishedAt": "2026-09-20T09:42:25+00:00",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog Recap (2)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503980",
+      "latestPatchPublishedAt": "2026-09-22T11:50:59+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Get free cosmetics and help streamers raise money for charity ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501591",
-      "latestPatchPublishedAt": "2026-09-21T14:43:50+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.3.3 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504010",
+      "latestPatchPublishedAt": "2026-09-22T12:05:42+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "\"Мы надеялись на большее\": Bungie признала, что Marathon не собрала нужную аудиторию",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010501919",
-      "latestPatchPublishedAt": "2026-09-21T16:33:04+00:00",
+      "latestPatchTitle": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844115010503885",
+      "latestPatchPublishedAt": "2026-09-22T10:58:45+00:00",
       "status": "ok"
     },
     {
