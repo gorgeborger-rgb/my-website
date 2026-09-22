@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-21T23:32:55.895462+00:00",
+  "generatedAt": "2026-09-22T01:48:28.529501+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,7 +36,7 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Плановые технические работы на серверах Active Matter",
+      "latestPatchTitle": "Scheduled Maintenance on Active Matter Servers",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502308",
       "latestPatchPublishedAt": "2026-09-21T19:09:57+00:00",
       "status": "ok"
