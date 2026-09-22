@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-22T20:03:32.888087+00:00",
+  "generatedAt": "2026-09-22T22:53:58.731347+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "В Marvel Rivals убрали отдельную категорию жалоб на оскорбительные и враждебные высказывания",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010502042",
-      "latestPatchPublishedAt": "2026-09-21T17:01:40+00:00",
+      "latestPatchTitle": "Разработчики Marvel Rivals показали трейлер новой карты God Quarry - кладбища поверженных богов",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010505475",
+      "latestPatchPublishedAt": "2026-09-22T21:32:39+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Lose Yourself in Live Events in Sea of Thieves Season 21",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494049",
-      "latestPatchPublishedAt": "2026-09-18T07:55:17+00:00",
+      "latestPatchTitle": "Официально: Activision Blizzard теперь отвечает за Halo, Microsoft готовит к закрытию Ninja Theory",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1844115010505418",
+      "latestPatchPublishedAt": "2026-09-22T20:25:27+00:00",
       "status": "ok"
     },
     {
