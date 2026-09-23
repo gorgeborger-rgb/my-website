@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-23T05:54:18.203068+00:00",
+  "generatedAt": "2026-09-23T10:32:57.453727+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Royal Hunt: Midpoint Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503719",
-      "latestPatchPublishedAt": "2026-09-22T10:00:31+00:00",
+      "latestPatchTitle": "Changelog: Dragonfire Patch 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217965",
+      "latestPatchPublishedAt": "2026-09-23T10:02:16+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite начала сильнее наказывать афк-игроков: за пассивность в бою грозит блокировка",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010500785",
-      "latestPatchPublishedAt": "2026-09-21T08:47:41+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - September 9th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217920",
+      "latestPatchPublishedAt": "2026-09-23T09:44:44+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite начала сильнее наказывать афк-игроков: за пассивность в бою грозит блокировка",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010500785",
-      "latestPatchPublishedAt": "2026-09-21T08:47:41+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - September 9th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217920",
+      "latestPatchPublishedAt": "2026-09-23T09:44:44+00:00",
       "status": "ok"
     },
     {
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Rush Hour",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926",
-      "latestPatchPublishedAt": "2026-09-22T23:38:37+00:00",
+      "latestPatchTitle": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498218029",
+      "latestPatchPublishedAt": "2026-09-23T10:25:09+00:00",
       "status": "ok"
     },
     {
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "PTS 1.11: Boars, New Vehicle Features & Lots of Balance Changes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495460",
-      "latestPatchPublishedAt": "2026-09-18T16:53:03+00:00",
+      "latestPatchTitle": "Update 1.11: Vehicle Improvements & Skins, Boars, and Balance Changes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217828",
+      "latestPatchPublishedAt": "2026-09-23T09:08:24+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Update 21 | Full Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504686",
-      "latestPatchPublishedAt": "2026-09-22T16:01:18+00:00",
+      "latestPatchTitle": "Update 21 | Live Now on All Platforms",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217981",
+      "latestPatchPublishedAt": "2026-09-23T10:08:07+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/14~09/20)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217560",
+      "latestPatchPublishedAt": "2026-09-23T07:01:38+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Создатели Rainbow Six Siege признали неизбежный отток игроков из-за GTA 6 и готовят \"сюрпризы\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010504944",
-      "latestPatchPublishedAt": "2026-09-22T17:00:22+00:00",
+      "latestPatchTitle": "Y11S3.1 PATCH NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217908",
+      "latestPatchPublishedAt": "2026-09-23T09:41:20+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504658",
-      "latestPatchPublishedAt": "2026-09-22T15:54:44+00:00",
+      "latestPatchTitle": "Extension of server maintenance [23.09.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217715",
+      "latestPatchPublishedAt": "2026-09-23T08:12:53+00:00",
       "status": "ok"
     },
     {
