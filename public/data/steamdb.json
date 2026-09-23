@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-22T22:53:58.731347+00:00",
+  "generatedAt": "2026-09-23T01:06:44.520217+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499298",
-      "latestPatchPublishedAt": "2026-09-19T18:15:29+00:00",
+      "latestPatchTitle": "Rush Hour",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926",
+      "latestPatchPublishedAt": "2026-09-22T23:38:37+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie admits Marathon \"did not reach as many players as we hoped\" as it plans major changes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1844115010503831",
-      "latestPatchPublishedAt": "2026-09-22T10:30:20+00:00",
+      "latestPatchTitle": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844115010503885",
+      "latestPatchPublishedAt": "2026-09-22T10:58:45+00:00",
       "status": "ok"
     },
     {
