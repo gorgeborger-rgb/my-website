@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-23T10:32:57.453727+00:00",
+  "generatedAt": "2026-09-23T15:10:18.645172+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.135",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504721",
-      "latestPatchPublishedAt": "2026-09-22T16:10:39+00:00",
+      "latestPatchTitle": "Active Matter получила обновление 0.4.0.135 - Искажённых стало больше, а награды за первые уровни открыли для всех",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498218380",
+      "latestPatchPublishedAt": "2026-09-23T13:01:48+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk September 16th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488814",
-      "latestPatchPublishedAt": "2026-09-16T11:18:47+00:00",
+      "latestPatchTitle": "FragPunk September 23rd Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218442",
+      "latestPatchPublishedAt": "2026-09-23T13:38:59+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update –September 16th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489349",
-      "latestPatchPublishedAt": "2026-09-16T14:56:31+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List September 23rd",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218431",
+      "latestPatchPublishedAt": "2026-09-23T13:32:17+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S3.1 PATCH NOTES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217908",
-      "latestPatchPublishedAt": "2026-09-23T09:41:20+00:00",
+      "latestPatchTitle": "A New Kind of Competition Arrives in Siege",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218701",
+      "latestPatchPublishedAt": "2026-09-23T15:00:40+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Extension of server maintenance [23.09.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217715",
-      "latestPatchPublishedAt": "2026-09-23T08:12:53+00:00",
+      "latestPatchTitle": "Let the Battles Begin!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218248",
+      "latestPatchPublishedAt": "2026-09-23T12:08:35+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.22",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504531",
-      "latestPatchPublishedAt": "2026-09-22T15:16:00+00:00",
+      "latestPatchTitle": "Update 2.59.0.28",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218727",
+      "latestPatchPublishedAt": "2026-09-23T15:08:07+00:00",
       "status": "ok"
     }
   ]
