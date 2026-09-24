@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-24T10:09:16.538114+00:00",
+  "generatedAt": "2026-09-24T15:01:19.103580+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Embark Studios раскрыла детали Frozen Trail: что ждёт игроков ARC Raiders 8 октября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498219813",
-      "latestPatchPublishedAt": "2026-09-23T20:16:26+00:00",
+      "latestPatchTitle": "ARC Raiders наконец-то позволит игрокам открывать оружие и предметы без необходимости искать чертежи",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498221188",
+      "latestPatchPublishedAt": "2026-09-24T11:50:05+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter получила обновление 0.4.0.135 - Искажённых стало больше, а награды за первые уровни открыли для всех",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498218380",
-      "latestPatchPublishedAt": "2026-09-23T13:01:48+00:00",
+      "latestPatchTitle": "Update \"The Fundamental Protocol\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498221246",
+      "latestPatchPublishedAt": "2026-09-24T12:13:13+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - September 9th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217920",
-      "latestPatchPublishedAt": "2026-09-23T09:44:44+00:00",
+      "latestPatchTitle": "Biohazard & Bountiful Autumn Festival",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498221648",
+      "latestPatchPublishedAt": "2026-09-24T14:08:11+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - September 9th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217920",
-      "latestPatchPublishedAt": "2026-09-23T09:44:44+00:00",
+      "latestPatchTitle": "Biohazard & Bountiful Autumn Festival",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498221648",
+      "latestPatchPublishedAt": "2026-09-24T14:08:11+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced Community Update - September",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494561",
-      "latestPatchPublishedAt": "2026-09-18T12:00:59+00:00",
+      "latestPatchTitle": "September Hotfix",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498221583",
+      "latestPatchPublishedAt": "2026-09-24T13:53:44+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening стала доступна на консолях; новый одиночный режим и кино-DLC уже в продаже на всех платформах",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010504093",
-      "latestPatchPublishedAt": "2026-09-22T12:44:44+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.3.4 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498221077",
+      "latestPatchPublishedAt": "2026-09-24T11:01:12+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260924 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498220444",
-      "latestPatchPublishedAt": "2026-09-24T06:54:04+00:00",
+      "latestPatchTitle": "Автор IGN заявил, что Marvel Rivals \"нуждается во вмешательстве\" из-за сексуализации, монетизации и репрезентации",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498221375",
+      "latestPatchPublishedAt": "2026-09-24T12:40:07+00:00",
       "status": "ok"
     },
     {
