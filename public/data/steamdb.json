@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-23T22:13:24.552196+00:00",
+  "generatedAt": "2026-09-24T00:31:27.093294+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.47.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503597",
-      "latestPatchPublishedAt": "2026-09-22T09:01:52+00:00",
+      "latestPatchTitle": "Embark Studios раскрыла детали Frozen Trail: что ждёт игроков ARC Raiders 8 октября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498219813",
+      "latestPatchPublishedAt": "2026-09-23T20:16:26+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 09/22/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010505080",
-      "latestPatchPublishedAt": "2026-09-22T17:58:25+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 09/23/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219773",
+      "latestPatchPublishedAt": "2026-09-23T22:58:15+00:00",
       "status": "ok"
     },
     {
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498218029",
-      "latestPatchPublishedAt": "2026-09-23T10:25:09+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795",
+      "latestPatchPublishedAt": "2026-09-23T23:07:24+00:00",
       "status": "ok"
     },
     {
