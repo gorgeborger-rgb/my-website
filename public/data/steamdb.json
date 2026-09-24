@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-24T05:18:16.929133+00:00",
+  "generatedAt": "2026-09-24T10:09:16.538114+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "2nd Anniversary Celebration Begins | Limited-Time Delta Tickets & Free Bundle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504274",
-      "latestPatchPublishedAt": "2026-09-22T14:00:44+00:00",
+      "latestPatchTitle": "2nd Anniversary | New 5v5 Detonation Mode LIVE, 3,900 Limited-Time Delta Tickets",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498220521",
+      "latestPatchPublishedAt": "2026-09-24T07:32:58+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Разработчики Marvel Rivals показали трейлер новой карты God Quarry - кладбища поверженных богов",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010505475",
-      "latestPatchPublishedAt": "2026-09-22T21:32:39+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260924 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498220444",
+      "latestPatchPublishedAt": "2026-09-24T06:54:04+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Embark Studios анонсировала крупное обновление THE FINALS - новая глава начнётся 20 октября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499328",
-      "latestPatchPublishedAt": "2026-09-19T09:45:58+00:00",
+      "latestPatchTitle": "Store Update 11.11.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498220913",
+      "latestPatchPublishedAt": "2026-09-24T09:59:49+00:00",
       "status": "ok"
     },
     {
