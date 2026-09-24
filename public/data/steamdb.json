@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-24T19:03:30.115646+00:00",
+  "generatedAt": "2026-09-24T22:17:27.779373+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Updates - 09/24/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222239",
-      "latestPatchPublishedAt": "2026-09-24T17:26:25+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 09/24/2026 - 2:00pm PT",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222669",
+      "latestPatchPublishedAt": "2026-09-24T20:56:47+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "The Future of Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222206",
-      "latestPatchPublishedAt": "2026-09-24T17:15:56+00:00",
+      "latestPatchTitle": "Bungie раскрыла будущее Marathon: новые режимы, PvE и расширенный мир",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498222748",
+      "latestPatchPublishedAt": "2026-09-24T19:17:55+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/14~09/20)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217560",
-      "latestPatchPublishedAt": "2026-09-23T07:01:38+00:00",
+      "latestPatchTitle": "PUBG Americas Series 2: Playoffs 2 Day 1 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222534",
+      "latestPatchPublishedAt": "2026-09-24T19:42:22+00:00",
       "status": "ok"
     },
     {
