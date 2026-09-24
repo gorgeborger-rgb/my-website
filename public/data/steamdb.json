@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-24T15:01:19.103580+00:00",
+  "generatedAt": "2026-09-24T19:03:30.115646+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders наконец-то позволит игрокам открывать оружие и предметы без необходимости искать чертежи",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498221188",
-      "latestPatchPublishedAt": "2026-09-24T11:50:05+00:00",
+      "latestPatchTitle": "ARC Raiders протестирует переключатель PvE-матчмейкинга - с 13 по 20 октября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498222423",
+      "latestPatchPublishedAt": "2026-09-24T18:45:50+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 09/23/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219773",
-      "latestPatchPublishedAt": "2026-09-23T22:58:15+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Updates - 09/24/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222239",
+      "latestPatchPublishedAt": "2026-09-24T17:26:25+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Black Ops 7 and Warzone - Season 06 - Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492905",
-      "latestPatchPublishedAt": "2026-09-17T17:59:52+00:00",
+      "latestPatchTitle": "Call of Duty: Warzone Season 1 Adds a New Operator Skin Toggle",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222077",
+      "latestPatchPublishedAt": "2026-09-24T16:28:52+00:00",
       "status": "ok"
     },
     {
@@ -198,7 +198,7 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "2nd Anniversary | New 5v5 Detonation Mode LIVE, 3,900 Limited-Time Delta Tickets",
+      "latestPatchTitle": "2nd Anniversary",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498220521",
       "latestPatchPublishedAt": "2026-09-24T07:32:58+00:00",
       "status": "ok"
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844115010503885",
-      "latestPatchPublishedAt": "2026-09-22T10:58:45+00:00",
+      "latestPatchTitle": "The Future of Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222206",
+      "latestPatchPublishedAt": "2026-09-24T17:15:56+00:00",
       "status": "ok"
     },
     {
