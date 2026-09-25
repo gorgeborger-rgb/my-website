@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-25T10:16:43.244123+00:00",
+  "generatedAt": "2026-09-25T15:18:39.866518+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders Frozen Trail update sounds awesome, and they're going to test a PvE mode",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498223564",
-      "latestPatchPublishedAt": "2026-09-25T06:55:41+00:00",
+      "latestPatchTitle": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844751498224017",
+      "latestPatchPublishedAt": "2026-09-25T09:01:56+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update \"The Fundamental Protocol\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498221246",
-      "latestPatchPublishedAt": "2026-09-24T12:13:13+00:00",
+      "latestPatchTitle": "Earn More Rewards For Watching Active Matter Streams!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224300",
+      "latestPatchPublishedAt": "2026-09-25T12:00:28+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog Recap (2)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503980",
-      "latestPatchPublishedAt": "2026-09-22T11:50:59+00:00",
+      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 86) | Lizard and Dogs | Wishlist now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224697",
+      "latestPatchPublishedAt": "2026-09-25T14:13:46+00:00",
       "status": "ok"
     },
     {
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Hotfix 2.9.0.3 | Blood Testament",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495159",
-      "latestPatchPublishedAt": "2026-09-18T15:15:21+00:00",
+      "latestPatchTitle": "📜 Double XP Weekend Contract 📜",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224868",
+      "latestPatchPublishedAt": "2026-09-25T15:03:12+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie раскрыла будущее Marathon: новые режимы, PvE и расширенный мир",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498222748",
-      "latestPatchPublishedAt": "2026-09-24T19:17:55+00:00",
+      "latestPatchTitle": "Bungie объяснила провал Marathon слишком высокой сложностью для широкой аудитории",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498224455",
+      "latestPatchPublishedAt": "2026-09-25T12:52:25+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "v1.0.5: Bug fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703464",
-      "latestPatchPublishedAt": "2026-09-15T03:03:47+00:00",
+      "latestPatchTitle": "Palworld × Windrose Steam Bundle is Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224251",
+      "latestPatchPublishedAt": "2026-09-25T11:41:18+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Scheduled EOS Outage",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501831",
-      "latestPatchPublishedAt": "2026-09-21T16:15:00+00:00",
+      "latestPatchTitle": "Squad временно стала бесплатной в Steam - в игру можно бесплатно играть до 28 сентября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498224177",
+      "latestPatchPublishedAt": "2026-09-25T11:03:42+00:00",
       "status": "ok"
     },
     {
