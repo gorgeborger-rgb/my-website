@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-25T05:19:15.715130+00:00",
+  "generatedAt": "2026-09-25T10:16:43.244123+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders протестирует переключатель PvE-матчмейкинга - с 13 по 20 октября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498222423",
-      "latestPatchPublishedAt": "2026-09-24T18:45:50+00:00",
+      "latestPatchTitle": "ARC Raiders Frozen Trail update sounds awesome, and they're going to test a PvE mode",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498223564",
+      "latestPatchPublishedAt": "2026-09-25T06:55:41+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.3.4 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498221077",
-      "latestPatchPublishedAt": "2026-09-24T11:01:12+00:00",
+      "latestPatchTitle": "Join El Sayldam: The Rain of Blood - A Global Community Challenge",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224025",
+      "latestPatchPublishedAt": "2026-09-25T10:02:28+00:00",
       "status": "ok"
     },
     {
