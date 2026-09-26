@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-26T00:46:48.249715+00:00",
+  "generatedAt": "2026-09-26T05:34:14.543660+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 4163030,
-      "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Meow meow meow SALE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453582",
-      "latestPatchPublishedAt": "2026-09-07T17:00:29+00:00",
+      "appId": 4662350,
+      "steamDbUrl": "https://steamdb.info/app/4662350/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Americas Series 2: Playoffs 2 Day 1 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222534",
-      "latestPatchPublishedAt": "2026-09-24T19:42:22+00:00",
+      "latestPatchTitle": "PUBG Americas Series 2: Playoffs 2 Day 2 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226371",
+      "latestPatchPublishedAt": "2026-09-26T02:16:49+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Moments of Valor: Saudi Arabia",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219209",
-      "latestPatchPublishedAt": "2026-09-23T17:46:11+00:00",
+      "latestPatchTitle": "Screenshot Competition – Into the Fray!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226574",
+      "latestPatchPublishedAt": "2026-09-26T05:10:03+00:00",
       "status": "ok"
     }
   ]
