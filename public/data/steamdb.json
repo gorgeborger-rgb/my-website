@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-26T05:34:14.543660+00:00",
+  "generatedAt": "2026-09-26T10:11:47.133148+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Earn More Rewards For Watching Active Matter Streams!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224300",
-      "latestPatchPublishedAt": "2026-09-25T12:00:28+00:00",
+      "latestPatchTitle": "Update 0.4.0.156",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226745",
+      "latestPatchPublishedAt": "2026-09-26T08:06:06+00:00",
       "status": "ok"
     },
     {
