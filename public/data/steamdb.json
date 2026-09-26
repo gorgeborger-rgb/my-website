@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-26T10:11:47.133148+00:00",
+  "generatedAt": "2026-09-26T14:31:38.151961+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,7 +198,7 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "2nd Anniversary",
+      "latestPatchTitle": "2nd Anniversary | New 5v5 Detonation Mode LIVE, 3,900 Limited-Time Delta Tickets",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498220521",
       "latestPatchPublishedAt": "2026-09-24T07:32:58+00:00",
       "status": "ok"
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Автор IGN заявил, что Marvel Rivals \"нуждается во вмешательстве\" из-за сексуализации, монетизации и репрезентации",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498221375",
-      "latestPatchPublishedAt": "2026-09-24T12:40:07+00:00",
+      "latestPatchTitle": "Зарубежные контент-мейкеры Marvel Rivals призывают к бойкоту игры из-за \"расизма\" и требуют нанять консультантов",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498227172",
+      "latestPatchPublishedAt": "2026-09-26T12:40:36+00:00",
       "status": "ok"
     },
     {
