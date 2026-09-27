@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-27T12:48:40.411302+00:00",
+  "generatedAt": "2026-09-27T17:19:19.202150+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "📜 Double XP Weekend Contract 📜",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224868",
-      "latestPatchPublishedAt": "2026-09-25T15:03:12+00:00",
+      "latestPatchTitle": "Mythos | Bloodskin",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498229501",
+      "latestPatchPublishedAt": "2026-09-27T16:20:31+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Let the Battles Begin!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218248",
-      "latestPatchPublishedAt": "2026-09-23T12:08:35+00:00",
+      "latestPatchTitle": "Future updates leaked?!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498229368",
+      "latestPatchPublishedAt": "2026-09-27T15:02:17+00:00",
       "status": "ok"
     },
     {
