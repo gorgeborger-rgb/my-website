@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-26T23:10:20.047584+00:00",
+  "generatedAt": "2026-09-27T01:29:56.337439+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 4163030,
-      "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Meow meow meow SALE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453582",
-      "latestPatchPublishedAt": "2026-09-07T17:00:29+00:00",
+      "appId": 4662350,
+      "steamDbUrl": "https://steamdb.info/app/4662350/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
