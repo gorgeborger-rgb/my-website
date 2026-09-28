@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-28T15:52:56.056173+00:00",
+  "generatedAt": "2026-09-28T21:29:15.794745+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844751498224017",
-      "latestPatchPublishedAt": "2026-09-25T09:01:56+00:00",
+      "latestPatchTitle": "Embark объяснила, почему Raider Decks уходят из ARC Raiders - на смену приходят Reward Passes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498232335",
+      "latestPatchPublishedAt": "2026-09-28T18:51:35+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 09/24/2026 - 2:00pm PT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222669",
-      "latestPatchPublishedAt": "2026-09-24T20:56:47+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 9/28/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232361",
+      "latestPatchPublishedAt": "2026-09-28T19:17:40+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Get the AMV (BMP-3) in the Desert Predator Event!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498231211",
-      "latestPatchPublishedAt": "2026-09-28T11:19:03+00:00",
+      "latestPatchTitle": "Planned Technical Works on 29.09.2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232243",
+      "latestPatchPublishedAt": "2026-09-28T18:12:06+00:00",
       "status": "ok"
     }
   ]
