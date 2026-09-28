@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-28T01:34:31.043590+00:00",
+  "generatedAt": "2026-09-28T07:33:17.766632+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "2nd Anniversary | New 5v5 Detonation Mode LIVE, 3,900 Limited-Time Delta Tickets",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498220521",
-      "latestPatchPublishedAt": "2026-09-24T07:32:58+00:00",
+      "latestPatchTitle": "Delta Force получит карту с огромным цунами, которое будет менять ход сражения и разрушать здания",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230701",
+      "latestPatchPublishedAt": "2026-09-28T06:42:36+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Join El Sayldam: The Rain of Blood - A Global Community Challenge",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224025",
-      "latestPatchPublishedAt": "2026-09-25T10:02:28+00:00",
+      "latestPatchTitle": "Dune: Awakening получила новый трейлер с отзывами игроков консольной версии",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230622",
+      "latestPatchPublishedAt": "2026-09-28T05:56:04+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie объяснила провал Marathon слишком высокой сложностью для широкой аудитории",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498224455",
-      "latestPatchPublishedAt": "2026-09-25T12:52:25+00:00",
+      "latestPatchTitle": "Журналист Forbes считает, что ARC Raiders и Marathon делают ставку на PvE из-за усталости игроков от extraction-шутеров",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230584",
+      "latestPatchPublishedAt": "2026-09-28T05:29:27+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld × RuneScape: Dragonwilds Steam Bundle is Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224251",
-      "latestPatchPublishedAt": "2026-09-25T11:41:18+00:00",
+      "latestPatchTitle": "Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230596",
+      "latestPatchPublishedAt": "2026-09-28T05:38:15+00:00",
       "status": "ok"
     },
     {
