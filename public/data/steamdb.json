@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-29T06:57:15.607229+00:00",
+  "generatedAt": "2026-09-29T13:43:14.907192+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Embark объяснила, почему Raider Decks уходят из ARC Raiders - на смену приходят Reward Passes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498232335",
-      "latestPatchPublishedAt": "2026-09-28T18:51:35+00:00",
+      "latestPatchTitle": "Store Update 1.48.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498233610",
+      "latestPatchPublishedAt": "2026-09-29T09:01:15+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Community Development Team - Progress Report",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232628",
-      "latestPatchPublishedAt": "2026-09-28T22:20:50+00:00",
+      "latestPatchTitle": "Авторы Squad готовят систему групп и новые хабы, параллельно возвращаясь к старым проблемам",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498233892",
+      "latestPatchPublishedAt": "2026-09-29T10:58:57+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Planned Technical Works on 29.09.2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232243",
-      "latestPatchPublishedAt": "2026-09-28T18:12:06+00:00",
+      "latestPatchTitle": "Update 2.59.0.38",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498233558",
+      "latestPatchPublishedAt": "2026-09-29T08:48:35+00:00",
       "status": "ok"
     }
   ]
