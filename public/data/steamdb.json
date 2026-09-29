@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-28T21:29:15.794745+00:00",
+  "generatedAt": "2026-09-29T01:10:42.655789+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015",
-      "latestPatchPublishedAt": "2026-09-25T21:54:54+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642",
+      "latestPatchPublishedAt": "2026-09-28T22:38:25+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad временно стала бесплатной в Steam - в игру можно бесплатно играть до 28 сентября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498224177",
-      "latestPatchPublishedAt": "2026-09-25T11:03:42+00:00",
+      "latestPatchTitle": "Community Development Team - Progress Report",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232628",
+      "latestPatchPublishedAt": "2026-09-28T22:20:50+00:00",
       "status": "ok"
     },
     {
