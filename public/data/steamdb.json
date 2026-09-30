@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-30T18:59:41.294600+00:00",
+  "generatedAt": "2026-09-30T22:52:44.339002+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.164",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378576",
-      "latestPatchPublishedAt": "2026-09-30T18:14:35+00:00",
+      "latestPatchTitle": "Update 0.4.0.165",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379082",
+      "latestPatchPublishedAt": "2026-09-30T22:20:48+00:00",
       "status": "ok"
     },
     {
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642",
-      "latestPatchPublishedAt": "2026-09-28T22:38:25+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136",
+      "latestPatchPublishedAt": "2026-09-30T22:46:19+00:00",
       "status": "ok"
     },
     {
