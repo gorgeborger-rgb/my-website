@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-30T14:00:09.964588+00:00",
+  "generatedAt": "2026-09-30T18:59:41.294600+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.48.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498233610",
-      "latestPatchPublishedAt": "2026-09-29T09:01:15+00:00",
+      "latestPatchTitle": "An Update on Anti-Cheat",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378189",
+      "latestPatchPublishedAt": "2026-09-30T16:04:46+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.163",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377486",
-      "latestPatchPublishedAt": "2026-09-30T12:54:06+00:00",
+      "latestPatchTitle": "Update 0.4.0.164",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378576",
+      "latestPatchPublishedAt": "2026-09-30T18:14:35+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Игроки в Apex Legends столкнулись с многочисленными сбоями после внедрения нового античита \"Javelin\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656376075",
-      "latestPatchPublishedAt": "2026-09-30T02:18:16+00:00",
+      "latestPatchTitle": "Apex Legends: Matchmaking Test Results - 09/30/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378422",
+      "latestPatchPublishedAt": "2026-09-30T17:11:17+00:00",
       "status": "ok"
     },
     {
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Delta Force отмечает вторую годовщину и раскрывает планы на 2027 год: новые карты, режимы и Unreal Engine 5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498231166",
-      "latestPatchPublishedAt": "2026-09-28T10:43:06+00:00",
+      "latestPatchTitle": "Detonation Weapon Balance Adjustments & Arcflare Appearance Draw Available Soon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377935",
+      "latestPatchPublishedAt": "2026-09-30T15:00:25+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Вышел патч 1.5.15.0 для Dune: Awakening - теперь в одиночном режиме и приватных серверах можно играть без BattlEye",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656377340",
-      "latestPatchPublishedAt": "2026-09-30T12:03:23+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.3.5 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377752",
+      "latestPatchPublishedAt": "2026-09-30T14:04:08+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Chapter 2 Trailer | Blood Testament | Hunt: Showdown 1896",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234788",
-      "latestPatchPublishedAt": "2026-09-29T16:10:36+00:00",
+      "latestPatchTitle": "Player Survey 2026 | Hunt: Showdown 1896",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378344",
+      "latestPatchPublishedAt": "2026-09-30T16:42:31+00:00",
       "status": "ok"
     },
     {
@@ -423,9 +423,9 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.12 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502406",
-      "latestPatchPublishedAt": "2026-09-21T20:03:33+00:00",
+      "latestPatchTitle": "3.26.3.13 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378013",
+      "latestPatchPublishedAt": "2026-09-30T15:17:51+00:00",
       "status": "ok"
     },
     {
