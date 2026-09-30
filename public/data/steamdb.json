@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-30T07:23:21.077266+00:00",
+  "generatedAt": "2026-09-30T14:00:09.964588+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter сократила гринд и смягчила правила схлопывания таймлайнов в обновлении 0.4.0.156",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230621",
-      "latestPatchPublishedAt": "2026-09-28T05:58:34+00:00",
+      "latestPatchTitle": "Update 0.4.0.163",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377486",
+      "latestPatchPublishedAt": "2026-09-30T12:54:06+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Changelog: Dragonfire Patch 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217965",
-      "latestPatchPublishedAt": "2026-09-23T10:02:16+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: Vladislav",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656376987",
+      "latestPatchPublishedAt": "2026-09-30T10:00:08+00:00",
       "status": "ok"
     },
     {
@@ -81,9 +81,9 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Community Radar #62",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492407",
-      "latestPatchPublishedAt": "2026-09-17T15:15:14+00:00",
+      "latestPatchTitle": "SPOTREP #00122",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377626",
+      "latestPatchPublishedAt": "2026-09-30T13:25:31+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening получила новый трейлер с отзывами игроков консольной версии",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230622",
-      "latestPatchPublishedAt": "2026-09-28T05:56:04+00:00",
+      "latestPatchTitle": "Вышел патч 1.5.15.0 для Dune: Awakening - теперь в одиночном режиме и приватных серверах можно играть без BattlEye",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656377340",
+      "latestPatchPublishedAt": "2026-09-30T12:03:23+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/21~09/27)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656376507",
-      "latestPatchPublishedAt": "2026-09-30T07:01:00+00:00",
+      "latestPatchTitle": "Get ready for Double Drops this weekend!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656376954",
+      "latestPatchPublishedAt": "2026-09-30T09:50:07+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Hotfix - 1.3.3.4.149664",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262694397",
-      "latestPatchPublishedAt": "2026-09-11T08:09:50+00:00",
+      "latestPatchTitle": "SCUM | October Update Preview & What's Next",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377519",
+      "latestPatchPublishedAt": "2026-09-30T13:00:28+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234706",
-      "latestPatchPublishedAt": "2026-09-29T15:55:08+00:00",
+      "latestPatchTitle": "Server maintenance is completed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377166",
+      "latestPatchPublishedAt": "2026-09-30T11:02:17+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.38",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498233558",
-      "latestPatchPublishedAt": "2026-09-29T08:48:35+00:00",
+      "latestPatchTitle": "40 New User-Created Camouflages in the Sky Odyssey Trophy!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656376866",
+      "latestPatchPublishedAt": "2026-09-30T09:19:35+00:00",
       "status": "ok"
     }
   ]
