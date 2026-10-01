@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-30T22:52:44.339002+00:00",
+  "generatedAt": "2026-10-01T01:43:28.178902+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 525: An Appetite for Destruction",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226209",
-      "latestPatchPublishedAt": "2026-09-26T00:07:50+00:00",
+      "latestPatchTitle": "Therizino TLC, Cerberax and Gargantar are out now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379220",
+      "latestPatchPublishedAt": "2026-09-30T23:35:08+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: Vladislav",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656376987",
-      "latestPatchPublishedAt": "2026-09-30T10:00:08+00:00",
+      "latestPatchTitle": "Ride with the Armored Bonehorse",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379257",
+      "latestPatchPublishedAt": "2026-10-01T00:01:49+00:00",
       "status": "ok"
     },
     {
@@ -414,9 +414,9 @@
       "game": "The Isle Evrima",
       "appId": 376210,
       "steamDbUrl": "https://steamdb.info/app/376210/",
-      "latestPatchTitle": "DevBlog #72",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951312233",
-      "latestPatchPublishedAt": "2026-09-01T05:38:03+00:00",
+      "latestPatchTitle": "DevBlog #73",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379148",
+      "latestPatchPublishedAt": "2026-09-30T22:59:31+00:00",
       "status": "ok"
     },
     {
