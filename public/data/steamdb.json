@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-01T14:49:29.236171+00:00",
+  "generatedAt": "2026-10-01T19:54:02.721763+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,10 +36,11 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.165",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379082",
-      "latestPatchPublishedAt": "2026-09-30T22:20:48+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "game": "Albion Online",
@@ -54,9 +55,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Matchmaking Test Results - 09/30/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378422",
-      "latestPatchPublishedAt": "2026-09-30T17:11:17+00:00",
+      "latestPatchTitle": "An Update from the Anti Cheat Team - 10/01/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382884",
+      "latestPatchPublishedAt": "2026-10-01T17:03:32+00:00",
       "status": "ok"
     },
     {
@@ -81,18 +82,18 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "SPOTREP #00122",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377626",
-      "latestPatchPublishedAt": "2026-09-30T13:25:31+00:00",
+      "latestPatchTitle": "Steam Autumn Sale 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382286",
+      "latestPatchPublishedAt": "2026-10-01T17:00:16+00:00",
       "status": "ok"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Announcing: Arma Reforger - Rally",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453220",
-      "latestPatchPublishedAt": "2026-09-07T14:15:03+00:00",
+      "latestPatchTitle": "Steam Autumn Sale 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382284",
+      "latestPatchPublishedAt": "2026-10-01T17:00:16+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +145,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "October Hotfix",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656381427",
-      "latestPatchPublishedAt": "2026-10-01T14:00:17+00:00",
+      "latestPatchTitle": "The Autum Sale 2026 is here!  ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656383256",
+      "latestPatchPublishedAt": "2026-10-01T17:37:37+00:00",
       "status": "ok"
     },
     {
@@ -162,18 +163,18 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #127",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498233179",
-      "latestPatchPublishedAt": "2026-09-29T05:32:04+00:00",
+      "latestPatchTitle": "Steam Autumn Sale | 30% Off Legendary Status, 50% Off EAS10 Seasonal Pack",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382451",
+      "latestPatchPublishedAt": "2026-10-01T17:01:01+00:00",
       "status": "ok"
     },
     {
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 86) | Lizard and Dogs | Wishlist now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224697",
-      "latestPatchPublishedAt": "2026-09-25T14:13:46+00:00",
+      "latestPatchTitle": "Autumn Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382895",
+      "latestPatchPublishedAt": "2026-10-01T17:05:01+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +208,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.3.5 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377752",
-      "latestPatchPublishedAt": "2026-09-30T14:04:08+00:00",
+      "latestPatchTitle": "The Autum Sale 2026 is here!  ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656383255",
+      "latestPatchPublishedAt": "2026-10-01T17:37:31+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +226,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Создатели Escape from Tarkov будут издавать рискованные игры, которые другие издатели обходят стороной",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010502497",
-      "latestPatchPublishedAt": "2026-09-21T20:48:31+00:00",
+      "latestPatchTitle": "Steam Autumn Sale discounts!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382993",
+      "latestPatchPublishedAt": "2026-10-01T17:10:01+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +253,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Security Report: Recent Exploit & Actions Taken",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494057",
-      "latestPatchPublishedAt": "2026-09-18T08:00:19+00:00",
+      "latestPatchTitle": "Gray Zone Warfare перешла в альфу: готовность контента - 30%, обновление 0.5 Rogue Ops выйдет 22 октября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656383688",
+      "latestPatchPublishedAt": "2026-10-01T19:00:10+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +271,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Player Survey 2026 | Hunt: Showdown 1896",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378344",
-      "latestPatchPublishedAt": "2026-09-30T16:42:31+00:00",
+      "latestPatchTitle": "Blood Testament Chapter 2 | Developer Live Stream",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382009",
+      "latestPatchPublishedAt": "2026-10-01T16:01:33+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +352,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "BREACH AND CLEAR",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444168",
-      "latestPatchPublishedAt": "2026-09-03T17:26:33+00:00",
+      "latestPatchTitle": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1845383656383732",
+      "latestPatchPublishedAt": "2026-10-01T19:09:12+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +379,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Q&A with the NPC AI department",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656381199",
-      "latestPatchPublishedAt": "2026-10-01T13:01:49+00:00",
+      "latestPatchTitle": "Compensation [01.10.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382026",
+      "latestPatchPublishedAt": "2026-10-01T16:03:56+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +397,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Авторы Squad готовят систему групп и новые хабы, параллельно возвращаясь к старым проблемам",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498233892",
-      "latestPatchPublishedAt": "2026-09-29T10:58:57+00:00",
+      "latestPatchTitle": "Squad Update 10.6 Release Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656383372",
+      "latestPatchPublishedAt": "2026-10-01T18:00:21+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +433,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Desert Predator: AMV (BMP-3)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656381324",
-      "latestPatchPublishedAt": "2026-10-01T13:33:13+00:00",
+      "latestPatchTitle": "War Thunder Starter Packs in the Steam Autumn Sale!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656383191",
+      "latestPatchPublishedAt": "2026-10-01T17:28:51+00:00",
       "status": "ok"
     }
   ]
