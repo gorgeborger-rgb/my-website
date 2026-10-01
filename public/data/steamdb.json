@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-01T19:54:02.721763+00:00",
+  "generatedAt": "2026-10-01T23:36:06.322692+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,11 +36,10 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "error",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "latestPatchTitle": "Update 0.4.0.165",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379082",
+      "latestPatchPublishedAt": "2026-09-30T22:20:48+00:00",
+      "status": "ok"
     },
     {
       "game": "Albion Online",
@@ -325,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Get ready for Double Drops this weekend!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656376954",
-      "latestPatchPublishedAt": "2026-09-30T09:50:07+00:00",
+      "latestPatchTitle": "PAS2 Finals 2 Day 1 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656384293",
+      "latestPatchPublishedAt": "2026-10-01T22:57:45+00:00",
       "status": "ok"
     },
     {
