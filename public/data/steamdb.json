@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-02T02:32:58.439273+00:00",
+  "generatedAt": "2026-10-02T08:57:34.362157+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "An Update on Anti-Cheat",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378189",
-      "latestPatchPublishedAt": "2026-09-30T16:04:46+00:00",
+      "latestPatchTitle": "ARC Raiders ужесточит борьбу с читерами - пожизненные баны станут стандартом, а аппаратные блокировки расширят",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656385277",
+      "latestPatchPublishedAt": "2026-10-02T07:31:58+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Официально: Activision Blizzard теперь отвечает за Halo, Microsoft готовит к закрытию Ninja Theory",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1844115010505418",
-      "latestPatchPublishedAt": "2026-09-22T20:25:27+00:00",
+      "latestPatchTitle": "Sea of Thieves Sail Design Competition",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385295",
+      "latestPatchPublishedAt": "2026-10-02T07:45:16+00:00",
       "status": "ok"
     },
     {
