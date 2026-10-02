@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-02T15:23:47.614721+00:00",
+  "generatedAt": "2026-10-02T20:01:31.477677+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders ужесточит борьбу с читерами - пожизненные баны станут стандартом, а аппаратные блокировки расширят",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656385277",
-      "latestPatchPublishedAt": "2026-10-02T07:31:58+00:00",
+      "latestPatchTitle": "ARC Raiders впервые станет бесплатной на четыре дня - 8 октября выйдет Frozen Trail, а затем начнётся PvE-тест",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656387221",
+      "latestPatchPublishedAt": "2026-10-02T17:36:37+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Blood Testament Chapter 2 | Developer Live Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382009",
-      "latestPatchPublishedAt": "2026-10-01T16:01:33+00:00",
+      "latestPatchTitle": "Crytek Autumn Sale | Hunt and DLCs up to 65% Off",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387017",
+      "latestPatchPublishedAt": "2026-10-02T16:37:54+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1845383656383732",
-      "latestPatchPublishedAt": "2026-10-01T19:09:12+00:00",
+      "latestPatchTitle": "New Rust update adds livestock, slows the race to vehicles, and finally gives spoiled meat a use",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1845383656387132",
+      "latestPatchPublishedAt": "2026-10-02T16:21:23+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Let's talk about something important!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386472",
-      "latestPatchPublishedAt": "2026-10-02T14:08:52+00:00",
+      "latestPatchTitle": "Through the Lens of STALZONE — Contest Results",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387210",
+      "latestPatchPublishedAt": "2026-10-02T17:34:03+00:00",
       "status": "ok"
     },
     {
