@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-02T20:01:31.477677+00:00",
+  "generatedAt": "2026-10-02T23:43:38.797505+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 10/01/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656384678",
-      "latestPatchPublishedAt": "2026-10-02T02:09:18+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 10/02/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387628",
+      "latestPatchPublishedAt": "2026-10-02T20:24:23+00:00",
       "status": "ok"
     },
     {
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136",
-      "latestPatchPublishedAt": "2026-09-30T22:46:19+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875",
+      "latestPatchPublishedAt": "2026-10-02T22:24:13+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Gray Zone Warfare перешла в альфу: готовность контента - 30%, обновление 0.5 Rogue Ops выйдет 22 октября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656383688",
-      "latestPatchPublishedAt": "2026-10-01T19:00:10+00:00",
+      "latestPatchTitle": "MADFINGER Games пообещала жёстче бороться с читерами в Gray Zone Warfare",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656387624",
+      "latestPatchPublishedAt": "2026-10-02T20:17:47+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1845383656385644",
-      "latestPatchPublishedAt": "2026-10-02T09:26:02+00:00",
+      "latestPatchTitle": "PEC: Fall Finals 2 Day 2 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387738",
+      "latestPatchPublishedAt": "2026-10-02T21:15:25+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Through the Lens of STALZONE — Contest Results",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387210",
-      "latestPatchPublishedAt": "2026-10-02T17:34:03+00:00",
+      "latestPatchTitle": "Hotfix [02.10.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387616",
+      "latestPatchPublishedAt": "2026-10-02T20:15:54+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad Update 10.6 Release Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656383372",
-      "latestPatchPublishedAt": "2026-10-01T18:00:21+00:00",
+      "latestPatchTitle": "Squad Hotfix 10.6 - Hotfix 2 Release Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387959",
+      "latestPatchPublishedAt": "2026-10-02T23:16:58+00:00",
       "status": "ok"
     },
     {
