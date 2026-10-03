@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-03T08:22:43.650685+00:00",
+  "generatedAt": "2026-10-03T13:34:00.800396+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.1.2a | Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492341",
-      "latestPatchPublishedAt": "2026-09-17T15:00:07+00:00",
+      "latestPatchTitle": "Dead by Daylight тизерит кроссовер с NieR: Automata - намёки указывают на новых выживших",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656389005",
+      "latestPatchPublishedAt": "2026-10-03T11:45:44+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Hotfix [02.10.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387616",
-      "latestPatchPublishedAt": "2026-10-02T20:15:54+00:00",
+      "latestPatchTitle": "🛠 Maintenance on the EXBO support website",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656389125",
+      "latestPatchPublishedAt": "2026-10-03T13:00:34+00:00",
       "status": "ok"
     },
     {
