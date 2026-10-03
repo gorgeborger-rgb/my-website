@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-03T02:20:46.652121+00:00",
+  "generatedAt": "2026-10-03T08:22:43.650685+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PEC: Fall Finals 2 Day 2 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387738",
-      "latestPatchPublishedAt": "2026-10-02T21:15:25+00:00",
+      "latestPatchTitle": "PAS2 Finals 2 Day 2 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656388339",
+      "latestPatchPublishedAt": "2026-10-03T04:15:46+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Don’t Miss the WTCS Challenger League Major III Playoffs!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386462",
-      "latestPatchPublishedAt": "2026-10-02T14:06:11+00:00",
+      "latestPatchTitle": "Screenshot Competition – Standing Together!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656388323",
+      "latestPatchPublishedAt": "2026-10-03T04:00:19+00:00",
       "status": "ok"
     }
   ]
