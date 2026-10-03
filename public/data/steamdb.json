@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-03T20:09:41.143193+00:00",
+  "generatedAt": "2026-10-03T22:53:33.390692+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders впервые станет бесплатной на четыре дня - 8 октября выйдет Frozen Trail, а затем начнётся PvE-тест",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656387221",
-      "latestPatchPublishedAt": "2026-10-02T17:36:37+00:00",
+      "latestPatchTitle": "В ARC Raiders впервые можно будет поиграть бесплатно",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1845383656389989",
+      "latestPatchPublishedAt": "2026-10-03T20:38:00+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS2 Finals 2 Day 2 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656388339",
-      "latestPatchPublishedAt": "2026-10-03T04:15:46+00:00",
+      "latestPatchTitle": "PEC: Fall Finals 2 Day 3 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390006",
+      "latestPatchPublishedAt": "2026-10-03T21:15:37+00:00",
       "status": "ok"
     },
     {
