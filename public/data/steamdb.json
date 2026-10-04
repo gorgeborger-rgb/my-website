@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-04T02:17:22.716878+00:00",
+  "generatedAt": "2026-10-04T08:30:53.923285+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PEC: Fall Finals 2 Day 3 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390006",
-      "latestPatchPublishedAt": "2026-10-03T21:15:37+00:00",
+      "latestPatchTitle": "PAS2 Finals 2 Day 3 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390479",
+      "latestPatchPublishedAt": "2026-10-04T04:15:58+00:00",
       "status": "ok"
     },
     {
