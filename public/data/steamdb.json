@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-04T14:20:41.753889+00:00",
+  "generatedAt": "2026-10-04T18:15:19.638312+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "MADFINGER Games пообещала жёстче бороться с читерами в Gray Zone Warfare",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656387624",
-      "latestPatchPublishedAt": "2026-10-02T20:17:47+00:00",
+      "latestPatchTitle": "Player-Driven Improvements in 0.5 | Devlog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656391461",
+      "latestPatchPublishedAt": "2026-10-04T15:00:38+00:00",
       "status": "ok"
     },
     {
