@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-04T18:15:19.638312+00:00",
+  "generatedAt": "2026-10-04T21:31:03.609308+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Crytek Autumn Sale | Hunt and DLCs up to 65% Off",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387017",
-      "latestPatchPublishedAt": "2026-10-02T16:37:54+00:00",
+      "latestPatchTitle": "Player Survey 2026 | Reminder | Hunt: Showdown 1896",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656392039",
+      "latestPatchPublishedAt": "2026-10-04T20:50:06+00:00",
       "status": "ok"
     },
     {
