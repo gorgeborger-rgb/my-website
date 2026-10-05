@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-05T05:29:24.519112+00:00",
+  "generatedAt": "2026-10-05T12:31:11.427956+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Week 3 Rewards For Watching Active Matter Streams!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386321",
-      "latestPatchPublishedAt": "2026-10-02T13:24:12+00:00",
+      "latestPatchTitle": "Update 0.4.0.173",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393325",
+      "latestPatchPublishedAt": "2026-10-05T12:17:42+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Player Survey 2026 | Reminder | Hunt: Showdown 1896",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656392039",
-      "latestPatchPublishedAt": "2026-10-04T20:50:06+00:00",
+      "latestPatchTitle": "Update 2.9.1 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393043",
+      "latestPatchPublishedAt": "2026-10-05T10:07:32+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Standing Together!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656388323",
-      "latestPatchPublishedAt": "2026-10-03T04:00:19+00:00",
+      "latestPatchTitle": "Update 2.59.0.46",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393056",
+      "latestPatchPublishedAt": "2026-10-05T10:16:51+00:00",
       "status": "ok"
     }
   ]
