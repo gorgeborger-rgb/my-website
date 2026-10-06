@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-06T01:30:43.168182+00:00",
+  "generatedAt": "2026-10-06T08:04:41.821264+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "The Autum Sale 2026 is here!  ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656383255",
-      "latestPatchPublishedAt": "2026-10-01T17:37:31+00:00",
+      "latestPatchTitle": "Dune: Awakening привлекла на Арракис миллион новых выживших после выхода на консолях",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656395518",
+      "latestPatchPublishedAt": "2026-10-06T07:34:17+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Player-Driven Improvements in 0.5 | Devlog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656391461",
-      "latestPatchPublishedAt": "2026-10-04T15:00:38+00:00",
+      "latestPatchTitle": "Gray Zone Warfare готовится к самому масштабному обновлению: Update 0.5 принесёт новых персонажей и первый \"мягкий вайп\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656395429",
+      "latestPatchPublishedAt": "2026-10-06T06:51:46+00:00",
       "status": "ok"
     },
     {
