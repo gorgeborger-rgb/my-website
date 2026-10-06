@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-06T08:04:41.821264+00:00",
+  "generatedAt": "2026-10-06T15:02:56.285231+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "33% Off Vanity Until October 5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385726",
-      "latestPatchPublishedAt": "2026-10-02T10:10:23+00:00",
+      "latestPatchTitle": "Reminder: Account Security",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395871",
+      "latestPatchPublishedAt": "2026-10-06T10:00:39+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "The Autum Sale 2026 is here!  ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656383256",
-      "latestPatchPublishedAt": "2026-10-01T17:37:37+00:00",
+      "latestPatchTitle": "The Legacy of the Giant-Kings: Part Two Is Out Now! ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396524",
+      "latestPatchPublishedAt": "2026-10-06T14:01:02+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Developer Update | 10.2.0 PTB to Live Changes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394283",
-      "latestPatchPublishedAt": "2026-10-05T18:00:20+00:00",
+      "latestPatchTitle": "10.2.0 | Mid-Chapter",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396647",
+      "latestPatchPublishedAt": "2026-10-06T14:33:04+00:00",
       "status": "ok"
     },
     {
@@ -207,27 +207,27 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening привлекла на Арракис миллион новых выживших после выхода на консолях",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656395518",
-      "latestPatchPublishedAt": "2026-10-06T07:34:17+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.3.6 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395757",
+      "latestPatchPublishedAt": "2026-10-06T09:17:31+00:00",
       "status": "ok"
     },
     {
       "game": "EFT",
       "appId": 3975470,
       "steamDbUrl": "https://steamdb.info/app/3975470/",
-      "latestPatchTitle": "Update 1.0.2: Organizing Research Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701870",
-      "latestPatchPublishedAt": "2026-09-14T14:38:35+00:00",
+      "latestPatchTitle": "Update 1.0.5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395918",
+      "latestPatchPublishedAt": "2026-10-06T10:20:10+00:00",
       "status": "ok"
     },
     {
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Steam Autumn Sale discounts!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382993",
-      "latestPatchPublishedAt": "2026-10-01T17:10:01+00:00",
+      "latestPatchTitle": "Patch 1.2.0.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396722",
+      "latestPatchPublishedAt": "2026-10-06T14:57:45+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Update 2.9.1 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393043",
-      "latestPatchPublishedAt": "2026-10-05T10:07:32+00:00",
+      "latestPatchTitle": "Blood Testament Chapter 2 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396729",
+      "latestPatchPublishedAt": "2026-10-06T14:59:11+00:00",
       "status": "ok"
     },
     {
@@ -369,18 +369,18 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "Hel: Race to Radiant!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504466",
-      "latestPatchPublishedAt": "2026-09-22T14:59:23+00:00",
+      "latestPatchTitle": "TO VICTORY with NIKE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396344",
+      "latestPatchPublishedAt": "2026-10-06T13:00:48+00:00",
       "status": "ok"
     },
     {
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Monthly cheaters banlists",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393514",
-      "latestPatchPublishedAt": "2026-10-05T13:55:18+00:00",
+      "latestPatchTitle": "Stop! Where do you think you going?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396276",
+      "latestPatchPublishedAt": "2026-10-06T12:28:10+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.46",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393056",
-      "latestPatchPublishedAt": "2026-10-05T10:16:51+00:00",
+      "latestPatchTitle": "Update 2.59.0.49",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395909",
+      "latestPatchPublishedAt": "2026-10-06T10:15:47+00:00",
       "status": "ok"
     }
   ]
