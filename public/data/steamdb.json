@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-07T03:35:19.159626+00:00",
+  "generatedAt": "2026-10-07T10:32:46.122244+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Вселенные ARC Raiders и The Finals расширят фильмами и сериалами",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656394115",
-      "latestPatchPublishedAt": "2026-10-05T16:40:40+00:00",
+      "latestPatchTitle": "ARC Raiders готовит опасный рейд на сбитый \"Император\" - трейлер Frozen Trail раскрыл главную угрозу обновления",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925095",
+      "latestPatchPublishedAt": "2026-10-07T06:08:43+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Reminder: Account Security",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395871",
-      "latestPatchPublishedAt": "2026-10-06T10:00:39+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: JaciiTV",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925603",
+      "latestPatchPublishedAt": "2026-10-07T10:00:48+00:00",
       "status": "ok"
     },
     {
@@ -144,18 +144,18 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "The Legacy of the Giant-Kings: Part Two Is Out Now! ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396524",
-      "latestPatchPublishedAt": "2026-10-06T14:01:02+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced открыла разломы в другие миры - вторая часть \"Наследия королей-великанов\" уже доступна",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925199",
+      "latestPatchPublishedAt": "2026-10-07T06:57:54+00:00",
       "status": "ok"
     },
     {
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875",
-      "latestPatchPublishedAt": "2026-10-05T23:39:43+00:00",
+      "latestPatchTitle": "Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017",
+      "latestPatchPublishedAt": "2026-10-07T05:18:58+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS2 Finals 2 Day 3 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390479",
-      "latestPatchPublishedAt": "2026-10-04T04:15:58+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/28~10/04)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925197",
+      "latestPatchPublishedAt": "2026-10-07T07:00:40+00:00",
       "status": "ok"
     },
     {
@@ -378,18 +378,18 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396887",
-      "latestPatchPublishedAt": "2026-10-06T15:51:47+00:00",
+      "latestPatchTitle": "Game changes are now live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925203",
+      "latestPatchPublishedAt": "2026-10-07T07:03:04+00:00",
       "status": "ok"
     },
     {
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Sea of Thieves Sail Design Competition",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385295",
-      "latestPatchPublishedAt": "2026-10-02T07:45:16+00:00",
+      "latestPatchTitle": "This Month in Sea of Thieves: October 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925695",
+      "latestPatchPublishedAt": "2026-10-07T10:30:19+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.49",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395909",
-      "latestPatchPublishedAt": "2026-10-06T10:15:47+00:00",
+      "latestPatchTitle": "It’s fixed! №118",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925451",
+      "latestPatchPublishedAt": "2026-10-07T09:01:34+00:00",
       "status": "ok"
     }
   ]
