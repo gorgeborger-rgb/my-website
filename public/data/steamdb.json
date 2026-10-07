@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-06T23:50:46.026927+00:00",
+  "generatedAt": "2026-10-07T03:35:19.159626+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "EAS10 Warlord Tournament – Final Results & Champions",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656388104",
-      "latestPatchPublishedAt": "2026-10-03T00:39:16+00:00",
+      "latestPatchTitle": "Tavern Table #5 is now LIVE!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067924763",
+      "latestPatchPublishedAt": "2026-10-07T02:04:46+00:00",
       "status": "ok"
     },
     {
