@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-07T17:31:42.154948+00:00",
+  "generatedAt": "2026-10-07T22:14:30.820673+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20261001 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656380358",
-      "latestPatchPublishedAt": "2026-10-01T08:39:09+00:00",
+      "latestPatchTitle": "Раскрыт план обновлений Marvel Rivals на середину сезона 10.5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067927116",
+      "latestPatchPublishedAt": "2026-10-07T17:47:44+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/28~10/04)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925197",
-      "latestPatchPublishedAt": "2026-10-07T07:00:40+00:00",
+      "latestPatchTitle": "Virtus.pro and Team Falcons crowned PEC & PAS Finals 2 Champions!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067927076",
+      "latestPatchPublishedAt": "2026-10-07T18:18:28+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad Hotfix 10.6 - Hotfix 2 Release Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387959",
-      "latestPatchPublishedAt": "2026-10-02T23:16:58+00:00",
+      "latestPatchTitle": "Squad Hotfix 10.6.1 Release Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067927017",
+      "latestPatchPublishedAt": "2026-10-07T17:59:15+00:00",
       "status": "ok"
     },
     {
