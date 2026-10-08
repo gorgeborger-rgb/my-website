@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-07T22:14:30.820673+00:00",
+  "generatedAt": "2026-10-08T01:58:24.859778+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders Frozen Trail Preview: The Grappling Hook Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/CGMagazine/1846018067926507",
-      "latestPatchPublishedAt": "2026-10-07T15:00:00+00:00",
+      "latestPatchTitle": "Разработчики шутера Arc Raiders прокомментировали падение онлайна в Steam",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067927962",
+      "latestPatchPublishedAt": "2026-10-07T23:09:37+00:00",
       "status": "ok"
     },
     {
