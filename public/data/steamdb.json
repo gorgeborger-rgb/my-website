@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-08T15:48:32.782283+00:00",
+  "generatedAt": "2026-10-08T20:52:08.923511+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 10/6/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656397146",
-      "latestPatchPublishedAt": "2026-10-06T17:18:13+00:00",
+      "latestPatchTitle": "Apex Legends: Blood Pact Event Trailer",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067930772",
+      "latestPatchPublishedAt": "2026-10-08T17:13:19+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.2.0.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396722",
-      "latestPatchPublishedAt": "2026-10-06T14:57:45+00:00",
+      "latestPatchTitle": "Watch EXFIL Brothers and get Twitch Drops!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067930803",
+      "latestPatchPublishedAt": "2026-10-08T17:23:27+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie перезапускает экономику и раскрывает планы по Marathon до марта 2027 года",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067926320",
-      "latestPatchPublishedAt": "2026-10-07T14:06:55+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.9.3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931127",
+      "latestPatchPublishedAt": "2026-10-08T19:00:27+00:00",
       "status": "ok"
     },
     {
