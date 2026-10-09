@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-09T14:19:05.229966+00:00",
+  "generatedAt": "2026-10-09T19:34:25.358240+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Hotfix 2.0.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932855",
-      "latestPatchPublishedAt": "2026-10-09T10:32:56+00:00",
+      "latestPatchTitle": "Решение сменить внешний вид Селесты в Arc Raiders вызвало неоднозначную реакцию игроков",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067934408",
+      "latestPatchPublishedAt": "2026-10-09T18:41:14+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.182",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932592",
-      "latestPatchPublishedAt": "2026-10-09T08:45:56+00:00",
+      "latestPatchTitle": "Active Matter: Activity Report",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067934479",
+      "latestPatchPublishedAt": "2026-10-09T19:29:53+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: 10/08/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931592",
-      "latestPatchPublishedAt": "2026-10-08T22:33:00+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 10/09/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067934200",
+      "latestPatchPublishedAt": "2026-10-09T17:36:30+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "DMZ Deep Dive, Part 1: Tour of Duty – Hajin Environments and Threats, Full Intel",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394129",
-      "latestPatchPublishedAt": "2026-10-05T17:06:13+00:00",
+      "latestPatchTitle": "DMZ Deep Dive, Part 2: DMZ Early Access Confirmed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067934021",
+      "latestPatchPublishedAt": "2026-10-09T16:50:38+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands Price Announcement | Creator Program",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385600",
-      "latestPatchPublishedAt": "2026-10-02T09:29:31+00:00",
+      "latestPatchTitle": "DayZ Badlands Official Collector’s Vinyl Box Set | Pre-Order Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933489",
+      "latestPatchPublishedAt": "2026-10-09T14:26:28+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Detonation Weapon Balance Adjustments & Arcflare Appearance Draw Available Soon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656377935",
-      "latestPatchPublishedAt": "2026-09-30T15:00:25+00:00",
+      "latestPatchTitle": "1v1 Mode & Season Ammo, New Victory Unite Event, Mid-Season Balance Tweaks",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933610",
+      "latestPatchPublishedAt": "2026-10-09T15:00:48+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "🩸Bound by Blood ❤️| Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067926924",
-      "latestPatchPublishedAt": "2026-10-07T17:28:58+00:00",
+      "latestPatchTitle": "Among Crimson Shadows | Starter Pack",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933995",
+      "latestPatchPublishedAt": "2026-10-09T16:42:16+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Season 10.5: New Modes and Halloween // Dev Vision Vol. 22 | Marvel Rivals",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067929021",
-      "latestPatchPublishedAt": "2026-10-08T09:51:17+00:00",
+      "latestPatchTitle": "Разработчики Marvel Rivals пытаются предотвратить утечки сюжета \"Мстителей: Судный день\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067934453",
+      "latestPatchPublishedAt": "2026-10-09T19:05:57+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.59",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067929713",
-      "latestPatchPublishedAt": "2026-10-08T13:36:25+00:00",
+      "latestPatchTitle": "Server Update 09.10.2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933466",
+      "latestPatchPublishedAt": "2026-10-09T14:20:49+00:00",
       "status": "ok"
     }
   ]
