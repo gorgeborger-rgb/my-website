@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-09T07:02:18.014973+00:00",
+  "generatedAt": "2026-10-09T14:19:05.229966+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Онлайн Arc Raiders в Steam превысил 131 тысячу игроков впервые за несколько месяцев",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067931730",
-      "latestPatchPublishedAt": "2026-10-08T23:58:46+00:00",
+      "latestPatchTitle": "Hotfix 2.0.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932855",
+      "latestPatchPublishedAt": "2026-10-09T10:32:56+00:00",
       "status": "ok"
     },
     {
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "A Beginner Operative’s Guide",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925881",
-      "latestPatchPublishedAt": "2026-10-07T12:01:38+00:00",
+      "latestPatchTitle": "Update 0.4.0.182",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932592",
+      "latestPatchPublishedAt": "2026-10-09T08:45:56+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Season 34 Hits Midseason This Weekend",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067929056",
-      "latestPatchPublishedAt": "2026-10-08T10:01:01+00:00",
+      "latestPatchTitle": "33% Off Vanity Until October 12",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932791",
+      "latestPatchPublishedAt": "2026-10-09T10:07:19+00:00",
       "status": "ok"
     },
     {
@@ -153,18 +153,18 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597",
-      "latestPatchPublishedAt": "2026-10-08T22:36:49+00:00",
+      "latestPatchTitle": "Valve ускорила перезарядку AUG в Counter-Strike 2 и исправила ошибки на картах Rush в свежем обновлении",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067932423",
+      "latestPatchPublishedAt": "2026-10-09T07:28:45+00:00",
       "status": "ok"
     },
     {
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Tavern Table #5 is now LIVE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067924763",
-      "latestPatchPublishedAt": "2026-10-07T02:04:46+00:00",
+      "latestPatchTitle": "Early Access Season #11",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932931",
+      "latestPatchPublishedAt": "2026-10-09T11:00:51+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.3.6 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395757",
-      "latestPatchPublishedAt": "2026-10-06T09:17:31+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.3.7 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932500",
+      "latestPatchPublishedAt": "2026-10-09T08:04:00+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Update 21 | Live Now on All Platforms",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217981",
-      "latestPatchPublishedAt": "2026-09-23T10:08:07+00:00",
+      "latestPatchTitle": "U21 Community Feedback | Dev Brief #221",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932989",
+      "latestPatchPublishedAt": "2026-10-09T11:24:33+00:00",
       "status": "ok"
     },
     {
