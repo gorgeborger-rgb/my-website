@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-08T20:52:08.923511+00:00",
+  "generatedAt": "2026-10-09T00:53:44.859369+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders massive Frozen Trail 2.0 update is out and free to play for a few days",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1846018067929104",
-      "latestPatchPublishedAt": "2026-10-08T10:08:36+00:00",
+      "latestPatchTitle": "Онлайн Arc Raiders в Steam превысил 131 тысячу игроков впервые за несколько месяцев",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067931730",
+      "latestPatchPublishedAt": "2026-10-08T23:58:46+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Blood Pact Event Trailer",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067930772",
-      "latestPatchPublishedAt": "2026-10-08T17:13:19+00:00",
+      "latestPatchTitle": "Apex Legends: 10/08/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931592",
+      "latestPatchPublishedAt": "2026-10-08T22:33:00+00:00",
       "status": "ok"
     },
     {
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017",
-      "latestPatchPublishedAt": "2026-10-07T05:18:58+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597",
+      "latestPatchPublishedAt": "2026-10-08T22:36:49+00:00",
       "status": "ok"
     },
     {
