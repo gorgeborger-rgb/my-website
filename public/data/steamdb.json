@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-09T23:27:02.663245+00:00",
+  "generatedAt": "2026-10-10T02:32:32.901568+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 526: Madness Takes Flight",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656388078",
-      "latestPatchPublishedAt": "2026-10-03T00:27:31+00:00",
+      "latestPatchTitle": "Community Crunch 527: Trial by Fury",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067935186",
+      "latestPatchPublishedAt": "2026-10-10T02:13:01+00:00",
       "status": "ok"
     },
     {
