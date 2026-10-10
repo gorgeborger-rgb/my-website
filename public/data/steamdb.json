@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-10T02:32:32.901568+00:00",
+  "generatedAt": "2026-10-10T08:55:33.182413+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Server Update 09.10.2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933466",
-      "latestPatchPublishedAt": "2026-10-09T14:20:49+00:00",
+      "latestPatchTitle": "Screenshot Competition – Lightfooted!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067935386",
+      "latestPatchPublishedAt": "2026-10-10T05:00:04+00:00",
       "status": "ok"
     }
   ]
