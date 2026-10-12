@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-12T07:47:55.039173+00:00",
+  "generatedAt": "2026-10-12T17:01:53.732443+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter: Activity Report",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067934479",
-      "latestPatchPublishedAt": "2026-10-09T19:29:53+00:00",
+      "latestPatchTitle": "Server update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941187",
+      "latestPatchPublishedAt": "2026-10-12T14:45:40+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "33% Off Vanity Until October 12",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932791",
-      "latestPatchPublishedAt": "2026-10-09T10:07:19+00:00",
+      "latestPatchTitle": "Dragonfire Patch 3 is Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067940495",
+      "latestPatchPublishedAt": "2026-10-12T10:04:52+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "1v1 Mode & Season Ammo, New Victory Unite Event, Mid-Season Balance Tweaks",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933610",
-      "latestPatchPublishedAt": "2026-10-09T15:00:48+00:00",
+      "latestPatchTitle": "G.T.I. Security | Penalties for RMT",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067940847",
+      "latestPatchPublishedAt": "2026-10-12T12:50:16+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Watch EXFIL Brothers and get Twitch Drops!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067930803",
-      "latestPatchPublishedAt": "2026-10-08T17:23:27+00:00",
+      "latestPatchTitle": "Новую GPS-навигацию в Escape from Tarkov встретили неоднозначно: одни рады помощи новичкам, другие недовольны",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067940925",
+      "latestPatchPublishedAt": "2026-10-12T13:20:05+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Inevitability weaves itself together",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067926414",
-      "latestPatchPublishedAt": "2026-10-07T14:55:55+00:00",
+      "latestPatchTitle": "More Tickets? Highlights from the EXBO Stream",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941621",
+      "latestPatchPublishedAt": "2026-10-12T16:55:11+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Lightfooted!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067935386",
-      "latestPatchPublishedAt": "2026-10-10T05:00:04+00:00",
+      "latestPatchTitle": "Update 2.59.0.62",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941259",
+      "latestPatchPublishedAt": "2026-10-12T15:04:44+00:00",
       "status": "ok"
     }
   ]
