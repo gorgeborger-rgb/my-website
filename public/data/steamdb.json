@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-13T11:11:05.267411+00:00",
+  "generatedAt": "2026-10-13T18:20:22.142294+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 2.1.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943414",
-      "latestPatchPublishedAt": "2026-10-13T09:01:04+00:00",
+      "latestPatchTitle": "PvE Toggle Beta Test: October 13-20",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943915",
+      "latestPatchPublishedAt": "2026-10-13T12:50:50+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Server update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941187",
-      "latestPatchPublishedAt": "2026-10-12T14:45:40+00:00",
+      "latestPatchTitle": "Signal Lost",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944333",
+      "latestPatchPublishedAt": "2026-10-13T15:00:19+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "An Update from the Anti Cheat Team - 10/09/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067934613",
-      "latestPatchPublishedAt": "2026-10-09T20:40:35+00:00",
+      "latestPatchTitle": "[AMA] Let’s talk about Wildcard",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944834",
+      "latestPatchPublishedAt": "2026-10-13T17:13:44+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Фанаты возмущены внешним видом 2B в кроссовере с Dead by Daylight - разработчики пообещали всё исправить",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067936138",
-      "latestPatchPublishedAt": "2026-10-10T12:13:25+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 6 Oct — 13 October 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1846018067944049",
+      "latestPatchPublishedAt": "2026-10-13T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.9.3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931127",
-      "latestPatchPublishedAt": "2026-10-08T19:00:27+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.9.4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944786",
+      "latestPatchPublishedAt": "2026-10-13T17:00:24+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update –October 8th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067929989",
-      "latestPatchPublishedAt": "2026-10-08T14:48:57+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List October 13th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943855",
+      "latestPatchPublishedAt": "2026-10-13T12:18:34+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "More Tickets? Highlights from the EXBO Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941621",
-      "latestPatchPublishedAt": "2026-10-12T16:55:11+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944562",
+      "latestPatchPublishedAt": "2026-10-13T15:56:04+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Decal and Discounts on American Ships for the US Navy’s Birthday!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943705",
-      "latestPatchPublishedAt": "2026-10-13T11:07:59+00:00",
+      "latestPatchTitle": "Update 2.59.0.65",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944269",
+      "latestPatchPublishedAt": "2026-10-13T14:41:39+00:00",
       "status": "ok"
     }
   ]
