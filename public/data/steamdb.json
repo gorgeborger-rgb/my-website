@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-13T18:20:22.142294+00:00",
+  "generatedAt": "2026-10-13T22:55:42.823384+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "[AMA] Let’s talk about Wildcard",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944834",
-      "latestPatchPublishedAt": "2026-10-13T17:13:44+00:00",
+      "latestPatchTitle": "Blood Pact Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067945062",
+      "latestPatchPublishedAt": "2026-10-13T18:51:53+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "October Store Update 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943015",
-      "latestPatchPublishedAt": "2026-10-13T06:00:52+00:00",
+      "latestPatchTitle": "PGS 10 Group Stage is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067945161",
+      "latestPatchPublishedAt": "2026-10-13T19:31:26+00:00",
       "status": "ok"
     },
     {
