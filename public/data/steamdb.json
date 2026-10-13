@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-13T03:48:44.803655+00:00",
+  "generatedAt": "2026-10-13T11:11:05.267411+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Решение сменить внешний вид Селесты в Arc Raiders вызвало неоднозначную реакцию игроков",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067934408",
-      "latestPatchPublishedAt": "2026-10-09T18:41:14+00:00",
+      "latestPatchTitle": "Store Update 2.1.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943414",
+      "latestPatchPublishedAt": "2026-10-13T09:01:04+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Penalties for RMT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067940847",
-      "latestPatchPublishedAt": "2026-10-12T12:50:16+00:00",
+      "latestPatchTitle": "Delta Force получила дуэли 1 на 1 и спасение раненых - обновление расширяет тактические возможности",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067943257",
+      "latestPatchPublishedAt": "2026-10-13T07:47:50+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "New Content in 0.5 | Devlog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067938682",
-      "latestPatchPublishedAt": "2026-10-11T15:01:53+00:00",
+      "latestPatchTitle": "Gray Zone Warfare получит 370 модулей оружия и три опасные локации в обновлении Rogue Ops",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067943225",
+      "latestPatchPublishedAt": "2026-10-13T07:25:49+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "The Final Road to PGC begins: PGS Circuit 4!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067928978",
-      "latestPatchPublishedAt": "2026-10-08T09:37:55+00:00",
+      "latestPatchTitle": "October Store Update 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943015",
+      "latestPatchPublishedAt": "2026-10-13T06:00:52+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.62",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941259",
-      "latestPatchPublishedAt": "2026-10-12T15:04:44+00:00",
+      "latestPatchTitle": "A Decal and Discounts on American Ships for the US Navy’s Birthday!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943705",
+      "latestPatchPublishedAt": "2026-10-13T11:07:59+00:00",
       "status": "ok"
     }
   ]
