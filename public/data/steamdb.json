@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-14T01:31:00.652964+00:00",
+  "generatedAt": "2026-10-14T06:39:23.299647+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,18 +324,18 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 10 Group Stage is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067945161",
-      "latestPatchPublishedAt": "2026-10-13T19:31:26+00:00",
+      "latestPatchTitle": "Special Drops - October 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673190",
+      "latestPatchPublishedAt": "2026-10-14T05:00:04+00:00",
       "status": "ok"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230596",
-      "latestPatchPublishedAt": "2026-09-28T05:38:15+00:00",
+      "latestPatchTitle": "Авторы Palworld рассказали, почему не превратили успешный мир с \"покемонами\" в новый Fortnite",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706673296",
+      "latestPatchPublishedAt": "2026-10-14T06:10:13+00:00",
       "status": "ok"
     },
     {
