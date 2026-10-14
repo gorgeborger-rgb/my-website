@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-14T12:21:12.445422+00:00",
+  "generatedAt": "2026-10-14T17:24:49.506295+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - October 14th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674105",
-      "latestPatchPublishedAt": "2026-10-14T12:08:23+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite X Girls' Frontline 2: Exilium",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674264",
+      "latestPatchPublishedAt": "2026-10-14T13:18:08+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - October 14th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674105",
-      "latestPatchPublishedAt": "2026-10-14T12:08:23+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite X Girls' Frontline 2: Exilium",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674264",
+      "latestPatchPublishedAt": "2026-10-14T13:18:08+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 6 Oct — 13 October 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1846018067944049",
-      "latestPatchPublishedAt": "2026-10-13T09:00:00+00:00",
+      "latestPatchTitle": "10.2.1 | Bugfix Patch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674577",
+      "latestPatchPublishedAt": "2026-10-14T15:01:01+00:00",
       "status": "ok"
     },
     {
@@ -214,11 +214,11 @@
     },
     {
       "game": "EFT",
-      "appId": 3975470,
-      "steamDbUrl": "https://steamdb.info/app/3975470/",
-      "latestPatchTitle": "Update 1.0.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395918",
-      "latestPatchPublishedAt": "2026-10-06T10:20:10+00:00",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Among Crimson Shadows | Starter Pack",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933995",
-      "latestPatchPublishedAt": "2026-10-09T16:42:16+00:00",
+      "latestPatchTitle": "Cursed Kin | Premium Story Challenge",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674991",
+      "latestPatchPublishedAt": "2026-10-14T16:58:38+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "A New Kind of Competition Arrives in Siege",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218701",
-      "latestPatchPublishedAt": "2026-09-23T15:00:40+00:00",
+      "latestPatchTitle": "Doktor's Curse Is Back: Hide, Hunt, and Survive",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674567",
+      "latestPatchPublishedAt": "2026-10-14T15:00:36+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game crash problems",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674107",
-      "latestPatchPublishedAt": "2026-10-14T12:10:15+00:00",
+      "latestPatchTitle": "Nerves acting up? Keep your hands busy",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674749",
+      "latestPatchPublishedAt": "2026-10-14T15:59:37+00:00",
       "status": "ok"
     },
     {
