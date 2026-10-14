@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-14T06:39:23.299647+00:00",
+  "generatedAt": "2026-10-14T12:21:12.445422+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dragonfire Patch 3 is Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067940495",
-      "latestPatchPublishedAt": "2026-10-12T10:04:52+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: izValen",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673768",
+      "latestPatchPublishedAt": "2026-10-14T10:00:20+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Log In This October and Claim 4,800 Free Bonds!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234354",
-      "latestPatchPublishedAt": "2026-09-29T14:00:37+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - October 14th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674105",
+      "latestPatchPublishedAt": "2026-10-14T12:08:23+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Log In This October and Claim 4,800 Free Bonds!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234354",
-      "latestPatchPublishedAt": "2026-09-29T14:00:37+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - October 14th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674105",
+      "latestPatchPublishedAt": "2026-10-14T12:08:23+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Special Drops - October 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673190",
-      "latestPatchPublishedAt": "2026-10-14T05:00:04+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/05~10/11)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673370",
+      "latestPatchPublishedAt": "2026-10-14T07:00:11+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944562",
-      "latestPatchPublishedAt": "2026-10-13T15:56:04+00:00",
+      "latestPatchTitle": "Game crash problems",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674107",
+      "latestPatchPublishedAt": "2026-10-14T12:10:15+00:00",
       "status": "ok"
     },
     {
