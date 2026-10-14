@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-14T20:50:25.868491+00:00",
+  "generatedAt": "2026-10-14T23:34:07.258154+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Valve ускорила перезарядку AUG в Counter-Strike 2 и исправила ошибки на картах Rush в свежем обновлении",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067932423",
-      "latestPatchPublishedAt": "2026-10-09T07:28:45+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829",
+      "latestPatchPublishedAt": "2026-10-14T23:02:48+00:00",
       "status": "ok"
     },
     {
