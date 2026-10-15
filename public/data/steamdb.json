@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-15T01:46:17.856128+00:00",
+  "generatedAt": "2026-10-15T06:30:26.562585+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -214,11 +214,11 @@
     },
     {
       "game": "EFT",
-      "appId": 3975470,
-      "steamDbUrl": "https://steamdb.info/app/3975470/",
-      "latestPatchTitle": "Update 1.0.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395918",
-      "latestPatchPublishedAt": "2026-10-06T10:20:10+00:00",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
     {
