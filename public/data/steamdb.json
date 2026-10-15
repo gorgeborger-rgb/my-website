@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-15T16:51:41.196998+00:00",
+  "generatedAt": "2026-10-15T20:08:03.192928+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.195",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677093",
-      "latestPatchPublishedAt": "2026-10-15T10:24:39+00:00",
+      "latestPatchTitle": "Update 0.4.0.196",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678912",
+      "latestPatchPublishedAt": "2026-10-15T18:24:31+00:00",
       "status": "ok"
     },
     {
@@ -117,9 +117,9 @@
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "Guts & Glamour",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678553",
-      "latestPatchPublishedAt": "2026-10-15T16:50:36+00:00",
+      "latestPatchTitle": "Splendor from the Deep",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678555",
+      "latestPatchPublishedAt": "2026-10-15T16:51:27+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 10 Winners Stage is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675203",
-      "latestPatchPublishedAt": "2026-10-14T17:57:08+00:00",
+      "latestPatchTitle": "PGS 10 Survival Stage is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678818",
+      "latestPatchPublishedAt": "2026-10-15T17:59:58+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Test Server launch [16.10.26]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678036",
-      "latestPatchPublishedAt": "2026-10-15T14:59:44+00:00",
+      "latestPatchTitle": "Hotfix [15.10.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706679122",
+      "latestPatchPublishedAt": "2026-10-15T19:45:53+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad Hotfix 10.6.1 Release Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067927017",
-      "latestPatchPublishedAt": "2026-10-07T17:59:15+00:00",
+      "latestPatchTitle": "Squad Hotfix 10.6.2 Release Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678820",
+      "latestPatchPublishedAt": "2026-10-15T18:00:19+00:00",
       "status": "ok"
     },
     {
