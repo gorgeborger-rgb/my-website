@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-16T18:35:03.473284+00:00",
+  "generatedAt": "2026-10-16T21:38:37.057338+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Remember Advanced Case? Well...",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682691",
-      "latestPatchPublishedAt": "2026-10-16T18:17:12+00:00",
+      "latestPatchTitle": "OTS adjustments",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682934",
+      "latestPatchPublishedAt": "2026-10-16T19:49:43+00:00",
       "status": "ok"
     },
     {
