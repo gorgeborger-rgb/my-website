@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-17T02:23:50.039965+00:00",
+  "generatedAt": "2026-10-17T07:05:03.713828+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Official Snail Plushie Collaboration with Makeship!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682154",
-      "latestPatchPublishedAt": "2026-10-16T16:06:33+00:00",
+      "latestPatchTitle": "Screenshot Competition – Personal Favorites!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706683779",
+      "latestPatchPublishedAt": "2026-10-17T04:20:32+00:00",
       "status": "ok"
     }
   ]
