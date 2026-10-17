@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-17T14:22:47.094378+00:00",
+  "generatedAt": "2026-10-17T17:23:28.515847+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Security Report: Update 0.4 Cycle & Anti-cheat Improvements",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681932",
-      "latestPatchPublishedAt": "2026-10-16T15:26:33+00:00",
+      "latestPatchTitle": "Everything You Need to Know About Rogue Ops Twitch Drops",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706684831",
+      "latestPatchPublishedAt": "2026-10-17T15:30:37+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 10 Final Stage Day 1 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706683195",
-      "latestPatchPublishedAt": "2026-10-16T21:48:37+00:00",
+      "latestPatchTitle": "PGS 10 Final Stage Day 2 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706684829",
+      "latestPatchPublishedAt": "2026-10-17T15:30:11+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "OTS adjustments",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682934",
-      "latestPatchPublishedAt": "2026-10-16T19:49:43+00:00",
+      "latestPatchTitle": "OTS Survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706684865",
+      "latestPatchPublishedAt": "2026-10-17T15:43:00+00:00",
       "status": "ok"
     },
     {
