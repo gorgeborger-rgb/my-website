@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-18T14:37:21.237420+00:00",
+  "generatedAt": "2026-10-18T17:31:27.526375+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Join Us for the Q&A Dev Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706685495",
-      "latestPatchPublishedAt": "2026-10-17T19:56:32+00:00",
+      "latestPatchTitle": "New Features in 0.5 | Devlog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706687177",
+      "latestPatchPublishedAt": "2026-10-18T15:01:22+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "OTS closing",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706687038",
-      "latestPatchPublishedAt": "2026-10-18T14:00:24+00:00",
+      "latestPatchTitle": "Unknown Find",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706687163",
+      "latestPatchPublishedAt": "2026-10-18T15:00:14+00:00",
       "status": "ok"
     },
     {
