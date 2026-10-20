@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-20T12:44:54.764200+00:00",
+  "generatedAt": "2026-10-20T17:33:22.868490+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 4163030,
       "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "meow meoow MAJOR UPDATE - NEW CAMPAIGN!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706691001",
-      "latestPatchPublishedAt": "2026-10-19T16:12:50+00:00",
+      "latestPatchTitle": "meow meoow NEW DLC - SAMURAI CATS!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695379",
+      "latestPatchPublishedAt": "2026-10-20T13:54:29+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.2.1 | Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674577",
-      "latestPatchPublishedAt": "2026-10-14T15:01:01+00:00",
+      "latestPatchTitle": "10.2.2 | Bugfix Patch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695628",
+      "latestPatchPublishedAt": "2026-10-20T15:01:39+00:00",
       "status": "ok"
     },
     {
@@ -270,18 +270,18 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Blood Testament | Event Survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692106",
-      "latestPatchPublishedAt": "2026-10-19T18:17:12+00:00",
+      "latestPatchTitle": "Twitch Drops Dates | Blood Testament",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706696131",
+      "latestPatchPublishedAt": "2026-10-20T17:21:12+00:00",
       "status": "ok"
     },
     {
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.9.4",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944786",
-      "latestPatchPublishedAt": "2026-10-13T17:00:24+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.9.5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706696043",
+      "latestPatchPublishedAt": "2026-10-20T17:00:53+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List October 13th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943855",
-      "latestPatchPublishedAt": "2026-10-13T12:18:34+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List Oct 20th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695473",
+      "latestPatchPublishedAt": "2026-10-20T14:16:17+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Разработчики Palworld не хотят добавлять сотни новых Палов ради количества - каждому нужна своя особенность",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706693859",
-      "latestPatchPublishedAt": "2026-10-20T06:06:35+00:00",
+      "latestPatchTitle": "Palworld получит крупное обновление Side by Side этой зимой - Pocketpair также раскрыла любимых Палов игроков",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706695313",
+      "latestPatchPublishedAt": "2026-10-20T13:30:12+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Another wave of rumors",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690621",
-      "latestPatchPublishedAt": "2026-10-19T14:57:18+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695821",
+      "latestPatchPublishedAt": "2026-10-20T15:56:16+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 11.14.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677023",
-      "latestPatchPublishedAt": "2026-10-15T10:01:16+00:00",
+      "latestPatchTitle": "В The Finals стартовал сезон \"PRIME TIME\" - опубликован трейлер запуска",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706695988",
+      "latestPatchPublishedAt": "2026-10-20T16:34:09+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "War Thunder Steam Community Spotlight — 16th Edition!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706694430",
-      "latestPatchPublishedAt": "2026-10-20T09:26:52+00:00",
+      "latestPatchTitle": "Improvements to the Controls for CCRP Bombing!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695178",
+      "latestPatchPublishedAt": "2026-10-20T13:03:42+00:00",
       "status": "ok"
     }
   ]
