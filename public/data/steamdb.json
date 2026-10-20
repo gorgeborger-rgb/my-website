@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-20T01:57:26.108733+00:00",
+  "generatedAt": "2026-10-20T07:10:32.248574+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Авторы Palworld рассказали, почему не превратили успешный мир с \"покемонами\" в новый Fortnite",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706673296",
-      "latestPatchPublishedAt": "2026-10-14T06:10:13+00:00",
+      "latestPatchTitle": "Разработчики Palworld не хотят добавлять сотни новых Палов ради количества - каждому нужна своя особенность",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706693859",
+      "latestPatchPublishedAt": "2026-10-20T06:06:35+00:00",
       "status": "ok"
     },
     {
