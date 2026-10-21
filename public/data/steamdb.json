@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-20T23:28:15.278046+00:00",
+  "generatedAt": "2026-10-21T01:50:41.727134+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.2.2 | Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695628",
-      "latestPatchPublishedAt": "2026-10-20T15:01:39+00:00",
+      "latestPatchTitle": "В Dead by Daylight стартовало событие в честь коллаборации с Diablo 4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114027123",
+      "latestPatchPublishedAt": "2026-10-21T00:14:47+00:00",
       "status": "ok"
     },
     {
