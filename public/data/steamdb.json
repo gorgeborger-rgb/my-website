@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-21T06:50:46.361203+00:00",
+  "generatedAt": "2026-10-21T12:36:48.885882+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.199",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681880",
-      "latestPatchPublishedAt": "2026-10-16T15:12:00+00:00",
+      "latestPatchTitle": "Update 0.4.0.201",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028169",
+      "latestPatchPublishedAt": "2026-10-21T09:27:22+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "33% Off Vanity Until October 19",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706680857",
-      "latestPatchPublishedAt": "2026-10-16T10:11:53+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: Megz",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028260",
+      "latestPatchPublishedAt": "2026-10-21T10:00:58+00:00",
       "status": "ok"
     },
     {
@@ -243,18 +243,18 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk September 23rd Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218442",
-      "latestPatchPublishedAt": "2026-09-23T13:38:59+00:00",
+      "latestPatchTitle": "FragPunk October 22nd Update Announcement: New Content for Season 6, Chapter 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028457",
+      "latestPatchPublishedAt": "2026-10-21T11:06:58+00:00",
       "status": "ok"
     },
     {
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Join Us for Operation Dead Drop: A Launch Stream Featuring Top Creators",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706696319",
-      "latestPatchPublishedAt": "2026-10-20T18:11:11+00:00",
+      "latestPatchTitle": "Hotfix 0.5.0.0 (1) Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028157",
+      "latestPatchPublishedAt": "2026-10-21T09:21:53+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 10 Final Stage Day 2 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706684829",
-      "latestPatchPublishedAt": "2026-10-17T15:30:11+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/12~10/18)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114027776",
+      "latestPatchPublishedAt": "2026-10-21T07:00:48+00:00",
       "status": "ok"
     },
     {
@@ -378,18 +378,18 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695821",
-      "latestPatchPublishedAt": "2026-10-20T15:56:16+00:00",
+      "latestPatchTitle": "Camera on the Zone — you in the spotlight",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028577",
+      "latestPatchPublishedAt": "2026-10-21T11:59:42+00:00",
       "status": "ok"
     },
     {
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "This Month in Sea of Thieves: October 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925695",
-      "latestPatchPublishedAt": "2026-10-07T10:30:19+00:00",
+      "latestPatchTitle": "Get Chills from Season 21 Community Weekend on October 23rd",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114027952",
+      "latestPatchPublishedAt": "2026-10-21T08:05:14+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "В The Finals стартовал сезон \"PRIME TIME\" - опубликован трейлер запуска",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706695988",
-      "latestPatchPublishedAt": "2026-10-20T16:34:09+00:00",
+      "latestPatchTitle": "THE FINALS gets a huge update with enhanced destruction and a free for all mode",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1847286114028248",
+      "latestPatchPublishedAt": "2026-10-21T09:46:34+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Improvements to the Controls for CCRP Bombing!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695178",
-      "latestPatchPublishedAt": "2026-10-20T13:03:42+00:00",
+      "latestPatchTitle": "It’s fixed! №119",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028128",
+      "latestPatchPublishedAt": "2026-10-21T09:08:16+00:00",
       "status": "ok"
     }
   ]
