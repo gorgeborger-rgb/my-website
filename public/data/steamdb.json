@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-21T12:36:48.885882+00:00",
+  "generatedAt": "2026-10-21T17:37:06.418848+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "DMZ Early Access Deployment to Hajin Is Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706696828",
-      "latestPatchPublishedAt": "2026-10-20T21:41:08+00:00",
+      "latestPatchTitle": "Modern Warfare 4 Multiplayer Maps and Modes Confirmed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029684",
+      "latestPatchPublishedAt": "2026-10-21T17:06:06+00:00",
       "status": "ok"
     },
     {
@@ -297,18 +297,18 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List Oct 20th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695473",
-      "latestPatchPublishedAt": "2026-10-20T14:16:17+00:00",
+      "latestPatchTitle": "NARAKA：BLADEPOINT Update –October 22nd, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029068",
+      "latestPatchPublishedAt": "2026-10-21T14:39:50+00:00",
       "status": "ok"
     },
     {
       "game": "Off The Grid",
       "appId": 3659280,
       "steamDbUrl": "https://steamdb.info/app/3659280/",
-      "latestPatchTitle": "The Iron Canopy Content Pack",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656381446",
-      "latestPatchPublishedAt": "2026-10-01T14:03:04+00:00",
+      "latestPatchTitle": "Developer Update: Kestrel Executes First Official Ban Wave",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029350",
+      "latestPatchPublishedAt": "2026-10-21T15:50:02+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Camera on the Zone — you in the spotlight",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028577",
-      "latestPatchPublishedAt": "2026-10-21T11:59:42+00:00",
+      "latestPatchTitle": "Diggers' Tales",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029139",
+      "latestPatchPublishedAt": "2026-10-21T15:01:10+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "It’s fixed! №119",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028128",
-      "latestPatchPublishedAt": "2026-10-21T09:08:16+00:00",
+      "latestPatchTitle": "New Roundels and Decals!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029186",
+      "latestPatchPublishedAt": "2026-10-21T15:09:26+00:00",
       "status": "ok"
     }
   ]
