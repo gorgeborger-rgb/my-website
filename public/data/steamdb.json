@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-21T17:37:06.418848+00:00",
+  "generatedAt": "2026-10-21T20:51:56.619126+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/12~10/18)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114027776",
-      "latestPatchPublishedAt": "2026-10-21T07:00:48+00:00",
+      "latestPatchTitle": "PGS 11 Winners Stage is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029975",
+      "latestPatchPublishedAt": "2026-10-21T18:43:29+00:00",
       "status": "ok"
     },
     {
