@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-22T07:58:31.904064+00:00",
+  "generatedAt": "2026-10-22T13:32:09.273022+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: Megz",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028260",
-      "latestPatchPublishedAt": "2026-10-21T10:00:58+00:00",
+      "latestPatchTitle": "Allhallows Returns, and Bob is not Pleased",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031994",
+      "latestPatchPublishedAt": "2026-10-22T10:00:27+00:00",
       "status": "ok"
     },
     {
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Polaris Patrol: New Mini-Mode Arrives, Operator & Firearm Balance Adjustments",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677613",
-      "latestPatchPublishedAt": "2026-10-15T13:00:40+00:00",
+      "latestPatchTitle": "Halloween Update | Raven's Deal & Trickster Store Arrive",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032350",
+      "latestPatchPublishedAt": "2026-10-22T12:00:32+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.15.1 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706694879",
-      "latestPatchPublishedAt": "2026-10-20T11:36:25+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.15.2 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031692",
+      "latestPatchPublishedAt": "2026-10-22T08:12:51+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 11 Winners Stage is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029975",
-      "latestPatchPublishedAt": "2026-10-21T18:43:29+00:00",
+      "latestPatchTitle": "PGS 10: The Predator, Virtus.pro",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031762",
+      "latestPatchPublishedAt": "2026-10-22T08:42:21+00:00",
       "status": "ok"
     },
     {
@@ -378,18 +378,18 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Diggers' Tales",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029139",
-      "latestPatchPublishedAt": "2026-10-21T15:01:10+00:00",
+      "latestPatchTitle": "Metropolite's arena",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032166",
+      "latestPatchPublishedAt": "2026-10-22T11:00:19+00:00",
       "status": "ok"
     },
     {
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Get Chills from Season 21 Community Weekend on October 23rd",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114027952",
-      "latestPatchPublishedAt": "2026-10-21T08:05:14+00:00",
+      "latestPatchTitle": "Sea of Thieves Release Notes – 3.9.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032326",
+      "latestPatchPublishedAt": "2026-10-22T11:51:44+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "New Roundels and Decals!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029186",
-      "latestPatchPublishedAt": "2026-10-21T15:09:26+00:00",
+      "latestPatchTitle": "Discount on the UH-1C XM-30 on the First Flight Anniversary!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032264",
+      "latestPatchPublishedAt": "2026-10-22T11:28:14+00:00",
       "status": "ok"
     }
   ]
