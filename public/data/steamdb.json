@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-22T02:42:53.099892+00:00",
+  "generatedAt": "2026-10-22T07:58:31.904064+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Art Vision Vol. 06 // Behind The Scenes (Part 1): Dedication and Passion",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678168",
-      "latestPatchPublishedAt": "2026-10-15T15:23:40+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20261022 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031572",
+      "latestPatchPublishedAt": "2026-10-22T07:32:01+00:00",
       "status": "ok"
     },
     {
