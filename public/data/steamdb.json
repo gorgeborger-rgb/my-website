@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-22T18:08:26.919593+00:00",
+  "generatedAt": "2026-10-22T21:29:53.315811+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "В Dead by Daylight стартовало событие в честь коллаборации с Diablo 4",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114027123",
-      "latestPatchPublishedAt": "2026-10-21T00:14:47+00:00",
+      "latestPatchTitle": "October Community Stream Recap",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034014",
+      "latestPatchPublishedAt": "2026-10-22T19:50:57+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Editions for Gray Zone Warfare: Rogue Ops",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033752",
-      "latestPatchPublishedAt": "2026-10-22T18:02:37+00:00",
+      "latestPatchTitle": "Security Report: Release Day Ban Wave",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033813",
+      "latestPatchPublishedAt": "2026-10-22T18:25:32+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 10: The Predator, Virtus.pro",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031762",
-      "latestPatchPublishedAt": "2026-10-22T08:42:21+00:00",
+      "latestPatchTitle": "PGS 11 Survival Stage is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034088",
+      "latestPatchPublishedAt": "2026-10-22T20:20:16+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "New Rust update adds livestock, slows the race to vehicles, and finally gives spoiled meat a use",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1845383656387132",
-      "latestPatchPublishedAt": "2026-10-02T16:21:23+00:00",
+      "latestPatchTitle": "HALLOWEEN 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033781",
+      "latestPatchPublishedAt": "2026-10-22T18:12:13+00:00",
       "status": "ok"
     },
     {
