@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-23T21:37:08.683679+00:00",
+  "generatedAt": "2026-10-23T23:58:11.052090+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 11 Survival Stage is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034088",
-      "latestPatchPublishedAt": "2026-10-22T20:20:16+00:00",
+      "latestPatchTitle": "PGS 11 Final Stage Day 1 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038057",
+      "latestPatchPublishedAt": "2026-10-23T21:44:11+00:00",
       "status": "ok"
     },
     {
