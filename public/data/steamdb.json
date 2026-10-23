@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-22T21:29:53.315811+00:00",
+  "generatedAt": "2026-10-23T00:05:22.507629+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1846651706695791",
-      "latestPatchPublishedAt": "2026-10-20T14:45:11+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398",
+      "latestPatchPublishedAt": "2026-10-22T22:56:10+00:00",
       "status": "ok"
     },
     {
