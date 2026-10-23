@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-23T04:37:45.259680+00:00",
+  "generatedAt": "2026-10-23T09:32:16.811674+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #128-1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706680332",
-      "latestPatchPublishedAt": "2026-10-16T06:55:18+00:00",
+      "latestPatchTitle": "Early Access Hotfix #129",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035074",
+      "latestPatchPublishedAt": "2026-10-23T05:35:36+00:00",
       "status": "ok"
     },
     {
