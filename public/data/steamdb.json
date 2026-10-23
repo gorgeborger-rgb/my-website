@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-23T09:32:16.811674+00:00",
+  "generatedAt": "2026-10-23T14:23:30.541180+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.205",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033075",
-      "latestPatchPublishedAt": "2026-10-22T15:03:48+00:00",
+      "latestPatchTitle": "Extinguish on Sight: Firestorm",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035718",
+      "latestPatchPublishedAt": "2026-10-23T09:47:29+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Allhallows Returns, and Bob is not Pleased",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031994",
-      "latestPatchPublishedAt": "2026-10-22T10:00:27+00:00",
+      "latestPatchTitle": "Allhallows Brings Spooky Savings!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035802",
+      "latestPatchPublishedAt": "2026-10-23T10:15:14+00:00",
       "status": "ok"
     },
     {
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Update 1.11: Vehicle Improvements & Skins, Boars, and Balance Changes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217828",
-      "latestPatchPublishedAt": "2026-09-23T09:08:24+00:00",
+      "latestPatchTitle": "Update 1.12: Halloween Seasonal Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114036105",
+      "latestPatchPublishedAt": "2026-10-23T11:59:04+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Communinet Signal #22",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033196",
-      "latestPatchPublishedAt": "2026-10-22T15:27:27+00:00",
+      "latestPatchTitle": "The Scourge - A Spooky Event Comes to Dune: Awakening",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035753",
+      "latestPatchPublishedAt": "2026-10-23T09:59:54+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Security Report: Release Day Ban Wave",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033813",
-      "latestPatchPublishedAt": "2026-10-22T18:25:32+00:00",
+      "latestPatchTitle": "Backend Hotfix 0.5.0.1 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035857",
+      "latestPatchPublishedAt": "2026-10-23T10:33:46+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20261022 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031572",
-      "latestPatchPublishedAt": "2026-10-22T07:32:01+00:00",
+      "latestPatchTitle": "Art Vision Vol. 06 // Behind The Scenes (Part 2): Dedication and Passion",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035848",
+      "latestPatchPublishedAt": "2026-10-23T10:30:39+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Fuss in the Bar",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033019",
-      "latestPatchPublishedAt": "2026-10-22T14:54:35+00:00",
+      "latestPatchTitle": "Join the Festivity on October 28!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035763",
+      "latestPatchPublishedAt": "2026-10-23T10:01:15+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032959",
-      "latestPatchPublishedAt": "2026-10-22T14:39:29+00:00",
+      "latestPatchTitle": "The J35A Returns with a Discount for the Dragon’s First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114036400",
+      "latestPatchPublishedAt": "2026-10-23T13:23:49+00:00",
       "status": "ok"
     }
   ]
