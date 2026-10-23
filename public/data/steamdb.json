@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-23T18:33:06.357356+00:00",
+  "generatedAt": "2026-10-23T21:37:08.683679+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -117,9 +117,9 @@
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "Splendor from the Deep",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678555",
-      "latestPatchPublishedAt": "2026-10-15T16:51:27+00:00",
+      "latestPatchTitle": "Hotfixes!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037778",
+      "latestPatchPublishedAt": "2026-10-23T19:34:52+00:00",
       "status": "ok"
     },
     {
