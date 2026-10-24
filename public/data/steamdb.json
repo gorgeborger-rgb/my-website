@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-24T03:31:47.780599+00:00",
+  "generatedAt": "2026-10-24T08:22:24.834859+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders получила обновление 2.2: разработчики завершили тестирование PvE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706694806",
-      "latestPatchPublishedAt": "2026-10-20T11:06:10+00:00",
+      "latestPatchTitle": "Стример Arc Raiders получил аппаратный бан за аимбот - до этого он сам спросил, почему его до сих пор не заблокировали",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114039112",
+      "latestPatchPublishedAt": "2026-10-24T08:10:01+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Improvements to DIRCM",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114036908",
-      "latestPatchPublishedAt": "2026-10-23T15:33:38+00:00",
+      "latestPatchTitle": "Screenshot Competition – Haunting Grounds!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038645",
+      "latestPatchPublishedAt": "2026-10-24T03:45:34+00:00",
       "status": "ok"
     }
   ]
