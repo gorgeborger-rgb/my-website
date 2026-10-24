@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-23T23:58:11.052090+00:00",
+  "generatedAt": "2026-10-24T03:31:47.780599+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 528: Not Quite What It Seems",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706683600",
-      "latestPatchPublishedAt": "2026-10-17T01:58:24+00:00",
+      "latestPatchTitle": "Community Crunch 529: Ghouls Just Wanna Have Fun",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038373",
+      "latestPatchPublishedAt": "2026-10-24T00:07:11+00:00",
       "status": "ok"
     },
     {
