@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-24T18:49:41.110405+00:00",
+  "generatedAt": "2026-10-24T21:14:22.760470+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Allhallows Brings Spooky Savings!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035802",
-      "latestPatchPublishedAt": "2026-10-23T10:15:14+00:00",
+      "latestPatchTitle": "Торговые боты окончательно уничтожили экономику Черного рынка в европейском регионе Albion Online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114040567",
+      "latestPatchPublishedAt": "2026-10-24T19:58:09+00:00",
       "status": "ok"
     },
     {
