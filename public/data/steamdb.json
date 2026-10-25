@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-25T06:11:43.127385+00:00",
+  "generatedAt": "2026-10-25T11:36:13.742843+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 11 Final Stage Day 1 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038057",
-      "latestPatchPublishedAt": "2026-10-23T21:44:11+00:00",
+      "latestPatchTitle": "PGS 11 Final Stage Day 2 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041425",
+      "latestPatchPublishedAt": "2026-10-25T08:27:08+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "OTS fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114039839",
-      "latestPatchPublishedAt": "2026-10-24T15:09:27+00:00",
+      "latestPatchTitle": "The event is ending soon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041681",
+      "latestPatchPublishedAt": "2026-10-25T11:00:41+00:00",
       "status": "ok"
     },
     {
