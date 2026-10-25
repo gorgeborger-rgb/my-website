@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-25T15:02:18.326408+00:00",
+  "generatedAt": "2026-10-25T18:21:49.068716+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Twitch Drops Blog | Blood Testament",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037168",
-      "latestPatchPublishedAt": "2026-10-23T16:44:45+00:00",
+      "latestPatchTitle": "Twitch Drops start tomorrow! | Blood Testament",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042362",
+      "latestPatchPublishedAt": "2026-10-25T16:55:38+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "OTS fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041761",
-      "latestPatchPublishedAt": "2026-10-25T11:45:59+00:00",
+      "latestPatchTitle": "Fight or suffer!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042114",
+      "latestPatchPublishedAt": "2026-10-25T15:09:16+00:00",
       "status": "ok"
     },
     {
