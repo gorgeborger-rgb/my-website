@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-25T23:10:55.252108+00:00",
+  "generatedAt": "2026-10-26T01:13:52.699292+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,11 +288,10 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "error",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "latestPatchTitle": "Art Vision Vol. 06 // Behind The Scenes (Part 2): Dedication and Passion",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035848",
+      "latestPatchPublishedAt": "2026-10-23T10:30:39+00:00",
+      "status": "ok"
     },
     {
       "game": "Naraka",
