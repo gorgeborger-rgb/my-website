@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-26T06:17:38.693220+00:00",
+  "generatedAt": "2026-10-26T13:15:28.108205+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Over 500,000 Copies of Active Matter!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042101",
-      "latestPatchPublishedAt": "2026-10-25T15:00:36+00:00",
+      "latestPatchTitle": "Active Matter преодолела отметку в 500 тысяч проданных копий - разработчики готовят крупное обновление",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114043934",
+      "latestPatchPublishedAt": "2026-10-26T07:14:41+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Fight or suffer!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042114",
-      "latestPatchPublishedAt": "2026-10-25T15:09:16+00:00",
+      "latestPatchTitle": "Arena progression",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114044319",
+      "latestPatchPublishedAt": "2026-10-26T10:02:17+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Haunting Grounds!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038645",
-      "latestPatchPublishedAt": "2026-10-24T03:45:34+00:00",
+      "latestPatchTitle": "Dreams Come True: Mistel 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114044371",
+      "latestPatchPublishedAt": "2026-10-26T10:16:21+00:00",
       "status": "ok"
     }
   ]
