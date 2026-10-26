@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-26T19:21:42.059849+00:00",
+  "generatedAt": "2026-10-26T23:12:55.924070+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -423,11 +423,10 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "error",
-      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
+      "latestPatchTitle": "3.26.3.13 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378013",
+      "latestPatchPublishedAt": "2026-09-30T15:17:51+00:00",
+      "status": "ok"
     },
     {
       "game": "WarThunder",
