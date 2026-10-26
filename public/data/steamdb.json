@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-26T13:15:28.108205+00:00",
+  "generatedAt": "2026-10-26T19:21:42.059849+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter преодолела отметку в 500 тысяч проданных копий - разработчики готовят крупное обновление",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114043934",
-      "latestPatchPublishedAt": "2026-10-26T07:14:41+00:00",
+      "latestPatchTitle": "Frightfully Good Deal: Active Matter at the \"Steam Scream V\" Festival!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045839",
+      "latestPatchPublishedAt": "2026-10-26T17:04:59+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Состоялся релиз DayZ Badlands с крупнейшей пустынной картой и мотоциклами",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706678085",
-      "latestPatchPublishedAt": "2026-10-15T14:56:24+00:00",
+      "latestPatchTitle": "Scream V Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114046162",
+      "latestPatchPublishedAt": "2026-10-26T18:05:39+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "The Scourge - A Spooky Event Comes to Dune: Awakening",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035753",
-      "latestPatchPublishedAt": "2026-10-23T09:59:54+00:00",
+      "latestPatchTitle": "Dune: Awakening x Dying Light: The Beast - Bundle",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045406",
+      "latestPatchPublishedAt": "2026-10-26T15:51:34+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Twitch Drops start tomorrow! | Blood Testament",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042362",
-      "latestPatchPublishedAt": "2026-10-25T16:55:38+00:00",
+      "latestPatchTitle": "Twitch Drops are live! | Blood Testament",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045240",
+      "latestPatchPublishedAt": "2026-10-26T15:05:00+00:00",
       "status": "ok"
     },
     {
@@ -423,18 +423,19 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.13 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378013",
-      "latestPatchPublishedAt": "2026-09-30T15:17:51+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     },
     {
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Dreams Come True: Mistel 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114044371",
-      "latestPatchPublishedAt": "2026-10-26T10:16:21+00:00",
+      "latestPatchTitle": "Work-In-Progress: Freezing Daily Login Streaks",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045455",
+      "latestPatchPublishedAt": "2026-10-26T16:03:51+00:00",
       "status": "ok"
     }
   ]
