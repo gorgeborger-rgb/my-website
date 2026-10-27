@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-27T07:42:59.656113+00:00",
+  "generatedAt": "2026-10-27T13:37:45.617671+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Стример Arc Raiders получил аппаратный бан за аимбот - до этого он сам спросил, почему его до сих пор не заблокировали",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114039112",
-      "latestPatchPublishedAt": "2026-10-24T08:10:01+00:00",
+      "latestPatchTitle": "Embark завершила тестирование PvE-режима в Arc Raiders - решение отложено до ноября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114048432",
+      "latestPatchPublishedAt": "2026-10-27T10:44:24+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Frightfully Good Deal: Active Matter at the \"Steam Scream V\" Festival!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045839",
-      "latestPatchPublishedAt": "2026-10-26T17:04:59+00:00",
+      "latestPatchTitle": "Update 0.4.0.208",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114048527",
+      "latestPatchPublishedAt": "2026-10-27T11:19:53+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Behaviour Interactive объяснила уход Чаки из Dead by Daylight и допустила его возвращение",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114047962",
-      "latestPatchPublishedAt": "2026-10-27T07:28:50+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 20 Oct — 27 October 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847286114048931",
+      "latestPatchPublishedAt": "2026-10-27T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk October 22nd Update Announcement: New Content for Season 6, Chapter 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028457",
-      "latestPatchPublishedAt": "2026-10-21T11:06:58+00:00",
+      "latestPatchTitle": "FragPunk готовит PvPvE-режим в духе Death Stranding - игроки смогут доставлять грузы и грабить друг друга",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114048091",
+      "latestPatchPublishedAt": "2026-10-27T08:34:18+00:00",
       "status": "ok"
     },
     {
@@ -378,18 +378,18 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Arena progression",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114044319",
-      "latestPatchPublishedAt": "2026-10-26T10:02:17+00:00",
+      "latestPatchTitle": "Go higher in Festivity leagues",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114048468",
+      "latestPatchPublishedAt": "2026-10-27T10:59:06+00:00",
       "status": "ok"
     },
     {
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Sea of Thieves Release Notes – 3.9.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032326",
-      "latestPatchPublishedAt": "2026-10-22T11:51:44+00:00",
+      "latestPatchTitle": "Season 21’s Style of Thieves Theme Reveal!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114048528",
+      "latestPatchPublishedAt": "2026-10-27T11:20:12+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Work-In-Progress: Freezing Daily Login Streaks",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045455",
-      "latestPatchPublishedAt": "2026-10-26T16:03:51+00:00",
+      "latestPatchTitle": "Update 2.59.0.87",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114048776",
+      "latestPatchPublishedAt": "2026-10-27T12:35:18+00:00",
       "status": "ok"
     }
   ]
