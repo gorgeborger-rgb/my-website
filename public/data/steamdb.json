@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-28T07:31:16.335166+00:00",
+  "generatedAt": "2026-10-28T14:26:47.126676+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Embark завершила тестирование PvE-режима в Arc Raiders - решение отложено до ноября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114048432",
-      "latestPatchPublishedAt": "2026-10-27T10:44:24+00:00",
+      "latestPatchTitle": "ARC Raiders может получить постоянный PvE-режим, но разработчики боятся навредить игре",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302229988",
+      "latestPatchPublishedAt": "2026-10-28T07:35:40+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Outstanding Inspectors Announcement Episode 3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706694849",
-      "latestPatchPublishedAt": "2026-10-20T11:22:20+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Halloween Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230290",
+      "latestPatchPublishedAt": "2026-10-28T09:34:50+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Outstanding Inspectors Announcement Episode 3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706694849",
-      "latestPatchPublishedAt": "2026-10-20T11:22:20+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Halloween Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230290",
+      "latestPatchPublishedAt": "2026-10-28T09:34:50+00:00",
       "status": "ok"
     },
     {
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "В Delta Force идёт хэллоуинское событие Raven's Deal с наградами до 9 ноября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114047730",
-      "latestPatchPublishedAt": "2026-10-26T20:50:21+00:00",
+      "latestPatchTitle": "Armament Voucher Giveaway Is Live, Vlindflower Returns for a Limited Time!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230707",
+      "latestPatchPublishedAt": "2026-10-28T12:00:07+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening x Dying Light: The Beast - Bundle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045406",
-      "latestPatchPublishedAt": "2026-10-26T15:51:34+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.15.3 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230185",
+      "latestPatchPublishedAt": "2026-10-28T09:07:03+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld × Graveyard Keeper 2 Steam Bundle is Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229254",
-      "latestPatchPublishedAt": "2026-10-28T01:21:53+00:00",
+      "latestPatchTitle": "Глава Pocketpair допустил порт Palworld на Switch 2 - при условии переговоров с Nintendo",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302230216",
+      "latestPatchPublishedAt": "2026-10-28T09:13:24+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049430",
-      "latestPatchPublishedAt": "2026-10-27T15:57:18+00:00",
+      "latestPatchTitle": "Your clip, your rules, your rewards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230986",
+      "latestPatchPublishedAt": "2026-10-28T13:27:30+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Testing Nuclear Escalation in Simulator Battles!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049009",
-      "latestPatchPublishedAt": "2026-10-27T13:57:50+00:00",
+      "latestPatchTitle": "Dreams Come True: Mistel 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231070",
+      "latestPatchPublishedAt": "2026-10-28T13:51:49+00:00",
       "status": "ok"
     }
   ]
