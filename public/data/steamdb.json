@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-28T19:43:21.289538+00:00",
+  "generatedAt": "2026-10-28T23:35:51.672136+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398",
-      "latestPatchPublishedAt": "2026-10-22T22:56:10+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686",
+      "latestPatchPublishedAt": "2026-10-28T21:48:09+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Armament Voucher Giveaway Is Live, Vlindflower Returns for a Limited Time!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230707",
-      "latestPatchPublishedAt": "2026-10-28T12:00:07+00:00",
+      "latestPatchTitle": "Delta Force готовит кроссовер с Phantom Blade Zero - скоро в бой ворвётся экшен-RPG",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302232784",
+      "latestPatchPublishedAt": "2026-10-28T19:52:15+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/19~10/25)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229875",
-      "latestPatchPublishedAt": "2026-10-28T07:03:52+00:00",
+      "latestPatchTitle": "PGS 12 Survival Stage is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232669",
+      "latestPatchPublishedAt": "2026-10-28T21:38:49+00:00",
       "status": "ok"
     },
     {
