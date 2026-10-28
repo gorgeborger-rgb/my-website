@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-28T14:26:47.126676+00:00",
+  "generatedAt": "2026-10-28T19:43:21.289538+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Modern Warfare 4 - The Best COD in Years",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114050082",
-      "latestPatchPublishedAt": "2026-10-27T18:40:15+00:00",
+      "latestPatchTitle": "Call of Duty: Modern Warfare 4 and Warzone - Season 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231964",
+      "latestPatchPublishedAt": "2026-10-28T17:04:51+00:00",
       "status": "ok"
     },
     {
@@ -171,18 +171,18 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Scream V Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114046162",
-      "latestPatchPublishedAt": "2026-10-26T18:05:39+00:00",
+      "latestPatchTitle": "Thank you, Survivors!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231340",
+      "latestPatchPublishedAt": "2026-10-28T15:00:16+00:00",
       "status": "ok"
     },
     {
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 20 Oct — 27 October 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847286114048931",
-      "latestPatchPublishedAt": "2026-10-27T09:00:00+00:00",
+      "latestPatchTitle": "Dead by Daylight пополнится безжалостным убийцей Terrifier 17 ноября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231915",
+      "latestPatchPublishedAt": "2026-10-28T15:51:05+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Splash Damage acquired this studio just 3 months after laying off a bunch of people—now it's laying them off, too",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1847286114033674",
-      "latestPatchPublishedAt": "2026-10-22T17:34:04+00:00",
+      "latestPatchTitle": "SCUM - Halloween Update | 1.3.5.0.172191",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231342",
+      "latestPatchPublishedAt": "2026-10-28T15:00:43+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Dreams Come True: Mistel 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231070",
-      "latestPatchPublishedAt": "2026-10-28T13:51:49+00:00",
+      "latestPatchTitle": "Updated Sun City and American Desert and Improved Weather Settings!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231380",
+      "latestPatchPublishedAt": "2026-10-28T15:09:42+00:00",
       "status": "ok"
     }
   ]
