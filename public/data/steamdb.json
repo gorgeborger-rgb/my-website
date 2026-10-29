@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-29T15:51:30.851150+00:00",
+  "generatedAt": "2026-10-29T20:45:37.226546+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,18 +45,18 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Торговые боты окончательно уничтожили экономику Черного рынка в европейском регионе Albion Online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114040567",
-      "latestPatchPublishedAt": "2026-10-24T19:58:09+00:00",
+      "latestPatchTitle": "Join the AlbionTV Trick or Transmog!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235432",
+      "latestPatchPublishedAt": "2026-10-29T16:15:37+00:00",
       "status": "ok"
     },
     {
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Cipher Gameplay Trailer",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235177",
-      "latestPatchPublishedAt": "2026-10-29T15:14:34+00:00",
+      "latestPatchTitle": "Apex Legends запускает сезон Cipher: Крипто идёт в атаку 3 ноября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302236090",
+      "latestPatchPublishedAt": "2026-10-29T15:52:03+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Free Blood and Ice Expansion Launches December 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235120",
-      "latestPatchPublishedAt": "2026-10-29T15:01:28+00:00",
+      "latestPatchTitle": "Dune: Awakening отправляет в ледяной север с бесплатным Blood and Ice 1 декабря",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302236091",
+      "latestPatchPublishedAt": "2026-10-29T15:51:17+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "New in-game survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681057",
-      "latestPatchPublishedAt": "2026-10-16T11:21:08+00:00",
+      "latestPatchTitle": "Patch 1.3.0.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235601",
+      "latestPatchPublishedAt": "2026-10-29T16:56:30+00:00",
       "status": "ok"
     },
     {
@@ -324,18 +324,18 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Esports анонсирует масштабные изменения на 2027 год: разделение регионов EMEA и Америка, Индия - новый регион",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302233732",
-      "latestPatchPublishedAt": "2026-10-29T06:56:19+00:00",
+      "latestPatchTitle": "Donald Glover is heading up a PUBG live action series for Netflix",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1847920302236109",
+      "latestPatchPublishedAt": "2026-10-29T19:13:32+00:00",
       "status": "ok"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Глава Pocketpair допустил порт Palworld на Switch 2 - при условии переговоров с Nintendo",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302230216",
-      "latestPatchPublishedAt": "2026-10-28T09:13:24+00:00",
+      "latestPatchTitle": "Palworld dev says the studio still calls itself indie because of its \"genuine creative freedom\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1847920302235869",
+      "latestPatchPublishedAt": "2026-10-29T16:23:08+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad Hotfix 10.6.3 Release Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033734",
-      "latestPatchPublishedAt": "2026-10-22T17:59:13+00:00",
+      "latestPatchTitle": "Squad Hotfix 10.6.3 (Client Build 2) Release Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236233",
+      "latestPatchPublishedAt": "2026-10-29T20:04:56+00:00",
       "status": "ok"
     },
     {
