@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-29T08:57:31.517031+00:00",
+  "generatedAt": "2026-10-29T15:51:30.851150+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 10/26/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229359",
-      "latestPatchPublishedAt": "2026-10-28T02:00:32+00:00",
+      "latestPatchTitle": "Apex Legends: Cipher Gameplay Trailer",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235177",
+      "latestPatchPublishedAt": "2026-10-29T15:14:34+00:00",
       "status": "ok"
     },
     {
@@ -144,18 +144,18 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced Is Coming to PS5 and Xbox Series X|S with PC Cross-Play!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049723",
-      "latestPatchPublishedAt": "2026-10-27T17:07:12+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced Community Update - October",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234657",
+      "latestPatchPublishedAt": "2026-10-29T12:53:55+00:00",
       "status": "ok"
     },
     {
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686",
-      "latestPatchPublishedAt": "2026-10-28T21:48:09+00:00",
+      "latestPatchTitle": "В файлах Counter-Strike 2 нашли новое оружие - Valve тестирует винтовку LAR",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235279",
+      "latestPatchPublishedAt": "2026-10-29T15:29:24+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight пополнится безжалостным убийцей Terrifier 17 ноября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302231915",
-      "latestPatchPublishedAt": "2026-10-28T15:51:05+00:00",
+      "latestPatchTitle": "10.2.2a Backend Bugfix Patch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
+      "latestPatchPublishedAt": "2026-10-29T15:06:00+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.15.3 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230185",
-      "latestPatchPublishedAt": "2026-10-28T09:07:03+00:00",
+      "latestPatchTitle": "Free Blood and Ice Expansion Launches December 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235120",
+      "latestPatchPublishedAt": "2026-10-29T15:01:28+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Join Us for the Halloween Dev Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049579",
-      "latestPatchPublishedAt": "2026-10-27T16:25:08+00:00",
+      "latestPatchTitle": "Hotfix 0.5.0.2 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234442",
+      "latestPatchPublishedAt": "2026-10-29T11:46:32+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Art Vision Vol. 06 // Behind The Scenes (Part 2): Dedication and Passion",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035848",
-      "latestPatchPublishedAt": "2026-10-23T10:30:39+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20261029 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234131",
+      "latestPatchPublishedAt": "2026-10-29T10:00:29+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Your clip, your rules, your rewards",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230986",
-      "latestPatchPublishedAt": "2026-10-28T13:27:30+00:00",
+      "latestPatchTitle": "Festivity x Twitch Drops",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234981",
+      "latestPatchPublishedAt": "2026-10-29T14:31:26+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "THE FINALS gets a huge update with enhanced destruction and a free for all mode",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1847286114028248",
-      "latestPatchPublishedAt": "2026-10-21T09:46:34+00:00",
+      "latestPatchTitle": "Update 12.1.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234132",
+      "latestPatchPublishedAt": "2026-10-29T10:00:52+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Updated Sun City and American Desert and Improved Weather Settings!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231380",
-      "latestPatchPublishedAt": "2026-10-28T15:09:42+00:00",
+      "latestPatchTitle": "New Modules for Ground Vehicles!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235173",
+      "latestPatchPublishedAt": "2026-10-29T15:12:43+00:00",
       "status": "ok"
     }
   ]
