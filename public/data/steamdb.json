@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-29T02:47:50.457061+00:00",
+  "generatedAt": "2026-10-29T08:57:31.517031+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 12 Survival Stage is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232669",
-      "latestPatchPublishedAt": "2026-10-28T21:38:49+00:00",
+      "latestPatchTitle": "PUBG Esports анонсирует масштабные изменения на 2027 год: разделение регионов EMEA и Америка, Индия - новый регион",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302233732",
+      "latestPatchPublishedAt": "2026-10-29T06:56:19+00:00",
       "status": "ok"
     },
     {
