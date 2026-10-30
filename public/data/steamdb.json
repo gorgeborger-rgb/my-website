@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-30T12:59:59.269226+00:00",
+  "generatedAt": "2026-10-30T18:29:26.296846+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "The Agency’s Readings Have Breached Critical Thresholds!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237742",
-      "latestPatchPublishedAt": "2026-10-30T09:04:51+00:00",
+      "latestPatchTitle": "Armored Support: BTR-80A",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302239086",
+      "latestPatchPublishedAt": "2026-10-30T15:37:44+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening's free Blood and Ice expansion launches December 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1847920302237943",
-      "latestPatchPublishedAt": "2026-10-30T10:08:41+00:00",
+      "latestPatchTitle": "Креативный директор Dune Awakening раскритиковал игры с бесконечным гриндом ради удержания аудитории",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302239663",
+      "latestPatchPublishedAt": "2026-10-30T17:21:57+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.5.0.2 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234442",
-      "latestPatchPublishedAt": "2026-10-29T11:46:32+00:00",
+      "latestPatchTitle": "Upcoming Patch 0.5.1.0 & Halloween Event | Dev Stream VOD",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302239603",
+      "latestPatchPublishedAt": "2026-10-30T17:17:51+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Festivity x Twitch Drops",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234981",
-      "latestPatchPublishedAt": "2026-10-29T14:31:26+00:00",
+      "latestPatchTitle": "A game of rupture",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302238487",
+      "latestPatchPublishedAt": "2026-10-30T13:01:22+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Server Update 30.10.2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302238390",
-      "latestPatchPublishedAt": "2026-10-30T12:37:24+00:00",
+      "latestPatchTitle": "Leopard 2A8: A Coveted Trophy",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302239073",
+      "latestPatchPublishedAt": "2026-10-30T15:34:49+00:00",
       "status": "ok"
     }
   ]
