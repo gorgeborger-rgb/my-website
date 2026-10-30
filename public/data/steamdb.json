@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-30T18:29:26.296846+00:00",
+  "generatedAt": "2026-10-30T22:34:38.112076+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders может получить постоянный PvE-режим, но разработчики боятся навредить игре",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302229988",
-      "latestPatchPublishedAt": "2026-10-28T07:35:40+00:00",
+      "latestPatchTitle": "ARC Raiders исполнился год - разработчики выпустили юбилейный трейлер и приготовили подарок игрокам",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302240652",
+      "latestPatchPublishedAt": "2026-10-30T19:52:47+00:00",
       "status": "ok"
     },
     {
@@ -117,9 +117,9 @@
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "Hotfixes!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037778",
-      "latestPatchPublishedAt": "2026-10-23T19:34:52+00:00",
+      "latestPatchTitle": "Ghostly Apparitions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240376",
+      "latestPatchPublishedAt": "2026-10-30T20:34:46+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.2.2a Backend Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
-      "latestPatchPublishedAt": "2026-10-29T15:06:00+00:00",
+      "latestPatchTitle": "Custom Alienware Laptop Sweepstakes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
+      "latestPatchPublishedAt": "2026-10-30T19:52:18+00:00",
       "status": "ok"
     },
     {
