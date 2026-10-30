@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-29T20:45:37.226546+00:00",
+  "generatedAt": "2026-10-30T00:26:57.458816+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Donald Glover is heading up a PUBG live action series for Netflix",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1847920302236109",
-      "latestPatchPublishedAt": "2026-10-29T19:13:32+00:00",
+      "latestPatchTitle": "Netflix снимет игровой сериал по PUBG с Дональдом Гловером",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302236563",
+      "latestPatchPublishedAt": "2026-10-29T22:27:01+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "New Modules for Ground Vehicles!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235173",
-      "latestPatchPublishedAt": "2026-10-29T15:12:43+00:00",
+      "latestPatchTitle": "\"Eagle's Shadow\" Update Trailer!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236438",
+      "latestPatchPublishedAt": "2026-10-29T21:26:39+00:00",
       "status": "ok"
     }
   ]
