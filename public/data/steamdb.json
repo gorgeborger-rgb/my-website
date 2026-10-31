@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-30T22:34:38.112076+00:00",
+  "generatedAt": "2026-10-31T01:45:56.380563+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 529: Ghouls Just Wanna Have Fun",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038373",
-      "latestPatchPublishedAt": "2026-10-24T00:07:11+00:00",
+      "latestPatchTitle": "Community Crunch 530: Trick or Teeth",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240838",
+      "latestPatchPublishedAt": "2026-10-31T00:10:17+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Delta Force готовит кроссовер с Phantom Blade Zero - скоро в бой ворвётся экшен-RPG",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302232784",
-      "latestPatchPublishedAt": "2026-10-28T19:52:15+00:00",
+      "latestPatchTitle": "Delta Force обновляет карту Браккеш: новые маршруты и укрытия появятся 10 ноября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302240762",
+      "latestPatchPublishedAt": "2026-10-30T22:49:56+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.9.6",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049692",
-      "latestPatchPublishedAt": "2026-10-27T17:00:49+00:00",
+      "latestPatchTitle": "Bungie призвала не покупать Marathon ради поддержки студии и заверила, что будущее Destiny от неё не зависит",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302240711",
+      "latestPatchPublishedAt": "2026-10-30T22:49:26+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Netflix снимет игровой сериал по PUBG с Дональдом Гловером",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302236563",
-      "latestPatchPublishedAt": "2026-10-29T22:27:01+00:00",
+      "latestPatchTitle": "PGS 12 Grand Finals Day 2 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240698",
+      "latestPatchPublishedAt": "2026-10-30T22:49:45+00:00",
       "status": "ok"
     },
     {
@@ -414,9 +414,9 @@
       "game": "The Isle Evrima",
       "appId": 376210,
       "steamDbUrl": "https://steamdb.info/app/376210/",
-      "latestPatchTitle": "DevBlog #73",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379148",
-      "latestPatchPublishedAt": "2026-09-30T22:59:31+00:00",
+      "latestPatchTitle": "DevBlog #74",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240956",
+      "latestPatchPublishedAt": "2026-10-31T01:02:56+00:00",
       "status": "ok"
     },
     {
