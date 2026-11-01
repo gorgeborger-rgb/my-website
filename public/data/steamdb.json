@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-01T06:11:59.768243+00:00",
+  "generatedAt": "2026-11-01T13:29:30.578211+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 12 Grand Finals Day 2 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240698",
-      "latestPatchPublishedAt": "2026-10-30T22:49:45+00:00",
+      "latestPatchTitle": "PGS 12 Grand Finals Day 3 is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302244423",
+      "latestPatchPublishedAt": "2026-11-01T08:54:06+00:00",
       "status": "ok"
     },
     {
