@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-01T18:29:12.718747+00:00",
+  "generatedAt": "2026-11-01T22:15:30.185101+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.3.0.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235601",
-      "latestPatchPublishedAt": "2026-10-29T16:56:30+00:00",
+      "latestPatchTitle": "Глава Battlestate Games предложил выпустить отдельную кооперативную игру про зомби во вселенной Escape from Tarkov",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302246095",
+      "latestPatchPublishedAt": "2026-11-01T20:43:53+00:00",
       "status": "ok"
     },
     {
