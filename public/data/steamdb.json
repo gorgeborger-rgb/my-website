@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-02T08:12:34.037643+00:00",
+  "generatedAt": "2026-11-02T18:25:14.282943+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Armored Support: BTR-80A",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302239086",
-      "latestPatchPublishedAt": "2026-10-30T15:37:44+00:00",
+      "latestPatchTitle": "Update 0.4.0.215",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302248164",
+      "latestPatchPublishedAt": "2026-11-02T13:30:28+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Embrace Winter with the Frost Moose",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302243702",
-      "latestPatchPublishedAt": "2026-11-01T00:01:23+00:00",
+      "latestPatchTitle": "Dragonfire Patch 4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247585",
+      "latestPatchPublishedAt": "2026-11-02T10:05:14+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Modern Warfare 4 and Warzone - Season 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231964",
-      "latestPatchPublishedAt": "2026-10-28T17:04:51+00:00",
+      "latestPatchTitle": "Call of Duty: Warzone Season 1: Everything You Need to Know",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249180",
+      "latestPatchPublishedAt": "2026-11-02T18:04:54+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Креативный директор Dune Awakening раскритиковал игры с бесконечным гриндом ради удержания аудитории",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302239663",
-      "latestPatchPublishedAt": "2026-10-30T17:21:57+00:00",
+      "latestPatchTitle": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1847920302246325",
+      "latestPatchPublishedAt": "2026-11-01T21:34:06+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Twitch Drops are live! | Blood Testament",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045240",
-      "latestPatchPublishedAt": "2026-10-26T15:05:00+00:00",
+      "latestPatchTitle": "Twitch Drops - Week 2 | Blood Testament",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249155",
+      "latestPatchPublishedAt": "2026-11-02T18:01:08+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Osaka Major Starts November 6: Rewards & Esports Action",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049337",
-      "latestPatchPublishedAt": "2026-10-27T15:30:26+00:00",
+      "latestPatchTitle": "COMMUNITY CHECKPOINT #6: Y11S3.3 UPDATES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249111",
+      "latestPatchPublishedAt": "2026-11-02T17:51:52+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "The scariest holiday of the year!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302242065",
-      "latestPatchPublishedAt": "2026-10-31T13:01:54+00:00",
+      "latestPatchTitle": "Art contest results postponed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302248053",
+      "latestPatchPublishedAt": "2026-11-02T12:56:35+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Beyond Repair!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302241300",
-      "latestPatchPublishedAt": "2026-10-31T05:00:16+00:00",
+      "latestPatchTitle": "Su-15TM: Aerial Border Guard",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302248485",
+      "latestPatchPublishedAt": "2026-11-02T15:05:59+00:00",
       "status": "ok"
     }
   ]
