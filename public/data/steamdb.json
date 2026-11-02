@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-02T01:31:25.591364+00:00",
+  "generatedAt": "2026-11-02T08:12:34.037643+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Custom Alienware Laptop Sweepstakes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
-      "latestPatchPublishedAt": "2026-10-30T19:52:18+00:00",
+      "latestPatchTitle": "Разработчики Dead by Daylight подарили все DLC популярному стримеру и извинились перед игроками после негативной реакции",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302247226",
+      "latestPatchPublishedAt": "2026-11-02T07:05:47+00:00",
       "status": "ok"
     },
     {
