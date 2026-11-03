@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-03T15:40:04.969880+00:00",
+  "generatedAt": "2026-11-03T21:15:51.246336+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Глава Embark Studios заявил о нежелании превращать компанию в студию исключительно сервисных игр",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302252409",
-      "latestPatchPublishedAt": "2026-11-03T15:13:36+00:00",
+      "latestPatchTitle": "Разработчик ARC Raiders признал критику генеративного ИИ справедливой, но назвал запись всех реплик \"непрактичной\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302253075",
+      "latestPatchPublishedAt": "2026-11-03T17:53:56+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends™ EA Play* Weapon Charm",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252046",
-      "latestPatchPublishedAt": "2026-11-03T13:47:19+00:00",
+      "latestPatchTitle": "Hack the fight in Apex Legends™: Cipher",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302253206",
+      "latestPatchPublishedAt": "2026-11-03T18:18:15+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Art contest results postponed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302248053",
-      "latestPatchPublishedAt": "2026-11-02T12:56:35+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252569",
+      "latestPatchPublishedAt": "2026-11-03T15:57:51+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad Hotfix 10.6.3 (Client Build 2) Release Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236233",
-      "latestPatchPublishedAt": "2026-10-29T20:04:56+00:00",
+      "latestPatchTitle": "Update 10.7 / Oskil River & World Partition Open Playtest (Nov 6th - Nov 9th)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302253508",
+      "latestPatchPublishedAt": "2026-11-03T19:57:10+00:00",
       "status": "ok"
     },
     {
