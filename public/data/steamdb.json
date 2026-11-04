@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-04T15:46:59.874993+00:00",
+  "generatedAt": "2026-11-04T21:32:52.410766+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Hack the fight in Apex Legends™: Cipher",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302253206",
-      "latestPatchPublishedAt": "2026-11-03T18:18:15+00:00",
+      "latestPatchTitle": "An Update from the Anti-Cheat Team – Nov 4, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880480055",
+      "latestPatchPublishedAt": "2026-11-04T17:02:23+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 27 Oct — 3 November 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1847920302252093",
-      "latestPatchPublishedAt": "2026-11-03T09:00:00+00:00",
+      "latestPatchTitle": "Dead by Daylight apologises to fans after gifting DLC to TheBurntPeanut and has since 'removed the content that was granted'",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848557880479806",
+      "latestPatchPublishedAt": "2026-11-04T16:14:53+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3275210,
+      "steamDbUrl": "https://steamdb.info/app/3275210/",
+      "latestPatchTitle": "Major Update - V0.3.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495516",
+      "latestPatchPublishedAt": "2026-09-18T17:04:03+00:00",
       "status": "ok"
     },
     {
@@ -414,9 +414,9 @@
       "game": "The Isle Evrima",
       "appId": 376210,
       "steamDbUrl": "https://steamdb.info/app/376210/",
-      "latestPatchTitle": "DevBlog #74",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240956",
-      "latestPatchPublishedAt": "2026-10-31T01:02:56+00:00",
+      "latestPatchTitle": "Director's Commentary - A Note on Mods",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880480740",
+      "latestPatchPublishedAt": "2026-11-04T20:20:57+00:00",
       "status": "ok"
     },
     {
