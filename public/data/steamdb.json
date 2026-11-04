@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-04T01:25:55.054548+00:00",
+  "generatedAt": "2026-11-04T07:43:31.403491+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "November Store Update 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302250732",
-      "latestPatchPublishedAt": "2026-11-03T06:00:03+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/26~11/1)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880478037",
+      "latestPatchPublishedAt": "2026-11-04T07:00:54+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252569",
-      "latestPatchPublishedAt": "2026-11-03T15:57:51+00:00",
+      "latestPatchTitle": "Patch Notes [04.11.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880478079",
+      "latestPatchPublishedAt": "2026-11-04T07:28:23+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "War Thunder получит DLSS 5 в ноябре - NVIDIA обещает до 400 FPS в 4K с Ray Reconstruction и 6X Multi Frame Generation",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302252199",
-      "latestPatchPublishedAt": "2026-11-03T14:24:50+00:00",
+      "latestPatchTitle": "Авторы War Thunder показали возможности NVIDIA DLSS 5 - технология преобразит освещение и детали окружения",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848557880477953",
+      "latestPatchPublishedAt": "2026-11-04T06:29:19+00:00",
       "status": "ok"
     }
   ]
