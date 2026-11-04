@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-03T21:15:51.246336+00:00",
+  "generatedAt": "2026-11-04T01:25:55.054548+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20261029 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234131",
-      "latestPatchPublishedAt": "2026-10-29T10:00:29+00:00",
+      "latestPatchTitle": "Marvel Rivals добавит костюм Человека-паука с молотом Тора",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302253846",
+      "latestPatchPublishedAt": "2026-11-03T18:52:44+00:00",
       "status": "ok"
     },
     {
@@ -369,9 +369,9 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "TO VICTORY with NIKE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396344",
-      "latestPatchPublishedAt": "2026-10-06T13:00:48+00:00",
+      "latestPatchTitle": "NOX: Darkness Falls...",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302253919",
+      "latestPatchPublishedAt": "2026-11-03T22:35:18+00:00",
       "status": "ok"
     },
     {
