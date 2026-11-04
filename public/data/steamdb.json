@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-04T07:43:31.403491+00:00",
+  "generatedAt": "2026-11-04T15:46:59.874993+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "New Body Sleeve: Cicada",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252153",
-      "latestPatchPublishedAt": "2026-11-03T14:12:59+00:00",
+      "latestPatchTitle": "Developer Q&A: November 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479612",
+      "latestPatchPublishedAt": "2026-11-04T15:37:33+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk готовит PvPvE-режим в духе Death Stranding - игроки смогут доставлять грузы и грабить друг друга",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114048091",
-      "latestPatchPublishedAt": "2026-10-27T08:34:18+00:00",
+      "latestPatchTitle": "FragPunk November 5th Update Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880478347",
+      "latestPatchPublishedAt": "2026-11-04T09:06:56+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List November 3rd",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252036",
-      "latestPatchPublishedAt": "2026-11-03T13:43:40+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update – November 5th, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479637",
+      "latestPatchPublishedAt": "2026-11-04T15:40:35+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Patch Notes [04.11.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880478079",
-      "latestPatchPublishedAt": "2026-11-04T07:28:23+00:00",
+      "latestPatchTitle": "Promo code for Sufferers",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880478323",
+      "latestPatchPublishedAt": "2026-11-04T09:00:05+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Авторы War Thunder показали возможности NVIDIA DLSS 5 - технология преобразит освещение и детали окружения",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848557880477953",
-      "latestPatchPublishedAt": "2026-11-04T06:29:19+00:00",
+      "latestPatchTitle": "Imperator Nikolai I: An Autocrat at Sea",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479225",
+      "latestPatchPublishedAt": "2026-11-04T13:56:16+00:00",
       "status": "ok"
     }
   ]
