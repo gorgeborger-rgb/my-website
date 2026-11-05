@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-05T08:32:15.480139+00:00",
+  "generatedAt": "2026-11-05T16:44:49.488481+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Разработчик ARC Raiders признал критику генеративного ИИ справедливой, но назвал запись всех реплик \"непрактичной\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302253075",
-      "latestPatchPublishedAt": "2026-11-03T17:53:56+00:00",
+      "latestPatchTitle": "Hotfix 2.4.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341170",
+      "latestPatchPublishedAt": "2026-11-05T12:43:03+00:00",
       "status": "ok"
     },
     {
@@ -45,18 +45,18 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dragonfire Patch 4",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247585",
-      "latestPatchPublishedAt": "2026-11-02T10:05:14+00:00",
+      "latestPatchTitle": "Watch the Final Invasion Day of the Season",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341001",
+      "latestPatchPublishedAt": "2026-11-05T11:58:32+00:00",
       "status": "ok"
     },
     {
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 11/4/26",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481641",
-      "latestPatchPublishedAt": "2026-11-05T02:43:46+00:00",
+      "latestPatchTitle": "Apex Legends | Godzilla Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342057",
+      "latestPatchPublishedAt": "2026-11-05T16:13:52+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Steam Autumn Sale 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382284",
-      "latestPatchPublishedAt": "2026-10-01T17:00:16+00:00",
+      "latestPatchTitle": "Для Arma Reforger вышло Rally DLC с гонками и масштабным обновлением транспорта",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643341809",
+      "latestPatchPublishedAt": "2026-11-05T15:03:38+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Delta Force обновляет карту Браккеш: новые маршруты и укрытия появятся 10 ноября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302240762",
-      "latestPatchPublishedAt": "2026-10-30T22:49:56+00:00",
+      "latestPatchTitle": "Make your season reservation and claim rewards!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341010",
+      "latestPatchPublishedAt": "2026-11-05T12:00:52+00:00",
       "status": "ok"
     },
     {
@@ -214,11 +214,11 @@
     },
     {
       "game": "EFT",
-      "appId": 1145030,
-      "steamDbUrl": "https://steamdb.info/app/1145030/",
-      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
-      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
+      "appId": 3975470,
+      "steamDbUrl": "https://steamdb.info/app/3975470/",
+      "latestPatchTitle": "Update 1.0.5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395918",
+      "latestPatchPublishedAt": "2026-10-06T10:20:10+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Upcoming Patch 0.5.1.0 & Halloween Event | Dev Stream VOD",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302239603",
-      "latestPatchPublishedAt": "2026-10-30T17:17:51+00:00",
+      "latestPatchTitle": "Gray Zone Warfare получила патч 0.5.1.0: ИИ перестал \"читать мысли\", а убежище - требовать лишнего гринда",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643341397",
+      "latestPatchPublishedAt": "2026-11-05T13:07:18+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals добавит костюм Человека-паука с молотом Тора",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302253846",
-      "latestPatchPublishedAt": "2026-11-03T18:52:44+00:00",
+      "latestPatchTitle": "Marvel Rivals Teams Up with RESPAWN By Razer",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340504",
+      "latestPatchPublishedAt": "2026-11-05T09:43:08+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Promo code for Sufferers",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880478323",
-      "latestPatchPublishedAt": "2026-11-04T09:00:05+00:00",
+      "latestPatchTitle": "Hotfix [05.11.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341582",
+      "latestPatchPublishedAt": "2026-11-05T14:29:18+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 12.1.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234132",
-      "latestPatchPublishedAt": "2026-10-29T10:00:52+00:00",
+      "latestPatchTitle": "Update 12.2.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340559",
+      "latestPatchPublishedAt": "2026-11-05T10:00:39+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Imperator Nikolai I: An Autocrat at Sea",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479225",
-      "latestPatchPublishedAt": "2026-11-04T13:56:16+00:00",
+      "latestPatchTitle": "Eagle’s Shadow: New Visual Effects!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340839",
+      "latestPatchPublishedAt": "2026-11-05T11:03:08+00:00",
       "status": "ok"
     }
   ]
