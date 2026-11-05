@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-05T16:44:49.488481+00:00",
+  "generatedAt": "2026-11-05T22:20:38.158696+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Developer Q&A: November 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479612",
-      "latestPatchPublishedAt": "2026-11-04T15:37:33+00:00",
+      "latestPatchTitle": "Upcoming Raid \"Icarus Offices\": America is Going Higher",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342194",
+      "latestPatchPublishedAt": "2026-11-05T16:48:15+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends | Godzilla Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342057",
-      "latestPatchPublishedAt": "2026-11-05T16:13:52+00:00",
+      "latestPatchTitle": "В Apex Legends представили событие с Годзиллой и битвой за выживание",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643342817",
+      "latestPatchPublishedAt": "2026-11-05T16:51:12+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Warzone Season 1: Everything You Need to Know",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249180",
-      "latestPatchPublishedAt": "2026-11-02T18:04:54+00:00",
+      "latestPatchTitle": "Modern Warfare 4 Season 1 Battle Pass System, BlackCell, and New Store Bundles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342757",
+      "latestPatchPublishedAt": "2026-11-05T19:01:23+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "HALLOWEEN 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033781",
-      "latestPatchPublishedAt": "2026-10-22T18:12:13+00:00",
+      "latestPatchTitle": "PRINTED AND POLISHED",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342609",
+      "latestPatchPublishedAt": "2026-11-05T18:24:44+00:00",
       "status": "ok"
     },
     {
