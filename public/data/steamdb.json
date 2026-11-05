@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-04T21:32:52.410766+00:00",
+  "generatedAt": "2026-11-05T01:45:08.422209+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Российская 1w выиграла \"Московские киберигры 2026\" по Counter-Strike 2 и обеспечила себе место на мейджоре",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302251353",
-      "latestPatchPublishedAt": "2026-11-03T09:52:36+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353",
+      "latestPatchPublishedAt": "2026-11-05T00:54:07+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3275210,
-      "steamDbUrl": "https://steamdb.info/app/3275210/",
-      "latestPatchTitle": "Major Update - V0.3.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495516",
-      "latestPatchPublishedAt": "2026-09-18T17:04:03+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
