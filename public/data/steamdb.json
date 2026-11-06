@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-06T02:39:05.767249+00:00",
+  "generatedAt": "2026-11-06T09:51:22.487250+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Gray Zone Warfare получила патч 0.5.1.0: ИИ перестал \"читать мысли\", а убежище - требовать лишнего гринда",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643341397",
-      "latestPatchPublishedAt": "2026-11-05T13:07:18+00:00",
+      "latestPatchTitle": "Security Report: Ban Statistics (October 15 - November 4, 2026)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344769",
+      "latestPatchPublishedAt": "2026-11-06T09:21:36+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Hotfix [05.11.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341582",
-      "latestPatchPublishedAt": "2026-11-05T14:29:18+00:00",
+      "latestPatchTitle": "A small offering for the Sufferers!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344722",
+      "latestPatchPublishedAt": "2026-11-06T09:02:41+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Eagle’s Shadow: New Visual Effects!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340839",
-      "latestPatchPublishedAt": "2026-11-05T11:03:08+00:00",
+      "latestPatchTitle": "F-15EX and F-15IA Ra’am: The Eagle’s Shadow!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344719",
+      "latestPatchPublishedAt": "2026-11-06T09:01:43+00:00",
       "status": "ok"
     }
   ]
