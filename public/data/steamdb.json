@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-06T09:51:22.487250+00:00",
+  "generatedAt": "2026-11-06T17:03:11.489821+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,18 +45,18 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Watch the Final Invasion Day of the Season",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341001",
-      "latestPatchPublishedAt": "2026-11-05T11:58:32+00:00",
+      "latestPatchTitle": "The Dragon Hunter Returns – With a Discount!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344953",
+      "latestPatchPublishedAt": "2026-11-06T10:11:37+00:00",
       "status": "ok"
     },
     {
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "В Apex Legends представили событие с Годзиллой и битвой за выживание",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643342817",
-      "latestPatchPublishedAt": "2026-11-05T16:51:12+00:00",
+      "latestPatchTitle": "Apex Legends adds a grumpy, teamwiping Godzilla to its growing history of unappealing crossovers",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1848664643342638",
+      "latestPatchPublishedAt": "2026-11-05T17:30:00+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Глава Battlestate Games предложил выпустить отдельную кооперативную игру про зомби во вселенной Escape from Tarkov",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302246095",
-      "latestPatchPublishedAt": "2026-11-01T20:43:53+00:00",
+      "latestPatchTitle": "В Escape from Tarkov игроков в PvE оказалось больше, чем в PvP",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643345030",
+      "latestPatchPublishedAt": "2026-11-06T10:31:43+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "[Dev Letter] Anti-Cheat Update - Combating Cheat Distribution and Ban Evasion",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643339943",
-      "latestPatchPublishedAt": "2026-11-05T06:00:34+00:00",
+      "latestPatchTitle": "PUBG Saturday Custom Games return this weekend!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345061",
+      "latestPatchPublishedAt": "2026-11-06T10:49:59+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Hotfix - 1.3.5.2.172724+172352",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302238257",
-      "latestPatchPublishedAt": "2026-10-30T11:59:52+00:00",
+      "latestPatchTitle": "SCUM | November Update Preview",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345878",
+      "latestPatchPublishedAt": "2026-11-06T14:59:22+00:00",
       "status": "ok"
     },
     {
@@ -378,18 +378,18 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "A small offering for the Sufferers!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344722",
-      "latestPatchPublishedAt": "2026-11-06T09:02:41+00:00",
+      "latestPatchTitle": "Arsen is clearing his shelves",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643346391",
+      "latestPatchPublishedAt": "2026-11-06T16:20:14+00:00",
       "status": "ok"
     },
     {
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Season 21’s Style of Thieves Theme Reveal!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114048528",
-      "latestPatchPublishedAt": "2026-10-27T11:20:12+00:00",
+      "latestPatchTitle": "This Month in Sea of Thieves: November 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345281",
+      "latestPatchPublishedAt": "2026-11-06T12:00:28+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "F-15EX and F-15IA Ra’am: The Eagle’s Shadow!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344719",
-      "latestPatchPublishedAt": "2026-11-06T09:01:43+00:00",
+      "latestPatchTitle": "The He 219 A-7 Returns with a Discount for the Anniversary of its First Flight!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345122",
+      "latestPatchPublishedAt": "2026-11-06T11:07:46+00:00",
       "status": "ok"
     }
   ]
