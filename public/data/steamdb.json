@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-07T01:49:41.160145+00:00",
+  "generatedAt": "2026-11-07T07:50:13.830430+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 530: Trick or Teeth",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240838",
-      "latestPatchPublishedAt": "2026-10-31T00:10:17+00:00",
+      "latestPatchTitle": "Community Crunch 531: Unreal Engine 5.8, Enigmasaur and Giga TLC out now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643348360",
+      "latestPatchPublishedAt": "2026-11-07T03:53:18+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The He 219 A-7 Returns with a Discount for the Anniversary of its First Flight!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345122",
-      "latestPatchPublishedAt": "2026-11-06T11:07:46+00:00",
+      "latestPatchTitle": "Screenshot Competition – A World of Blue!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643348446",
+      "latestPatchPublishedAt": "2026-11-07T05:00:04+00:00",
       "status": "ok"
     }
   ]
