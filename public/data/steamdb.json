@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-07T22:28:50.338516+00:00",
+  "generatedAt": "2026-11-08T01:42:46.778148+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 531: Unreal Engine 5.8, Enigmasaur and Giga TLC out now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643348360",
-      "latestPatchPublishedAt": "2026-11-07T03:53:18+00:00",
+      "latestPatchTitle": "В ARK: Survival Ascended добавили ящера-оборотня Энигмазавра",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643351094",
+      "latestPatchPublishedAt": "2026-11-07T19:52:20+00:00",
       "status": "ok"
     },
     {
