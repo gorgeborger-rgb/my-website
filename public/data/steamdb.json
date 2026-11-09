@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-09T09:51:55.731415+00:00",
+  "generatedAt": "2026-11-09T20:19:07.650159+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "\"Power Plant\": A Signal from Anguka Anga",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643346670",
-      "latestPatchPublishedAt": "2026-11-06T17:15:00+00:00",
+      "latestPatchTitle": "Комфортный хардкор: Обзор Active Matter",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1848664643356221",
+      "latestPatchPublishedAt": "2026-11-09T13:00:00+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "В Dead by Daylight появились новые облики героев \"Очень странных дел\" - представлен трейлер коллекции",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643347990",
-      "latestPatchPublishedAt": "2026-11-06T19:51:07+00:00",
+      "latestPatchTitle": "10.2.2b Backend Patch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356687",
+      "latestPatchPublishedAt": "2026-11-09T19:08:56+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.15.4 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302251609",
-      "latestPatchPublishedAt": "2026-11-03T11:43:57+00:00",
+      "latestPatchTitle": "Dune: Awakening – 1.5.20.0 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355285",
+      "latestPatchPublishedAt": "2026-11-09T12:35:51+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk November 5th Update Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880478347",
-      "latestPatchPublishedAt": "2026-11-04T09:06:56+00:00",
+      "latestPatchTitle": "FragPunk November 9th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355196",
+      "latestPatchPublishedAt": "2026-11-09T12:08:39+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "COMMUNITY CHECKPOINT #6: Y11S3.3 UPDATES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249111",
-      "latestPatchPublishedAt": "2026-11-02T17:51:52+00:00",
+      "latestPatchTitle": "Year 11 Season 4 Reveal Incoming",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355550",
+      "latestPatchPublishedAt": "2026-11-09T14:00:34+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Arsen is clearing his shelves",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643346391",
-      "latestPatchPublishedAt": "2026-11-06T16:20:14+00:00",
+      "latestPatchTitle": "Art Contest Results",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355998",
+      "latestPatchPublishedAt": "2026-11-09T15:56:23+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Eagle’s Shadow: New Rendering! Part 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354776",
-      "latestPatchPublishedAt": "2026-11-09T09:21:33+00:00",
+      "latestPatchTitle": "The Great War Returns With New Obtainable Aircraft to Mark November 11th!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355086",
+      "latestPatchPublishedAt": "2026-11-09T11:25:50+00:00",
       "status": "ok"
     }
   ]
