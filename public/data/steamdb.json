@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-09T02:15:39.930650+00:00",
+  "generatedAt": "2026-11-09T09:51:55.731415+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Hotfix 2.4.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341170",
-      "latestPatchPublishedAt": "2026-11-05T12:43:03+00:00",
+      "latestPatchTitle": "Embark объяснила, почему не спешит добавлять PvE в ARC Raiders: PvP остаётся частью главной идеи игры",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643354353",
+      "latestPatchPublishedAt": "2026-11-09T05:48:20+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – A World of Blue!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643348446",
-      "latestPatchPublishedAt": "2026-11-07T05:00:04+00:00",
+      "latestPatchTitle": "Eagle’s Shadow: New Rendering! Part 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354776",
+      "latestPatchPublishedAt": "2026-11-09T09:21:33+00:00",
       "status": "ok"
     }
   ]
