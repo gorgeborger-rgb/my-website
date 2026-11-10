@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-10T10:29:24.462299+00:00",
+  "generatedAt": "2026-11-10T18:05:52.297411+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "The DMZ Free Trial begins Now! PLAY DMZ FOR FREE UNTIL NOV 11 AT 10AM PT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643347230",
-      "latestPatchPublishedAt": "2026-11-06T19:53:04+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 3 Nov — 10 November 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1848664643359669",
+      "latestPatchPublishedAt": "2026-11-10T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Thank you, Survivors!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231340",
-      "latestPatchPublishedAt": "2026-10-28T15:00:16+00:00",
+      "latestPatchTitle": "DayZ Merch | Black Friday Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359798",
+      "latestPatchPublishedAt": "2026-11-10T15:00:49+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening gets fully offline single-player in the latest update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1848664643358503",
-      "latestPatchPublishedAt": "2026-11-10T08:18:00+00:00",
+      "latestPatchTitle": "Dune: Awakening получила полноценный оффлайн-режим для одиночной игры",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643359996",
+      "latestPatchPublishedAt": "2026-11-10T15:35:02+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Security Report: Ban Statistics (October 15 - November 4, 2026)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344769",
-      "latestPatchPublishedAt": "2026-11-06T09:21:36+00:00",
+      "latestPatchTitle": "Hotfix 0.5.1.1 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359351",
+      "latestPatchPublishedAt": "2026-11-10T13:18:23+00:00",
       "status": "ok"
     },
     {
@@ -279,27 +279,27 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie призвала не покупать Marathon ради поддержки студии и заверила, что будущее Destiny от неё не зависит",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302240711",
-      "latestPatchPublishedAt": "2026-10-30T22:49:26+00:00",
+      "latestPatchTitle": "Marathon Symbiosis: Open Play Week and Crew Up Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360650",
+      "latestPatchPublishedAt": "2026-11-10T18:01:00+00:00",
       "status": "ok"
     },
     {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Teams Up with RESPAWN By Razer",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340504",
-      "latestPatchPublishedAt": "2026-11-05T09:43:08+00:00",
+      "latestPatchTitle": "Разработчики Marvel Rivals выпустили трейлер 11-го сезона: новым героем игры станет Ночной Змей",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643360271",
+      "latestPatchPublishedAt": "2026-11-10T16:28:45+00:00",
       "status": "ok"
     },
     {
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update – November 5th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479637",
-      "latestPatchPublishedAt": "2026-11-04T15:40:35+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List November 10rd",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359279",
+      "latestPatchPublishedAt": "2026-11-10T12:53:44+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Saturday Custom Games return this weekend!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345061",
-      "latestPatchPublishedAt": "2026-11-06T10:49:59+00:00",
+      "latestPatchTitle": "Twisted Minds crowned as PGS 12 Champions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359849",
+      "latestPatchPublishedAt": "2026-11-10T15:09:23+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Art Contest Results",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355998",
-      "latestPatchPublishedAt": "2026-11-09T15:56:23+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360047",
+      "latestPatchPublishedAt": "2026-11-10T15:55:34+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Update 10.7 / Oskil River & World Partition Open Playtest (Nov 6th - Nov 9th)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302253508",
-      "latestPatchPublishedAt": "2026-11-03T19:57:10+00:00",
+      "latestPatchTitle": "THE WRENCH: FALL 2026 - PART 1: MODS AND FIRETEAM MISSIONS",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360415",
+      "latestPatchPublishedAt": "2026-11-10T17:02:02+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "H-39: The Ephemeral Giant",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358610",
-      "latestPatchPublishedAt": "2026-11-10T09:02:51+00:00",
+      "latestPatchTitle": "Planned Technical Works on 11.11.2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360468",
+      "latestPatchPublishedAt": "2026-11-10T17:15:37+00:00",
       "status": "ok"
     }
   ]
