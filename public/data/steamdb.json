@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-10T02:47:23.047781+00:00",
+  "generatedAt": "2026-11-10T10:29:24.462299+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Embark объяснила, почему не спешит добавлять PvE в ARC Raiders: PvP остаётся частью главной идеи игры",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643354353",
-      "latestPatchPublishedAt": "2026-11-09T05:48:20+00:00",
+      "latestPatchTitle": "Store Update 2.5.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358748",
+      "latestPatchPublishedAt": "2026-11-10T10:01:22+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Dragon Hunter Returns – With a Discount!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344953",
-      "latestPatchPublishedAt": "2026-11-06T10:11:37+00:00",
+      "latestPatchTitle": "Get the Sunspire Emissary in the Season 35 Bundle",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358792",
+      "latestPatchPublishedAt": "2026-11-10T10:13:29+00:00",
       "status": "ok"
     },
     {
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 4163030,
-      "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "meow meoow NEW DLC - SAMURAI CATS!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695379",
-      "latestPatchPublishedAt": "2026-10-20T13:54:29+00:00",
+      "appId": 5482350,
+      "steamDbUrl": "https://steamdb.info/app/5482350/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening – 1.5.20.0 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355285",
-      "latestPatchPublishedAt": "2026-11-09T12:35:51+00:00",
+      "latestPatchTitle": "Dune: Awakening gets fully offline single-player in the latest update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1848664643358503",
+      "latestPatchPublishedAt": "2026-11-10T08:18:00+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The Great War Returns With New Obtainable Aircraft to Mark November 11th!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355086",
-      "latestPatchPublishedAt": "2026-11-09T11:25:50+00:00",
+      "latestPatchTitle": "H-39: The Ephemeral Giant",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358610",
+      "latestPatchPublishedAt": "2026-11-10T09:02:51+00:00",
       "status": "ok"
     }
   ]
