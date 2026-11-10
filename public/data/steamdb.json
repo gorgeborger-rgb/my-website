@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-09T20:19:07.650159+00:00",
+  "generatedAt": "2026-11-10T02:47:23.047781+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Комфортный хардкор: Обзор Active Matter",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1848664643356221",
-      "latestPatchPublishedAt": "2026-11-09T13:00:00+00:00",
+      "latestPatchTitle": "New Calibers and Weapons: Expanding the Arsenal",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356914",
+      "latestPatchPublishedAt": "2026-11-09T20:20:28+00:00",
       "status": "ok"
     },
     {
