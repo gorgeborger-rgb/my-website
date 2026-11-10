@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-10T18:05:52.297411+00:00",
+  "generatedAt": "2026-11-10T23:13:26.712941+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 11/6/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643347036",
-      "latestPatchPublishedAt": "2026-11-06T18:48:48+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 11/10/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360717",
+      "latestPatchPublishedAt": "2026-11-10T18:15:47+00:00",
       "status": "ok"
     },
     {
@@ -279,18 +279,18 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Symbiosis: Open Play Week and Crew Up Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360650",
-      "latestPatchPublishedAt": "2026-11-10T18:01:00+00:00",
+      "latestPatchTitle": "PvE-рогалик для всех: Bungie показала новый трейлер Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1848664643361406",
+      "latestPatchPublishedAt": "2026-11-10T21:08:39+00:00",
       "status": "ok"
     },
     {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Разработчики Marvel Rivals выпустили трейлер 11-го сезона: новым героем игры станет Ночной Змей",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643360271",
-      "latestPatchPublishedAt": "2026-11-10T16:28:45+00:00",
+      "latestPatchTitle": "Marvel Rivals получила масштабный патч баланса и показала новый скин для Гамбита",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643361273",
+      "latestPatchPublishedAt": "2026-11-10T21:38:37+00:00",
       "status": "ok"
     },
     {
