@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-11T09:53:56.431881+00:00",
+  "generatedAt": "2026-11-11T17:36:16.135916+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Scheduled Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177700",
-      "latestPatchPublishedAt": "2026-11-11T08:20:45+00:00",
+      "latestPatchTitle": "В Active Matter добавили доступ к небоскрёбу Vanilla и новые машины",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144179640",
+      "latestPatchPublishedAt": "2026-11-11T15:51:37+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Get the Sunspire Emissary in the Season 35 Bundle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358792",
-      "latestPatchPublishedAt": "2026-11-10T10:13:29+00:00",
+      "latestPatchTitle": "Get 33% off Vanity Bundles this Singles’ Day",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178072",
+      "latestPatchPublishedAt": "2026-11-11T10:19:37+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk November 9th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355196",
-      "latestPatchPublishedAt": "2026-11-09T12:08:39+00:00",
+      "latestPatchTitle": "FragPunk November 12th Update Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178739",
+      "latestPatchPublishedAt": "2026-11-11T13:51:50+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM | November Update Preview",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345878",
-      "latestPatchPublishedAt": "2026-11-06T14:59:22+00:00",
+      "latestPatchTitle": "SCUM получила ноябрьское обновление с татуировками, поддержкой контроллеров и фоторежимом",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144179514",
+      "latestPatchPublishedAt": "2026-11-11T16:28:51+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Meet the “Eagle’s Shadow” Major Update! ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177810",
-      "latestPatchPublishedAt": "2026-11-11T09:03:55+00:00",
+      "latestPatchTitle": "War Thunder получила \"Тень орла\": Leopard 2A8, F-15EX и новые механики меняют привычные сражения",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144179556",
+      "latestPatchPublishedAt": "2026-11-11T17:04:13+00:00",
       "status": "ok"
     }
   ]
