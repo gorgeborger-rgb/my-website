@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-11T17:36:16.135916+00:00",
+  "generatedAt": "2026-11-11T23:41:11.282635+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 3 Nov — 10 November 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1848664643359669",
-      "latestPatchPublishedAt": "2026-11-10T09:00:00+00:00",
+      "latestPatchTitle": "Answer the Call This Veterans Day",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180448",
+      "latestPatchPublishedAt": "2026-11-11T21:07:23+00:00",
       "status": "ok"
     },
     {
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353",
-      "latestPatchPublishedAt": "2026-11-05T00:54:07+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180746",
+      "latestPatchPublishedAt": "2026-11-11T23:03:20+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening получила полноценный оффлайн-режим для одиночной игры",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643359996",
-      "latestPatchPublishedAt": "2026-11-10T15:35:02+00:00",
+      "latestPatchTitle": "Dune: Awakening - Hotfix 1.5.20.2 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180214",
+      "latestPatchPublishedAt": "2026-11-11T19:57:14+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals получила масштабный патч баланса и показала новый скин для Гамбита",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643361273",
-      "latestPatchPublishedAt": "2026-11-10T21:38:37+00:00",
+      "latestPatchTitle": "Marvel Rivals представила боевой пропуск «Вторжение» с новыми обликами героев",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144180031",
+      "latestPatchPublishedAt": "2026-11-11T17:50:06+00:00",
       "status": "ok"
     },
     {
