@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-12T04:20:14.964957+00:00",
+  "generatedAt": "2026-11-12T13:01:10.395676+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "В Active Matter добавили доступ к небоскрёбу Vanilla и новые машины",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144179640",
-      "latestPatchPublishedAt": "2026-11-11T15:51:37+00:00",
+      "latestPatchTitle": "Update 0.5.0.30",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182763",
+      "latestPatchPublishedAt": "2026-11-12T12:41:42+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #131",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643339897",
-      "latestPatchPublishedAt": "2026-11-05T05:30:03+00:00",
+      "latestPatchTitle": "Dark and Darker at G-STAR 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182002",
+      "latestPatchPublishedAt": "2026-11-12T08:21:26+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "В Delta Force запустили сезон Aurora с новой атмосферой конфликта",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144176706",
-      "latestPatchPublishedAt": "2026-11-10T23:50:54+00:00",
+      "latestPatchTitle": "November 12 Update | Balance Adjustments and Bug Fixes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182636",
+      "latestPatchPublishedAt": "2026-11-12T12:00:46+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals представила боевой пропуск «Вторжение» с новыми обликами героев",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144180031",
-      "latestPatchPublishedAt": "2026-11-11T17:50:06+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182227",
+      "latestPatchPublishedAt": "2026-11-12T09:44:14+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM получила ноябрьское обновление с татуировками, поддержкой контроллеров и фоторежимом",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144179514",
-      "latestPatchPublishedAt": "2026-11-11T16:28:51+00:00",
+      "latestPatchTitle": "Open-world survival game SCUM adds Linux support via Proton, plus controller support",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1849192144182224",
+      "latestPatchPublishedAt": "2026-11-12T09:38:02+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server maintenance is completed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177774",
-      "latestPatchPublishedAt": "2026-11-11T08:52:18+00:00",
+      "latestPatchTitle": "Festivity's weekend of recompense!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182631",
+      "latestPatchPublishedAt": "2026-11-12T11:57:49+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 12.2.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340559",
-      "latestPatchPublishedAt": "2026-11-05T10:00:39+00:00",
+      "latestPatchTitle": "Update 12.3.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182299",
+      "latestPatchPublishedAt": "2026-11-12T10:03:15+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "War Thunder получила \"Тень орла\": Leopard 2A8, F-15EX и новые механики меняют привычные сражения",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144179556",
-      "latestPatchPublishedAt": "2026-11-11T17:04:13+00:00",
+      "latestPatchTitle": "Monthly Decals for November!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182532",
+      "latestPatchPublishedAt": "2026-11-12T11:18:55+00:00",
       "status": "ok"
     }
   ]
