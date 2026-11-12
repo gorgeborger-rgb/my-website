@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-12T13:01:10.395676+00:00",
+  "generatedAt": "2026-11-12T20:45:20.885266+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 11/10/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360717",
-      "latestPatchPublishedAt": "2026-11-10T18:15:47+00:00",
+      "latestPatchTitle": "An Update from the Anti-Cheat Team - 11/12/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144184215",
+      "latestPatchPublishedAt": "2026-11-12T18:51:48+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced Community Update - October",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234657",
-      "latestPatchPublishedAt": "2026-10-29T12:53:55+00:00",
+      "latestPatchTitle": "В Conan Exiles вышло дополнение с разломами и поисками Акхамета",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144183566",
+      "latestPatchPublishedAt": "2026-11-12T15:50:17+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk November 12th Update Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178739",
-      "latestPatchPublishedAt": "2026-11-11T13:51:50+00:00",
+      "latestPatchTitle": "FragPunk меняет направление: режим Farlands превращает тактический шутер в площадку для экспериментов",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144183821",
+      "latestPatchPublishedAt": "2026-11-12T16:52:08+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "HLL Community Feedback | Dev Brief #222",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681831",
-      "latestPatchPublishedAt": "2026-10-16T15:01:05+00:00",
+      "latestPatchTitle": "Release Dates Update | Hell Let Loose & Hell Let Loose: Vietnam",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144183672",
+      "latestPatchPublishedAt": "2026-11-12T16:34:53+00:00",
       "status": "ok"
     },
     {
@@ -279,18 +279,18 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "PvE-рогалик для всех: Bungie показала новый трейлер Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1848664643361406",
-      "latestPatchPublishedAt": "2026-11-10T21:08:39+00:00",
+      "latestPatchTitle": "Dev Deep Dive: Expedition - Phase 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182991",
+      "latestPatchPublishedAt": "2026-11-12T14:00:51+00:00",
       "status": "ok"
     },
     {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20261113 Patch Notes - Season 11 Arrives",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182227",
-      "latestPatchPublishedAt": "2026-11-12T09:44:14+00:00",
+      "latestPatchTitle": "Marvel Rivals draws a line in the sand when it comes to using mods and configs 'to get an unfair combat advantage' but that doesn't help players looking for a stutter fix",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1849192144183152",
+      "latestPatchPublishedAt": "2026-11-12T14:26:32+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Open-world survival game SCUM adds Linux support via Proton, plus controller support",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1849192144182224",
-      "latestPatchPublishedAt": "2026-11-12T09:38:02+00:00",
+      "latestPatchTitle": "Hotfix - 1.3.6.1.177547",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144183645",
+      "latestPatchPublishedAt": "2026-11-12T16:30:59+00:00",
       "status": "ok"
     },
     {
@@ -423,18 +423,18 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.14 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643347277",
-      "latestPatchPublishedAt": "2026-11-06T20:09:05+00:00",
+      "latestPatchTitle": "3.26.3.15 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144184520",
+      "latestPatchPublishedAt": "2026-11-12T20:35:44+00:00",
       "status": "ok"
     },
     {
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Monthly Decals for November!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182532",
-      "latestPatchPublishedAt": "2026-11-12T11:18:55+00:00",
+      "latestPatchTitle": "Fair Play: November 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144183746",
+      "latestPatchPublishedAt": "2026-11-12T16:55:21+00:00",
       "status": "ok"
     }
   ]
