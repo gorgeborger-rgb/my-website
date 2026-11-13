@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-13T16:42:50.944826+00:00",
+  "generatedAt": "2026-11-13T22:12:55.605063+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -216,19 +216,18 @@
       "game": "EFT",
       "appId": 3975470,
       "steamDbUrl": "https://steamdb.info/app/3975470/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "error",
-      "error": "<urlopen error _ssl.c:1001: The handshake operation timed out>"
+      "latestPatchTitle": "Update 1.0.5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395918",
+      "latestPatchPublishedAt": "2026-10-06T10:20:10+00:00",
+      "status": "ok"
     },
     {
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "New in-game survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144186795",
-      "latestPatchPublishedAt": "2026-11-13T11:07:03+00:00",
+      "latestPatchTitle": "Standard Edition & PvE Zone bundle!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144188322",
+      "latestPatchPublishedAt": "2026-11-13T17:26:13+00:00",
       "status": "ok"
     },
     {
