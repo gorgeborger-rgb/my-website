@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-12T20:45:20.885266+00:00",
+  "generatedAt": "2026-11-13T01:29:20.379418+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "An Update from the Anti-Cheat Team - 11/12/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144184215",
-      "latestPatchPublishedAt": "2026-11-12T18:51:48+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 11/12/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144184669",
+      "latestPatchPublishedAt": "2026-11-12T21:23:07+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "В Escape from Tarkov игроков в PvE оказалось больше, чем в PvP",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643345030",
-      "latestPatchPublishedAt": "2026-11-06T10:31:43+00:00",
+      "latestPatchTitle": "Escape from Tarkov выйдет на консолях: анонс состоится в начале 2027 года",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144184951",
+      "latestPatchPublishedAt": "2026-11-12T22:46:36+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Release Dates Update | Hell Let Loose & Hell Let Loose: Vietnam",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144183672",
-      "latestPatchPublishedAt": "2026-11-12T16:34:53+00:00",
+      "latestPatchTitle": "В новом обновлении Hell Let Loose добавится замёрзшее поле боя у озера Балатон",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144184677",
+      "latestPatchPublishedAt": "2026-11-12T17:51:02+00:00",
       "status": "ok"
     },
     {
