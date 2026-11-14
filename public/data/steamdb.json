@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-13T22:12:55.605063+00:00",
+  "generatedAt": "2026-11-14T02:27:20.815066+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "В ARK: Survival Ascended добавили ящера-оборотня Энигмазавра",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643351094",
-      "latestPatchPublishedAt": "2026-11-07T19:52:20+00:00",
+      "latestPatchTitle": "Community Crunch 532: A Dragon of Thorns and Roses",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682002",
+      "latestPatchPublishedAt": "2026-11-14T01:09:52+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "November 12 Update | Balance Adjustments and Bug Fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182636",
-      "latestPatchPublishedAt": "2026-11-12T12:00:46+00:00",
+      "latestPatchTitle": "Dev Blog: Zenith Port — When the Tide Turns",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682102",
+      "latestPatchPublishedAt": "2026-11-14T02:00:30+00:00",
       "status": "ok"
     },
     {
