@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-14T02:27:20.815066+00:00",
+  "generatedAt": "2026-11-14T09:14:26.788832+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "40 New User-Created Camouflages in the Eagle’s Shadow Trophy!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187580",
-      "latestPatchPublishedAt": "2026-11-13T14:51:56+00:00",
+      "latestPatchTitle": "Screenshot Competition – Eagles Shadow!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682536",
+      "latestPatchPublishedAt": "2026-11-14T06:00:41+00:00",
       "status": "ok"
     }
   ]
