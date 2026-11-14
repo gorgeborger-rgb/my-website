@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-14T15:50:44.880991+00:00",
+  "generatedAt": "2026-11-14T20:15:57.448062+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "В Conan Exiles вышло дополнение с разломами и поисками Акхамета",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144183566",
-      "latestPatchPublishedAt": "2026-11-12T15:50:17+00:00",
+      "latestPatchTitle": "November Hotfix 3.1.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702684414",
+      "latestPatchPublishedAt": "2026-11-14T19:20:27+00:00",
       "status": "ok"
     },
     {
