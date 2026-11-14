@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-14T09:14:26.788832+00:00",
+  "generatedAt": "2026-11-14T15:50:44.880991+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Festivity x Twitch Drops",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187383",
-      "latestPatchPublishedAt": "2026-11-13T14:04:13+00:00",
+      "latestPatchTitle": "Step into the shoes of a STALZONE balancer!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702683624",
+      "latestPatchPublishedAt": "2026-11-14T14:45:05+00:00",
       "status": "ok"
     },
     {
