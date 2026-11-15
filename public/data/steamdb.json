@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-15T12:23:49.447836+00:00",
+  "generatedAt": "2026-11-15T18:59:56.550591+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "November Hotfix 3.1.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702684414",
-      "latestPatchPublishedAt": "2026-11-14T19:20:27+00:00",
+      "latestPatchTitle": "(Re-release) November Hotfix 3.1.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702686207",
+      "latestPatchPublishedAt": "2026-11-15T13:07:03+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Standard Edition & PvE Zone bundle!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144188322",
-      "latestPatchPublishedAt": "2026-11-13T17:26:13+00:00",
+      "latestPatchTitle": "Anniversary discount!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702686626",
+      "latestPatchPublishedAt": "2026-11-15T16:02:40+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Year 11 Season 4 Reveal Incoming",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355550",
-      "latestPatchPublishedAt": "2026-11-09T14:00:34+00:00",
+      "latestPatchTitle": "Operation Vital Signal Revealed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702686619",
+      "latestPatchPublishedAt": "2026-11-15T16:00:28+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Step into the shoes of a STALZONE balancer!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702683624",
-      "latestPatchPublishedAt": "2026-11-14T14:45:05+00:00",
+      "latestPatchTitle": "The Final Bell",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702686187",
+      "latestPatchPublishedAt": "2026-11-15T12:53:59+00:00",
       "status": "ok"
     },
     {
