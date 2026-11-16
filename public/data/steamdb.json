@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-16T10:25:42.845166+00:00",
+  "generatedAt": "2026-11-16T20:36:30.106551+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Dev Blog: Brakkesh 2.0 — Once More Across the Line",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702685194",
-      "latestPatchPublishedAt": "2026-11-15T02:00:42+00:00",
+      "latestPatchTitle": "В Delta Force добавили легендарное оружие ближнего боя из Phantom Blade Zero",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702690197",
+      "latestPatchPublishedAt": "2026-11-16T15:53:38+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Anniversary discount!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702686626",
-      "latestPatchPublishedAt": "2026-11-15T16:02:40+00:00",
+      "latestPatchTitle": "Escape from Tarkov присоединилась к ажиотажу вокруг GTA 6: игрокам предлагают две тематические футболки за Twitch Drops",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702690287",
+      "latestPatchPublishedAt": "2026-11-16T16:32:27+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "This Month in Sea of Thieves: November 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345281",
-      "latestPatchPublishedAt": "2026-11-06T12:00:28+00:00",
+      "latestPatchTitle": "Новое обновление Sea of Thieves потребует полной переустановки игры, но сделает вес игры до 50% меньше",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702690111",
+      "latestPatchPublishedAt": "2026-11-16T15:50:36+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Eagles Shadow!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682536",
-      "latestPatchPublishedAt": "2026-11-14T06:00:41+00:00",
+      "latestPatchTitle": "Арт-директор War Thunder связал споры вокруг DLSS 5 с фанатскими модами, искажающими стиль игры ради просмотров",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702690892",
+      "latestPatchPublishedAt": "2026-11-16T18:38:18+00:00",
       "status": "ok"
     }
   ]
