@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-16T02:51:43.611887+00:00",
+  "generatedAt": "2026-11-16T10:25:42.845166+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk меняет направление: режим Farlands превращает тактический шутер в площадку для экспериментов",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144183821",
-      "latestPatchPublishedAt": "2026-11-12T16:52:08+00:00",
+      "latestPatchTitle": "FragPunk November 16th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702688941",
+      "latestPatchPublishedAt": "2026-11-16T10:09:17+00:00",
       "status": "ok"
     },
     {
@@ -297,7 +297,7 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List November 10rd",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List November 10th",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359279",
       "latestPatchPublishedAt": "2026-11-10T12:53:44+00:00",
       "status": "ok"
