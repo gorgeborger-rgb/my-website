@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-17T11:42:51.881111+00:00",
+  "generatedAt": "2026-11-17T20:02:37.640357+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Answer the Call This Veterans Day",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180448",
-      "latestPatchPublishedAt": "2026-11-11T21:07:23+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 10 Nov — 17 November 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1849458702693904",
+      "latestPatchPublishedAt": "2026-11-17T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.2.2b Backend Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356687",
-      "latestPatchPublishedAt": "2026-11-09T19:08:56+00:00",
+      "latestPatchTitle": "Dead by Daylight показали будущие визуальные переработки и динамическую погоду",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702694885",
+      "latestPatchPublishedAt": "2026-11-17T17:51:09+00:00",
       "status": "ok"
     },
     {
@@ -214,20 +214,20 @@
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
-      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
-      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
+      "appId": 3975470,
+      "steamDbUrl": "https://steamdb.info/app/3975470/",
+      "latestPatchTitle": "Update 1.0.5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395918",
+      "latestPatchPublishedAt": "2026-10-06T10:20:10+00:00",
       "status": "ok"
     },
     {
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Escape from Tarkov присоединилась к ажиотажу вокруг GTA 6: игрокам предлагают две тематические футболки за Twitch Drops",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702690287",
-      "latestPatchPublishedAt": "2026-11-16T16:32:27+00:00",
+      "latestPatchTitle": "\"PvP не умирает\": Никита Буянов ответил на споры о режимах Escape from Tarkov и заявил, что другие берут пример с них",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702693480",
+      "latestPatchPublishedAt": "2026-11-17T12:23:02+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1849192144188085",
-      "latestPatchPublishedAt": "2026-11-13T16:28:30+00:00",
+      "latestPatchTitle": "На 2-ю годовщину Marvel Rivals устроят аркадные игры, раздадут бесплатные юниты и легендарный скин Дэдпула",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702695072",
+      "latestPatchPublishedAt": "2026-11-17T19:10:08+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Rainbow Six Siege получит кроссовер с DOOM, переработку Дока и новое оружие",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702687227",
-      "latestPatchPublishedAt": "2026-11-15T19:48:20+00:00",
+      "latestPatchTitle": "Rainbow Six Siege: Operation Vital Signal выйдет 1 декабря - переработанный Док, новое оружие и раздельный рейтинг",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702695165",
+      "latestPatchPublishedAt": "2026-11-17T19:36:48+00:00",
       "status": "ok"
     },
     {
@@ -369,18 +369,18 @@
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "NOX: Darkness Falls...",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302253919",
-      "latestPatchPublishedAt": "2026-11-03T22:35:18+00:00",
+      "latestPatchTitle": "Sleeping Giant Kumbhakarna!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702694194",
+      "latestPatchPublishedAt": "2026-11-17T15:38:37+00:00",
       "status": "ok"
     },
     {
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Gifts of the Zone",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702692837",
-      "latestPatchPublishedAt": "2026-11-17T08:59:30+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702694247",
+      "latestPatchPublishedAt": "2026-11-17T15:57:28+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Unplanned Technical Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702693079",
-      "latestPatchPublishedAt": "2026-11-17T10:29:04+00:00",
+      "latestPatchTitle": "Update 2.61.0.24",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702694183",
+      "latestPatchPublishedAt": "2026-11-17T15:34:05+00:00",
       "status": "ok"
     }
   ]
