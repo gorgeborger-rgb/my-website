@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-17T20:02:37.640357+00:00",
+  "generatedAt": "2026-11-18T02:20:52.801071+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 11/12/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144184669",
-      "latestPatchPublishedAt": "2026-11-12T21:23:07+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 11/17/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702695438",
+      "latestPatchPublishedAt": "2026-11-17T21:23:48+00:00",
       "status": "ok"
     },
     {
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180746",
-      "latestPatchPublishedAt": "2026-11-11T23:03:20+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110421976",
+      "latestPatchPublishedAt": "2026-11-17T23:40:07+00:00",
       "status": "ok"
     },
     {
