@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-18T10:26:46.249031+00:00",
+  "generatedAt": "2026-11-18T18:57:11.234219+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 5482350,
       "steamDbUrl": "https://steamdb.info/app/5482350/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "latestPatchTitle": "Patch Notes: Smarter guests, draw offer fix, PGN copy and more",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424165",
+      "latestPatchPublishedAt": "2026-11-18T13:18:32+00:00",
       "status": "ok"
     },
     {
@@ -171,18 +171,18 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Post-Release Dev Blog (Week 04) | Dog Behaviour",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187858",
-      "latestPatchPublishedAt": "2026-11-13T15:53:40+00:00",
+      "latestPatchTitle": "Madrinas x DayZ Limited Edition Collector's Box Now Available",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424350",
+      "latestPatchPublishedAt": "2026-11-18T14:01:51+00:00",
       "status": "ok"
     },
     {
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight показали будущие визуальные переработки и динамическую погоду",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702694885",
-      "latestPatchPublishedAt": "2026-11-17T17:51:09+00:00",
+      "latestPatchTitle": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1849458702695702",
+      "latestPatchPublishedAt": "2026-11-17T21:33:50+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "\"PvP не умирает\": Никита Буянов ответил на споры о режимах Escape from Tarkov и заявил, что другие берут пример с них",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849458702693480",
-      "latestPatchPublishedAt": "2026-11-17T12:23:02+00:00",
+      "latestPatchTitle": "Developer’s diary: Technical improvements",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424344",
+      "latestPatchPublishedAt": "2026-11-18T14:00:53+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk November 16th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702688941",
-      "latestPatchPublishedAt": "2026-11-16T10:09:17+00:00",
+      "latestPatchTitle": "FragPunk November 19th Update Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424308",
+      "latestPatchPublishedAt": "2026-11-18T13:52:26+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List November 17th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702692939",
-      "latestPatchPublishedAt": "2026-11-17T09:33:09+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update – November 19th, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424239",
+      "latestPatchPublishedAt": "2026-11-18T13:35:43+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3275210,
+      "steamDbUrl": "https://steamdb.info/app/3275210/",
+      "latestPatchTitle": "Update v0.4.7 - Gamepad Support, New Personal Property & More",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144186096",
+      "latestPatchPublishedAt": "2026-11-13T07:16:45+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Submission deadline",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110423522",
-      "latestPatchPublishedAt": "2026-11-18T10:00:06+00:00",
+      "latestPatchTitle": "Arsenal Buyout Changes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424567",
+      "latestPatchPublishedAt": "2026-11-18T14:59:43+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "THE WRENCH: FALL 2026 - PART 1: MODS AND FIRETEAM MISSIONS",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360415",
-      "latestPatchPublishedAt": "2026-11-10T17:02:02+00:00",
+      "latestPatchTitle": "THE WRENCH: FALL 2026 - PART 2: SDK ART AND CINEMATICS",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425139",
+      "latestPatchPublishedAt": "2026-11-18T17:00:36+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.61.0.24",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702694183",
-      "latestPatchPublishedAt": "2026-11-17T15:34:05+00:00",
+      "latestPatchTitle": "Update 2.61.0.26",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424719",
+      "latestPatchPublishedAt": "2026-11-18T15:39:42+00:00",
       "status": "ok"
     }
   ]
