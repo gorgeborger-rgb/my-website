@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-18T02:20:52.801071+00:00",
+  "generatedAt": "2026-11-18T10:26:46.249031+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110421976",
-      "latestPatchPublishedAt": "2026-11-17T23:40:07+00:00",
+      "latestPatchTitle": "Valve опубликовала тизер зимней версии карты Cobblestone для Counter-Strike 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110423066",
+      "latestPatchPublishedAt": "2026-11-18T07:17:49+00:00",
       "status": "ok"
     },
     {
@@ -324,18 +324,18 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/2~11/8)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177506",
-      "latestPatchPublishedAt": "2026-11-11T07:00:13+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/9~11/15)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110423012",
+      "latestPatchPublishedAt": "2026-11-18T07:00:45+00:00",
       "status": "ok"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Pocketpair объяснила, почему считает себя инди-студией даже после успеха Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302237476",
-      "latestPatchPublishedAt": "2026-10-30T06:55:06+00:00",
+      "latestPatchTitle": "Pocketpair решила не конкурировать с GTA 6 за внимание игроков - новости о будущем Palworld подождут",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110423022",
+      "latestPatchPublishedAt": "2026-11-18T06:57:34+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702694247",
-      "latestPatchPublishedAt": "2026-11-17T15:57:28+00:00",
+      "latestPatchTitle": "Submission deadline",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110423522",
+      "latestPatchPublishedAt": "2026-11-18T10:00:06+00:00",
       "status": "ok"
     },
     {
