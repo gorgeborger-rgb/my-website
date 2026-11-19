@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-19T17:30:09.463100+00:00",
+  "generatedAt": "2026-11-19T23:43:46.519377+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter получила патч 0.5.0.46: авторы исправили гравитацию, ускорили транспорт и улучшили производительность",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110428403",
-      "latestPatchPublishedAt": "2026-11-19T13:46:41+00:00",
+      "latestPatchTitle": "The Agency Opens The Isolated Raid \"Culling of Dogorsk\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110429394",
+      "latestPatchPublishedAt": "2026-11-19T17:59:06+00:00",
       "status": "ok"
     },
     {
@@ -133,20 +133,20 @@
     },
     {
       "game": "Chess",
-      "appId": 5482350,
-      "steamDbUrl": "https://steamdb.info/app/5482350/",
-      "latestPatchTitle": "Patch Notes: Smarter guests, odds games, new pieces, spell card music and more",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110427065",
-      "latestPatchPublishedAt": "2026-11-19T04:55:09+00:00",
+      "appId": 4163030,
+      "steamDbUrl": "https://steamdb.info/app/4163030/",
+      "latestPatchTitle": "meow meoow NEW DLC - SAMURAI CATS!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695379",
+      "latestPatchPublishedAt": "2026-10-20T13:54:29+00:00",
       "status": "ok"
     },
     {
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "(Re-release) November Hotfix 3.1.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702686207",
-      "latestPatchPublishedAt": "2026-11-15T13:07:03+00:00",
+      "latestPatchTitle": "Conan Exiles объединит серверы на консолях 3 декабря перед запуском Enhanced",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110429637",
+      "latestPatchPublishedAt": "2026-11-19T19:13:02+00:00",
       "status": "ok"
     },
     {
