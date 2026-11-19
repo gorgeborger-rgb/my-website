@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-18T18:57:11.234219+00:00",
+  "generatedAt": "2026-11-19T00:57:29.499910+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 11/17/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702695438",
-      "latestPatchPublishedAt": "2026-11-17T21:23:48+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 11/16/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426441",
+      "latestPatchPublishedAt": "2026-11-18T23:57:13+00:00",
       "status": "ok"
     },
     {
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 5482350,
       "steamDbUrl": "https://steamdb.info/app/5482350/",
-      "latestPatchTitle": "Patch Notes: Smarter guests, draw offer fix, PGN copy and more",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424165",
-      "latestPatchPublishedAt": "2026-11-18T13:18:32+00:00",
+      "latestPatchTitle": "Spell Card Matches and Online Play Are Here",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426553",
+      "latestPatchPublishedAt": "2026-11-19T00:53:29+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1849458702695702",
-      "latestPatchPublishedAt": "2026-11-17T21:33:50+00:00",
+      "latestPatchTitle": "Dead by Daylight намекнула на возможную коллаборацию с Годзиллой в новом тизере",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110426461",
+      "latestPatchPublishedAt": "2026-11-18T23:55:11+00:00",
       "status": "ok"
     },
     {
