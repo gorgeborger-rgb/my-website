@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-20T13:21:44.945837+00:00",
+  "generatedAt": "2026-11-20T21:23:23.391912+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "The Agency Opens The Isolated Raid \"Culling of Dogorsk\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110429394",
-      "latestPatchPublishedAt": "2026-11-19T17:59:06+00:00",
+      "latestPatchTitle": "Update 0.5.0.55",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432718",
+      "latestPatchPublishedAt": "2026-11-20T15:40:23+00:00",
       "status": "ok"
     },
     {
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 5482350,
-      "steamDbUrl": "https://steamdb.info/app/5482350/",
-      "latestPatchTitle": "Patch Notes: Smarter guests, odds games, new pieces, spell card music and more",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110427065",
-      "latestPatchPublishedAt": "2026-11-19T04:55:09+00:00",
+      "appId": 4163030,
+      "steamDbUrl": "https://steamdb.info/app/4163030/",
+      "latestPatchTitle": "meow meoow NEW DLC - SAMURAI CATS!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695379",
+      "latestPatchPublishedAt": "2026-10-20T13:54:29+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Динамическая погода, лицевая анимация и моды: авторы Dead by Daylight поделились планами на 2027 год",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110430854",
-      "latestPatchPublishedAt": "2026-11-20T04:30:00+00:00",
+      "latestPatchTitle": "Black Friday Arrives in The Fog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433575",
+      "latestPatchPublishedAt": "2026-11-20T20:01:03+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Artifact Fever",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110431369",
-      "latestPatchPublishedAt": "2026-11-20T09:01:10+00:00",
+      "latestPatchTitle": "Daily Gifts",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432301",
+      "latestPatchPublishedAt": "2026-11-20T13:59:53+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 12.4.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110427751",
-      "latestPatchPublishedAt": "2026-11-19T09:59:33+00:00",
+      "latestPatchTitle": "The Grand Major 2026 Starts November 27!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433256",
+      "latestPatchPublishedAt": "2026-11-20T18:00:05+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The NF-5A Returns for the Anniversary of the F-5A-21’s Victory in the IFA Comp.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110431818",
-      "latestPatchPublishedAt": "2026-11-20T11:22:05+00:00",
+      "latestPatchTitle": "Update 2.61.0.33",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433047",
+      "latestPatchPublishedAt": "2026-11-20T17:04:40+00:00",
       "status": "ok"
     }
   ]
