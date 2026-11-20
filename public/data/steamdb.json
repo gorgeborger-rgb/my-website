@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-19T23:43:46.519377+00:00",
+  "generatedAt": "2026-11-20T04:21:00.524625+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 11/16/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426441",
-      "latestPatchPublishedAt": "2026-11-18T23:57:13+00:00",
+      "latestPatchTitle": "An Update from the Anti-Cheat Team - 11/19/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110430249",
+      "latestPatchPublishedAt": "2026-11-19T23:45:07+00:00",
       "status": "ok"
     },
     {
