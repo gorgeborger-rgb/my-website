@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-21T10:10:46.946930+00:00",
+  "generatedAt": "2026-11-21T17:35:42.044892+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,7 +18,7 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 433: A Matter of Scale",
+      "latestPatchTitle": "Community Crunch 533: A Matter of Scale",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434159",
       "latestPatchPublishedAt": "2026-11-21T00:33:17+00:00",
       "status": "ok"
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1145030,
-      "steamDbUrl": "https://steamdb.info/app/1145030/",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3275210,
       "steamDbUrl": "https://steamdb.info/app/3275210/",
-      "latestPatchTitle": "Patch Notes - v0.4.8",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434790",
-      "latestPatchPublishedAt": "2026-11-21T07:14:21+00:00",
+      "latestPatchTitle": "Early Access Roadmap - Vote until Dec 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110436200",
+      "latestPatchPublishedAt": "2026-11-21T17:02:27+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Daily Gifts",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432301",
-      "latestPatchPublishedAt": "2026-11-20T13:59:53+00:00",
+      "latestPatchTitle": "Something Has Awoken in the Ice",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110435572",
+      "latestPatchPublishedAt": "2026-11-21T13:56:22+00:00",
       "status": "ok"
     },
     {
