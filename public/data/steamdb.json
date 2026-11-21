@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-20T21:23:23.391912+00:00",
+  "generatedAt": "2026-11-21T02:38:18.703749+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 532: A Dragon of Thorns and Roses",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682002",
-      "latestPatchPublishedAt": "2026-11-14T01:09:52+00:00",
+      "latestPatchTitle": "Community Crunch 433: A Matter of Scale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434159",
+      "latestPatchPublishedAt": "2026-11-21T00:33:17+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Black Friday Arrives in The Fog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433575",
-      "latestPatchPublishedAt": "2026-11-20T20:01:03+00:00",
+      "latestPatchTitle": "Клоун Арт доберётся до Dead by Daylight - представлен трейлер кроссовера с \"Ужасающим\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110434155",
+      "latestPatchPublishedAt": "2026-11-20T22:50:20+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "appId": 1145030,
+      "steamDbUrl": "https://steamdb.info/app/1145030/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1848664643347444",
-      "latestPatchPublishedAt": "2026-11-06T21:06:01+00:00",
+      "latestPatchTitle": "Ongoing emergency backend maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434091",
+      "latestPatchPublishedAt": "2026-11-20T23:54:14+00:00",
       "status": "ok"
     },
     {
