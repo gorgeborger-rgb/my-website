@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-21T02:38:18.703749+00:00",
+  "generatedAt": "2026-11-21T10:10:46.946930+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 4163030,
-      "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "meow meoow NEW DLC - SAMURAI CATS!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695379",
-      "latestPatchPublishedAt": "2026-10-20T13:54:29+00:00",
+      "appId": 5482350,
+      "steamDbUrl": "https://steamdb.info/app/5482350/",
+      "latestPatchTitle": "Patch Notes: Quick Match, Steam invites, 14 new spell cards, retuned guests",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434123",
+      "latestPatchPublishedAt": "2026-11-21T00:07:09+00:00",
       "status": "ok"
     },
     {
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3275210,
       "steamDbUrl": "https://steamdb.info/app/3275210/",
-      "latestPatchTitle": "Update v0.4.7 - Gamepad Support, New Personal Property & More",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144186096",
-      "latestPatchPublishedAt": "2026-11-13T07:16:45+00:00",
+      "latestPatchTitle": "Patch Notes - v0.4.8",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434790",
+      "latestPatchPublishedAt": "2026-11-21T07:14:21+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.61.0.33",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433047",
-      "latestPatchPublishedAt": "2026-11-20T17:04:40+00:00",
+      "latestPatchTitle": "Screenshot Competition – Rocket Science!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434745",
+      "latestPatchPublishedAt": "2026-11-21T06:45:05+00:00",
       "status": "ok"
     }
   ]
