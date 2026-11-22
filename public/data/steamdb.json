@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-22T09:55:40.288424+00:00",
+  "generatedAt": "2026-11-22T17:32:06.136345+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 5482350,
-      "steamDbUrl": "https://steamdb.info/app/5482350/",
-      "latestPatchTitle": "Patch Notes: Set guest strength yourself, three new match tracks",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110437716",
-      "latestPatchPublishedAt": "2026-11-22T05:53:25+00:00",
+      "appId": 4163030,
+      "steamDbUrl": "https://steamdb.info/app/4163030/",
+      "latestPatchTitle": "meow meoow NEW DLC - SAMURAI CATS!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695379",
+      "latestPatchPublishedAt": "2026-10-20T13:54:29+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT отправилась в Антарктиду: новое событие добавило экспедицию, рыбалку и десятки наград",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110428442",
-      "latestPatchPublishedAt": "2026-11-19T13:52:47+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Maintenance Notice - November 22",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110438887",
+      "latestPatchPublishedAt": "2026-11-22T16:31:12+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Something Has Awoken in the Ice",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110435572",
-      "latestPatchPublishedAt": "2026-11-21T13:56:22+00:00",
+      "latestPatchTitle": "Snowy Friend",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110438602",
+      "latestPatchPublishedAt": "2026-11-22T13:59:37+00:00",
       "status": "ok"
     },
     {
