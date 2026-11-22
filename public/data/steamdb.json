@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-22T02:20:00.164682+00:00",
+  "generatedAt": "2026-11-22T09:55:40.288424+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -135,9 +135,9 @@
       "game": "Chess",
       "appId": 5482350,
       "steamDbUrl": "https://steamdb.info/app/5482350/",
-      "latestPatchTitle": "Patch Notes: Quick Match, Steam invites, 14 new spell cards, retuned guests",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434123",
-      "latestPatchPublishedAt": "2026-11-21T00:07:09+00:00",
+      "latestPatchTitle": "Patch Notes: Set guest strength yourself, three new match tracks",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110437716",
+      "latestPatchPublishedAt": "2026-11-22T05:53:25+00:00",
       "status": "ok"
     },
     {
@@ -214,10 +214,10 @@
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "appId": 1145030,
+      "steamDbUrl": "https://steamdb.info/app/1145030/",
       "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612045",
       "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
