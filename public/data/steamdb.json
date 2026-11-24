@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-23T12:23:05.004328+00:00",
+  "generatedAt": "2026-11-24T00:09:09.182975+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.5.0.55",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110432718",
-      "latestPatchPublishedAt": "2026-11-20T15:40:23+00:00",
+      "latestPatchTitle": "Nominate Active Matter for \"Best Soundtrack\" in the Steam Awards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443087",
+      "latestPatchPublishedAt": "2026-11-23T18:04:36+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 10 Nov — 17 November 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1849458702693904",
-      "latestPatchPublishedAt": "2026-11-17T09:00:00+00:00",
+      "latestPatchTitle": "Activision Black Friday Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442763",
+      "latestPatchPublishedAt": "2026-11-23T18:01:01+00:00",
       "status": "ok"
     },
     {
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426557",
-      "latestPatchPublishedAt": "2026-11-19T00:57:59+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110444052",
+      "latestPatchPublishedAt": "2026-11-23T23:02:07+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110441038",
-      "latestPatchPublishedAt": "2026-11-23T09:40:26+00:00",
+      "latestPatchTitle": "Ask Shadow Anything——Season Aurora Edition",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110441979",
+      "latestPatchPublishedAt": "2026-11-23T15:00:29+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Ongoing emergency backend maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434091",
-      "latestPatchPublishedAt": "2026-11-20T23:54:14+00:00",
+      "latestPatchTitle": "A Fresh Contract: Nominate Hunt for Labor of Love",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443476",
+      "latestPatchPublishedAt": "2026-11-23T19:26:13+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Pocketpair устроила офисный праздник в честь выхода GTA 6 с суши и игровыми консолями",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110427762",
-      "latestPatchPublishedAt": "2026-11-19T09:54:39+00:00",
+      "latestPatchTitle": "Please Nominate Palworld for the \"Just 5 More Minutes\" Award — Steam Awards 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442979",
+      "latestPatchPublishedAt": "2026-11-23T18:01:33+00:00",
       "status": "ok"
     },
     {
@@ -360,7 +360,7 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Hotfix - 1.3.6.2.180352",
+      "latestPatchTitle": "Hotfix - 1.3.6.3.180352",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110441452",
       "latestPatchPublishedAt": "2026-11-23T12:05:53+00:00",
       "status": "ok"
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Snowy Friend",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110438602",
-      "latestPatchPublishedAt": "2026-11-22T13:59:37+00:00",
+      "latestPatchTitle": "Balance Service on the meta, mono builds, and TTK",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110441817",
+      "latestPatchPublishedAt": "2026-11-23T14:08:34+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "The Grand Major 2026 Starts November 27!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110433256",
-      "latestPatchPublishedAt": "2026-11-20T18:00:05+00:00",
+      "latestPatchTitle": "From THE FINALS, with love!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442880",
+      "latestPatchPublishedAt": "2026-11-23T18:01:18+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Rocket Science!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434745",
-      "latestPatchPublishedAt": "2026-11-21T06:45:05+00:00",
+      "latestPatchTitle": "Steam Awards Labor of Love Nomination",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443104",
+      "latestPatchPublishedAt": "2026-11-23T18:05:25+00:00",
       "status": "ok"
     }
   ]
