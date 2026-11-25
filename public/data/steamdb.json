@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-25T13:27:52.373150+00:00",
+  "generatedAt": "2026-11-25T22:39:40.804135+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,27 +54,27 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends Anti-Cheat: Javelin Two-Month Post Mortem",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110447315",
-      "latestPatchPublishedAt": "2026-11-24T18:01:59+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 11/25/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852982409",
+      "latestPatchPublishedAt": "2026-11-25T18:02:15+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - November 11th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177477",
-      "latestPatchPublishedAt": "2026-11-11T06:36:04+00:00",
+      "latestPatchTitle": "ABI Winter Festival Event Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981291",
+      "latestPatchPublishedAt": "2026-11-25T13:58:07+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - November 11th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177477",
-      "latestPatchPublishedAt": "2026-11-11T06:36:04+00:00",
+      "latestPatchTitle": "ABI Winter Festival Event Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981291",
+      "latestPatchPublishedAt": "2026-11-25T13:58:07+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Ask Shadow Anything——Season Aurora Edition",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110441979",
-      "latestPatchPublishedAt": "2026-11-23T15:00:29+00:00",
+      "latestPatchTitle": "Delta Force запустит коллаборацию с METAL GEAR SOLID: SNAKE EATER 27 ноября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852982619",
+      "latestPatchPublishedAt": "2026-11-25T18:55:35+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.5.1.1 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359351",
-      "latestPatchPublishedAt": "2026-11-10T13:18:23+00:00",
+      "latestPatchTitle": "The Breakthrough Patch Is Coming",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981924",
+      "latestPatchPublishedAt": "2026-11-25T16:30:50+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "THE WRENCH: FALL 2026 - PART 2: SDK ART AND CINEMATICS",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425139",
-      "latestPatchPublishedAt": "2026-11-18T17:00:36+00:00",
+      "latestPatchTitle": "THE WRENCH: FALL 2026 - PART 3: MODS",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852982440",
+      "latestPatchPublishedAt": "2026-11-25T18:09:54+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pages of History (December): Operation Little Saturn",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980739",
-      "latestPatchPublishedAt": "2026-11-25T11:11:10+00:00",
+      "latestPatchTitle": "Update 2.61.0.42",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981700",
+      "latestPatchPublishedAt": "2026-11-25T15:39:19+00:00",
       "status": "ok"
     }
   ]
