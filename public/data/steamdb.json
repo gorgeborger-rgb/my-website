@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-24T20:22:25.326443+00:00",
+  "generatedAt": "2026-11-25T03:37:25.670966+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Для Dead by Daylight вышло дополнение Terrifier с Клоуно Артом",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110447355",
-      "latestPatchPublishedAt": "2026-11-24T17:50:50+00:00",
+      "latestPatchTitle": "The Terrifier Chapter is now available on Steam!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110447868",
+      "latestPatchPublishedAt": "2026-11-24T21:20:20+00:00",
       "status": "ok"
     },
     {
