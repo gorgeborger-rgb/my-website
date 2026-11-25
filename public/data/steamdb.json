@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-25T03:37:25.670966+00:00",
+  "generatedAt": "2026-11-25T13:27:52.373150+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Nominate Active Matter for \"Best Soundtrack\" in the Steam Awards",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443087",
-      "latestPatchPublishedAt": "2026-11-23T18:04:36+00:00",
+      "latestPatchTitle": "Update 0.5.0.67",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980751",
+      "latestPatchPublishedAt": "2026-11-25T11:15:46+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Season 35 Begins This Weekend",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702693040",
-      "latestPatchPublishedAt": "2026-11-17T10:14:39+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: MomoMonii",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980524",
+      "latestPatchPublishedAt": "2026-11-25T10:00:01+00:00",
       "status": "ok"
     },
     {
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Update 1.12: Halloween Seasonal Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114036105",
-      "latestPatchPublishedAt": "2026-10-23T11:59:04+00:00",
+      "latestPatchTitle": "Update 1.13: Vehicle Shooting, Mini-Bosses, Squad Re-work",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980261",
+      "latestPatchPublishedAt": "2026-11-25T08:17:10+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.3.5.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110445989",
-      "latestPatchPublishedAt": "2026-11-24T12:33:03+00:00",
+      "latestPatchTitle": "2026 Steam Awards nomination!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980892",
+      "latestPatchPublishedAt": "2026-11-25T12:01:21+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG College Royale: Fall 2026 Grand Finals is LIVE!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110439451",
-      "latestPatchPublishedAt": "2026-11-22T20:05:51+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/16~11/22)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980057",
+      "latestPatchPublishedAt": "2026-11-25T07:00:52+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "There's something about this Friday that makes us want to...",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110446982",
-      "latestPatchPublishedAt": "2026-11-24T16:58:25+00:00",
+      "latestPatchTitle": "X-Mas tree leagues",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981092",
+      "latestPatchPublishedAt": "2026-11-25T12:58:46+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Steam Awards Labor of Love Nomination",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443104",
-      "latestPatchPublishedAt": "2026-11-23T18:05:25+00:00",
+      "latestPatchTitle": "Pages of History (December): Operation Little Saturn",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980739",
+      "latestPatchPublishedAt": "2026-11-25T11:11:10+00:00",
       "status": "ok"
     }
   ]
