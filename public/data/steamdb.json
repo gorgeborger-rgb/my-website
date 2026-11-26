@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-26T04:21:27.093311+00:00",
+  "generatedAt": "2026-11-26T14:07:45.568007+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "В ARC Raiders добавят событие Flickering Flames с проектом рейдера",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110446564",
-      "latestPatchPublishedAt": "2026-11-24T14:50:38+00:00",
+      "latestPatchTitle": "Для ARC Raiders вышло обновление 2.7.0 с праздничным событием Flickering Flames",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852984234",
+      "latestPatchPublishedAt": "2026-11-26T06:23:34+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: MomoMonii",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980524",
-      "latestPatchPublishedAt": "2026-11-25T10:00:01+00:00",
+      "latestPatchTitle": "Changelog: Dragonfire Patch 5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852984814",
+      "latestPatchPublishedAt": "2026-11-26T10:02:05+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ABI Winter Festival Event Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981291",
-      "latestPatchPublishedAt": "2026-11-25T13:58:07+00:00",
+      "latestPatchTitle": "Nominate Arena Breakout: Infinite for the Steam Awards 2026!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985590",
+      "latestPatchPublishedAt": "2026-11-26T13:55:24+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ABI Winter Festival Event Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981291",
-      "latestPatchPublishedAt": "2026-11-25T13:58:07+00:00",
+      "latestPatchTitle": "Nominate Arena Breakout: Infinite for the Steam Awards 2026!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985590",
+      "latestPatchPublishedAt": "2026-11-26T13:55:24+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Bohemia Interactive Store Black Friday Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643347094",
-      "latestPatchPublishedAt": "2026-11-06T19:00:13+00:00",
+      "latestPatchTitle": "1.9.0.42 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985359",
+      "latestPatchPublishedAt": "2026-11-26T12:35:58+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "The Terrifier Chapter is now available on Steam!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110447868",
-      "latestPatchPublishedAt": "2026-11-24T21:20:20+00:00",
+      "latestPatchTitle": "Фанаты Dead by Daylight раскритиковали редизайн Фэн Мин из-за того, что героиню сделали слишком красивой",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852984659",
+      "latestPatchPublishedAt": "2026-11-26T09:09:05+00:00",
       "status": "ok"
     },
     {
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Delta Force запустит коллаборацию с METAL GEAR SOLID: SNAKE EATER 27 ноября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852982619",
-      "latestPatchPublishedAt": "2026-11-25T18:55:35+00:00",
+      "latestPatchTitle": "Nominate Delta Force for the Labor of Love Award at the 2026 Steam Awards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985514",
+      "latestPatchPublishedAt": "2026-11-26T13:35:48+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Communinet Signal #23",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110428710",
-      "latestPatchPublishedAt": "2026-11-19T15:06:16+00:00",
+      "latestPatchTitle": "Public Test Client - Update 1.6.0.0 - Blood and Ice Expansion",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985462",
+      "latestPatchPublishedAt": "2026-11-26T13:09:46+00:00",
       "status": "ok"
     },
     {
@@ -243,18 +243,18 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk November 20th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110431463",
-      "latestPatchPublishedAt": "2026-11-20T09:39:28+00:00",
+      "latestPatchTitle": "FragPunk November 26th Update Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852984869",
+      "latestPatchPublishedAt": "2026-11-26T10:21:06+00:00",
       "status": "ok"
     },
     {
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "The Breakthrough Patch Is Coming",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981924",
-      "latestPatchPublishedAt": "2026-11-25T16:30:50+00:00",
+      "latestPatchTitle": "Gray Zone Warfare станет динамичнее: Madfinger показала тактические улучшения обновления Breakthrough",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852984120",
+      "latestPatchPublishedAt": "2026-11-26T05:48:12+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "В Marvel Rivals показали карту Incursion Point на стыке миров",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110447074",
-      "latestPatchPublishedAt": "2026-11-24T16:52:10+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20261126 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852984843",
+      "latestPatchPublishedAt": "2026-11-26T10:14:05+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "X-Mas tree leagues",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981092",
-      "latestPatchPublishedAt": "2026-11-25T12:58:46+00:00",
+      "latestPatchTitle": "EXBO Stream anouncement!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852984915",
+      "latestPatchPublishedAt": "2026-11-26T10:33:33+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "From THE FINALS, with love!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442880",
-      "latestPatchPublishedAt": "2026-11-23T18:01:18+00:00",
+      "latestPatchTitle": "Update 12.5.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852984799",
+      "latestPatchPublishedAt": "2026-11-26T09:59:52+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.61.0.42",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981700",
-      "latestPatchPublishedAt": "2026-11-25T15:39:19+00:00",
+      "latestPatchTitle": "Testing Submarines in War Thunder!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985021",
+      "latestPatchPublishedAt": "2026-11-26T11:06:01+00:00",
       "status": "ok"
     }
   ]
