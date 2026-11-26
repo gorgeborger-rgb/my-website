@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-26T14:07:45.568007+00:00",
+  "generatedAt": "2026-11-26T22:56:41.284226+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.5.0.67",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980751",
-      "latestPatchPublishedAt": "2026-11-25T11:15:46+00:00",
+      "latestPatchTitle": "Shegolskoe or Ozernoe?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985983",
+      "latestPatchPublishedAt": "2026-11-26T15:31:48+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 11/25/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852982409",
-      "latestPatchPublishedAt": "2026-11-25T18:02:15+00:00",
+      "latestPatchTitle": "Competitive Integrity Update: Modified PlayStation 4 Consoles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852987287",
+      "latestPatchPublishedAt": "2026-11-26T21:37:42+00:00",
       "status": "ok"
     },
     {
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 5482350,
-      "steamDbUrl": "https://steamdb.info/app/5482350/",
-      "latestPatchTitle": "Patch Notes: Set guest strength yourself, three new match tracks",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110437716",
-      "latestPatchPublishedAt": "2026-11-22T05:53:25+00:00",
+      "appId": 4163030,
+      "steamDbUrl": "https://steamdb.info/app/4163030/",
+      "latestPatchTitle": "meow meoow NEW DLC - SAMURAI CATS!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695379",
+      "latestPatchPublishedAt": "2026-10-20T13:54:29+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Gray Zone Warfare станет динамичнее: Madfinger показала тактические улучшения обновления Breakthrough",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852984120",
-      "latestPatchPublishedAt": "2026-11-26T05:48:12+00:00",
+      "latestPatchTitle": "Nominate Gray Zone Warfare for the Labor of Love Award | Steam Awards 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986221",
+      "latestPatchPublishedAt": "2026-11-26T16:30:12+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bishop Shell Cinematic | Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110446825",
-      "latestPatchPublishedAt": "2026-11-24T16:15:53+00:00",
+      "latestPatchTitle": "Всего один удар: Разработчики Marathon выпустили трейлер «Бишопа»",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1850460852987230",
+      "latestPatchPublishedAt": "2026-11-26T18:44:00+00:00",
       "status": "ok"
     },
     {
@@ -324,18 +324,18 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/16~11/22)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980057",
-      "latestPatchPublishedAt": "2026-11-25T07:00:52+00:00",
+      "latestPatchTitle": "PGC 2026: Grand Finals Tickets on Sale!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986232",
+      "latestPatchPublishedAt": "2026-11-26T16:32:34+00:00",
       "status": "ok"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Please Nominate Palworld for the \"Just 5 More Minutes\" Award — Steam Awards 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442979",
-      "latestPatchPublishedAt": "2026-11-23T18:01:33+00:00",
+      "latestPatchTitle": "Palworld × Dune: Awakening Steam Bundle Is Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986596",
+      "latestPatchPublishedAt": "2026-11-26T18:00:37+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "PRINTED AND POLISHED",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342609",
-      "latestPatchPublishedAt": "2026-11-05T18:24:44+00:00",
+      "latestPatchTitle": "Facepunch отложила платную кастомизацию персонажей в Rust из-за опасений за единообразие внешности",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852986192",
+      "latestPatchPublishedAt": "2026-11-26T16:19:56+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "EXBO Stream anouncement!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852984915",
-      "latestPatchPublishedAt": "2026-11-26T10:33:33+00:00",
+      "latestPatchTitle": "Key X-Mas Tree Reward",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986734",
+      "latestPatchPublishedAt": "2026-11-26T18:24:22+00:00",
       "status": "ok"
     },
     {
