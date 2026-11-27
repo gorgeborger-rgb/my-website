@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-27T14:24:21.655973+00:00",
+  "generatedAt": "2026-11-27T22:49:15.260849+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,18 +81,18 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Bohemia Interactive Store Black Friday Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643347096",
-      "latestPatchPublishedAt": "2026-11-06T19:00:18+00:00",
+      "latestPatchTitle": "Black Friday Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989962",
+      "latestPatchPublishedAt": "2026-11-27T15:00:31+00:00",
       "status": "ok"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Bohemia Interactive Store Black Friday Sale - LAST CHANCE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989127",
-      "latestPatchPublishedAt": "2026-11-27T11:01:15+00:00",
+      "latestPatchTitle": "Black Friday Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989963",
+      "latestPatchPublishedAt": "2026-11-27T15:00:35+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Nominate Gray Zone Warfare for the Labor of Love Award | Steam Awards 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986221",
-      "latestPatchPublishedAt": "2026-11-26T16:30:12+00:00",
+      "latestPatchTitle": "Security Report: Ban Statistics (November 5 - November 27, 2026)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852990056",
+      "latestPatchPublishedAt": "2026-11-27T15:20:55+00:00",
       "status": "ok"
     },
     {
@@ -423,18 +423,18 @@
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "3.26.3.15 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144184520",
-      "latestPatchPublishedAt": "2026-11-12T20:35:44+00:00",
+      "latestPatchTitle": "3.26.3.16 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852990422",
+      "latestPatchPublishedAt": "2026-11-27T16:58:53+00:00",
       "status": "ok"
     },
     {
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Community Update No.14: Plans and Looking into 2027",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989350",
-      "latestPatchPublishedAt": "2026-11-27T12:07:36+00:00",
+      "latestPatchTitle": "Black Friday in War Thunder on Steam!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852990130",
+      "latestPatchPublishedAt": "2026-11-27T15:39:09+00:00",
       "status": "ok"
     }
   ]
