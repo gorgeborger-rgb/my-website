@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-27T04:44:17.495392+00:00",
+  "generatedAt": "2026-11-27T14:24:21.655973+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Shegolskoe or Ozernoe?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985983",
-      "latestPatchPublishedAt": "2026-11-26T15:31:48+00:00",
+      "latestPatchTitle": "Update 0.5.0.70",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989025",
+      "latestPatchPublishedAt": "2026-11-27T10:27:23+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Changelog: Dragonfire Patch 5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852984814",
-      "latestPatchPublishedAt": "2026-11-26T10:02:05+00:00",
+      "latestPatchTitle": "Black Friday Sale: 25% off Gold!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852988977",
+      "latestPatchPublishedAt": "2026-11-27T10:09:26+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Nominate Arena Breakout: Infinite for the Steam Awards 2026!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985590",
-      "latestPatchPublishedAt": "2026-11-26T13:55:24+00:00",
+      "latestPatchTitle": "Dev log: Solo queues, Duos, and that shield",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989589",
+      "latestPatchPublishedAt": "2026-11-27T13:14:05+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Nominate Arena Breakout: Infinite for the Steam Awards 2026!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985590",
-      "latestPatchPublishedAt": "2026-11-26T13:55:24+00:00",
+      "latestPatchTitle": "Dev log: Solo queues, Duos, and that shield",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989589",
+      "latestPatchPublishedAt": "2026-11-27T13:14:05+00:00",
       "status": "ok"
     },
     {
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "1.9.0.42 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985359",
-      "latestPatchPublishedAt": "2026-11-26T12:35:58+00:00",
+      "latestPatchTitle": "Bohemia Interactive Store Black Friday Sale - LAST CHANCE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989127",
+      "latestPatchPublishedAt": "2026-11-27T11:01:15+00:00",
       "status": "ok"
     },
     {
@@ -133,20 +133,20 @@
     },
     {
       "game": "Chess",
-      "appId": 4163030,
-      "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "meow meoow NEW DLC - SAMURAI CATS!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695379",
-      "latestPatchPublishedAt": "2026-10-20T13:54:29+00:00",
+      "appId": 5482350,
+      "steamDbUrl": "https://steamdb.info/app/5482350/",
+      "latestPatchTitle": "Patch Notes: Set guest strength yourself, three new match tracks",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110437716",
+      "latestPatchPublishedAt": "2026-11-22T05:53:25+00:00",
       "status": "ok"
     },
     {
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles объединит серверы на консолях 3 декабря перед запуском Enhanced",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110429637",
-      "latestPatchPublishedAt": "2026-11-19T19:13:02+00:00",
+      "latestPatchTitle": "Nominate Conan Exiles Enhanced for Labor of Love",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989787",
+      "latestPatchPublishedAt": "2026-11-27T14:07:08+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Madrinas x DayZ Limited Edition Collector's Box Now Available",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424350",
-      "latestPatchPublishedAt": "2026-11-18T14:01:51+00:00",
+      "latestPatchTitle": "DayZ Merch | Black Friday FINAL Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852988782",
+      "latestPatchPublishedAt": "2026-11-27T09:08:31+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Nominate Delta Force for the Labor of Love Award at the 2026 Steam Awards",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985514",
-      "latestPatchPublishedAt": "2026-11-26T13:35:48+00:00",
+      "latestPatchTitle": "В Delta Force добавили Нейкед Снейка из Metal Gear Solid Delta: Snake Eater",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1850460852989397",
+      "latestPatchPublishedAt": "2026-11-27T11:52:12+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Key X-Mas Tree Reward",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986734",
-      "latestPatchPublishedAt": "2026-11-26T18:24:22+00:00",
+      "latestPatchTitle": "Getting Ready for the Frost",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989523",
+      "latestPatchPublishedAt": "2026-11-27T13:00:00+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Testing Submarines in War Thunder!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852985021",
-      "latestPatchPublishedAt": "2026-11-26T11:06:01+00:00",
+      "latestPatchTitle": "Community Update No.14: Plans and Looking into 2027",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989350",
+      "latestPatchPublishedAt": "2026-11-27T12:07:36+00:00",
       "status": "ok"
     }
   ]
