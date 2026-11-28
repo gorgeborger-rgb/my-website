@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-27T22:49:15.260849+00:00",
+  "generatedAt": "2026-11-28T04:19:06.641566+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 533: A Matter of Scale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110434159",
-      "latestPatchPublishedAt": "2026-11-21T00:33:17+00:00",
+      "latestPatchTitle": "Community Crunch 534: Watt a Wonderful World",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852991832",
+      "latestPatchPublishedAt": "2026-11-28T01:00:57+00:00",
       "status": "ok"
     },
     {
