@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-28T04:19:06.641566+00:00",
+  "generatedAt": "2026-11-28T13:14:21.532664+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Getting Ready for the Frost",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852989523",
-      "latestPatchPublishedAt": "2026-11-27T13:00:00+00:00",
+      "latestPatchTitle": "Guaranteed X-Mas tree rewards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852993011",
+      "latestPatchPublishedAt": "2026-11-28T12:59:30+00:00",
       "status": "ok"
     },
     {
@@ -414,9 +414,9 @@
       "game": "The Isle Evrima",
       "appId": 376210,
       "steamDbUrl": "https://steamdb.info/app/376210/",
-      "latestPatchTitle": "Patch 0.22.159 is now available!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852983689",
-      "latestPatchPublishedAt": "2026-11-26T02:30:33+00:00",
+      "latestPatchTitle": "Patch 0.22.164 is now available!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852992396",
+      "latestPatchPublishedAt": "2026-11-28T06:46:18+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Black Friday in War Thunder on Steam!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852990130",
-      "latestPatchPublishedAt": "2026-11-27T15:39:09+00:00",
+      "latestPatchTitle": "Screenshot Competition – Art in Motion!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852992308",
+      "latestPatchPublishedAt": "2026-11-28T05:30:02+00:00",
       "status": "ok"
     }
   ]
